@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
       "state": "OREGON",
-      "updated": "2021-07-15 17:45:58",
+      "updated": "2021-07-15 18:15:07",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "227,234 Acres",
@@ -14,11 +14,76 @@
       "contained": "7"
     },
     {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-15 18:12:19",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,000 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "13"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-15 18:10:11",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "2,478 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "0"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-15 18:08:24",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "450 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "0"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-15 18:01:47",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "32,290 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "20"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The fire is located approximately 2 miles northwest of Blackbird...",
+      "state": "IDAHO",
+      "updated": "2021-07-15 17:51:25",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "6,641 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
       "name": "Granite Pass Complex",
       "type": "Wildfire",
       "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
       "state": "MONTANA",
-      "updated": "2021-07-15 17:43:45",
+      "updated": "2021-07-15 17:51:23",
       "lat": "46.652",
       "lng": "-114.591",
       "size": "1,134 Acres",
@@ -40,19 +105,6 @@
       "contained": "68"
     },
     {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-15 17:28:55",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,000 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "13"
-    },
-    {
       "name": "Darlene",
       "type": "Wildfire",
       "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
@@ -64,19 +116,6 @@
       "url": "/incident/7665/",
       "id": "7665",
       "contained": "1"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The fire is located approximately 2 miles northwest of Blackbird...",
-      "state": "IDAHO",
-      "updated": "2021-07-15 17:23:35",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "6,641 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
     },
     {
       "name": "Trail Creek Fire",
@@ -183,32 +222,6 @@
       "contained": "100"
     },
     {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-15 16:21:32",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "2,478 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "0"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-15 16:18:07",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "32,290 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "20"
-    },
-    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
@@ -233,19 +246,6 @@
       "url": "/incident/7571/",
       "id": "7571",
       "contained": "100"
-    },
-    {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-15 15:47:08",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "0 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "0"
     },
     {
       "name": "County Line",
