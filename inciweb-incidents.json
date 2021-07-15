@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Beckwourth Complex",
+      "type": "Wildfire",
+      "summary": "Daily Update | Beckwourth Complex Map | Operations...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-15 17:31:20",
+      "lat": "39.875",
+      "lng": "-120.368",
+      "size": "100,531 Acres",
+      "url": "/incident/7601/",
+      "id": "7601",
+      "contained": "68"
+    },
+    {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-15 17:28:55",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,000 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "13"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-15 17:28:10",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "227,234 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "7"
+    },
+    {
+      "name": "Darlene",
+      "type": "Wildfire",
+      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
+      "state": "OREGON",
+      "updated": "2021-07-15 17:25:43",
+      "lat": "43.646",
+      "lng": "-121.474",
+      "size": "686 Acres",
+      "url": "/incident/7665/",
+      "id": "7665",
+      "contained": "1"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The fire is located approximately 2 miles northwest of Blackbird...",
+      "state": "IDAHO",
+      "updated": "2021-07-15 17:23:35",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "6,641 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-15 17:22:26",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "9,544 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
       "state": "WASHINGTON",
-      "updated": "2021-07-15 17:11:46",
+      "updated": "2021-07-15 17:20:09",
       "lat": "48.595",
       "lng": "-120.537",
       "size": "2,899 Acres",
@@ -40,32 +118,6 @@
       "contained": "80"
     },
     {
-      "name": "Darlene",
-      "type": "Wildfire",
-      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
-      "state": "OREGON",
-      "updated": "2021-07-15 17:05:01",
-      "lat": "43.646",
-      "lng": "-121.474",
-      "size": "686 Acres",
-      "url": "/incident/7665/",
-      "id": "7665",
-      "contained": "1"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-15 17:04:33",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "227,234 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "7"
-    },
-    {
       "name": "Backbone Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -76,19 +128,6 @@
       "size": "0 Acres",
       "url": "/incident/7602/",
       "id": "7602",
-      "contained": "0"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-15 16:59:39",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "9,544 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
       "contained": "0"
     },
     {
@@ -404,19 +443,6 @@
       "contained": "20"
     },
     {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-15 13:08:13",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,000 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "13"
-    },
-    {
       "name": "Lyle Hill",
       "type": "Wildfire",
       "summary": "The Lyle Hill fire started just NE of Lyle, WA on July 12, 2021....",
@@ -454,19 +480,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "0"
-    },
-    {
-      "name": "Beckwourth Complex",
-      "type": "Wildfire",
-      "summary": "Daily Update | Beckwourth Complex Map | Operations...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-15 12:44:11",
-      "lat": "39.875",
-      "lng": "-120.368",
-      "size": "100,531 Acres",
-      "url": "/incident/7601/",
-      "id": "7601",
-      "contained": "68"
     },
     {
       "name": "Spring Prescribed Fire Projects 2021",
@@ -597,19 +610,6 @@
       "url": "/incident/7651/",
       "id": "7651",
       "contained": "14"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The fire is located approximately 2 miles northwest of Blackbird...",
-      "state": "IDAHO",
-      "updated": "2021-07-15 11:07:03",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "6,641 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
     },
     {
       "name": "Salt Fire",
