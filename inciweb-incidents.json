@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The fire is located approximately 2 miles northwest of Blackbird...",
+      "state": "IDAHO",
+      "updated": "2021-07-16 09:45:05",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "7,904 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-16 09:44:39",
+      "lat": "47.133",
+      "lng": "-114.643",
+      "size": "1,845 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "1"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-16 09:43:13",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "3,463 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "0"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-16 09:43:07",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "34,280 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "20"
+    },
+    {
       "name": "MY Complex",
       "type": "Wildfire",
       "summary": "The MY Complex consists of three wildland fires reported on July 8,...",
       "state": "MONTANA",
-      "updated": "2021-07-16 09:26:51",
+      "updated": "2021-07-16 09:43:01",
       "lat": "46.254",
       "lng": "-107.638",
       "size": "27,811 Acres",
@@ -14,17 +66,95 @@
       "contained": "0"
     },
     {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-16 09:41:57",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "64,792 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "30"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
+      "state": "IDAHO",
+      "updated": "2021-07-16 09:41:26",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "298 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "5"
+    },
+    {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
+      "state": "IDAHO",
+      "updated": "2021-07-16 09:40:34",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "3,660 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "15"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-16 09:40:30",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "227,234 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "7"
+    },
+    {
+      "name": "Half Moon",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-16 09:39:01",
+      "lat": "37.893",
+      "lng": "-119.552",
+      "size": "0 Acres",
+      "url": "/incident/7670/",
+      "id": "7670",
+      "contained": "0"
+    },
+    {
       "name": "Snake River Complex",
       "type": "Wildfire",
       "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
       "state": "IDAHO",
-      "updated": "2021-07-16 09:25:23",
+      "updated": "2021-07-16 09:38:46",
       "lat": "46.012",
       "lng": "-116.911",
       "size": "102,866 Acres",
       "url": "/incident/7636/",
       "id": "7636",
       "contained": "12"
+    },
+    {
+      "name": "Fritzer Fire",
+      "type": "Wildfire",
+      "summary": "Continue monitoring for spot fires, rollout, and rekindle using...",
+      "state": "IDAHO",
+      "updated": "2021-07-16 09:38:41",
+      "lat": "45.202",
+      "lng": "-114.321",
+      "size": "139 Acres",
+      "url": "/incident/7577/",
+      "id": "7577",
+      "contained": "80"
     },
     {
       "name": "Muddy Slide Fire",
@@ -40,19 +170,6 @@
       "contained": "58"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-16 09:22:45",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "227,235 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "7"
-    },
-    {
       "name": "Stubblefiled",
       "type": "Wildfire",
       "summary": "There are multiple fires burning in Yosemite National Park...",
@@ -64,19 +181,6 @@
       "url": "/incident/7669/",
       "id": "7669",
       "contained": "0"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-16 09:18:18",
-      "lat": "47.133",
-      "lng": "-114.643",
-      "size": "1,845 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "1"
     },
     {
       "name": "Green Ridge Fire",
@@ -92,19 +196,6 @@
       "contained": "15"
     },
     {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The fire is located approximately 2 miles northwest of Blackbird...",
-      "state": "IDAHO",
-      "updated": "2021-07-16 09:05:01",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "7,904 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
-    },
-    {
       "name": "Lukens",
       "type": "Wildfire",
       "summary": "There are multiple fires burning in Yosemite National Park...",
@@ -116,19 +207,6 @@
       "url": "/incident/7614/",
       "id": "7614",
       "contained": "0"
-    },
-    {
-      "name": "Fritzer Fire",
-      "type": "Wildfire",
-      "summary": "Continue monitoring for spot fires, rollout, and rekindle using...",
-      "state": "IDAHO",
-      "updated": "2021-07-16 09:02:39",
-      "lat": "45.202",
-      "lng": "-114.321",
-      "size": "139 Acres",
-      "url": "/incident/7577/",
-      "id": "7577",
-      "contained": "80"
     },
     {
       "name": "Morgan Creek Fire",
@@ -155,19 +233,6 @@
       "url": "/incident/7659/",
       "id": "7659",
       "contained": "90"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-16 07:43:39",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "64,792 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "30"
     },
     {
       "name": "Cedar Creek",
@@ -248,19 +313,6 @@
       "contained": "13"
     },
     {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-15 22:53:01",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "34,280 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "20"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
@@ -274,19 +326,6 @@
       "contained": "25"
     },
     {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
-      "state": "IDAHO",
-      "updated": "2021-07-15 22:23:41",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "3,360 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "15"
-    },
-    {
       "name": "O'Connell Fire",
       "type": "Wildfire",
       "summary": "The fire was first reported on Monday morning at 6 am that was...",
@@ -297,19 +336,6 @@
       "size": "180 Acres",
       "url": "/incident/7661/",
       "id": "7661",
-      "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-15 22:04:20",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "2,478 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
       "contained": "0"
     },
     {
@@ -584,19 +610,6 @@
       "url": "/incident/7623/",
       "id": "7623",
       "contained": "100"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
-      "state": "IDAHO",
-      "updated": "2021-07-15 15:28:27",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "256 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "5"
     },
     {
       "name": "Henry Fire",
