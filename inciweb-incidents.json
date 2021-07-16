@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "O'Connell Fire",
+      "type": "Wildfire",
+      "summary": "The fire was first reported on Monday morning at 6 am that was...",
+      "state": "ARIZONA",
+      "updated": "2021-07-15 22:16:53",
+      "lat": "36.003",
+      "lng": "-112.204",
+      "size": "180 Acres",
+      "url": "/incident/7661/",
+      "id": "7661",
+      "contained": "0"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-15 22:04:20",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "2,478 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "0"
+    },
+    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The fire is located approximately 2 miles northwest of Blackbird...",
       "state": "IDAHO",
-      "updated": "2021-07-15 21:41:04",
+      "updated": "2021-07-15 21:55:11",
       "lat": "45.183",
       "lng": "-114.421",
       "size": "6,641 Acres",
@@ -181,19 +207,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "68"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-15 19:26:41",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "2,478 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "0"
     },
     {
       "name": "Trail Creek Fire",
@@ -493,19 +506,6 @@
       "url": "/incident/7642/",
       "id": "7642",
       "contained": "100"
-    },
-    {
-      "name": "O'Connell Fire",
-      "type": "Wildfire",
-      "summary": "The fire was first reported on Monday morning at 6 am that was...",
-      "state": "ARIZONA",
-      "updated": "2021-07-15 14:13:31",
-      "lat": "36.003",
-      "lng": "-112.204",
-      "size": "109 Acres",
-      "url": "/incident/7661/",
-      "id": "7661",
-      "contained": "0"
     },
     {
       "name": "Red Apple",
