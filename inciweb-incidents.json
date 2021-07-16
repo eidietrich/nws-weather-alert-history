@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-16 13:41:05",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,362 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "15"
-    },
-    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
       "state": "OREGON",
-      "updated": "2021-07-16 13:36:34",
+      "updated": "2021-07-16 13:51:59",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "241,497 Acres",
@@ -27,11 +14,50 @@
       "contained": "7"
     },
     {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-16 13:51:44",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "64,792 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "30"
+    },
+    {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-16 13:50:57",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,362 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "15"
+    },
+    {
+      "name": "Darlene",
+      "type": "Wildfire",
+      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
+      "state": "OREGON",
+      "updated": "2021-07-16 13:48:45",
+      "lat": "43.646",
+      "lng": "-121.474",
+      "size": "686 Acres",
+      "url": "/incident/7665/",
+      "id": "7665",
+      "contained": "5"
+    },
+    {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
       "type": "Wildfire",
       "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
       "state": "NEVADA",
-      "updated": "2021-07-16 13:35:46",
+      "updated": "2021-07-16 13:48:22",
       "lat": "39.524",
       "lng": "-119.719",
       "size": "1 Acres",
@@ -44,7 +70,7 @@
       "type": "Wildfire",
       "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
       "state": "MONTANA",
-      "updated": "2021-07-16 13:31:54",
+      "updated": "2021-07-16 13:46:14",
       "lat": "46.652",
       "lng": "-114.591",
       "size": "1,134 Acres",
@@ -142,19 +168,6 @@
       "url": "/incident/7639/",
       "id": "7639",
       "contained": "21"
-    },
-    {
-      "name": "Darlene",
-      "type": "Wildfire",
-      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
-      "state": "OREGON",
-      "updated": "2021-07-16 13:06:55",
-      "lat": "43.646",
-      "lng": "-121.474",
-      "size": "686 Acres",
-      "url": "/incident/7665/",
-      "id": "7665",
-      "contained": "5"
     },
     {
       "name": "Cedar Creek",
@@ -272,19 +285,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "1"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-16 12:01:40",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "64,792 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "30"
     },
     {
       "name": "Anderson Hill Fire",
@@ -1650,19 +1650,6 @@
       "url": "/incident/7517/",
       "id": "7517",
       "contained": "95"
-    },
-    {
-      "name": "Jacks Valley",
-      "type": "Wildfire",
-      "summary": "The Jacks Valley fire started south of Jacks Valley Road in Carson...",
-      "state": "NEVADA",
-      "updated": "2021-06-10 18:59:14",
-      "lat": "39.092",
-      "lng": "-119.814",
-      "size": "285 Acres",
-      "url": "/incident/7519/",
-      "id": "7519",
-      "contained": "100"
     },
     {
       "name": "Wolf Draw",
