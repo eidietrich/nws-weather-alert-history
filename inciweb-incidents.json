@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "MY Complex",
+      "type": "Wildfire",
+      "summary": "The MY Complex consists of three wildland fires reported on July 8,...",
+      "state": "MONTANA",
+      "updated": "2021-07-16 09:26:51",
+      "lat": "46.254",
+      "lng": "-107.638",
+      "size": "27,811 Acres",
+      "url": "/incident/7645/",
+      "id": "7645",
+      "contained": "0"
+    },
+    {
       "name": "Snake River Complex",
       "type": "Wildfire",
       "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
       "state": "IDAHO",
-      "updated": "2021-07-16 09:15:19",
+      "updated": "2021-07-16 09:25:23",
       "lat": "46.012",
       "lng": "-116.911",
       "size": "102,866 Acres",
@@ -14,17 +27,56 @@
       "contained": "12"
     },
     {
+      "name": "Muddy Slide Fire",
+      "type": "Wildfire",
+      "summary": "The Muddy Slide Fire started June 20, 2021. The cause is...",
+      "state": "COLORADO",
+      "updated": "2021-07-16 09:23:52",
+      "lat": "40.143",
+      "lng": "-106.798",
+      "size": "4,093 Acres",
+      "url": "/incident/7566/",
+      "id": "7566",
+      "contained": "58"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
       "state": "OREGON",
-      "updated": "2021-07-16 09:15:04",
+      "updated": "2021-07-16 09:22:45",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "227,235 Acres",
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "7"
+    },
+    {
+      "name": "Stubblefiled",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-16 09:19:18",
+      "lat": "38.051",
+      "lng": "-119.584",
+      "size": "2 Acres",
+      "url": "/incident/7669/",
+      "id": "7669",
+      "contained": "0"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-16 09:18:18",
+      "lat": "47.133",
+      "lng": "-114.643",
+      "size": "1,845 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "1"
     },
     {
       "name": "Green Ridge Fire",
@@ -38,32 +90,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "15"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-16 09:12:25",
-      "lat": "47.133",
-      "lng": "-114.643",
-      "size": "1,845 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "1"
-    },
-    {
-      "name": "Stubblefiled",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-16 09:11:48",
-      "lat": "38.059",
-      "lng": "-119.59",
-      "size": "2 Acres",
-      "url": "/incident/7669/",
-      "id": "7669",
-      "contained": "0"
     },
     {
       "name": "Mud Lick Fire",
@@ -116,32 +142,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "0"
-    },
-    {
-      "name": "MY Complex",
-      "type": "Wildfire",
-      "summary": "The MY Complex consists of three wildland fires reported on July 8,...",
-      "state": "MONTANA",
-      "updated": "2021-07-16 08:51:15",
-      "lat": "46.254",
-      "lng": "-107.638",
-      "size": "27,811 Acres",
-      "url": "/incident/7645/",
-      "id": "7645",
-      "contained": "0"
-    },
-    {
-      "name": "Muddy Slide Fire",
-      "type": "Wildfire",
-      "summary": "The Muddy Slide Fire started June 20, 2021. The cause is...",
-      "state": "COLORADO",
-      "updated": "2021-07-16 08:44:13",
-      "lat": "40.143",
-      "lng": "-106.798",
-      "size": "4,093 Acres",
-      "url": "/incident/7566/",
-      "id": "7566",
-      "contained": "58"
     },
     {
       "name": "Too Kush 2",
