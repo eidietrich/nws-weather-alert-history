@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-16 23:43:01",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "3,404 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-16 23:41:39",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "241,496 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "22"
+    },
+    {
+      "name": "Red Apple",
+      "type": "Wildfire",
+      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-16 23:38:36",
+      "lat": "47.508",
+      "lng": "-120.426",
+      "size": "11,111 Acres",
+      "url": "/incident/7667/",
+      "id": "7667",
+      "contained": "51"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
+      "state": "IDAHO",
+      "updated": "2021-07-16 23:37:56",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "102,866 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "31"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
+      "state": "IDAHO",
+      "updated": "2021-07-16 23:30:30",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "3,315 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "0"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-16 23:27:08",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "66,601 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "30"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": " The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-16 23:24:04",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "2,000 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "0"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
       "state": "OREGON",
-      "updated": "2021-07-16 23:21:18",
+      "updated": "2021-07-16 23:21:54",
       "lat": "43.322",
       "lng": "-122.686",
       "size": "16,667 Acres",
@@ -79,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Cub Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-16 23:01:13",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "2,000 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "0"
-    },
-    {
       "name": "Dexter Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
@@ -144,19 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
-      "state": "IDAHO",
-      "updated": "2021-07-16 22:49:12",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "102,866 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "31"
-    },
-    {
       "name": "Chuweah Creek",
       "type": "Wildfire",
       "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
@@ -168,19 +233,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "25"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-16 22:42:36",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "3,404 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "0"
     },
     {
       "name": "Beckwourth Complex",
@@ -259,19 +311,6 @@
       "url": "/incident/7618/",
       "id": "7618",
       "contained": "10"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
-      "state": "IDAHO",
-      "updated": "2021-07-16 21:29:09",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "3,315 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "0"
     },
     {
       "name": "Trail Creek Fire",
@@ -363,19 +402,6 @@
       "url": "/incident/7662/",
       "id": "7662",
       "contained": "90"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-16 20:25:37",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "241,496 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "7"
     },
     {
       "name": "Delta Lake Fire ",
@@ -480,19 +506,6 @@
       "url": "/incident/7614/",
       "id": "7614",
       "contained": "50"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-16 19:08:01",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "64,792 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "30"
     },
     {
       "name": "St. Joe July Lightning Fires",
@@ -896,19 +909,6 @@
       "url": "/incident/7642/",
       "id": "7642",
       "contained": "100"
-    },
-    {
-      "name": "Red Apple",
-      "type": "Wildfire",
-      "summary": "The Red Apple Fire was first reported to RIVERCOM at 7:55 p.m. on...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-15 13:44:03",
-      "lat": "47.508",
-      "lng": "-120.426",
-      "size": "11,000 Acres",
-      "url": "/incident/7667/",
-      "id": "7667",
-      "contained": "10"
     },
     {
       "name": "Lost Fire",
