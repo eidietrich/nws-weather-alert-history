@@ -1,24 +1,63 @@
 {
   "markers": [
     {
-      "name": "Bootleg Fire",
+      "name": "County Line",
       "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-17 17:44:48",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "281,208 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "22"
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-17 18:14:37",
+      "lat": "37.835",
+      "lng": "-119.619",
+      "size": "170 Acres",
+      "url": "/incident/7613/",
+      "id": "7613",
+      "contained": "70"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-17 18:13:08",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "450 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "50"
+    },
+    {
+      "name": "St. Joe July Lightning Fires",
+      "type": "Wildfire",
+      "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
+      "state": "IDAHO",
+      "updated": "2021-07-17 18:08:31",
+      "lat": "47.17",
+      "lng": "-115.442",
+      "size": "1,420 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "0"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The 6,600 acre Tamarack Fire burned actively through the night and...",
+      "state": "NEVADA",
+      "updated": "2021-07-17 18:07:45",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "6,600 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
     },
     {
       "name": "Porcupine",
       "type": "Wildfire",
       "summary": "There are multiple fires burning in Yosemite National Park...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-17 17:43:58",
+      "updated": "2021-07-17 18:07:35",
       "lat": "37.825",
       "lng": "-119.552",
       "size": "4 Acres",
@@ -27,11 +66,89 @@
       "contained": "0"
     },
     {
+      "name": "Half Moon",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-17 18:06:23",
+      "lat": "37.893",
+      "lng": "-119.552",
+      "size": "1 Acres",
+      "url": "/incident/7670/",
+      "id": "7670",
+      "contained": "0"
+    },
+    {
+      "name": "Stubblefiled",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-17 18:05:48",
+      "lat": "38.051",
+      "lng": "-119.584",
+      "size": "2 Acres",
+      "url": "/incident/7669/",
+      "id": "7669",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-17 18:05:28",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "281,208 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "22"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-17 18:00:44",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "1,528 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "0"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
+      "state": "OREGON",
+      "updated": "2021-07-17 18:00:32",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "16,667 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "35"
+    },
+    {
+      "name": "Dixie-Jumbo Fires",
+      "type": "Wildfire",
+      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
+      "state": "IDAHO",
+      "updated": "2021-07-17 17:57:25",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "25,211 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "5"
+    },
+    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
       "state": "MONTANA",
-      "updated": "2021-07-17 17:42:03",
+      "updated": "2021-07-17 17:51:34",
       "lat": "46.993",
       "lng": "-110.933",
       "size": "1,682 Acres",
@@ -51,19 +168,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "0"
-    },
-    {
-      "name": "Dixie-Jumbo Fires",
-      "type": "Wildfire",
-      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
-      "state": "IDAHO",
-      "updated": "2021-07-17 17:41:06",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "25,211 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "5"
     },
     {
       "name": "Cougar Rock Complex",
@@ -105,19 +209,6 @@
       "contained": "0"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-17 17:26:44",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "16,667 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "35"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The fire is located approximately two miles northwest of Blackbird...",
@@ -128,19 +219,6 @@
       "size": "8,220 Acres",
       "url": "/incident/7638/",
       "id": "7638",
-      "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-17 17:21:13",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "1,528 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
       "contained": "0"
     },
     {
@@ -170,19 +248,6 @@
       "contained": "31"
     },
     {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The 6,600 acre Tamarack Fire burned actively through the night and...",
-      "state": "NEVADA",
-      "updated": "2021-07-17 16:27:13",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "6,600 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "0"
-    },
-    {
       "name": "Anderson Hill Fire",
       "type": "Wildfire",
       "summary": "This fire originated in Granite County one mile southeast of Garnet...",
@@ -209,19 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-17 16:03:05",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "450 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "50"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12. The fire...",
@@ -246,19 +298,6 @@
       "url": "/incident/7639/",
       "id": "7639",
       "contained": "21"
-    },
-    {
-      "name": "County Line",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-17 15:50:26",
-      "lat": "37.835",
-      "lng": "-119.619",
-      "size": "170 Acres",
-      "url": "/incident/7613/",
-      "id": "7613",
-      "contained": "70"
     },
     {
       "name": "Morgan Creek Fire",
@@ -350,19 +389,6 @@
       "url": "/incident/7668/",
       "id": "7668",
       "contained": "90"
-    },
-    {
-      "name": "St. Joe July Lightning Fires",
-      "type": "Wildfire",
-      "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
-      "state": "IDAHO",
-      "updated": "2021-07-17 13:46:40",
-      "lat": "47.17",
-      "lng": "-115.442",
-      "size": "1,420 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "0"
     },
     {
       "name": "Chuweah Creek",
@@ -831,32 +857,6 @@
       "url": "/incident/7584/",
       "id": "7584",
       "contained": "100"
-    },
-    {
-      "name": "Half Moon",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-16 09:39:01",
-      "lat": "37.893",
-      "lng": "-119.552",
-      "size": "0 Acres",
-      "url": "/incident/7670/",
-      "id": "7670",
-      "contained": "0"
-    },
-    {
-      "name": "Stubblefiled",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-16 09:19:18",
-      "lat": "38.051",
-      "lng": "-119.584",
-      "size": "2 Acres",
-      "url": "/incident/7669/",
-      "id": "7669",
-      "contained": "0"
     },
     {
       "name": "Middle Fire",
