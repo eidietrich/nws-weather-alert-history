@@ -1,30 +1,160 @@
 {
   "markers": [
     {
-      "name": "Snake River Complex",
+      "name": "Jack Fire",
       "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
+      "state": "OREGON",
+      "updated": "2021-07-16 23:21:18",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "16,667 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "35"
+    },
+    {
+      "name": "Anderson Hill Fire",
+      "type": "Wildfire",
+      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
+      "state": "MONTANA",
+      "updated": "2021-07-16 23:17:07",
+      "lat": "46.818",
+      "lng": "-113.334",
+      "size": "1,000 Acres",
+      "url": "/incident/7671/",
+      "id": "7671",
+      "contained": "0"
+    },
+    {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
       "state": "IDAHO",
-      "updated": "2021-07-16 22:47:10",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "102,866 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
+      "updated": "2021-07-16 23:16:45",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "3,835 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "15"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
+      "state": "IDAHO",
+      "updated": "2021-07-16 23:12:07",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "286 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
       "contained": "31"
+    },
+    {
+      "name": "Darlene",
+      "type": "Wildfire",
+      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
+      "state": "OREGON",
+      "updated": "2021-07-16 23:07:25",
+      "lat": "43.646",
+      "lng": "-121.474",
+      "size": "686 Acres",
+      "url": "/incident/7665/",
+      "id": "7665",
+      "contained": "35"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack fire is estimated to be 500 acres burning near the town...",
+      "state": "NEVADA",
+      "updated": "2021-07-16 23:01:59",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "500 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-16 23:01:13",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "2,000 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "0"
     },
     {
       "name": "Dexter Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
       "state": "CALIFORNIA",
-      "updated": "2021-07-16 22:46:49",
+      "updated": "2021-07-16 23:01:05",
       "lat": "37.802",
       "lng": "-118.874",
       "size": "2,362 Acres",
       "url": "/incident/7656/",
       "id": "7656",
       "contained": "15"
+    },
+    {
+      "name": "Grandview",
+      "type": "Wildfire",
+      "summary": "The Grandview Fire was reported at 1:30 p.m., Sunday, July 11th,...",
+      "state": "OREGON",
+      "updated": "2021-07-16 23:01:05",
+      "lat": "44.466",
+      "lng": "-121.4",
+      "size": "6,013 Acres",
+      "url": "/incident/7651/",
+      "id": "7651",
+      "contained": "31"
+    },
+    {
+      "name": "MY Complex",
+      "type": "Wildfire",
+      "summary": "The MY Complex consists of three wildland fires reported on July 8,...",
+      "state": "MONTANA",
+      "updated": "2021-07-16 23:00:52",
+      "lat": "46.254",
+      "lng": "-107.638",
+      "size": "27,811 Acres",
+      "url": "/incident/7645/",
+      "id": "7645",
+      "contained": "93"
+    },
+    {
+      "name": "2021 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2021-07-16 23:00:50",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/7304/",
+      "id": "7304",
+      "contained": "0"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
+      "state": "IDAHO",
+      "updated": "2021-07-16 22:49:12",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "102,866 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "31"
     },
     {
       "name": "Chuweah Creek",
@@ -50,19 +180,6 @@
       "size": "3,404 Acres",
       "url": "/incident/7655/",
       "id": "7655",
-      "contained": "0"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack fire is estimated to be 500 acres burning near the town...",
-      "state": "NEVADA",
-      "updated": "2021-07-16 22:38:55",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "0 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
       "contained": "0"
     },
     {
@@ -391,19 +508,6 @@
       "contained": "0"
     },
     {
-      "name": "Darlene",
-      "type": "Wildfire",
-      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
-      "state": "OREGON",
-      "updated": "2021-07-16 18:51:19",
-      "lat": "43.646",
-      "lng": "-121.474",
-      "size": "686 Acres",
-      "url": "/incident/7665/",
-      "id": "7665",
-      "contained": "5"
-    },
-    {
       "name": "Pinnacle Fire",
       "type": "Wildfire",
       "summary": "Pinnacle Fire 100% contained at 3PM July 16,",
@@ -417,19 +521,6 @@
       "contained": "100"
     },
     {
-      "name": "Grandview",
-      "type": "Wildfire",
-      "summary": "The Grandview Fire was reported at 1:30 p.m., Sunday, July 11th,...",
-      "state": "OREGON",
-      "updated": "2021-07-16 18:21:56",
-      "lat": "44.466",
-      "lng": "-121.4",
-      "size": "5,971 Acres",
-      "url": "/incident/7651/",
-      "id": "7651",
-      "contained": "20"
-    },
-    {
       "name": "Sylvan Fire",
       "type": "Wildfire",
       "summary": "People visiting Sylvan Lake State Park and other open areas near the...",
@@ -441,19 +532,6 @@
       "url": "/incident/7562/",
       "id": "7562",
       "contained": "68"
-    },
-    {
-      "name": "MY Complex",
-      "type": "Wildfire",
-      "summary": "The MY Complex consists of three wildland fires reported on July 8,...",
-      "state": "MONTANA",
-      "updated": "2021-07-16 17:55:42",
-      "lat": "46.254",
-      "lng": "-107.638",
-      "size": "27,811 Acres",
-      "url": "/incident/7645/",
-      "id": "7645",
-      "contained": "0"
     },
     {
       "name": "Glacier Fire",
@@ -534,19 +612,6 @@
       "contained": "85"
     },
     {
-      "name": "2021 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2021-07-16 13:48:22",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/7304/",
-      "id": "7304",
-      "contained": "0"
-    },
-    {
       "name": "Fritzer Fire",
       "type": "Wildfire",
       "summary": "Continue monitoring for spot fires, rollout, and rekindle using...",
@@ -599,19 +664,6 @@
       "contained": "90"
     },
     {
-      "name": "Anderson Hill Fire",
-      "type": "Wildfire",
-      "summary": " This is an emerging incident that the Montana Department of Natural...",
-      "state": "MONTANA",
-      "updated": "2021-07-16 11:56:54",
-      "lat": "46.818",
-      "lng": "-113.334",
-      "size": "600 Acres",
-      "url": "/incident/7671/",
-      "id": "7671",
-      "contained": "0"
-    },
-    {
       "name": "Brewster Fire",
       "type": "Wildfire",
       "summary": "&amp;#183;Last update will be July 16, 2021 unless increased fire...",
@@ -638,19 +690,6 @@
       "contained": "100"
     },
     {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
-      "state": "IDAHO",
-      "updated": "2021-07-16 11:36:23",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "3,660 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "15"
-    },
-    {
       "name": "Bruler Fire",
       "type": "Wildfire",
       "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
@@ -662,32 +701,6 @@
       "url": "/incident/7663/",
       "id": "7663",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-16 11:09:16",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "15,248 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "25"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
-      "state": "IDAHO",
-      "updated": "2021-07-16 10:47:26",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "298 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "5"
     },
     {
       "name": "Robertson Draw",
