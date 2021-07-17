@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-17 16:03:05",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "450 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "50"
+    },
+    {
       "name": "Porcupine",
       "type": "Wildfire",
       "summary": "There are multiple fires burning in Yosemite National Park...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-17 15:44:59",
+      "updated": "2021-07-17 15:56:14",
       "lat": "37.825",
       "lng": "-119.552",
       "size": "0 Acres",
       "url": "/incident/7678/",
       "id": "7678",
       "contained": "0"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12. The fire...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-17 15:54:18",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "1,457 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "0"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
+      "state": "OREGON",
+      "updated": "2021-07-17 15:53:54",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "16,667 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "35"
+    },
+    {
+      "name": "Henry Fire",
+      "type": "Wildfire",
+      "summary": "On June 24, 2021, a lightning storm ignited a fire in the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-17 15:51:37",
+      "lat": "38.465",
+      "lng": "-119.863",
+      "size": "1,075 Acres",
+      "url": "/incident/7639/",
+      "id": "7639",
+      "contained": "21"
+    },
+    {
+      "name": "County Line",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-17 15:50:26",
+      "lat": "37.835",
+      "lng": "-119.619",
+      "size": "170 Acres",
+      "url": "/incident/7613/",
+      "id": "7613",
+      "contained": "70"
     },
     {
       "name": "Anderson Hill Fire",
@@ -37,19 +102,6 @@
       "size": "3,315 Acres",
       "url": "/incident/7654/",
       "id": "7654",
-      "contained": "0"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12. The fire...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-17 15:32:33",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "1,457 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
       "contained": "0"
     },
     {
@@ -274,19 +326,6 @@
       "contained": "30"
     },
     {
-      "name": "Henry Fire",
-      "type": "Wildfire",
-      "summary": "On June 24, 2021, a lightning storm ignited a fire in the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-17 13:27:03",
-      "lat": "38.465",
-      "lng": "-119.863",
-      "size": "1,075 Acres",
-      "url": "/incident/7639/",
-      "id": "7639",
-      "contained": "21"
-    },
-    {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
@@ -495,32 +534,6 @@
       "contained": "31"
     },
     {
-      "name": "County Line",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-17 09:59:22",
-      "lat": "37.835",
-      "lng": "-119.619",
-      "size": "170 Acres",
-      "url": "/incident/7613/",
-      "id": "7613",
-      "contained": "70"
-    },
-    {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-17 09:58:48",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "450 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "50"
-    },
-    {
       "name": "East Fork",
       "type": "Wildfire",
       "summary": "All established containment lines around the East Fork Fire are...",
@@ -610,19 +623,6 @@
       "url": "/incident/7645/",
       "id": "7645",
       "contained": "93"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-16 23:21:54",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "16,667 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "35"
     },
     {
       "name": "Grandview",
