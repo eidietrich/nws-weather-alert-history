@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "Near Markleeville and Pleasant Valley.  Estimated to be 500. Smoke...",
+      "state": "NEVADA",
+      "updated": "2021-07-16 20:49:13",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "0 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-16 20:45:34",
+      "lat": "47.133",
+      "lng": "-114.643",
+      "size": "1,845 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "8"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-16 20:38:34",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "3,463 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "0"
+    },
+    {
+      "name": "Lyle Hill",
+      "type": "Wildfire",
+      "summary": " The Lyle Hill fire started just NE of Lyle, WA on July 12, 2021....",
+      "state": "WASHINGTON",
+      "updated": "2021-07-16 20:33:30",
+      "lat": "45.698",
+      "lng": "-121.271",
+      "size": "135 Acres",
+      "url": "/incident/7662/",
+      "id": "7662",
+      "contained": "90"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-16 20:25:37",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "241,496 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "7"
+    },
+    {
+      "name": "Delta Lake Fire ",
+      "type": "Wildfire",
+      "summary": "SUMMARY: The Delta Lake Fire continues to be the primary active fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-07-16 20:20:51",
+      "lat": "47.93",
+      "lng": "-91.74",
+      "size": "65 Acres",
+      "url": "/incident/7643/",
+      "id": "7643",
+      "contained": "10"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-16 19:55:46",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "4,388 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "0"
+    },
+    {
+      "name": "Goose Fire",
+      "type": "Wildfire",
+      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
+      "state": "MONTANA",
+      "updated": "2021-07-16 19:54:39",
+      "lat": "44.733",
+      "lng": "-111.6",
+      "size": "4,916 Acres",
+      "url": "/incident/7618/",
+      "id": "7618",
+      "contained": "10"
+    },
+    {
       "name": "Park Lake Fire",
       "type": "Wildfire",
       "summary": " A 3-5 acre fire is burning on the east side of Park Lake on the...",
@@ -11,45 +115,6 @@
       "size": "3 Acres",
       "url": "/incident/7673/",
       "id": "7673",
-      "contained": "0"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-16 19:51:51",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "241,496 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "7"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-16 19:39:25",
-      "lat": "47.133",
-      "lng": "-114.643",
-      "size": "1,845 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "8"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": " Near Markleeville and Pleasant Valley.  Estimated to be...",
-      "state": "NEVADA",
-      "updated": "2021-07-16 19:38:02",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "0 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
       "contained": "0"
     },
     {
@@ -170,19 +235,6 @@
       "contained": "5"
     },
     {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-16 18:37:44",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "3,463 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "0"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The fire is located approximately 2 miles northwest of Blackbird...",
@@ -220,19 +272,6 @@
       "url": "/incident/7651/",
       "id": "7651",
       "contained": "20"
-    },
-    {
-      "name": "Delta Lake Fire ",
-      "type": "Wildfire",
-      "summary": "SUMMARY: The Delta Lake Fire continues to be the primary active fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-07-16 18:20:50",
-      "lat": "47.93",
-      "lng": "-91.74",
-      "size": "65 Acres",
-      "url": "/incident/7643/",
-      "id": "7643",
-      "contained": "5"
     },
     {
       "name": "Sylvan Fire",
@@ -651,32 +690,6 @@
       "contained": "85"
     },
     {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-16 10:35:23",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "4,333 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "0"
-    },
-    {
-      "name": "Goose Fire",
-      "type": "Wildfire",
-      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
-      "state": "MONTANA",
-      "updated": "2021-07-16 09:51:21",
-      "lat": "44.733",
-      "lng": "-111.6",
-      "size": "4,916 Acres",
-      "url": "/incident/7618/",
-      "id": "7618",
-      "contained": "10"
-    },
-    {
       "name": "Half Moon",
       "type": "Wildfire",
       "summary": "There are multiple fires burning in Yosemite National Park...",
@@ -883,19 +896,6 @@
       "url": "/incident/7667/",
       "id": "7667",
       "contained": "10"
-    },
-    {
-      "name": "Lyle Hill",
-      "type": "Wildfire",
-      "summary": "The Lyle Hill fire started just NE of Lyle, WA on July 12, 2021....",
-      "state": "WASHINGTON",
-      "updated": "2021-07-15 12:55:26",
-      "lat": "45.698",
-      "lng": "-121.271",
-      "size": "135 Acres",
-      "url": "/incident/7662/",
-      "id": "7662",
-      "contained": "40"
     },
     {
       "name": "Lost Fire",
