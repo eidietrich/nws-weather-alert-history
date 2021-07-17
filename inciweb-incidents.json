@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Goddard Road Fire",
+      "type": "Wildfire",
+      "summary": " The Goddard Road fire is holding around 175+ acres in size. ...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-17 00:24:56",
+      "lat": "48.441",
+      "lng": "-118.149",
+      "size": "0 Acres",
+      "url": "/incident/7676/",
+      "id": "7676",
+      "contained": "0"
+    },
+    {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-17 00:15:35",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,362 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "15"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
@@ -168,19 +194,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "0"
-    },
-    {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-16 23:01:05",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,362 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "15"
     },
     {
       "name": "Grandview",
