@@ -1,24 +1,76 @@
 {
   "markers": [
     {
-      "name": "Beckwourth Complex",
+      "name": "Bruler Fire",
       "type": "Wildfire",
-      "summary": "Daily Update | Beckwourth Complex Map | Operations...",
+      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
+      "state": "OREGON",
+      "updated": "2021-07-17 10:37:35",
+      "lat": "44.591",
+      "lng": "-122.156",
+      "size": "156 Acres",
+      "url": "/incident/7663/",
+      "id": "7663",
+      "contained": "0"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-17 10:36:24",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "15,080 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "Goddard Road Fire",
+      "type": "Wildfire",
+      "summary": " The Goddard Road fire is holding around 175+ acres in size. ...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-17 10:36:06",
+      "lat": "48.441",
+      "lng": "-118.149",
+      "size": "175 Acres",
+      "url": "/incident/7676/",
+      "id": "7676",
+      "contained": "0"
+    },
+    {
+      "name": "Salt Fire",
+      "type": "Wildfire",
+      "summary": "July 16, 2021:      |     Maps    ...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-17 10:17:27",
-      "lat": "39.875",
-      "lng": "-120.368",
-      "size": "105,163 Acres",
-      "url": "/incident/7601/",
-      "id": "7601",
-      "contained": "70"
+      "updated": "2021-07-17 10:35:12",
+      "lat": "40.849",
+      "lng": "-122.336",
+      "size": "12,660 Acres",
+      "url": "/incident/7587/",
+      "id": "7587",
+      "contained": "95"
+    },
+    {
+      "name": "Red Apple",
+      "type": "Wildfire",
+      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-17 10:32:07",
+      "lat": "47.508",
+      "lng": "-120.426",
+      "size": "11,111 Acres",
+      "url": "/incident/7667/",
+      "id": "7667",
+      "contained": "51"
     },
     {
       "name": "Goose Fire",
       "type": "Wildfire",
       "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
       "state": "MONTANA",
-      "updated": "2021-07-17 10:17:01",
+      "updated": "2021-07-17 10:27:51",
       "lat": "44.733",
       "lng": "-111.6",
       "size": "4,916 Acres",
@@ -27,29 +79,42 @@
       "contained": "10"
     },
     {
+      "name": "Robertson Draw",
+      "type": "Wildfire",
+      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
+      "state": "MONTANA",
+      "updated": "2021-07-17 10:24:52",
+      "lat": "45.015",
+      "lng": "-109.253",
+      "size": "29,841 Acres",
+      "url": "/incident/7537/",
+      "id": "7537",
+      "contained": "85"
+    },
+    {
+      "name": "Beckwourth Complex",
+      "type": "Wildfire",
+      "summary": "Daily Update | Beckwourth Complex Map | Operations...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-17 10:23:49",
+      "lat": "39.875",
+      "lng": "-120.368",
+      "size": "105,348 Acres",
+      "url": "/incident/7601/",
+      "id": "7601",
+      "contained": "70"
+    },
+    {
       "name": "Anderson Hill Fire",
       "type": "Wildfire",
       "summary": "This fire originated in Granite County one mile southeast of Garnet...",
       "state": "MONTANA",
-      "updated": "2021-07-17 10:16:25",
+      "updated": "2021-07-17 10:18:04",
       "lat": "46.818",
       "lng": "-113.334",
       "size": "599 Acres",
       "url": "/incident/7671/",
       "id": "7671",
-      "contained": "0"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-17 10:16:00",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "15,080 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
       "contained": "0"
     },
     {
@@ -300,19 +365,6 @@
       "contained": "70"
     },
     {
-      "name": "Bruler Fire",
-      "type": "Wildfire",
-      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
-      "state": "OREGON",
-      "updated": "2021-07-17 09:14:35",
-      "lat": "44.591",
-      "lng": "-122.156",
-      "size": "156 Acres",
-      "url": "/incident/7663/",
-      "id": "7663",
-      "contained": "0"
-    },
-    {
       "name": "Fritzer Fire",
       "type": "Wildfire",
       "summary": "Continue monitoring for spot fires, rollout, and rekindle using...",
@@ -365,19 +417,6 @@
       "contained": "93"
     },
     {
-      "name": "Goddard Road Fire",
-      "type": "Wildfire",
-      "summary": " The Goddard Road fire is holding around 175+ acres in size. ...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-17 00:49:13",
-      "lat": "48.441",
-      "lng": "-118.149",
-      "size": "0 Acres",
-      "url": "/incident/7676/",
-      "id": "7676",
-      "contained": "0"
-    },
-    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
@@ -389,19 +428,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "0"
-    },
-    {
-      "name": "Red Apple",
-      "type": "Wildfire",
-      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-16 23:38:36",
-      "lat": "47.508",
-      "lng": "-120.426",
-      "size": "11,111 Acres",
-      "url": "/incident/7667/",
-      "id": "7667",
-      "contained": "51"
     },
     {
       "name": "Character Complex",
@@ -532,19 +558,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "10"
-    },
-    {
-      "name": "Salt Fire",
-      "type": "Wildfire",
-      "summary": " July 16, 2021:      |     Maps    ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-16 21:53:04",
-      "lat": "40.849",
-      "lng": "-122.336",
-      "size": "12,650 Acres",
-      "url": "/incident/7587/",
-      "id": "7587",
-      "contained": "95"
     },
     {
       "name": "Spring Prescribed Fire Projects 2021",
@@ -779,19 +792,6 @@
       "url": "/incident/7584/",
       "id": "7584",
       "contained": "100"
-    },
-    {
-      "name": "Robertson Draw",
-      "type": "Wildfire",
-      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
-      "state": "MONTANA",
-      "updated": "2021-07-16 10:36:21",
-      "lat": "45.015",
-      "lng": "-109.253",
-      "size": "29,841 Acres",
-      "url": "/incident/7537/",
-      "id": "7537",
-      "contained": "85"
     },
     {
       "name": "Half Moon",
