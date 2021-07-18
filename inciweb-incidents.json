@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Porcupine",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-18 18:14:51",
+      "lat": "37.825",
+      "lng": "-119.552",
+      "size": "7 Acres",
+      "url": "/incident/7678/",
+      "id": "7678",
+      "contained": "0"
+    },
+    {
+      "name": "Animas City Mountain Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
+      "state": "COLORADO",
+      "updated": "2021-07-18 18:14:28",
+      "lat": "37.323",
+      "lng": "-107.872",
+      "size": "0 Acres",
+      "url": "/incident/7688/",
+      "id": "7688",
+      "contained": "0"
+    },
+    {
+      "name": "Darlene",
+      "type": "Wildfire",
+      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
+      "state": "OREGON",
+      "updated": "2021-07-18 18:11:16",
+      "lat": "43.646",
+      "lng": "-121.474",
+      "size": "686 Acres",
+      "url": "/incident/7665/",
+      "id": "7665",
+      "contained": "61"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
+      "state": "MONTANA",
+      "updated": "2021-07-18 17:54:26",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "700 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-18 17:49:00",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "4,690 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "0"
+    },
+    {
+      "name": "Robertson Draw",
+      "type": "Wildfire",
+      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
+      "state": "MONTANA",
+      "updated": "2021-07-18 17:48:30",
+      "lat": "45.015",
+      "lng": "-109.253",
+      "size": "29,841 Acres",
+      "url": "/incident/7537/",
+      "id": "7537",
+      "contained": "85"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-18 17:48:15",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "4,080 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "0"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
@@ -12,19 +103,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "22"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 17:39:26",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "4,080 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "0"
     },
     {
       "name": "Burnt Peak Fire",
@@ -89,19 +167,6 @@
       "size": "3,692 Acres",
       "url": "/incident/7654/",
       "id": "7654",
-      "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 17:09:58",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "4,690 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
       "contained": "0"
     },
     {
@@ -300,19 +365,6 @@
       "contained": "100"
     },
     {
-      "name": "Porcupine",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-18 14:48:37",
-      "lat": "37.825",
-      "lng": "-119.552",
-      "size": "4 Acres",
-      "url": "/incident/7678/",
-      "id": "7678",
-      "contained": "0"
-    },
-    {
       "name": "North",
       "type": "Wildfire",
       "summary": "On Thursday, July 8, 2021, an escaped campfire was reported on the...",
@@ -428,19 +480,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "35"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 13:44:43",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "700 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "0"
     },
     {
       "name": "Goddard Road Fire",
@@ -612,19 +651,6 @@
       "contained": "100"
     },
     {
-      "name": "Darlene",
-      "type": "Wildfire",
-      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
-      "state": "OREGON",
-      "updated": "2021-07-18 11:37:50",
-      "lat": "43.646",
-      "lng": "-121.474",
-      "size": "686 Acres",
-      "url": "/incident/7665/",
-      "id": "7665",
-      "contained": "61"
-    },
-    {
       "name": "Grandview",
       "type": "Wildfire",
       "summary": "The Grandview Fire was reported at 1:30 p.m., Sunday, July 11th,...",
@@ -636,19 +662,6 @@
       "url": "/incident/7651/",
       "id": "7651",
       "contained": "43"
-    },
-    {
-      "name": "Robertson Draw",
-      "type": "Wildfire",
-      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 10:48:31",
-      "lat": "45.015",
-      "lng": "-109.253",
-      "size": "29,841 Acres",
-      "url": "/incident/7537/",
-      "id": "7537",
-      "contained": "85"
     },
     {
       "name": "Trestle Creek Complex",
