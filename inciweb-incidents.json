@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-18 16:12:58",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "1,977 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "10"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-18 16:01:02",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "2,031 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "0"
+    },
+    {
       "name": "Beckwourth Complex",
       "type": "Wildfire",
       "summary": "Daily Update | Beckwourth Complex Map | Operations...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-18 15:44:32",
+      "updated": "2021-07-18 16:00:02",
       "lat": "39.875",
       "lng": "-120.368",
       "size": "105,348 Acres",
@@ -352,19 +378,6 @@
       "contained": "100"
     },
     {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 14:00:42",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "1,977 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "10"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
@@ -532,19 +545,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "15"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 12:29:56",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "2,031 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "0"
     },
     {
       "name": "Lost Fire",
