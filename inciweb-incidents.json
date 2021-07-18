@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-17 21:46:58",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "1,887 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "10"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The fire is located approximately two miles northwest of Blackbird...",
+      "state": "IDAHO",
+      "updated": "2021-07-17 21:46:15",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "8,220 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Delta Lake Fire ",
+      "type": "Wildfire",
+      "summary": "The Delta Lake Fire continues to be the only active fire within the...",
+      "state": "MINNESOTA",
+      "updated": "2021-07-17 21:45:02",
+      "lat": "47.93",
+      "lng": "-91.74",
+      "size": "65 Acres",
+      "url": "/incident/7643/",
+      "id": "7643",
+      "contained": "10"
+    },
+    {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-17 21:44:42",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,592 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "40"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-17 21:44:02",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "34,694 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "25"
+    },
+    {
+      "name": "Darlene",
+      "type": "Wildfire",
+      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
+      "state": "OREGON",
+      "updated": "2021-07-17 21:43:36",
+      "lat": "43.646",
+      "lng": "-121.474",
+      "size": "686 Acres",
+      "url": "/incident/7665/",
+      "id": "7665",
+      "contained": "61"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "Current Activity: Forced by gusty winds, critically dry fuels and low...",
+      "state": "NEVADA",
+      "updated": "2021-07-17 21:30:24",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "21,000 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
+    },
+    {
       "name": "Cougar Rock Complex",
       "type": "Wildfire",
       "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
@@ -53,32 +144,6 @@
       "contained": "30"
     },
     {
-      "name": "Delta Lake Fire ",
-      "type": "Wildfire",
-      "summary": "The Delta Lake Fire continues to be the only active fire within the...",
-      "state": "MINNESOTA",
-      "updated": "2021-07-17 21:10:09",
-      "lat": "47.93",
-      "lng": "-91.74",
-      "size": "65 Acres",
-      "url": "/incident/7643/",
-      "id": "7643",
-      "contained": "10"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "Current Activity: Forced by gusty winds, critically dry fuels and low...",
-      "state": "NEVADA",
-      "updated": "2021-07-17 20:48:29",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "21,000 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "0"
-    },
-    {
       "name": "Bruler Fire",
       "type": "Wildfire",
       "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
@@ -103,19 +168,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "0"
-    },
-    {
-      "name": "Darlene",
-      "type": "Wildfire",
-      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
-      "state": "OREGON",
-      "updated": "2021-07-17 20:27:07",
-      "lat": "43.646",
-      "lng": "-121.474",
-      "size": "686 Acres",
-      "url": "/incident/7665/",
-      "id": "7665",
-      "contained": "61"
     },
     {
       "name": "Lukens",
@@ -155,19 +207,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "15"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The fire is located approximately two miles northwest of Blackbird...",
-      "state": "IDAHO",
-      "updated": "2021-07-17 19:57:32",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "8,220 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
     },
     {
       "name": "Beckwourth Complex",
@@ -233,19 +272,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "0"
-    },
-    {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-17 18:35:28",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,558 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "26"
     },
     {
       "name": "County Line",
@@ -495,19 +521,6 @@
       "contained": "90"
     },
     {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-17 13:43:39",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "34,694 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "25"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -545,19 +558,6 @@
       "url": "/incident/7672/",
       "id": "7672",
       "contained": "0"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-17 12:34:02",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "1,887 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "10"
     },
     {
       "name": "Robertson Draw",
