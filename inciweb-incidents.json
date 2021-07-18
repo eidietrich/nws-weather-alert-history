@@ -1,17 +1,134 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-18 12:23:44",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "3,696 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "0"
+    },
+    {
+      "name": "Lost Fire",
+      "type": "Wildfire",
+      "summary": "Discovered on July 10, 2021, the lightning-caused Lost Fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-18 12:22:37",
+      "lat": "36.92",
+      "lng": "-118.707",
+      "size": "106 Acres",
+      "url": "/incident/7666/",
+      "id": "7666",
+      "contained": "70"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-18 12:22:25",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "450 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "50"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-18 12:21:55",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "2,031 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "0"
+    },
+    {
+      "name": "Beckwourth Complex",
+      "type": "Wildfire",
+      "summary": "Daily Update | Beckwourth Complex Map | Operations...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-18 12:19:06",
+      "lat": "39.875",
+      "lng": "-120.368",
+      "size": "105,348 Acres",
+      "url": "/incident/7601/",
+      "id": "7601",
+      "contained": "73"
+    },
+    {
+      "name": "Anderson Hill Fire",
+      "type": "Wildfire",
+      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
+      "state": "MONTANA",
+      "updated": "2021-07-18 12:12:46",
+      "lat": "46.818",
+      "lng": "-113.334",
+      "size": "647 Acres",
+      "url": "/incident/7671/",
+      "id": "7671",
+      "contained": "3"
+    },
+    {
       "name": "Lick Creek (Dry Gulch) Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
       "state": "OREGON",
-      "updated": "2021-07-18 12:00:50",
+      "updated": "2021-07-18 12:11:25",
       "lat": "46.262",
       "lng": "-117.416",
       "size": "68,153 Acres",
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "40"
+    },
+    {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-18 12:11:03",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,847 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "64"
+    },
+    {
+      "name": "Harris ",
+      "type": "Wildfire",
+      "summary": " Incident OverviewThe Harris Fire was first reported Thursday, June...",
+      "state": "MONTANA",
+      "updated": "2021-07-18 12:04:35",
+      "lat": "45.538",
+      "lng": "-108.92",
+      "size": "2,500 Acres",
+      "url": "/incident/7684/",
+      "id": "7684",
+      "contained": "25"
+    },
+    {
+      "name": "Quartzite",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-18 12:03:28",
+      "lat": "37.702",
+      "lng": "-119.467",
+      "size": "0 Acres",
+      "url": "/incident/7612/",
+      "id": "7612",
+      "contained": "0"
     },
     {
       "name": "Clark",
@@ -27,32 +144,6 @@
       "contained": "100"
     },
     {
-      "name": "Beckwourth Complex",
-      "type": "Wildfire",
-      "summary": "Daily Update | Beckwourth Complex Map | Operations...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-18 11:59:26",
-      "lat": "39.875",
-      "lng": "-120.368",
-      "size": "105,348 Acres",
-      "url": "/incident/7601/",
-      "id": "7601",
-      "contained": "73"
-    },
-    {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-18 11:59:23",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "450 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "50"
-    },
-    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "Current Activity: Forced by gusty winds, critically dry fuels and low...",
@@ -64,32 +155,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "0"
-    },
-    {
-      "name": "Anderson Hill Fire",
-      "type": "Wildfire",
-      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 11:58:35",
-      "lat": "46.818",
-      "lng": "-113.334",
-      "size": "647 Acres",
-      "url": "/incident/7671/",
-      "id": "7671",
-      "contained": "3"
-    },
-    {
-      "name": "Harris ",
-      "type": "Wildfire",
-      "summary": " Incident OverviewThe Harris Fire was first reported Thursday, June...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 11:58:14",
-      "lat": "45.538",
-      "lng": "-108.92",
-      "size": "2,500 Acres",
-      "url": "/incident/7684/",
-      "id": "7684",
-      "contained": "25"
     },
     {
       "name": "Red Apple",
@@ -118,32 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 11:39:13",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "3,696 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "0"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 11:38:41",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "2,031 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "0"
-    },
-    {
       "name": "Darlene",
       "type": "Wildfire",
       "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
@@ -168,19 +207,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "30"
-    },
-    {
-      "name": "Lost Fire",
-      "type": "Wildfire",
-      "summary": "Recent lightning strikes in the Sierra Nevada resulted in two new...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-18 11:30:40",
-      "lat": "36.92",
-      "lng": "-118.707",
-      "size": "106 Acres",
-      "url": "/incident/7666/",
-      "id": "7666",
-      "contained": "70"
     },
     {
       "name": "West Lolo Complex",
@@ -259,19 +285,6 @@
       "url": "/incident/7683/",
       "id": "7683",
       "contained": "0"
-    },
-    {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-18 11:12:11",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,847 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "64"
     },
     {
       "name": "Mud Lick Fire",
@@ -428,19 +441,6 @@
       "url": "/incident/7593/",
       "id": "7593",
       "contained": "100"
-    },
-    {
-      "name": "Quartzite",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-18 09:55:16",
-      "lat": "37.702",
-      "lng": "-119.467",
-      "size": "0 Acres",
-      "url": "/incident/7612/",
-      "id": "7612",
-      "contained": "0"
     },
     {
       "name": "Half Moon",
