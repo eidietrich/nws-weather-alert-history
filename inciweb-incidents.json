@@ -1,6 +1,149 @@
 {
   "markers": [
     {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "PRE EVACUATION notice issued for Smith River corridor from Camp Baker...",
+      "state": "MONTANA",
+      "updated": "2021-07-18 10:49:41",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,688 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "15"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-18 10:49:30",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "298,662 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "22"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The fire is located approximately two miles northwest of Blackbird...",
+      "state": "IDAHO",
+      "updated": "2021-07-18 10:48:38",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "12,396 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Robertson Draw",
+      "type": "Wildfire",
+      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
+      "state": "MONTANA",
+      "updated": "2021-07-18 10:48:31",
+      "lat": "45.015",
+      "lng": "-109.253",
+      "size": "29,841 Acres",
+      "url": "/incident/7537/",
+      "id": "7537",
+      "contained": "85"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-18 10:45:49",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "3,696 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-18 10:45:14",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "1,528 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "0"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-07-18 10:44:13",
+      "lat": "46.134",
+      "lng": "-117.719",
+      "size": "1,067 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Red Apple",
+      "type": "Wildfire",
+      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-18 10:43:28",
+      "lat": "47.508",
+      "lng": "-120.426",
+      "size": "11,952 Acres",
+      "url": "/incident/7667/",
+      "id": "7667",
+      "contained": "78"
+    },
+    {
+      "name": "Darlene",
+      "type": "Wildfire",
+      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
+      "state": "OREGON",
+      "updated": "2021-07-18 10:43:10",
+      "lat": "43.646",
+      "lng": "-121.474",
+      "size": "686 Acres",
+      "url": "/incident/7665/",
+      "id": "7665",
+      "contained": "61"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
+      "state": "IDAHO",
+      "updated": "2021-07-18 10:42:34",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "384 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "31"
+    },
+    {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-18 10:42:12",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,847 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "64"
+    },
+    {
       "name": "Beckwourth Complex",
       "type": "Wildfire",
       "summary": "Daily Update | Beckwourth Complex Map | Operations...",
@@ -12,19 +155,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "73"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
-      "state": "IDAHO",
-      "updated": "2021-07-18 10:31:37",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "384 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "31"
     },
     {
       "name": "Salt Fire",
@@ -53,45 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Robertson Draw",
-      "type": "Wildfire",
-      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 10:29:00",
-      "lat": "45.015",
-      "lng": "-109.253",
-      "size": "29,841 Acres",
-      "url": "/incident/7537/",
-      "id": "7537",
-      "contained": "85"
-    },
-    {
-      "name": "Red Apple",
-      "type": "Wildfire",
-      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 10:25:55",
-      "lat": "47.508",
-      "lng": "-120.426",
-      "size": "11,952 Acres",
-      "url": "/incident/7667/",
-      "id": "7667",
-      "contained": "78"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-18 10:25:11",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "290,196 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "22"
-    },
-    {
       "name": "Bruler Fire",
       "type": "Wildfire",
       "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
@@ -105,32 +196,6 @@
       "contained": "10"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 10:24:32",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "3,696 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "0"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The fire is located approximately two miles northwest of Blackbird...",
-      "state": "IDAHO",
-      "updated": "2021-07-18 10:23:10",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "12,396 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
@@ -141,19 +206,6 @@
       "size": "19,848 Acres",
       "url": "/incident/7634/",
       "id": "7634",
-      "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 10:22:18",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "1,528 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
       "contained": "0"
     },
     {
@@ -194,19 +246,6 @@
       "url": "/incident/7614/",
       "id": "7614",
       "contained": "50"
-    },
-    {
-      "name": "Darlene",
-      "type": "Wildfire",
-      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
-      "state": "OREGON",
-      "updated": "2021-07-18 09:59:02",
-      "lat": "43.646",
-      "lng": "-121.474",
-      "size": "686 Acres",
-      "url": "/incident/7665/",
-      "id": "7665",
-      "contained": "61"
     },
     {
       "name": "King",
@@ -287,19 +326,6 @@
       "contained": "15"
     },
     {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-18 09:48:04",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,592 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "40"
-    },
-    {
       "name": "Porcupine",
       "type": "Wildfire",
       "summary": "There are multiple fires burning in Yosemite National Park...",
@@ -311,19 +337,6 @@
       "url": "/incident/7678/",
       "id": "7678",
       "contained": "0"
-    },
-    {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "PRE EVACUATION notice issued for Smith River corridor from Camp Baker...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 09:43:49",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,688 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "15"
     },
     {
       "name": "Lava Fire",
@@ -597,19 +610,6 @@
       "url": "/incident/7608/",
       "id": "7608",
       "contained": "5"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-07-17 20:03:39",
-      "lat": "46.134",
-      "lng": "-117.719",
-      "size": "1,067 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
     },
     {
       "name": "St. Joe July Lightning Fires",
