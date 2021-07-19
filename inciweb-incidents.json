@@ -1,37 +1,11 @@
 {
   "markers": [
     {
-      "name": "Leland Complex",
-      "type": "Wildfire",
-      "summary": "The Leland Complex is composed of two wildfires: The Pine Creek and...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 09:28:53",
-      "lat": "46.746",
-      "lng": "-116.628",
-      "size": "1,976 Acres",
-      "url": "/incident/7644/",
-      "id": "7644",
-      "contained": "0"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The fire is located approximately two miles northwest of Blackbird...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 09:28:14",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "12,952 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
-    },
-    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
       "state": "IDAHO",
-      "updated": "2021-07-19 09:28:12",
+      "updated": "2021-07-19 09:45:07",
       "lat": "47.645",
       "lng": "-116.019",
       "size": "4,034 Acres",
@@ -44,7 +18,7 @@
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
       "state": "MONTANA",
-      "updated": "2021-07-19 09:26:55",
+      "updated": "2021-07-19 09:44:42",
       "lat": "47.133",
       "lng": "-114.643",
       "size": "2,055 Acres",
@@ -53,17 +27,147 @@
       "contained": "8"
     },
     {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-19 09:44:19",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "4,690 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "0"
+    },
+    {
+      "name": "Goddard Road Fire",
+      "type": "Wildfire",
+      "summary": " The Goddard Road fire is 300+ acres in size and crews are...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-19 09:44:15",
+      "lat": "48.447",
+      "lng": "-118.152",
+      "size": "674 Acres",
+      "url": "/incident/7676/",
+      "id": "7676",
+      "contained": "25"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-07-19 09:41:02",
+      "lat": "46.134",
+      "lng": "-117.719",
+      "size": "1,569 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "O’Hearn Creek Fire ",
+      "type": "Wildfire",
+      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 09:39:57",
+      "lat": "46.21",
+      "lng": "-110.276",
+      "size": "400 Acres",
+      "url": "/incident/7682/",
+      "id": "7682",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-19 09:38:39",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "4,080 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "0"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 09:37:48",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "700 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-19 09:36:59",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "303,791 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "25"
+    },
+    {
       "name": "Snake River Complex",
       "type": "Wildfire",
       "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
       "state": "IDAHO",
-      "updated": "2021-07-19 09:26:36",
+      "updated": "2021-07-19 09:36:00",
       "lat": "46.012",
       "lng": "-116.911",
       "size": "107,200 Acres",
       "url": "/incident/7636/",
       "id": "7636",
       "contained": "44"
+    },
+    {
+      "name": "Leland Complex",
+      "type": "Wildfire",
+      "summary": "The Leland Complex is composed of two wildfires: The Pine Creek and...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 09:32:32",
+      "lat": "46.746",
+      "lng": "-116.628",
+      "size": "1,976 Acres",
+      "url": "/incident/7644/",
+      "id": "7644",
+      "contained": "0"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The fire is located approximately 23 miles due west of Salmon,...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 09:31:28",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "12,952 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Lost Fire",
+      "type": "Wildfire",
+      "summary": "Discovered on July 10, 2021, the lightning-caused Lost Fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-19 09:31:20",
+      "lat": "36.92",
+      "lng": "-118.707",
+      "size": "106 Acres",
+      "url": "/incident/7666/",
+      "id": "7666",
+      "contained": "70"
     },
     {
       "name": "Trail Creek Fire",
@@ -92,19 +196,6 @@
       "contained": "13"
     },
     {
-      "name": "Lost Fire",
-      "type": "Wildfire",
-      "summary": "Discovered on July 10, 2021, the lightning-caused Lost Fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-19 09:23:56",
-      "lat": "36.92",
-      "lng": "-118.707",
-      "size": "106 Acres",
-      "url": "/incident/7666/",
-      "id": "7666",
-      "contained": "70"
-    },
-    {
       "name": "Park Lake Fire",
       "type": "Wildfire",
       "summary": " A 3-5 acre fire is burning on the east side of Park Lake on the...",
@@ -116,19 +207,6 @@
       "url": "/incident/7673/",
       "id": "7673",
       "contained": "0"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-07-19 09:15:05",
-      "lat": "46.134",
-      "lng": "-117.719",
-      "size": "1,569 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
     },
     {
       "name": "Dexter Fire",
@@ -339,45 +417,6 @@
       "contained": "0"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-19 00:22:10",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "4,690 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-19 00:12:31",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "4,080 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "0"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-18 23:46:37",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "303,791 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "25"
-    },
-    {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
@@ -586,19 +625,6 @@
       "contained": "0"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 17:54:26",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "700 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "0"
-    },
-    {
       "name": "Delta Lake Fire ",
       "type": "Wildfire",
       "summary": "The Delta Lake Fire continues to be the only active fire within the...",
@@ -729,19 +755,6 @@
       "contained": "35"
     },
     {
-      "name": "Goddard Road Fire",
-      "type": "Wildfire",
-      "summary": " The Goddard Road fire is 300+ acres in size and crews are...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 13:40:34",
-      "lat": "48.447",
-      "lng": "-118.152",
-      "size": "300 Acres",
-      "url": "/incident/7676/",
-      "id": "7676",
-      "contained": "10"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire is located on Crater Ridge north of Medicine...",
@@ -779,19 +792,6 @@
       "url": "/incident/7611/",
       "id": "7611",
       "contained": "100"
-    },
-    {
-      "name": "O’Hearn Creek Fire ",
-      "type": "Wildfire",
-      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 08:19:38",
-      "lat": "46.21",
-      "lng": "-110.276",
-      "size": "400 Acres",
-      "url": "/incident/7682/",
-      "id": "7682",
-      "contained": "0"
     },
     {
       "name": "St. Joe July Lightning Fires",
