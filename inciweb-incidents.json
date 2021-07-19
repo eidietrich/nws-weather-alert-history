@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-19 18:44:35",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "450 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "50"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 18:44:19",
+      "lat": "47.133",
+      "lng": "-114.643",
+      "size": "2,408 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "16"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": " The Goat fire is currently estimated to be 40 acres, burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 18:42:02",
+      "lat": "46.369",
+      "lng": "-113.068",
+      "size": "0 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
+      "name": "Nez Perce Clearwater Lighting Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 18:40:57",
+      "lat": "45.45",
+      "lng": "-115.918",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "McDougal Fire",
+      "type": "Wildfire",
+      "summary": " The McDougal fire is currently assessed at 16.5 acres. Type 1 and...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 18:40:55",
+      "lat": "46.119",
+      "lng": "-113.451",
+      "size": "0 Acres",
+      "url": "/incident/7695/",
+      "id": "7695",
+      "contained": "0"
+    },
+    {
       "name": "Lava Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-19 18:29:00",
+      "updated": "2021-07-19 18:40:48",
       "lat": "41.425",
       "lng": "-122.261",
       "size": "0 Acres",
@@ -14,30 +79,30 @@
       "contained": "0"
     },
     {
-      "name": "O'Connell Fire",
-      "type": "Wildfire",
-      "summary": "The fire was first reported on Monday, July 12th at 6 am that was...",
-      "state": "ARIZONA",
-      "updated": "2021-07-19 18:28:26",
-      "lat": "36.003",
-      "lng": "-112.204",
-      "size": "190 Acres",
-      "url": "/incident/7661/",
-      "id": "7661",
-      "contained": "100"
-    },
-    {
       "name": "County Line",
       "type": "Wildfire",
       "summary": "There are multiple fires burning in Yosemite National Park...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-19 18:28:11",
+      "updated": "2021-07-19 18:39:25",
       "lat": "37.835",
       "lng": "-119.619",
       "size": "170 Acres",
       "url": "/incident/7613/",
       "id": "7613",
       "contained": "70"
+    },
+    {
+      "name": "O'Connell Fire",
+      "type": "Wildfire",
+      "summary": "The fire was first reported on Monday, July 12th at 6 am that was...",
+      "state": "ARIZONA",
+      "updated": "2021-07-19 18:37:37",
+      "lat": "36.003",
+      "lng": "-112.204",
+      "size": "190 Acres",
+      "url": "/incident/7661/",
+      "id": "7661",
+      "contained": "100"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -77,32 +142,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "82"
-    },
-    {
-      "name": "Nez Perce Clearwater Lighting Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 18:14:43",
-      "lat": "45.45",
-      "lng": "-115.918",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-19 18:08:20",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "450 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "50"
     },
     {
       "name": "Tamarack Fire",
@@ -207,19 +246,6 @@
       "url": "/incident/7643/",
       "id": "7643",
       "contained": "10"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 16:46:42",
-      "lat": "47.133",
-      "lng": "-114.643",
-      "size": "2,055 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "8"
     },
     {
       "name": "Bootleg Fire",
