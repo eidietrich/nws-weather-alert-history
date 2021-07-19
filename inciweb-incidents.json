@@ -1,6 +1,188 @@
 {
   "markers": [
     {
+      "name": "Grandview",
+      "type": "Wildfire",
+      "summary": "The Grandview Fire was reported at 1:30 p.m., Sunday, July 11th,...",
+      "state": "OREGON",
+      "updated": "2021-07-19 12:04:34",
+      "lat": "44.466",
+      "lng": "-121.4",
+      "size": "6,032 Acres",
+      "url": "/incident/7651/",
+      "id": "7651",
+      "contained": "57"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-19 12:04:24",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "8,255 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "0"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 12:04:17",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "1,977 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "13"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire is located on Crater Ridge north of Medicine...",
+      "state": "WYOMING",
+      "updated": "2021-07-19 12:03:57",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "200 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "0"
+    },
+    {
+      "name": "Park Lake Fire",
+      "type": "Wildfire",
+      "summary": " A 3-5 acre fire is burning on the east side of Park Lake on the...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 12:01:21",
+      "lat": "46.448",
+      "lng": "-112.157",
+      "size": "3 Acres",
+      "url": "/incident/7673/",
+      "id": "7673",
+      "contained": "0"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "Current Activity:The fire is estimated at 23,078 acres with no...",
+      "state": "NEVADA",
+      "updated": "2021-07-19 11:58:53",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "23,078 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 11:54:53",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "1,688 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "0"
+    },
+    {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 11:53:38",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,688 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "25"
+    },
+    {
+      "name": "Haynes Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Haynes Fire started on July 16 and is located at...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 11:52:56",
+      "lat": "44.987",
+      "lng": "-113.833",
+      "size": "408 Acres",
+      "url": "/incident/7683/",
+      "id": "7683",
+      "contained": "0"
+    },
+    {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-19 11:48:14",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,961 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "96"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-19 11:47:48",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "5,945 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-19 11:43:20",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "303,791 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "25"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 11:37:11",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "107,200 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "44"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 11:32:50",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "436 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "31"
+    },
+    {
       "name": "O'Connell Fire",
       "type": "Wildfire",
       "summary": "The fire was first reported on Monday, July 12th at 6 am that was...",
@@ -27,19 +209,6 @@
       "contained": "100"
     },
     {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 11:24:00",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "107,200 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "44"
-    },
-    {
       "name": "Robertson Draw",
       "type": "Wildfire",
       "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
@@ -53,19 +222,6 @@
       "contained": "85"
     },
     {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 11:12:37",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "436 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "31"
-    },
-    {
       "name": "Morgan Creek Fire",
       "type": "Wildfire",
       "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
@@ -76,32 +232,6 @@
       "size": "4,443 Acres",
       "url": "/incident/7635/",
       "id": "7635",
-      "contained": "0"
-    },
-    {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-19 11:09:12",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,961 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "96"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "Current Activity:The fire is estimated at 18,299 acres with no...",
-      "state": "NEVADA",
-      "updated": "2021-07-19 11:09:04",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "23,078 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
       "contained": "0"
     },
     {
@@ -142,19 +272,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "0"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-19 10:52:11",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "303,791 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "25"
     },
     {
       "name": "Dixie-Jumbo Fires",
@@ -248,32 +365,6 @@
       "contained": "8"
     },
     {
-      "name": "Haynes Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Haynes Fire started on July 16 and is located at...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 10:22:49",
-      "lat": "44.987",
-      "lng": "-113.833",
-      "size": "408 Acres",
-      "url": "/incident/7683/",
-      "id": "7683",
-      "contained": "0"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire is located on Crater Ridge north of Medicine...",
-      "state": "WYOMING",
-      "updated": "2021-07-19 10:21:00",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "200 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "0"
-    },
-    {
       "name": "Beckwourth  Complex",
       "type": "Wildfire",
       "summary": "Daily Update | Beckwourth Complex Map | Operations...",
@@ -311,32 +402,6 @@
       "url": "/incident/7676/",
       "id": "7676",
       "contained": "25"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-19 09:45:23",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "4,080 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-19 09:44:19",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "4,690 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "0"
     },
     {
       "name": "Green Ridge Fire",
@@ -417,32 +482,6 @@
       "contained": "70"
     },
     {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 09:24:24",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "1,977 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "13"
-    },
-    {
-      "name": "Park Lake Fire",
-      "type": "Wildfire",
-      "summary": " A 3-5 acre fire is burning on the east side of Park Lake on the...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 09:21:18",
-      "lat": "46.448",
-      "lng": "-112.157",
-      "size": "3 Acres",
-      "url": "/incident/7673/",
-      "id": "7673",
-      "contained": "0"
-    },
-    {
       "name": "Harris ",
       "type": "Wildfire",
       "summary": " Incident OverviewThe Harris Fire was first reported Thursday, July...",
@@ -482,19 +521,6 @@
       "contained": "75"
     },
     {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 08:40:53",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,688 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "15"
-    },
-    {
       "name": "Anderson Hill Fire",
       "type": "Wildfire",
       "summary": "This fire originated in Granite County one mile southeast of Garnet...",
@@ -506,32 +532,6 @@
       "url": "/incident/7671/",
       "id": "7671",
       "contained": "3"
-    },
-    {
-      "name": "Grandview",
-      "type": "Wildfire",
-      "summary": "The Grandview Fire was reported at 1:30 p.m., Sunday, July 11th,...",
-      "state": "OREGON",
-      "updated": "2021-07-19 08:17:57",
-      "lat": "44.466",
-      "lng": "-121.4",
-      "size": "6,032 Acres",
-      "url": "/incident/7651/",
-      "id": "7651",
-      "contained": "57"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 08:03:23",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "1,688 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "0"
     },
     {
       "name": "Lick Creek (Dry Gulch) Fire",
