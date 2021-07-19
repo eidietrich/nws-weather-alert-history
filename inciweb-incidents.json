@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The fire is located approximately two miles northwest of Blackbird...",
+      "state": "IDAHO",
+      "updated": "2021-07-18 21:30:56",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "12,396 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Darlene",
+      "type": "Wildfire",
+      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
+      "state": "OREGON",
+      "updated": "2021-07-18 21:23:07",
+      "lat": "43.646",
+      "lng": "-121.474",
+      "size": "686 Acres",
+      "url": "/incident/7665/",
+      "id": "7665",
+      "contained": "85"
+    },
+    {
+      "name": "Shale Creek",
+      "type": "Wildfire",
+      "summary": "The Shale Creek Fire is located on Indian Ridge in the Commissary...",
+      "state": "WYOMING",
+      "updated": "2021-07-18 21:19:01",
+      "lat": "42.236",
+      "lng": "-110.606",
+      "size": "90 Acres",
+      "url": "/incident/7689/",
+      "id": "7689",
+      "contained": "0"
+    },
+    {
+      "name": "Goose Fire",
+      "type": "Wildfire",
+      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
+      "state": "MONTANA",
+      "updated": "2021-07-18 21:16:20",
+      "lat": "44.733",
+      "lng": "-111.6",
+      "size": "6,258 Acres",
+      "url": "/incident/7618/",
+      "id": "7618",
+      "contained": "21"
+    },
+    {
+      "name": "Red Apple",
+      "type": "Wildfire",
+      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-18 21:13:49",
+      "lat": "47.508",
+      "lng": "-120.426",
+      "size": "12,288 Acres",
+      "url": "/incident/7667/",
+      "id": "7667",
+      "contained": "83"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-18 21:07:28",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "298,662 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "22"
+    },
+    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
@@ -14,19 +92,6 @@
       "contained": "8"
     },
     {
-      "name": "Darlene",
-      "type": "Wildfire",
-      "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
-      "state": "OREGON",
-      "updated": "2021-07-18 20:48:47",
-      "lat": "43.646",
-      "lng": "-121.474",
-      "size": "686 Acres",
-      "url": "/incident/7665/",
-      "id": "7665",
-      "contained": "85"
-    },
-    {
       "name": "Robertson Draw",
       "type": "Wildfire",
       "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
@@ -38,19 +103,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "85"
-    },
-    {
-      "name": "Shale Creek",
-      "type": "Wildfire",
-      "summary": "The Shale Creek Fire is located on Commissary Ridge entirely within...",
-      "state": "WYOMING",
-      "updated": "2021-07-18 20:34:59",
-      "lat": "42.236",
-      "lng": "-110.606",
-      "size": "110 Acres",
-      "url": "/incident/7689/",
-      "id": "7689",
-      "contained": "0"
     },
     {
       "name": "Snake River Complex",
@@ -92,19 +144,6 @@
       "contained": "70"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-18 19:56:40",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "298,662 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "22"
-    },
-    {
       "name": "Lukens",
       "type": "Wildfire",
       "summary": "There are multiple fires burning in Yosemite National Park...",
@@ -116,19 +155,6 @@
       "url": "/incident/7614/",
       "id": "7614",
       "contained": "50"
-    },
-    {
-      "name": "Goose Fire",
-      "type": "Wildfire",
-      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 19:53:45",
-      "lat": "44.733",
-      "lng": "-111.6",
-      "size": "6,258 Acres",
-      "url": "/incident/7618/",
-      "id": "7618",
-      "contained": "21"
     },
     {
       "name": "Cougar Rock Complex",
@@ -365,19 +391,6 @@
       "contained": "90"
     },
     {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The fire is located approximately two miles northwest of Blackbird...",
-      "state": "IDAHO",
-      "updated": "2021-07-18 16:24:45",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "12,396 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
-    },
-    {
       "name": "Granite Pass Complex",
       "type": "Wildfire",
       "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
@@ -506,19 +519,6 @@
       "url": "/incident/7639/",
       "id": "7639",
       "contained": "21"
-    },
-    {
-      "name": "Red Apple",
-      "type": "Wildfire",
-      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 14:12:50",
-      "lat": "47.508",
-      "lng": "-120.426",
-      "size": "11,952 Acres",
-      "url": "/incident/7667/",
-      "id": "7667",
-      "contained": "78"
     },
     {
       "name": "Fork",
