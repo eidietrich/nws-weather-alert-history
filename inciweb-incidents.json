@@ -1,14 +1,66 @@
 {
   "markers": [
     {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-18 22:15:37",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "4,443 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "0"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-18 22:14:00",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "1,977 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "13"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-18 22:12:34",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "35,591 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "35"
+    },
+    {
+      "name": "Haynes Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Haynes Fire started on July 16 and is located at...",
+      "state": "IDAHO",
+      "updated": "2021-07-18 22:01:35",
+      "lat": "44.987",
+      "lng": "-113.833",
+      "size": "250 Acres",
+      "url": "/incident/7683/",
+      "id": "7683",
+      "contained": "0"
+    },
+    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The fire is located approximately two miles northwest of Blackbird...",
       "state": "IDAHO",
-      "updated": "2021-07-18 21:48:50",
+      "updated": "2021-07-18 22:00:26",
       "lat": "45.183",
       "lng": "-114.421",
-      "size": "12,396 Acres",
+      "size": "12,398 Acres",
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "0"
@@ -300,32 +352,6 @@
       "contained": "0"
     },
     {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 17:37:50",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "1,977 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "10"
-    },
-    {
-      "name": "Haynes Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Haynes Fire started on July 16 and is located at...",
-      "state": "IDAHO",
-      "updated": "2021-07-18 17:34:51",
-      "lat": "44.987",
-      "lng": "-113.833",
-      "size": "205 Acres",
-      "url": "/incident/7683/",
-      "id": "7683",
-      "contained": "0"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
@@ -415,19 +441,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "0"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 15:31:46",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "35,413 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "30"
     },
     {
       "name": "Stubblefield",
@@ -636,19 +649,6 @@
       "url": "/incident/7671/",
       "id": "7671",
       "contained": "3"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-18 12:55:20",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "4,396 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "0"
     },
     {
       "name": "Lick Creek (Dry Gulch) Fire",
