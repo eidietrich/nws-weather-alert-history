@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-19 10:39:07",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,961 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "96"
+    },
+    {
+      "name": "Bruler Fire",
+      "type": "Wildfire",
+      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
+      "state": "OREGON",
+      "updated": "2021-07-19 10:36:16",
+      "lat": "44.591",
+      "lng": "-122.156",
+      "size": "156 Acres",
+      "url": "/incident/7663/",
+      "id": "7663",
+      "contained": "10"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 10:34:17",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "107,200 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "44"
+    },
+    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
       "state": "IDAHO",
-      "updated": "2021-07-19 10:18:46",
+      "updated": "2021-07-19 10:34:15",
       "lat": "47.645",
       "lng": "-116.019",
       "size": "4,034 Acres",
@@ -14,11 +53,24 @@
       "contained": "0"
     },
     {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-19 10:27:31",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "35,591 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "35"
+    },
+    {
       "name": "Dixie-Jumbo Fires",
       "type": "Wildfire",
       "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
       "state": "IDAHO",
-      "updated": "2021-07-19 10:17:57",
+      "updated": "2021-07-19 10:27:01",
       "lat": "45.586",
       "lng": "-115.444",
       "size": "27,287 Acres",
@@ -27,11 +79,50 @@
       "contained": "8"
     },
     {
+      "name": "Red Apple",
+      "type": "Wildfire",
+      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-19 10:26:47",
+      "lat": "47.508",
+      "lng": "-120.426",
+      "size": "12,288 Acres",
+      "url": "/incident/7667/",
+      "id": "7667",
+      "contained": "83"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 10:26:16",
+      "lat": "47.133",
+      "lng": "-114.643",
+      "size": "2,055 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "8"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-19 10:26:09",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "303,791 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "25"
+    },
+    {
       "name": "Haynes Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Haynes Fire started on July 16 and is located at...",
       "state": "IDAHO",
-      "updated": "2021-07-19 10:17:44",
+      "updated": "2021-07-19 10:22:49",
       "lat": "44.987",
       "lng": "-113.833",
       "size": "408 Acres",
@@ -40,17 +131,17 @@
       "contained": "0"
     },
     {
-      "name": "Red Apple",
+      "name": "Crater Ridge",
       "type": "Wildfire",
-      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-19 10:10:35",
-      "lat": "47.508",
-      "lng": "-120.426",
-      "size": "12,288 Acres",
-      "url": "/incident/7667/",
-      "id": "7667",
-      "contained": "83"
+      "summary": "The Crater Ridge Fire is located on Crater Ridge north of Medicine...",
+      "state": "WYOMING",
+      "updated": "2021-07-19 10:21:00",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "200 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "0"
     },
     {
       "name": "Beckwourth  Complex",
@@ -66,32 +157,6 @@
       "contained": "82"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-19 10:02:56",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "303,791 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "25"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 10:01:23",
-      "lat": "47.133",
-      "lng": "-114.643",
-      "size": "2,055 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "8"
-    },
-    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "Current Activity:The fire is estimated at 18,299 acres with no...",
@@ -103,19 +168,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "0"
-    },
-    {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-19 09:51:39",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,961 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "96"
     },
     {
       "name": "Goose Fire",
@@ -207,19 +259,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "0"
-    },
-    {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 09:36:00",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "107,200 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "44"
     },
     {
       "name": "Leland Complex",
@@ -482,19 +521,6 @@
       "contained": "0"
     },
     {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-18 22:31:19",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "35,591 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "35"
-    },
-    {
       "name": "Muddy Slide Fire",
       "type": "Wildfire",
       "summary": "The Muddy Slide Fire started by lightning on June 20, 2021.At 6 a.m....",
@@ -584,19 +610,6 @@
       "url": "/incident/7614/",
       "id": "7614",
       "contained": "50"
-    },
-    {
-      "name": "Bruler Fire",
-      "type": "Wildfire",
-      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
-      "state": "OREGON",
-      "updated": "2021-07-18 18:21:59",
-      "lat": "44.591",
-      "lng": "-122.156",
-      "size": "156 Acres",
-      "url": "/incident/7663/",
-      "id": "7663",
-      "contained": "10"
     },
     {
       "name": "Porcupine",
@@ -753,19 +766,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "35"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire is located on Crater Ridge north of Medicine...",
-      "state": "WYOMING",
-      "updated": "2021-07-18 12:39:23",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "0 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "0"
     },
     {
       "name": "Quartzite",
