@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Glacier Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Glacier Fire was reported on 1:18 p.m. on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-19 15:39:19",
+      "lat": "37.145",
+      "lng": "-118.42",
+      "size": "49 Acres",
+      "url": "/incident/7668/",
+      "id": "7668",
+      "contained": "90"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-19 15:35:07",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "71,512 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "40"
+    },
+    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
@@ -25,19 +51,6 @@
       "url": "/incident/7618/",
       "id": "7618",
       "contained": "21"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-19 15:28:05",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "71,512 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "40"
     },
     {
       "name": "O’Hearn Creek Fire ",
@@ -766,19 +779,6 @@
       "url": "/incident/7643/",
       "id": "7643",
       "contained": "10"
-    },
-    {
-      "name": "Glacier Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Glacier Fire was reported on 1:18 p.m. on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-18 16:27:52",
-      "lat": "37.145",
-      "lng": "-118.42",
-      "size": "49 Acres",
-      "url": "/incident/7668/",
-      "id": "7668",
-      "contained": "90"
     },
     {
       "name": "Stubblefield",
