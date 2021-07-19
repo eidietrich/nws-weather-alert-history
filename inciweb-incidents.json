@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Summit Trail",
+      "name": "Red Apple",
       "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
       "state": "WASHINGTON",
-      "updated": "2021-07-19 13:21:06",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "4,108 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "0"
+      "updated": "2021-07-19 13:42:56",
+      "lat": "47.508",
+      "lng": "-120.426",
+      "size": "12,288 Acres",
+      "url": "/incident/7667/",
+      "id": "7667",
+      "contained": "83"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-19 13:42:05",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "71,512 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "40"
     },
     {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire is located on Crater Ridge north of Medicine...",
       "state": "WYOMING",
-      "updated": "2021-07-19 13:20:14",
+      "updated": "2021-07-19 13:41:29",
       "lat": "44.947",
       "lng": "-107.771",
       "size": "200 Acres",
@@ -27,16 +40,94 @@
       "contained": "0"
     },
     {
+      "name": "Robertson Draw",
+      "type": "Wildfire",
+      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 13:40:57",
+      "lat": "45.015",
+      "lng": "-109.253",
+      "size": "29,841 Acres",
+      "url": "/incident/7537/",
+      "id": "7537",
+      "contained": "85"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
+      "state": "OREGON",
+      "updated": "2021-07-19 13:32:47",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "17,092 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "50"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 13:30:53",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "4,034 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "0"
+    },
+    {
       "name": "Leland Complex",
       "type": "Wildfire",
       "summary": "The Leland Complex is composed of two wildfires: The Pine Creek and...",
       "state": "IDAHO",
-      "updated": "2021-07-19 13:19:50",
+      "updated": "2021-07-19 13:25:00",
       "lat": "46.746",
       "lng": "-116.628",
       "size": "1,976 Acres",
       "url": "/incident/7644/",
       "id": "7644",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-19 13:24:50",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "4,108 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-19 13:23:39",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "8,255 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-19 13:23:05",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "5,945 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
       "contained": "0"
     },
     {
@@ -66,19 +157,6 @@
       "contained": "38"
     },
     {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-19 13:15:40",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "71,512 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "40"
-    },
-    {
       "name": "Elbow Creek",
       "type": "Wildfire",
       "summary": "Firefighters continue battling the Elbow Creek Fire located in the...",
@@ -90,32 +168,6 @@
       "url": "/incident/7672/",
       "id": "7672",
       "contained": "10"
-    },
-    {
-      "name": "Robertson Draw",
-      "type": "Wildfire",
-      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 12:55:37",
-      "lat": "45.015",
-      "lng": "-109.253",
-      "size": "29,841 Acres",
-      "url": "/incident/7537/",
-      "id": "7537",
-      "contained": "85"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-19 12:52:59",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "17,092 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "50"
     },
     {
       "name": "West Lolo Complex",
@@ -194,32 +246,6 @@
       "url": "/incident/7656/",
       "id": "7656",
       "contained": "96"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-19 12:10:50",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "5,945 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-19 12:06:46",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "8,255 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "0"
     },
     {
       "name": "Grandview",
@@ -454,32 +480,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "35"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 10:41:44",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "4,034 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "0"
-    },
-    {
-      "name": "Red Apple",
-      "type": "Wildfire",
-      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-19 10:26:47",
-      "lat": "47.508",
-      "lng": "-120.426",
-      "size": "12,288 Acres",
-      "url": "/incident/7667/",
-      "id": "7667",
-      "contained": "83"
     },
     {
       "name": "Goose Fire",
