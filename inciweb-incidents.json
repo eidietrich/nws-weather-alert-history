@@ -1,11 +1,141 @@
 {
   "markers": [
     {
+      "name": "O'Connell Fire",
+      "type": "Wildfire",
+      "summary": "The fire was first reported on Monday, July 12th at 6 am that was...",
+      "state": "ARIZONA",
+      "updated": "2021-07-19 11:25:34",
+      "lat": "36.003",
+      "lng": "-112.204",
+      "size": "190 Acres",
+      "url": "/incident/7661/",
+      "id": "7661",
+      "contained": "95"
+    },
+    {
+      "name": "Porcupine",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-19 11:25:21",
+      "lat": "37.825",
+      "lng": "-119.552",
+      "size": "7 Acres",
+      "url": "/incident/7678/",
+      "id": "7678",
+      "contained": "100"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 11:24:00",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "107,200 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "44"
+    },
+    {
+      "name": "Robertson Draw",
+      "type": "Wildfire",
+      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 11:21:45",
+      "lat": "45.015",
+      "lng": "-109.253",
+      "size": "29,841 Acres",
+      "url": "/incident/7537/",
+      "id": "7537",
+      "contained": "85"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 11:12:37",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "436 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "31"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-19 11:10:17",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "4,443 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "0"
+    },
+    {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-19 11:09:12",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,961 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "96"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "Current Activity:The fire is estimated at 18,299 acres with no...",
+      "state": "NEVADA",
+      "updated": "2021-07-19 11:09:04",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "23,078 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
+    },
+    {
+      "name": "Shale Creek",
+      "type": "Wildfire",
+      "summary": "The Shale Creek Fire is located on Indian Ridge in the Commissary...",
+      "state": "WYOMING",
+      "updated": "2021-07-19 11:04:23",
+      "lat": "42.236",
+      "lng": "-110.606",
+      "size": "90 Acres",
+      "url": "/incident/7689/",
+      "id": "7689",
+      "contained": "0"
+    },
+    {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 11:02:21",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "4,367 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "15"
+    },
+    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
       "state": "MONTANA",
-      "updated": "2021-07-19 10:52:30",
+      "updated": "2021-07-19 10:53:24",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "23,090 Acres",
@@ -38,19 +168,6 @@
       "url": "/incident/7608/",
       "id": "7608",
       "contained": "8"
-    },
-    {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-19 10:49:06",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,961 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "96"
     },
     {
       "name": "Bruler Fire",
@@ -103,19 +220,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "0"
-    },
-    {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 10:34:17",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "107,200 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "44"
     },
     {
       "name": "Red Apple",
@@ -181,19 +285,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "82"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "Current Activity:The fire is estimated at 18,299 acres with no...",
-      "state": "NEVADA",
-      "updated": "2021-07-19 10:00:51",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "23,078 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "0"
     },
     {
       "name": "Goose Fire",
@@ -352,19 +443,6 @@
       "contained": "0"
     },
     {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 09:01:42",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "4,367 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "15"
-    },
-    {
       "name": "Harris ",
       "type": "Wildfire",
       "summary": " Incident OverviewThe Harris Fire was first reported Thursday, July...",
@@ -482,19 +560,6 @@
       "contained": "0"
     },
     {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
-      "state": "IDAHO",
-      "updated": "2021-07-18 23:34:36",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "436 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "31"
-    },
-    {
       "name": "Elbow Creek",
       "type": "Wildfire",
       "summary": "Firefighters continue battling the Elbow Creek Fire located in the...",
@@ -534,32 +599,6 @@
       "contained": "70"
     },
     {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-18 22:15:37",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "4,443 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "0"
-    },
-    {
-      "name": "Shale Creek",
-      "type": "Wildfire",
-      "summary": "The Shale Creek Fire is located on Indian Ridge in the Commissary...",
-      "state": "WYOMING",
-      "updated": "2021-07-18 21:45:38",
-      "lat": "42.236",
-      "lng": "-110.606",
-      "size": "90 Acres",
-      "url": "/incident/7689/",
-      "id": "7689",
-      "contained": "0"
-    },
-    {
       "name": "Salt Fire",
       "type": "Wildfire",
       "summary": "July 18, 2021:      |     Maps    ...",
@@ -571,19 +610,6 @@
       "url": "/incident/7587/",
       "id": "7587",
       "contained": "95"
-    },
-    {
-      "name": "Robertson Draw",
-      "type": "Wildfire",
-      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
-      "state": "MONTANA",
-      "updated": "2021-07-18 20:44:22",
-      "lat": "45.015",
-      "lng": "-109.253",
-      "size": "29,841 Acres",
-      "url": "/incident/7537/",
-      "id": "7537",
-      "contained": "85"
     },
     {
       "name": "County Line",
@@ -610,19 +636,6 @@
       "url": "/incident/7614/",
       "id": "7614",
       "contained": "50"
-    },
-    {
-      "name": "Porcupine",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-18 18:14:51",
-      "lat": "37.825",
-      "lng": "-119.552",
-      "size": "7 Acres",
-      "url": "/incident/7678/",
-      "id": "7678",
-      "contained": "0"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
@@ -909,19 +922,6 @@
       "url": "/incident/7562/",
       "id": "7562",
       "contained": "68"
-    },
-    {
-      "name": "O'Connell Fire",
-      "type": "Wildfire",
-      "summary": "The fire was first reported on Monday, July 12th at 6 am that was...",
-      "state": "ARIZONA",
-      "updated": "2021-07-16 16:44:30",
-      "lat": "36.003",
-      "lng": "-112.204",
-      "size": "190 Acres",
-      "url": "/incident/7661/",
-      "id": "7661",
-      "contained": "50"
     },
     {
       "name": "Elements Fire",
