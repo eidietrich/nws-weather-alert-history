@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Nez Perce Clearwater Lighting Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 22:28:04",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-19 22:26:57",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,965 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "96"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 22:24:38",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "107,200 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "70"
+    },
+    {
       "name": "Chuweah Creek",
       "type": "Wildfire",
       "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
       "state": "WASHINGTON",
-      "updated": "2021-07-19 22:18:42",
+      "updated": "2021-07-19 22:21:24",
       "lat": "48.229",
       "lng": "-119.017",
       "size": "36,177 Acres",
@@ -38,32 +77,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "50"
-    },
-    {
-      "name": "Nez Perce Clearwater Lighting Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 22:14:43",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 22:12:08",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "107,200 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "70"
     },
     {
       "name": "Mud Lick Fire",
@@ -129,19 +142,6 @@
       "url": "/incident/7683/",
       "id": "7683",
       "contained": "0"
-    },
-    {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-19 21:39:56",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,965 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "96"
     },
     {
       "name": "Dixie Fire",
