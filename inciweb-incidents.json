@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-19 21:39:56",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,965 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "96"
+    },
+    {
+      "name": "Nez Perce Clearwater Lighting Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-19 21:35:29",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "29,309 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "8"
+    },
+    {
+      "name": "Dixie Fire",
+      "type": "Wildfire",
+      "summary": "Today, the Dixie Fire was very active and produced a large smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-19 21:28:15",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "40,500 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "15"
+    },
+    {
+      "name": "Tennant Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-19 21:26:41",
+      "lat": "41.733",
+      "lng": "-122.107",
+      "size": "0 Acres",
+      "url": "/incident/7699/",
+      "id": "7699",
+      "contained": "0"
+    },
+    {
+      "name": "Robertson Draw",
+      "type": "Wildfire",
+      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
+      "state": "MONTANA",
+      "updated": "2021-07-19 21:25:16",
+      "lat": "45.015",
+      "lng": "-109.253",
+      "size": "29,841 Acres",
+      "url": "/incident/7537/",
+      "id": "7537",
+      "contained": "85"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-19 21:23:39",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "71,512 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "45"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-19 21:22:37",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,177 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "40"
+    },
+    {
       "name": "Goose Fire",
       "type": "Wildfire",
       "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
@@ -92,19 +183,6 @@
       "contained": "80"
     },
     {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-19 20:30:25",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,961 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "96"
-    },
-    {
       "name": "Buffalo ",
       "type": "Wildfire",
       "summary": "On the evening of Friday, July 16 Yellowstone County fire personnel...",
@@ -116,19 +194,6 @@
       "url": "/incident/7687/",
       "id": "7687",
       "contained": "100"
-    },
-    {
-      "name": "Nez Perce Clearwater Lighting Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-19 20:26:13",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "29,309 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "8"
     },
     {
       "name": "Black Mountain",
@@ -300,19 +365,6 @@
       "contained": "77"
     },
     {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-19 19:05:27",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "71,512 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "40"
-    },
-    {
       "name": "Spring Prescribed Fire Projects 2021",
       "type": "Prescribed Fire",
       "summary": "Please take a moment to at the links section of this page to see...",
@@ -378,19 +430,6 @@
       "contained": "0"
     },
     {
-      "name": "Robertson Draw",
-      "type": "Wildfire",
-      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 17:52:23",
-      "lat": "45.015",
-      "lng": "-109.253",
-      "size": "29,841 Acres",
-      "url": "/incident/7537/",
-      "id": "7537",
-      "contained": "85"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
@@ -443,19 +482,6 @@
       "contained": "15"
     },
     {
-      "name": "Dixie Fire",
-      "type": "Wildfire",
-      "summary": " The Dixie Fire burned actively overnight, moving to the East and...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-19 16:38:25",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "30,074 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "15"
-    },
-    {
       "name": "Haynes Fire",
       "type": "Wildfire",
       "summary": " The lightning-caused Haynes Fire started on July 16 and is located...",
@@ -467,19 +493,6 @@
       "url": "/incident/7683/",
       "id": "7683",
       "contained": "0"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-19 16:22:56",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "35,591 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "35"
     },
     {
       "name": "Character Complex",
