@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Shale Creek",
+      "type": "Wildfire",
+      "summary": "The Shale Creek Fire is located on Indian Ridge in the Commissary...",
+      "state": "WYOMING",
+      "updated": "2021-07-19 23:43:01",
+      "lat": "42.236",
+      "lng": "-110.606",
+      "size": "160 Acres",
+      "url": "/incident/7689/",
+      "id": "7689",
+      "contained": "10"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-19 23:36:32",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "4,897 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "0"
+    },
+    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
       "state": "WASHINGTON",
-      "updated": "2021-07-19 23:19:59",
+      "updated": "2021-07-19 23:30:26",
       "lat": "48.285",
       "lng": "-118.531",
       "size": "4,108 Acres",
@@ -14,17 +40,43 @@
       "contained": "0"
     },
     {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-19 23:30:08",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "364,113 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "30"
+    },
+    {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
       "state": "IDAHO",
-      "updated": "2021-07-19 23:14:26",
+      "updated": "2021-07-19 23:26:01",
       "lat": "48.341",
       "lng": "-116.22",
       "size": "436 Acres",
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "31"
+    },
+    {
+      "name": "Grandview",
+      "type": "Wildfire",
+      "summary": "The Grandview Fire was reported at 1:30 p.m., Sunday, July 11th,...",
+      "state": "OREGON",
+      "updated": "2021-07-19 23:21:25",
+      "lat": "44.466",
+      "lng": "-121.4",
+      "size": "6,032 Acres",
+      "url": "/incident/7651/",
+      "id": "7651",
+      "contained": "72"
     },
     {
       "name": "Nez Perce Clearwater Lighting Fires",
@@ -64,19 +116,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "0"
-    },
-    {
-      "name": "Grandview",
-      "type": "Wildfire",
-      "summary": "The Grandview Fire was reported at 1:30 p.m., Sunday, July 11th,...",
-      "state": "OREGON",
-      "updated": "2021-07-19 22:48:21",
-      "lat": "44.466",
-      "lng": "-121.4",
-      "size": "6,032 Acres",
-      "url": "/incident/7651/",
-      "id": "7651",
-      "contained": "72"
     },
     {
       "name": "Character Complex",
@@ -287,19 +326,6 @@
       "contained": "88"
     },
     {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-19 20:41:32",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "4,443 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "0"
-    },
-    {
       "name": "Muddy Slide Fire",
       "type": "Wildfire",
       "summary": "The Muddy Slide Fire started by lightning on June 20, 2021.At 6 a.m....",
@@ -415,19 +441,6 @@
       "url": "/incident/7614/",
       "id": "7614",
       "contained": "50"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-19 19:54:42",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "343,755 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "25"
     },
     {
       "name": "Lost Fire",
@@ -805,19 +818,6 @@
       "url": "/incident/7678/",
       "id": "7678",
       "contained": "100"
-    },
-    {
-      "name": "Shale Creek",
-      "type": "Wildfire",
-      "summary": "The Shale Creek Fire is located on Indian Ridge in the Commissary...",
-      "state": "WYOMING",
-      "updated": "2021-07-19 11:04:23",
-      "lat": "42.236",
-      "lng": "-110.606",
-      "size": "90 Acres",
-      "url": "/incident/7689/",
-      "id": "7689",
-      "contained": "0"
     },
     {
       "name": "Trail Creek Fire",
