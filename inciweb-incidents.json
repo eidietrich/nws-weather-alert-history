@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
+      "state": "NEVADA",
+      "updated": "2021-07-20 15:16:27",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "39,045 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
+    },
+    {
+      "name": "Red Apple",
+      "type": "Wildfire",
+      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-20 15:14:58",
+      "lat": "47.508",
+      "lng": "-120.426",
+      "size": "12,288 Acres",
+      "url": "/incident/7667/",
+      "id": "7667",
+      "contained": "90"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-20 15:11:09",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "73,190 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "45"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on Friday, July 17, 2021. It is located...",
+      "state": "WYOMING",
+      "updated": "2021-07-20 15:10:38",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "383 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "0"
+    },
+    {
+      "name": "Tennant Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-20 15:04:12",
+      "lat": "41.733",
+      "lng": "-122.107",
+      "size": "0 Acres",
+      "url": "/incident/7699/",
+      "id": "7699",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-20 15:01:47",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "388,359 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "30"
+    },
+    {
       "name": "Dixie-Jumbo Fires",
       "type": "Wildfire",
       "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
       "state": "IDAHO",
-      "updated": "2021-07-20 14:46:43",
+      "updated": "2021-07-20 14:57:00",
       "lat": "45.586",
       "lng": "-115.444",
       "size": "29,309 Acres",
@@ -14,30 +92,30 @@
       "contained": "8"
     },
     {
-      "name": "County Line",
-      "type": "Wildfire",
-      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-20 14:46:03",
-      "lat": "37.835",
-      "lng": "-119.619",
-      "size": "224 Acres",
-      "url": "/incident/7613/",
-      "id": "7613",
-      "contained": "70"
-    },
-    {
       "name": "Lukens",
       "type": "Wildfire",
       "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-20 14:41:19",
+      "updated": "2021-07-20 14:53:15",
       "lat": "37.851",
       "lng": "-119.618",
       "size": "450 Acres",
       "url": "/incident/7614/",
       "id": "7614",
       "contained": "50"
+    },
+    {
+      "name": "County Line",
+      "type": "Wildfire",
+      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-20 14:47:45",
+      "lat": "37.835",
+      "lng": "-119.619",
+      "size": "224 Acres",
+      "url": "/incident/7613/",
+      "id": "7613",
+      "contained": "70"
     },
     {
       "name": "Alder Creek Fire",
@@ -50,32 +128,6 @@
       "size": "5,674 Acres",
       "url": "/incident/7641/",
       "id": "7641",
-      "contained": "0"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on Friday, July 17, 2021. It is located...",
-      "state": "WYOMING",
-      "updated": "2021-07-20 14:26:33",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "383 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "0"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
-      "state": "NEVADA",
-      "updated": "2021-07-20 14:17:04",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "39,045 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
       "contained": "0"
     },
     {
@@ -352,19 +404,6 @@
       "contained": "25"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-20 12:11:44",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "388,359 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "30"
-    },
-    {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
@@ -441,19 +480,6 @@
       "url": "/incident/7304/",
       "id": "7304",
       "contained": "0"
-    },
-    {
-      "name": "Red Apple",
-      "type": "Wildfire",
-      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-20 11:20:50",
-      "lat": "47.508",
-      "lng": "-120.426",
-      "size": "12,288 Acres",
-      "url": "/incident/7667/",
-      "id": "7667",
-      "contained": "90"
     },
     {
       "name": "Beckwourth  Complex",
@@ -573,19 +599,6 @@
       "contained": "20"
     },
     {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-20 10:29:15",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "73,190 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "45"
-    },
-    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
@@ -688,19 +701,6 @@
       "url": "/incident/7643/",
       "id": "7643",
       "contained": "10"
-    },
-    {
-      "name": "Tennant Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-19 22:01:58",
-      "lat": "41.733",
-      "lng": "-122.107",
-      "size": "0 Acres",
-      "url": "/incident/7699/",
-      "id": "7699",
-      "contained": "0"
     },
     {
       "name": "Salt Post-Fire BAER",
