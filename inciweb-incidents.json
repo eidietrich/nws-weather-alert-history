@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Hoover",
+      "type": "Wildfire",
+      "summary": "The Hoover Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-20 15:44:32",
+      "lat": "37.654",
+      "lng": "-119.489",
+      "size": "3 Acres",
+      "url": "/incident/7701/",
+      "id": "7701",
+      "contained": "0"
+    },
+    {
+      "name": "Lava Fire",
+      "type": "Wildfire",
+      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-20 15:37:44",
+      "lat": "41.459",
+      "lng": "-122.329",
+      "size": "26,316 Acres",
+      "url": "/incident/7581/",
+      "id": "7581",
+      "contained": "77"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
+      "state": "NEVADA",
+      "updated": "2021-07-20 15:36:41",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "39,045 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
+    },
+    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -38,32 +77,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "45"
-    },
-    {
-      "name": "Lava Fire",
-      "type": "Wildfire",
-      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-20 15:27:32",
-      "lat": "41.459",
-      "lng": "-122.329",
-      "size": "26,316 Acres",
-      "url": "/incident/7581/",
-      "id": "7581",
-      "contained": "77"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
-      "state": "NEVADA",
-      "updated": "2021-07-20 15:25:53",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "39,045 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "0"
     },
     {
       "name": "Crater Ridge",
