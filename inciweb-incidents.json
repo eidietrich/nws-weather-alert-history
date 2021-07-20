@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Peak Fire",
+      "type": "Wildfire",
+      "summary": "The BLM, U.S. Forest Service and Kern County Fire Department are in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-20 18:09:28",
+      "lat": "35.245",
+      "lng": "-118.261",
+      "size": "0 Acres",
+      "url": "/incident/7703/",
+      "id": "7703",
+      "contained": "0"
+    },
+    {
+      "name": "Lava Fire",
+      "type": "Wildfire",
+      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-20 18:08:20",
+      "lat": "41.459",
+      "lng": "-122.329",
+      "size": "26,316 Acres",
+      "url": "/incident/7581/",
+      "id": "7581",
+      "contained": "77"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-20 18:02:22",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "388,359 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "30"
+    },
+    {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
+      "state": "IDAHO",
+      "updated": "2021-07-20 17:55:29",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "4,500 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "20"
+    },
+    {
       "name": "Animas City Mountain Prescribed Burn",
       "type": "Prescribed Fire",
       "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
@@ -66,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-20 17:14:11",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "388,359 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "30"
-    },
-    {
       "name": "Red Apple",
       "type": "Wildfire",
       "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
@@ -142,19 +181,6 @@
       "url": "/incident/7699/",
       "id": "7699",
       "contained": "0"
-    },
-    {
-      "name": "Lava Fire",
-      "type": "Wildfire",
-      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-20 15:48:08",
-      "lat": "41.459",
-      "lng": "-122.329",
-      "size": "26,316 Acres",
-      "url": "/incident/7581/",
-      "id": "7581",
-      "contained": "77"
     },
     {
       "name": "Green Ridge Fire",
@@ -662,19 +688,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "15"
-    },
-    {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
-      "state": "IDAHO",
-      "updated": "2021-07-20 10:29:52",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "4,500 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "20"
     },
     {
       "name": "Snake River Complex",
