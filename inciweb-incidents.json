@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-21 10:51:22",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "5,307 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "0"
+    },
+    {
+      "name": "Wegner",
+      "type": "Wildfire",
+      "summary": " There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 10:49:38",
+      "lat": "37.849",
+      "lng": "-119.552",
+      "size": "0 Acres",
+      "url": "/incident/7705/",
+      "id": "7705",
+      "contained": "0"
+    },
+    {
+      "name": "Beckwourth  Complex",
+      "type": "Wildfire",
+      "summary": "Daily Update | Smoke Outlook | Beckwourth Complex...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 10:49:31",
+      "lat": "39.875",
+      "lng": "-120.368",
+      "size": "105,670 Acres",
+      "url": "/incident/7601/",
+      "id": "7601",
+      "contained": "90"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
+      "state": "OREGON",
+      "updated": "2021-07-21 10:47:45",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "19,352 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
       "state": "IDAHO",
-      "updated": "2021-07-21 10:39:21",
+      "updated": "2021-07-21 10:47:10",
       "lat": "45.183",
       "lng": "-114.421",
       "size": "16,440 Acres",
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "0"
+    },
+    {
+      "name": "Half Moon",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 10:45:25",
+      "lat": "37.893",
+      "lng": "-119.552",
+      "size": "1 Acres",
+      "url": "/incident/7670/",
+      "id": "7670",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-21 10:41:51",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "14,857 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
     },
     {
       "name": "Peak Fire",
@@ -118,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-21 10:18:50",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "14,857 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -193,19 +258,6 @@
       "size": "383 Acres",
       "url": "/incident/7685/",
       "id": "7685",
-      "contained": "0"
-    },
-    {
-      "name": "Half Moon",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 09:47:10",
-      "lat": "37.893",
-      "lng": "-119.552",
-      "size": "1 Acres",
-      "url": "/incident/7670/",
-      "id": "7670",
       "contained": "0"
     },
     {
@@ -285,19 +337,6 @@
       "url": "/incident/7678/",
       "id": "7678",
       "contained": "0"
-    },
-    {
-      "name": "Beckwourth  Complex",
-      "type": "Wildfire",
-      "summary": "Daily Update | Smoke Outlook | Beckwourth Complex...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 09:21:40",
-      "lat": "39.875",
-      "lng": "-120.368",
-      "size": "105,670 Acres",
-      "url": "/incident/7601/",
-      "id": "7601",
-      "contained": "90"
     },
     {
       "name": "South Yaak",
@@ -599,19 +638,6 @@
       "contained": "70"
     },
     {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-20 20:33:09",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "5,307 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "0"
-    },
-    {
       "name": "Granite Pass Complex",
       "type": "Wildfire",
       "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
@@ -779,19 +805,6 @@
       "url": "/incident/7666/",
       "id": "7666",
       "contained": "100"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-20 13:08:14",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "18,993 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
     },
     {
       "name": "Robertson Draw",
