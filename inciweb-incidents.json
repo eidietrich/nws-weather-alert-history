@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Glacier Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Glacier Fire was reported on 1:18 p.m. on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 15:43:40",
+      "lat": "37.145",
+      "lng": "-118.42",
+      "size": "49 Acres",
+      "url": "/incident/7668/",
+      "id": "7668",
+      "contained": "95"
+    },
+    {
+      "name": "Elbow Creek",
+      "type": "Wildfire",
+      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
+      "state": "OREGON",
+      "updated": "2021-07-21 15:43:39",
+      "lat": "45.867",
+      "lng": "-117.619",
+      "size": "17,271 Acres",
+      "url": "/incident/7672/",
+      "id": "7672",
+      "contained": "20"
+    },
+    {
       "name": "Dixie Fire",
       "type": "Wildfire",
       "summary": " Current Conditions: The Dixie Fire remained active overnight with...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-21 15:33:30",
+      "updated": "2021-07-21 15:36:22",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "85,479 Acres",
@@ -118,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Glacier Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Glacier Fire was reported on 1:18 p.m. on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 14:43:40",
-      "lat": "37.145",
-      "lng": "-118.42",
-      "size": "49 Acres",
-      "url": "/incident/7668/",
-      "id": "7668",
-      "contained": "90"
-    },
-    {
       "name": "Goddard Road Fire",
       "type": "Wildfire",
       "summary": " Yesterday, a portion of the fire escaped containment lines,...",
@@ -233,19 +246,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "0"
-    },
-    {
-      "name": "Elbow Creek",
-      "type": "Wildfire",
-      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
-      "state": "OREGON",
-      "updated": "2021-07-21 14:08:35",
-      "lat": "45.867",
-      "lng": "-117.619",
-      "size": "17,271 Acres",
-      "url": "/incident/7672/",
-      "id": "7672",
-      "contained": "20"
     },
     {
       "name": "Anderson Hill Fire",
