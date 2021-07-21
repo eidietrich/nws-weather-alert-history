@@ -1,37 +1,89 @@
 {
   "markers": [
     {
-      "name": "Morgan Creek Fire",
+      "name": "Dixie-Jumbo Fires",
       "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-21 10:51:22",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "5,307 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
+      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
+      "state": "IDAHO",
+      "updated": "2021-07-21 11:27:24",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "29,309 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "10"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 11:25:51",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "2,104 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "13"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-21 11:25:00",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "14,857 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 11:24:08",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "128 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
       "contained": "0"
     },
     {
-      "name": "Wegner",
+      "name": "Robertson Draw",
       "type": "Wildfire",
-      "summary": " There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 10:49:38",
-      "lat": "37.849",
-      "lng": "-119.552",
-      "size": "0 Acres",
-      "url": "/incident/7705/",
-      "id": "7705",
-      "contained": "0"
+      "summary": "&amp;#183;An Evacuation Warning is in place for the Rock Creek Drainage...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 11:22:43",
+      "lat": "45.015",
+      "lng": "-109.253",
+      "size": "29,841 Acres",
+      "url": "/incident/7537/",
+      "id": "7537",
+      "contained": "85"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-21 11:21:03",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "35,134 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "5"
     },
     {
       "name": "Beckwourth  Complex",
       "type": "Wildfire",
       "summary": "Daily Update | Smoke Outlook | Beckwourth Complex...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-21 10:49:31",
+      "updated": "2021-07-21 11:20:51",
       "lat": "39.875",
       "lng": "-120.368",
       "size": "105,670 Acres",
@@ -44,7 +96,7 @@
       "type": "Wildfire",
       "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
       "state": "OREGON",
-      "updated": "2021-07-21 10:47:45",
+      "updated": "2021-07-21 11:20:19",
       "lat": "43.322",
       "lng": "-122.686",
       "size": "19,352 Acres",
@@ -53,16 +105,198 @@
       "contained": "55"
     },
     {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-21 11:18:53",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,407 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "40"
+    },
+    {
+      "name": "Henry Fire",
+      "type": "Wildfire",
+      "summary": "On June 24, 2021, a lightning storm ignited a fire in the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 11:18:43",
+      "lat": "38.465",
+      "lng": "-119.863",
+      "size": "1,316 Acres",
+      "url": "/incident/7639/",
+      "id": "7639",
+      "contained": "52"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 11:17:26",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "5,674 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "3"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 11:16:33",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "23,070 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-21 11:16:28",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "394,407 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "32"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 11:16:24",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "8,334 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "0"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
+      "state": "IDAHO",
+      "updated": "2021-07-21 11:12:29",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "4,301 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "10"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 11:11:07",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "1,688 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "0"
+    },
+    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
       "state": "IDAHO",
-      "updated": "2021-07-21 10:47:10",
+      "updated": "2021-07-21 11:10:18",
       "lat": "45.183",
       "lng": "-114.421",
       "size": "16,440 Acres",
       "url": "/incident/7638/",
       "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "County Line",
+      "type": "Wildfire",
+      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 11:09:00",
+      "lat": "37.835",
+      "lng": "-119.619",
+      "size": "224 Acres",
+      "url": "/incident/7613/",
+      "id": "7613",
+      "contained": "85"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 11:07:52",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "450 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "50"
+    },
+    {
+      "name": "Creek Fire",
+      "type": "Wildfire",
+      "summary": "CLOVIS, Calif., December 24, 2020 – For Immediate Release. With the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 11:02:49",
+      "lat": "37.201",
+      "lng": "-119.272",
+      "size": "379,895 Acres",
+      "url": "/incident/7147/",
+      "id": "7147",
+      "contained": "100"
+    },
+    {
+      "name": "Hoover",
+      "type": "Wildfire",
+      "summary": "The Hoover Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 11:02:24",
+      "lat": "37.654",
+      "lng": "-119.489",
+      "size": "10 Acres",
+      "url": "/incident/7701/",
+      "id": "7701",
+      "contained": "0"
+    },
+    {
+      "name": "Wegner",
+      "type": "Wildfire",
+      "summary": " There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 11:00:19",
+      "lat": "37.849",
+      "lng": "-119.552",
+      "size": "0 Acres",
+      "url": "/incident/7705/",
+      "id": "7705",
+      "contained": "0"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-21 10:52:24",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "5,307 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
       "contained": "0"
     },
     {
@@ -79,19 +313,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-21 10:41:51",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "14,857 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
-    },
-    {
       "name": "Peak Fire",
       "type": "Wildfire",
       "summary": "The BLM, U.S. Forest Service and Kern County Fire Department are in...",
@@ -105,19 +326,6 @@
       "contained": "5"
     },
     {
-      "name": "Henry Fire",
-      "type": "Wildfire",
-      "summary": "On June 24, 2021, a lightning storm ignited a fire in the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 10:36:22",
-      "lat": "38.465",
-      "lng": "-119.863",
-      "size": "1,316 Acres",
-      "url": "/incident/7639/",
-      "id": "7639",
-      "contained": "52"
-    },
-    {
       "name": "Bruler Fire",
       "type": "Wildfire",
       "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
@@ -129,19 +337,6 @@
       "url": "/incident/7663/",
       "id": "7663",
       "contained": "12"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-21 10:32:55",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "394,407 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "32"
     },
     {
       "name": "Tamarack Fire",
@@ -181,19 +376,6 @@
       "url": "/incident/7644/",
       "id": "7644",
       "contained": "25"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 10:20:04",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "1,688 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "0"
     },
     {
       "name": "Green Ridge Fire",
@@ -261,19 +443,6 @@
       "contained": "0"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-21 09:41:15",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "35,134 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "5"
-    },
-    {
       "name": "Club Fire",
       "type": "Wildfire",
       "summary": "The Club Creek Fire is located 3 miles southwest of Root Ranch. Crews...",
@@ -298,19 +467,6 @@
       "url": "/incident/7689/",
       "id": "7689",
       "contained": "10"
-    },
-    {
-      "name": "County Line",
-      "type": "Wildfire",
-      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 09:33:27",
-      "lat": "37.835",
-      "lng": "-119.619",
-      "size": "224 Acres",
-      "url": "/incident/7613/",
-      "id": "7613",
-      "contained": "85"
     },
     {
       "name": "Quartzite",
@@ -339,32 +495,6 @@
       "contained": "0"
     },
     {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 09:20:58",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "128 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "0"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 09:15:19",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "2,104 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "13"
-    },
-    {
       "name": "Goose Fire",
       "type": "Wildfire",
       "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
@@ -376,19 +506,6 @@
       "url": "/incident/7618/",
       "id": "7618",
       "contained": "34"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 09:04:52",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "5,674 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "0"
     },
     {
       "name": "Sylvan Fire",
@@ -508,19 +625,6 @@
       "contained": "84"
     },
     {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
-      "state": "IDAHO",
-      "updated": "2021-07-20 21:54:32",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "4,301 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "10"
-    },
-    {
       "name": "Dexter Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
@@ -545,19 +649,6 @@
       "url": "/incident/7702/",
       "id": "7702",
       "contained": "0"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-20 21:39:26",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,407 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "40"
     },
     {
       "name": "Dixie Fire",
@@ -651,19 +742,6 @@
       "contained": "0"
     },
     {
-      "name": "Dixie-Jumbo Fires",
-      "type": "Wildfire",
-      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
-      "state": "IDAHO",
-      "updated": "2021-07-20 19:35:19",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "29,309 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "10"
-    },
-    {
       "name": "Darlene",
       "type": "Wildfire",
       "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
@@ -675,19 +753,6 @@
       "url": "/incident/7665/",
       "id": "7665",
       "contained": "95"
-    },
-    {
-      "name": "Hoover",
-      "type": "Wildfire",
-      "summary": "The Hoover Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-20 19:25:16",
-      "lat": "37.654",
-      "lng": "-119.489",
-      "size": "10 Acres",
-      "url": "/incident/7701/",
-      "id": "7701",
-      "contained": "0"
     },
     {
       "name": "Lava Fire",
@@ -729,19 +794,6 @@
       "contained": "0"
     },
     {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-20 14:53:15",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "450 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "50"
-    },
-    {
       "name": "Anderson Hill Fire",
       "type": "Wildfire",
       "summary": "This fire originated in Granite County one mile southeast of Garnet...",
@@ -753,19 +805,6 @@
       "url": "/incident/7671/",
       "id": "7671",
       "contained": "20"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
-      "state": "MONTANA",
-      "updated": "2021-07-20 13:46:34",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "5,200 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "0"
     },
     {
       "name": "Woods Creek Fire",
@@ -781,19 +820,6 @@
       "contained": "0"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-20 13:20:02",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "23,070 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "0"
-    },
-    {
       "name": "Lost Fire",
       "type": "Wildfire",
       "summary": "Discovered on July 10, 2021, the lightning-caused Lost Fire is...",
@@ -805,19 +831,6 @@
       "url": "/incident/7666/",
       "id": "7666",
       "contained": "100"
-    },
-    {
-      "name": "Robertson Draw",
-      "type": "Wildfire",
-      "summary": "&amp;#183;An Evacuation Warning is in place for the Rock Creek Drainage...",
-      "state": "MONTANA",
-      "updated": "2021-07-20 12:57:12",
-      "lat": "45.015",
-      "lng": "-109.253",
-      "size": "29,841 Acres",
-      "url": "/incident/7537/",
-      "id": "7537",
-      "contained": "85"
     },
     {
       "name": "Glacier Fire",
