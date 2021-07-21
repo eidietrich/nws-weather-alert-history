@@ -1,11 +1,154 @@
 {
   "markers": [
     {
+      "name": "Leland Complex",
+      "type": "Wildfire",
+      "summary": "The Leland Complex is composed of three wildfires: The Sand Mountain,...",
+      "state": "IDAHO",
+      "updated": "2021-07-21 13:41:15",
+      "lat": "46.746",
+      "lng": "-116.628",
+      "size": "2,950 Acres",
+      "url": "/incident/7644/",
+      "id": "7644",
+      "contained": "25"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The Black Mountain fire was reported to the Dillon Interagency...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 13:41:05",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "865 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Muddy Slide Fire",
+      "type": "Wildfire",
+      "summary": "Muddy Slide Fire Update Wednesday, July 21, 2021The Muddy Slide Fire...",
+      "state": "COLORADO",
+      "updated": "2021-07-21 13:40:24",
+      "lat": "40.143",
+      "lng": "-106.798",
+      "size": "4,093 Acres",
+      "url": "/incident/7566/",
+      "id": "7566",
+      "contained": "70"
+    },
+    {
+      "name": "Anderson Hill Fire",
+      "type": "Wildfire",
+      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 13:31:41",
+      "lat": "46.818",
+      "lng": "-113.334",
+      "size": "750 Acres",
+      "url": "/incident/7671/",
+      "id": "7671",
+      "contained": "30"
+    },
+    {
+      "name": "Peak Fire",
+      "type": "Wildfire",
+      "summary": "The BLM, U.S. Forest Service and Kern County Fire Department are in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 13:31:30",
+      "lat": "35.406",
+      "lng": "-118.436",
+      "size": "1,752 Acres",
+      "url": "/incident/7703/",
+      "id": "7703",
+      "contained": "5"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 13:30:49",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "1,688 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "0"
+    },
+    {
+      "name": "Lava Fire",
+      "type": "Wildfire",
+      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 13:28:01",
+      "lat": "41.459",
+      "lng": "-122.329",
+      "size": "26,316 Acres",
+      "url": "/incident/7581/",
+      "id": "7581",
+      "contained": "77"
+    },
+    {
+      "name": "Too Kush 2",
+      "type": "Wildfire",
+      "summary": "The Too Kush 2 wildfire was started by lightning on July 2, 2021. It...",
+      "state": "IDAHO",
+      "updated": "2021-07-21 13:26:21",
+      "lat": "46.145",
+      "lng": "-115.907",
+      "size": "1,341 Acres",
+      "url": "/incident/7659/",
+      "id": "7659",
+      "contained": "90"
+    },
+    {
+      "name": "Dixie Fire",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire burned actively throughout the day moving to the East...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 13:26:11",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "85,479 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "15"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
+      "state": "NEVADA",
+      "updated": "2021-07-21 13:25:19",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "39,045 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
+    },
+    {
+      "name": "Tennant Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 13:24:44",
+      "lat": "41.733",
+      "lng": "-122.107",
+      "size": "0 Acres",
+      "url": "/incident/7699/",
+      "id": "7699",
+      "contained": "0"
+    },
+    {
       "name": "Salt Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-21 13:21:11",
+      "updated": "2021-07-21 13:22:21",
       "lat": "40.916",
       "lng": "-122.403",
       "size": "0 Acres",
@@ -38,32 +181,6 @@
       "url": "/incident/7693/",
       "id": "7693",
       "contained": "0"
-    },
-    {
-      "name": "Too Kush 2",
-      "type": "Wildfire",
-      "summary": "The Too Kush 2 wildfire was started by lightning on July 2, 2021 on...",
-      "state": "IDAHO",
-      "updated": "2021-07-21 13:16:47",
-      "lat": "46.145",
-      "lng": "-115.907",
-      "size": "1,341 Acres",
-      "url": "/incident/7659/",
-      "id": "7659",
-      "contained": "90"
-    },
-    {
-      "name": "Leland Complex",
-      "type": "Wildfire",
-      "summary": "The Leland Complex is composed of three wildfires: The Sand Mountain,...",
-      "state": "IDAHO",
-      "updated": "2021-07-21 13:15:33",
-      "lat": "46.746",
-      "lng": "-116.628",
-      "size": "2,950 Acres",
-      "url": "/incident/7644/",
-      "id": "7644",
-      "contained": "25"
     },
     {
       "name": "Tango Fire",
@@ -222,19 +339,6 @@
       "contained": "90"
     },
     {
-      "name": "Muddy Slide Fire",
-      "type": "Wildfire",
-      "summary": "Muddy Slide Fire Update Wednesday, July 21, 2021The Muddy Slide Fire...",
-      "state": "COLORADO",
-      "updated": "2021-07-21 12:26:03",
-      "lat": "40.143",
-      "lng": "-106.798",
-      "size": "4,093 Acres",
-      "url": "/incident/7566/",
-      "id": "7566",
-      "contained": "70"
-    },
-    {
       "name": "Dry Cabin",
       "type": "Wildfire",
       "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
@@ -258,19 +362,6 @@
       "size": "23,875 Acres",
       "url": "/incident/7634/",
       "id": "7634",
-      "contained": "0"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
-      "state": "NEVADA",
-      "updated": "2021-07-21 12:18:09",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "39,045 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
       "contained": "0"
     },
     {
@@ -300,19 +391,6 @@
       "contained": "5"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 12:06:07",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "1,688 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "0"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -337,19 +415,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
-    },
-    {
-      "name": "Peak Fire",
-      "type": "Wildfire",
-      "summary": "The BLM, U.S. Forest Service and Kern County Fire Department are in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 12:01:23",
-      "lat": "35.406",
-      "lng": "-118.436",
-      "size": "1,600 Acres",
-      "url": "/incident/7703/",
-      "id": "7703",
-      "contained": "5"
     },
     {
       "name": "Creek Fire",
@@ -755,19 +820,6 @@
       "contained": "96"
     },
     {
-      "name": "Dixie Fire",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire burned actively throughout the day moving to the East...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-20 21:19:22",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "61,376 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "15"
-    },
-    {
       "name": "Harris ",
       "type": "Wildfire",
       "summary": " Incident OverviewThe Harris Fire was first reported Thursday, July...",
@@ -846,19 +898,6 @@
       "contained": "95"
     },
     {
-      "name": "Lava Fire",
-      "type": "Wildfire",
-      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-20 18:08:20",
-      "lat": "41.459",
-      "lng": "-122.329",
-      "size": "26,316 Acres",
-      "url": "/incident/7581/",
-      "id": "7581",
-      "contained": "77"
-    },
-    {
       "name": "Animas City Mountain Prescribed Burn",
       "type": "Prescribed Fire",
       "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
@@ -870,32 +909,6 @@
       "url": "/incident/7688/",
       "id": "7688",
       "contained": "0"
-    },
-    {
-      "name": "Tennant Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-20 16:11:17",
-      "lat": "41.733",
-      "lng": "-122.107",
-      "size": "0 Acres",
-      "url": "/incident/7699/",
-      "id": "7699",
-      "contained": "0"
-    },
-    {
-      "name": "Anderson Hill Fire",
-      "type": "Wildfire",
-      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
-      "state": "MONTANA",
-      "updated": "2021-07-20 13:59:48",
-      "lat": "46.818",
-      "lng": "-113.334",
-      "size": "800 Acres",
-      "url": "/incident/7671/",
-      "id": "7671",
-      "contained": "20"
     },
     {
       "name": "Woods Creek Fire",
@@ -1000,19 +1013,6 @@
       "url": "/incident/7643/",
       "id": "7643",
       "contained": "10"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The Black Mountain fire was reported to the Dillon Interagency...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 20:10:23",
-      "lat": "45.186",
-      "lng": "-113.479",
-      "size": "865 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
     },
     {
       "name": "Goat Fire",
