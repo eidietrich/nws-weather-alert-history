@@ -1,50 +1,24 @@
 {
   "markers": [
     {
-      "name": "Porcupine",
+      "name": "Bootleg Fire",
       "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 09:25:26",
-      "lat": "37.825",
-      "lng": "-119.552",
-      "size": "10 Acres",
-      "url": "/incident/7678/",
-      "id": "7678",
-      "contained": "0"
-    },
-    {
-      "name": "Quartzite",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 09:24:38",
-      "lat": "37.702",
-      "lng": "-119.467",
-      "size": "0 Acres",
-      "url": "/incident/7612/",
-      "id": "7612",
-      "contained": "100"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 09:23:51",
-      "lat": "47.133",
-      "lng": "-114.643",
-      "size": "2,408 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "18"
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-21 09:45:13",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "394,407 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "32"
     },
     {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
       "state": "WASHINGTON",
-      "updated": "2021-07-21 09:22:49",
+      "updated": "2021-07-21 09:41:15",
       "lat": "48.551",
       "lng": "-120.194",
       "size": "35,134 Acres",
@@ -53,16 +27,107 @@
       "contained": "5"
     },
     {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-21 09:41:05",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "14,857 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
       "name": "Club Fire",
       "type": "Wildfire",
-      "summary": "The Club Fire is located 3 miles southwest of Root Ranch. Crews are...",
+      "summary": "The Club Creek Fire is located 3 miles southwest of Root Ranch. Crews...",
       "state": "IDAHO",
-      "updated": "2021-07-21 09:21:53",
+      "updated": "2021-07-21 09:34:09",
       "lat": "45.28",
-      "lng": "-115.913",
+      "lng": "-115.055",
       "size": "0 Acres",
       "url": "/incident/7704/",
       "id": "7704",
+      "contained": "0"
+    },
+    {
+      "name": "Shale Creek",
+      "type": "Wildfire",
+      "summary": "The Kemmerer District of Bridger-Teton National Forest has issued a...",
+      "state": "WYOMING",
+      "updated": "2021-07-21 09:33:57",
+      "lat": "42.236",
+      "lng": "-110.606",
+      "size": "160 Acres",
+      "url": "/incident/7689/",
+      "id": "7689",
+      "contained": "10"
+    },
+    {
+      "name": "County Line",
+      "type": "Wildfire",
+      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 09:33:27",
+      "lat": "37.835",
+      "lng": "-119.619",
+      "size": "224 Acres",
+      "url": "/incident/7613/",
+      "id": "7613",
+      "contained": "85"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 09:31:50",
+      "lat": "47.133",
+      "lng": "-114.643",
+      "size": "2,408 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "18"
+    },
+    {
+      "name": "Quartzite",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 09:31:28",
+      "lat": "37.702",
+      "lng": "-119.467",
+      "size": "0 Acres",
+      "url": "/incident/7612/",
+      "id": "7612",
+      "contained": "100"
+    },
+    {
+      "name": "Porcupine",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 09:30:26",
+      "lat": "37.825",
+      "lng": "-119.552",
+      "size": "10 Acres",
+      "url": "/incident/7678/",
+      "id": "7678",
+      "contained": "0"
+    },
+    {
+      "name": "Half Moon",
+      "type": "Wildfire",
+      "summary": "There are multiple fires burning in Yosemite National Park...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 09:27:48",
+      "lat": "37.893",
+      "lng": "-119.552",
+      "size": "1 Acres",
+      "url": "/incident/7670/",
+      "id": "7670",
       "contained": "0"
     },
     {
@@ -90,19 +155,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": " Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-21 09:20:18",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "14,857 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
     },
     {
       "name": "Mud Lick Fire",
@@ -170,19 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-21 09:06:21",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "394,407 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "32"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -220,19 +259,6 @@
       "url": "/incident/7644/",
       "id": "7644",
       "contained": "25"
-    },
-    {
-      "name": "Shale Creek",
-      "type": "Wildfire",
-      "summary": "The Kemmerer District of Bridger-Teton National Forest has issued a...",
-      "state": "WYOMING",
-      "updated": "2021-07-21 08:49:45",
-      "lat": "42.236",
-      "lng": "-110.606",
-      "size": "160 Acres",
-      "url": "/incident/7689/",
-      "id": "7689",
-      "contained": "10"
     },
     {
       "name": "Sylvan Fire",
@@ -664,19 +690,6 @@
       "contained": "50"
     },
     {
-      "name": "County Line",
-      "type": "Wildfire",
-      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-20 14:47:45",
-      "lat": "37.835",
-      "lng": "-119.619",
-      "size": "224 Acres",
-      "url": "/incident/7613/",
-      "id": "7613",
-      "contained": "70"
-    },
-    {
       "name": "Anderson Hill Fire",
       "type": "Wildfire",
       "summary": "This fire originated in Granite County one mile southeast of Garnet...",
@@ -1038,19 +1051,6 @@
       "size": "2 Acres",
       "url": "/incident/7669/",
       "id": "7669",
-      "contained": "0"
-    },
-    {
-      "name": "Half Moon",
-      "type": "Wildfire",
-      "summary": "There are multiple fires burning in Yosemite National Park...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-18 14:58:08",
-      "lat": "37.893",
-      "lng": "-119.552",
-      "size": "1 Acres",
-      "url": "/incident/7670/",
-      "id": "7670",
       "contained": "0"
     },
     {
