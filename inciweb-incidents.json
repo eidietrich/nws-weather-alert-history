@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire",
+      "type": "Wildfire",
+      "summary": " Current Conditions: The Dixie Fire remained active overnight with...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-21 18:26:07",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "85,479 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "15"
+    },
+    {
+      "name": "Vinegar Fire",
+      "type": "Wildfire",
+      "summary": "The Vinegar Fire is approximately 2 miles north of the Cabin Creek...",
+      "state": "IDAHO",
+      "updated": "2021-07-21 18:22:42",
+      "lat": "45.179",
+      "lng": "-114.905",
+      "size": "250 Acres",
+      "url": "/incident/7709/",
+      "id": "7709",
+      "contained": "0"
+    },
+    {
+      "name": "Club Fire",
+      "type": "Wildfire",
+      "summary": "The Club Creek Fire is located 3 miles southwest of Root Ranch. Crews...",
+      "state": "IDAHO",
+      "updated": "2021-07-21 18:19:02",
+      "lat": "45.28",
+      "lng": "-115.055",
+      "size": "24 Acres",
+      "url": "/incident/7704/",
+      "id": "7704",
+      "contained": "0"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
+      "state": "OREGON",
+      "updated": "2021-07-21 18:18:47",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "19,352 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
       "name": "Rush Creek",
       "type": "Wildfire",
       "summary": "The Rush Creek Fire is located at the confluence of Telephone and...",
@@ -12,19 +64,6 @@
       "url": "/incident/7710/",
       "id": "7710",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire",
-      "type": "Wildfire",
-      "summary": " Current Conditions: The Dixie Fire remained active overnight with...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 18:13:31",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "85,479 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "15"
     },
     {
       "name": "Nez Perce Clearwater Lightning Fires",
@@ -232,32 +271,6 @@
       "size": "946 Acres",
       "url": "/incident/7691/",
       "id": "7691",
-      "contained": "0"
-    },
-    {
-      "name": "Club Fire",
-      "type": "Wildfire",
-      "summary": "The Club Creek Fire is located 3 miles southwest of Root Ranch. Crews...",
-      "state": "IDAHO",
-      "updated": "2021-07-21 16:56:25",
-      "lat": "45.28",
-      "lng": "-115.055",
-      "size": "24 Acres",
-      "url": "/incident/7704/",
-      "id": "7704",
-      "contained": "0"
-    },
-    {
-      "name": "Vinegar Fire",
-      "type": "Wildfire",
-      "summary": "The Vinegar Fire is approximately 2 miles north of the Cabin Creek...",
-      "state": "IDAHO",
-      "updated": "2021-07-21 16:49:44",
-      "lat": "45.179",
-      "lng": "-114.905",
-      "size": "250 Acres",
-      "url": "/incident/7709/",
-      "id": "7709",
       "contained": "0"
     },
     {
@@ -688,19 +701,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-21 12:01:37",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "19,352 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
     },
     {
       "name": "Creek Fire",
