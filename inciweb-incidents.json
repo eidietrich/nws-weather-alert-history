@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Goddard Road Fire",
+      "type": "Wildfire",
+      "summary": " Yesterday, a portion of the fire escaped containment lines,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-21 14:25:04",
+      "lat": "48.447",
+      "lng": "-118.152",
+      "size": "674 Acres",
+      "url": "/incident/7676/",
+      "id": "7676",
+      "contained": "25"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-07-21 14:23:51",
+      "lat": "46.134",
+      "lng": "-117.719",
+      "size": "3,248 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-21 14:23:22",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "73,528 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "45"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 14:22:29",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "23,875 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "      Black Mountain FireJuly 21, 2021 Morning CURRENT STATUS:The...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 14:22:07",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "946 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Shale Creek",
+      "type": "Wildfire",
+      "summary": "The Kemmerer District of Bridger-Teton National Forest has issued a...",
+      "state": "WYOMING",
+      "updated": "2021-07-21 14:19:04",
+      "lat": "42.236",
+      "lng": "-110.606",
+      "size": "160 Acres",
+      "url": "/incident/7689/",
+      "id": "7689",
+      "contained": "10"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-21 14:18:12",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "1,688 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "0"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
+      "state": "NEVADA",
+      "updated": "2021-07-21 14:14:28",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "39,045 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
+    },
+    {
       "name": "Elbow Creek",
       "type": "Wildfire",
       "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
@@ -24,58 +128,6 @@
       "size": "0 Acres",
       "url": "/incident/7704/",
       "id": "7704",
-      "contained": "0"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 14:05:40",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "1,688 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "0"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "      Black Mountain FireJuly 21, 2021 Morning CURRENT STATUS:The...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 14:05:05",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "865 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
-    },
-    {
-      "name": "Shale Creek",
-      "type": "Wildfire",
-      "summary": "The Kemmerer District of Bridger-Teton National Forest has issued a...",
-      "state": "WYOMING",
-      "updated": "2021-07-21 13:58:15",
-      "lat": "42.236",
-      "lng": "-110.606",
-      "size": "160 Acres",
-      "url": "/incident/7689/",
-      "id": "7689",
-      "contained": "10"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
-      "state": "NEVADA",
-      "updated": "2021-07-21 13:56:12",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "39,045 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
       "contained": "0"
     },
     {
@@ -248,32 +300,6 @@
       "contained": "85"
     },
     {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-21 13:07:09",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "73,528 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "45"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-07-21 13:05:44",
-      "lat": "46.134",
-      "lng": "-117.719",
-      "size": "3,248 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
-    },
-    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
@@ -388,19 +414,6 @@
       "size": "2,200 Acres",
       "url": "/incident/7660/",
       "id": "7660",
-      "contained": "0"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 12:19:19",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "23,875 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
       "contained": "0"
     },
     {
@@ -766,19 +779,6 @@
       "url": "/incident/7636/",
       "id": "7636",
       "contained": "74"
-    },
-    {
-      "name": "Goddard Road Fire",
-      "type": "Wildfire",
-      "summary": "Goddard Road Update - 9pmCrews were able to contain the portion of...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-20 23:29:22",
-      "lat": "48.447",
-      "lng": "-118.152",
-      "size": "674 Acres",
-      "url": "/incident/7676/",
-      "id": "7676",
-      "contained": "25"
     },
     {
       "name": "Nez Perce Clearwater Lighting Fires",
