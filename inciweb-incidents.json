@@ -1,24 +1,24 @@
 {
   "markers": [
     {
-      "name": "Chuweah Creek",
+      "name": "Ruby",
       "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-22 10:38:58",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,690 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "40"
+      "summary": " The Ruby Fire was detected on July 15, 2021 at 6:40 p.m.  It is...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 10:52:45",
+      "lat": "48.484",
+      "lng": "-115.94",
+      "size": "86 Acres",
+      "url": "/incident/7698/",
+      "id": "7698",
+      "contained": "75"
     },
     {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
       "state": "MONTANA",
-      "updated": "2021-07-22 10:34:35",
+      "updated": "2021-07-22 10:52:35",
       "lat": "45.79",
       "lng": "-113.101",
       "size": "5,674 Acres",
@@ -27,11 +27,76 @@
       "contained": "3"
     },
     {
+      "name": "Anderson Hill Fire",
+      "type": "Wildfire",
+      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 10:52:14",
+      "lat": "46.818",
+      "lng": "-113.334",
+      "size": "750 Acres",
+      "url": "/incident/7671/",
+      "id": "7671",
+      "contained": "30"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-22 10:50:54",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "5,942 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "0"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
+      "state": "NEVADA",
+      "updated": "2021-07-22 10:50:41",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "43,900 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie-Jumbo Fires",
+      "type": "Wildfire",
+      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 10:50:36",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "29,360 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "10"
+    },
+    {
+      "name": "Goddard Road Fire",
+      "type": "Wildfire",
+      "summary": "Goddard Road Fire Update 7/22/21News ReleaseRice, WA: Crews focused...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-22 10:47:45",
+      "lat": "48.447",
+      "lng": "-118.152",
+      "size": "784 Acres",
+      "url": "/incident/7676/",
+      "id": "7676",
+      "contained": "25"
+    },
+    {
       "name": "Beckwourth  Complex",
       "type": "Wildfire",
       "summary": "Daily Update | Beckwourth Complex Map | Operations Update...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-22 10:32:11",
+      "updated": "2021-07-22 10:42:54",
       "lat": "39.875",
       "lng": "-120.368",
       "size": "105,670 Acres",
@@ -40,17 +105,43 @@
       "contained": "96"
     },
     {
-      "name": "Dixie-Jumbo Fires",
+      "name": "Mud Lick, Haynes, and Iron Fires",
       "type": "Wildfire",
-      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
+      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
       "state": "IDAHO",
-      "updated": "2021-07-22 10:31:38",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "29,360 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "10"
+      "updated": "2021-07-22 10:42:41",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "16,488 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 10:42:10",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "23,875 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-22 10:40:01",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,690 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "40"
     },
     {
       "name": "Robertson Draw",
@@ -64,32 +155,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "85"
-    },
-    {
-      "name": "Ruby",
-      "type": "Wildfire",
-      "summary": " The Ruby Fire was detected on July 15, 2021 at 6:40 p.m.  It is...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 10:26:06",
-      "lat": "48.484",
-      "lng": "-115.94",
-      "size": "86 Acres",
-      "url": "/incident/7698/",
-      "id": "7698",
-      "contained": "75"
-    },
-    {
-      "name": "Mud Lick, Haynes, &amp; Iron Fires",
-      "type": "Wildfire",
-      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 10:13:01",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "16,488 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
     },
     {
       "name": "Haynes Fire",
@@ -194,19 +259,6 @@
       "url": "/incident/7636/",
       "id": "7636",
       "contained": "74"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
-      "state": "NEVADA",
-      "updated": "2021-07-22 09:34:33",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "43,900 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -430,19 +482,6 @@
       "contained": "0"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-22 07:48:10",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "5,942 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "0"
-    },
-    {
       "name": "Tango Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Tango Fire was reported the evening of July...",
@@ -636,19 +675,6 @@
       "url": "/incident/7651/",
       "id": "7651",
       "contained": "95"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 22:04:28",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "23,875 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "0"
     },
     {
       "name": "Stateline Complex",
@@ -870,32 +896,6 @@
       "url": "/incident/7629/",
       "id": "7629",
       "contained": "85"
-    },
-    {
-      "name": "Goddard Road Fire",
-      "type": "Wildfire",
-      "summary": " Yesterday, a portion of the fire escaped containment lines,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-21 14:30:15",
-      "lat": "48.447",
-      "lng": "-118.152",
-      "size": "674 Acres",
-      "url": "/incident/7676/",
-      "id": "7676",
-      "contained": "25"
-    },
-    {
-      "name": "Anderson Hill Fire",
-      "type": "Wildfire",
-      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 13:54:07",
-      "lat": "46.818",
-      "lng": "-113.334",
-      "size": "750 Acres",
-      "url": "/incident/7671/",
-      "id": "7671",
-      "contained": "30"
     },
     {
       "name": "Too Kush 2",
