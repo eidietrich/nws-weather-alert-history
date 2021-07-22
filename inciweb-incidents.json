@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-22 14:13:29",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "5,548 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "0"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-22 14:13:16",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "50,129 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "4"
+    },
+    {
+      "name": "Muddy Slide Fire",
+      "type": "Wildfire",
+      "summary": "Muddy Slide Fire Update Thursday, July 22, 2021 The Muddy Slide Fire...",
+      "state": "COLORADO",
+      "updated": "2021-07-22 14:12:18",
+      "lat": "40.143",
+      "lng": "-106.798",
+      "size": "4,093 Acres",
+      "url": "/incident/7566/",
+      "id": "7566",
+      "contained": "70"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 14:05:08",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "29,360 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "10"
+    },
+    {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 14:02:49",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,284 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "40"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 14:01:09",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "2,482 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "0"
+    },
+    {
       "name": "Robertson Draw",
       "type": "Wildfire",
       "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
       "state": "MONTANA",
-      "updated": "2021-07-22 13:51:09",
+      "updated": "2021-07-22 13:58:14",
       "lat": "45.015",
       "lng": "-109.253",
       "size": "29,841 Acres",
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "85"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 13:56:45",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "85 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
     },
     {
       "name": "Bootleg Fire",
@@ -25,19 +116,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "38"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 13:50:04",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "85 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
     },
     {
       "name": "American Fork Fire",
@@ -66,19 +144,6 @@
       "contained": "20"
     },
     {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 13:45:33",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "29,360 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "10"
-    },
-    {
       "name": "Anderson Hill Fire",
       "type": "Wildfire",
       "summary": "This fire originated in Granite County one mile southeast of Garnet...",
@@ -90,32 +155,6 @@
       "url": "/incident/7671/",
       "id": "7671",
       "contained": "30"
-    },
-    {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 13:26:01",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,058 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "25"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 13:24:06",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "2,482 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "0"
     },
     {
       "name": "Summit Fire",
@@ -168,19 +207,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "11"
-    },
-    {
-      "name": "Muddy Slide Fire",
-      "type": "Wildfire",
-      "summary": "Muddy Slide Fire Update Thursday, July 22, 2021 The Muddy Slide Fire...",
-      "state": "COLORADO",
-      "updated": "2021-07-22 13:04:00",
-      "lat": "40.143",
-      "lng": "-106.798",
-      "size": "4,093 Acres",
-      "url": "/incident/7566/",
-      "id": "7566",
-      "contained": "70"
     },
     {
       "name": "Tiger Fire",
@@ -246,19 +272,6 @@
       "url": "/incident/7683/",
       "id": "7683",
       "contained": "0"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-22 12:37:00",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "50,129 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "4"
     },
     {
       "name": "Jack Fire",
@@ -389,19 +402,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "96"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-22 11:39:47",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "5,548 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "0"
     },
     {
       "name": "Dexter Fire",
