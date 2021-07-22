@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 09:37:47",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "107,679 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "74"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
+      "state": "NEVADA",
+      "updated": "2021-07-22 09:34:33",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "43,900 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-22 09:30:32",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "399,359 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "38"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Current Conditions: The Dixie Fire remained active throughout the...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-22 09:27:23",
+      "updated": "2021-07-22 09:30:00",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "103,910 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "17"
+    },
+    {
+      "name": "Nez Perce Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 09:27:35",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
     },
     {
       "name": "Character Complex",
@@ -40,19 +92,6 @@
       "contained": "39"
     },
     {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire on the Humboldt-Toiyabe National Forest was...",
-      "state": "NEVADA",
-      "updated": "2021-07-22 09:21:20",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "43,900 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "0"
-    },
-    {
       "name": "Rush Creek",
       "type": "Wildfire",
       "summary": "The Rush Creek Fire is located at the confluence of Telephone and...",
@@ -63,32 +102,6 @@
       "size": "1,616 Acres",
       "url": "/incident/7710/",
       "id": "7710",
-      "contained": "0"
-    },
-    {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires: the Shovel...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 09:20:34",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "107,679 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "74"
-    },
-    {
-      "name": "Nez Perce Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 09:18:54",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
       "contained": "0"
     },
     {
@@ -181,19 +194,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "96"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-22 08:42:17",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "399,359 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "38"
     },
     {
       "name": "Crater Ridge",
