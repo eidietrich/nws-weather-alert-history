@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "2021 Payette Wilderness Fires",
+      "type": "Wildfire",
+      "summary": "Three fires are burning in the Frank Church River of No Return...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 15:45:30",
+      "lat": "45",
+      "lng": "-115",
+      "size": "1,800 Acres",
+      "url": "/incident/7700/",
+      "id": "7700",
+      "contained": "0"
+    },
+    {
+      "name": "Sherwood",
+      "type": "Wildfire",
+      "summary": "  The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-22 15:43:15",
+      "lat": "47.938",
+      "lng": "-117.97",
+      "size": "375 Acres",
+      "url": "/incident/7713/",
+      "id": "7713",
+      "contained": "0"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-22 15:42:03",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "5,548 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "0"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
       "state": "OREGON",
-      "updated": "2021-07-22 15:25:08",
+      "updated": "2021-07-22 15:40:50",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "399,359 Acres",
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "38"
+    },
+    {
+      "name": "Peak Fire",
+      "type": "Wildfire",
+      "summary": "The BLM, U.S. Forest Service and Kern County Fire Department are in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 15:39:58",
+      "lat": "35.406",
+      "lng": "-118.436",
+      "size": "2,000 Acres",
+      "url": "/incident/7703/",
+      "id": "7703",
+      "contained": "10"
+    },
+    {
+      "name": "Nez Perce Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 15:38:24",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-22 15:35:48",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "35,134 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "5"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-22 15:32:54",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "18,634 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
     },
     {
       "name": "Lava Fire",
@@ -27,19 +118,6 @@
       "contained": "77"
     },
     {
-      "name": "Nez Perce Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 15:06:47",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "Black Mountain Fire Closed by Forest Closure OrderThe Forest...",
@@ -51,19 +129,6 @@
       "url": "/incident/7691/",
       "id": "7691",
       "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-22 14:58:01",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "35,134 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "5"
     },
     {
       "name": "Tamarack Fire",
@@ -115,19 +180,6 @@
       "size": "17,036 Acres",
       "url": "/incident/7638/",
       "id": "7638",
-      "contained": "0"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-22 14:13:29",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "5,548 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
       "contained": "0"
     },
     {
@@ -261,19 +313,6 @@
       "contained": "19"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-22 13:06:15",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "18,634 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
-    },
-    {
       "name": "Tiger Fire",
       "type": "Wildfire",
       "summary": "This will be the final news release unless there are significant...",
@@ -363,19 +402,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "50"
-    },
-    {
-      "name": "Sherwood",
-      "type": "Wildfire",
-      "summary": "  The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-22 12:34:06",
-      "lat": "47.938",
-      "lng": "-117.97",
-      "size": "375 Acres",
-      "url": "/incident/7713/",
-      "id": "7713",
-      "contained": "0"
     },
     {
       "name": "Green Ridge Fire",
@@ -493,19 +519,6 @@
       "url": "/incident/7663/",
       "id": "7663",
       "contained": "12"
-    },
-    {
-      "name": "Peak Fire",
-      "type": "Wildfire",
-      "summary": "The BLM, U.S. Forest Service and Kern County Fire Department are in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 11:15:35",
-      "lat": "35.406",
-      "lng": "-118.436",
-      "size": "2,000 Acres",
-      "url": "/incident/7703/",
-      "id": "7703",
-      "contained": "10"
     },
     {
       "name": "Trail Creek Fire",
@@ -687,19 +700,6 @@
       "size": "36 Acres",
       "url": "/incident/7704/",
       "id": "7704",
-      "contained": "0"
-    },
-    {
-      "name": "2021 Payette Wilderness Fires",
-      "type": "Wildfire",
-      "summary": "Three fires are burning in the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 09:07:30",
-      "lat": "45",
-      "lng": "-115",
-      "size": "1,800 Acres",
-      "url": "/incident/7700/",
-      "id": "7700",
       "contained": "0"
     },
     {
