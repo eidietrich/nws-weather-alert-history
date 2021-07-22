@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 13:37:52",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "29,360 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "10"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-22 13:36:54",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "399,359 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "38"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 13:33:10",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "85 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "Anderson Hill Fire",
+      "type": "Wildfire",
+      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 13:29:59",
+      "lat": "46.818",
+      "lng": "-113.334",
+      "size": "750 Acres",
+      "url": "/incident/7671/",
+      "id": "7671",
+      "contained": "30"
+    },
+    {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 13:26:01",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,058 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "25"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 13:24:06",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "2,482 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Fire",
+      "type": "Wildfire",
+      "summary": "The Summit Fire is one of several lightning ignited fires associated...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 13:24:03",
+      "lat": "38.629",
+      "lng": "-120.04",
+      "size": "22 Acres",
+      "url": "/incident/7711/",
+      "id": "7711",
+      "contained": "20"
+    },
+    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
@@ -12,32 +103,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "5"
-    },
-    {
-      "name": "Summit Fire",
-      "type": "Wildfire",
-      "summary": "The Summit Fire is one of several lightning ignited fires associated...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 13:21:04",
-      "lat": "38.629",
-      "lng": "-120.04",
-      "size": "22 Acres",
-      "url": "/incident/7711/",
-      "id": "7711",
-      "contained": "20"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 13:20:14",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "29,360 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "10"
     },
     {
       "name": "American Fork Fire",
@@ -116,19 +181,6 @@
       "url": "/incident/7636/",
       "id": "7636",
       "contained": "74"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-22 12:58:32",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "399,359 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "38"
     },
     {
       "name": "Grandview",
@@ -350,19 +402,6 @@
       "url": "/incident/7663/",
       "id": "7663",
       "contained": "12"
-    },
-    {
-      "name": "Anderson Hill Fire",
-      "type": "Wildfire",
-      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 11:18:16",
-      "lat": "46.818",
-      "lng": "-113.334",
-      "size": "750 Acres",
-      "url": "/incident/7671/",
-      "id": "7671",
-      "contained": "30"
     },
     {
       "name": "Peak Fire",
@@ -885,32 +924,6 @@
       "contained": "100"
     },
     {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 14:58:30",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,058 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "25"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 14:56:55",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "2,482 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "0"
-    },
-    {
       "name": "Brewster Fire",
       "type": "Wildfire",
       "summary": "&amp;#183;Last update will be July 16, 2021 unless increased fire...",
@@ -1090,19 +1103,6 @@
       "size": "0 Acres",
       "url": "/incident/7688/",
       "id": "7688",
-      "contained": "0"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-07-20 13:45:56",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "65 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
       "contained": "0"
     },
     {
