@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 12:37:05",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "29,360 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "10"
+    },
+    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
       "state": "NEVADA",
-      "updated": "2021-07-22 12:05:26",
+      "updated": "2021-07-22 12:37:00",
       "lat": "38.628",
       "lng": "-119.857",
       "size": "50,129 Acres",
@@ -14,11 +27,50 @@
       "contained": "4"
     },
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
+      "state": "OREGON",
+      "updated": "2021-07-22 12:36:44",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "19,643 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-22 12:36:37",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "73,528 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "50"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Current Conditions: The Dixie Fire remained active overnight with...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 12:34:45",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "103,910 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "17"
+    },
+    {
       "name": "Sherwood",
       "type": "Wildfire",
-      "summary": " Northeast Region Type 3 Team - Team 3.  Incident Commander...",
+      "summary": "  The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
       "state": "WASHINGTON",
-      "updated": "2021-07-22 12:04:48",
+      "updated": "2021-07-22 12:34:06",
       "lat": "47.938",
       "lng": "-117.97",
       "size": "375 Acres",
@@ -27,17 +79,56 @@
       "contained": "0"
     },
     {
+      "name": "Summit Fire",
+      "type": "Wildfire",
+      "summary": "The Summit Fire is one of several lightning ignited fires associated...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 12:28:22",
+      "lat": "38.629",
+      "lng": "-120.04",
+      "size": "22 Acres",
+      "url": "/incident/7711/",
+      "id": "7711",
+      "contained": "20"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-07-22 12:24:59",
+      "lat": "46.134",
+      "lng": "-117.719",
+      "size": "3,428 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
       "state": "MONTANA",
-      "updated": "2021-07-22 12:04:14",
+      "updated": "2021-07-22 12:08:58",
       "lat": "48.34",
       "lng": "-115.968",
       "size": "2,104 Acres",
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "15"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 12:06:09",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "2,375 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "0"
     },
     {
       "name": "Vinegar Fire",
@@ -64,19 +155,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "5"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 11:54:07",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "29,360 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "10"
     },
     {
       "name": "Cedar Creek",
@@ -170,19 +248,6 @@
       "contained": "38"
     },
     {
-      "name": "Summit Fire",
-      "type": "Wildfire",
-      "summary": "The Summit Fire is one of several lightning ignited fires associated...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 11:30:07",
-      "lat": "38.629",
-      "lng": "-120.04",
-      "size": "16 Acres",
-      "url": "/incident/7711/",
-      "id": "7711",
-      "contained": "20"
-    },
-    {
       "name": "Bruler Fire",
       "type": "Wildfire",
       "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
@@ -222,19 +287,6 @@
       "contained": "10"
     },
     {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 11:15:11",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "2,241 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "0"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
@@ -246,19 +298,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-22 11:13:43",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "19,643 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
     },
     {
       "name": "Christensen Fire ",
@@ -454,19 +493,6 @@
       "url": "/incident/7636/",
       "id": "7636",
       "contained": "74"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Current Conditions: The Dixie Fire remained active throughout the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 09:30:00",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "103,910 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "17"
     },
     {
       "name": "Nez Perce Clearwater Lightning Fires",
@@ -677,19 +703,6 @@
       "contained": "50"
     },
     {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-21 23:14:56",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "73,528 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "50"
-    },
-    {
       "name": "Porcupine",
       "type": "Wildfire",
       "summary": "There are multiple fires burning in Yosemite National Park...",
@@ -714,19 +727,6 @@
       "url": "/incident/7669/",
       "id": "7669",
       "contained": "0"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-07-21 23:09:51",
-      "lat": "46.134",
-      "lng": "-117.719",
-      "size": "3,428 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
     },
     {
       "name": "Quartzite",
