@@ -1,30 +1,69 @@
 {
   "markers": [
     {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-07-22 17:45:04",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "383 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "0"
-    },
-    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
       "state": "NEVADA",
-      "updated": "2021-07-22 17:43:46",
+      "updated": "2021-07-22 18:15:13",
       "lat": "38.628",
       "lng": "-119.857",
       "size": "50,129 Acres",
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "4"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-22 18:12:36",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "73,528 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "50"
+    },
+    {
+      "name": "Lost Fire",
+      "type": "Wildfire",
+      "summary": "Discovered on July 10, 2021, the lightning-caused Lost Fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 18:07:59",
+      "lat": "36.92",
+      "lng": "-118.707",
+      "size": "101 Acres",
+      "url": "/incident/7666/",
+      "id": "7666",
+      "contained": "100"
+    },
+    {
+      "name": "Nez Perce Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 18:04:28",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-07-22 18:03:01",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "383 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "0"
     },
     {
       "name": "Spring Prescribed Fire Projects 2021",
@@ -37,19 +76,6 @@
       "size": "0 Acres",
       "url": "/incident/7426/",
       "id": "7426",
-      "contained": "0"
-    },
-    {
-      "name": "Nez Perce Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 17:38:25",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
       "contained": "0"
     },
     {
@@ -545,19 +571,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-22 12:36:37",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "73,528 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "50"
     },
     {
       "name": "Green Ridge Fire",
@@ -1130,19 +1143,6 @@
       "url": "/incident/7688/",
       "id": "7688",
       "contained": "0"
-    },
-    {
-      "name": "Lost Fire",
-      "type": "Wildfire",
-      "summary": "Discovered on July 10, 2021, the lightning-caused Lost Fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-20 13:10:51",
-      "lat": "36.92",
-      "lng": "-118.707",
-      "size": "101 Acres",
-      "url": "/incident/7666/",
-      "id": "7666",
-      "contained": "100"
     },
     {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
