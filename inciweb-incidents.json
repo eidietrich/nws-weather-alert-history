@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Delta Lake Fire ",
+      "type": "Wildfire",
+      "summary": "The Delta Lake Fire continues to be the only active fire within the...",
+      "state": "MINNESOTA",
+      "updated": "2021-07-22 16:45:31",
+      "lat": "47.93",
+      "lng": "-91.74",
+      "size": "65 Acres",
+      "url": "/incident/7643/",
+      "id": "7643",
+      "contained": "10"
+    },
+    {
+      "name": "Glacier Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Glacier Fire was reported on 1:18 p.m. on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 16:45:13",
+      "lat": "37.145",
+      "lng": "-118.42",
+      "size": "41 Acres",
+      "url": "/incident/7668/",
+      "id": "7668",
+      "contained": "95"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 16:44:45",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "2,375 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "0"
+    },
+    {
+      "name": "County Line",
+      "type": "Wildfire",
+      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 16:40:39",
+      "lat": "37.835",
+      "lng": "-119.619",
+      "size": "224 Acres",
+      "url": "/incident/7613/",
+      "id": "7613",
+      "contained": "85"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 16:39:27",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "460 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "50"
+    },
+    {
       "name": "Hoover",
       "type": "Wildfire",
       "summary": "The Hoover Fire is one of multiple fires burning in Yosemite National...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-22 16:31:32",
+      "updated": "2021-07-22 16:36:44",
       "lat": "37.654",
       "lng": "-119.489",
       "size": "59 Acres",
       "url": "/incident/7701/",
       "id": "7701",
       "contained": "75"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-22 16:35:21",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "18,634 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-22 16:33:40",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "50,129 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "4"
     },
     {
       "name": "Nez Perce Clearwater Lightning Fires",
@@ -27,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-22 16:29:24",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "50,129 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "4"
-    },
-    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
@@ -51,19 +129,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "38"
-    },
-    {
-      "name": "Delta Lake Fire ",
-      "type": "Wildfire",
-      "summary": "The Delta Lake Fire continues to be the only active fire within the...",
-      "state": "MINNESOTA",
-      "updated": "2021-07-22 16:15:03",
-      "lat": "47.93",
-      "lng": "-91.74",
-      "size": "65 Acres",
-      "url": "/incident/7643/",
-      "id": "7643",
-      "contained": "10"
     },
     {
       "name": "Character Complex",
@@ -90,19 +155,6 @@
       "url": "/incident/7703/",
       "id": "7703",
       "contained": "10"
-    },
-    {
-      "name": "Glacier Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Glacier Fire was reported on 1:18 p.m. on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 15:49:57",
-      "lat": "37.145",
-      "lng": "-118.42",
-      "size": "41 Acres",
-      "url": "/incident/7668/",
-      "id": "7668",
-      "contained": "95"
     },
     {
       "name": "2021 Payette Wilderness Fires",
@@ -155,19 +207,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "5"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-22 15:32:54",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "18,634 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
     },
     {
       "name": "Lava Fire",
@@ -480,19 +519,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "15"
-    },
-    {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 12:06:09",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "2,375 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "0"
     },
     {
       "name": "Vinegar Fire",
@@ -818,32 +844,6 @@
       "url": "/incident/7706/",
       "id": "7706",
       "contained": "0"
-    },
-    {
-      "name": "County Line",
-      "type": "Wildfire",
-      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 23:31:17",
-      "lat": "37.835",
-      "lng": "-119.619",
-      "size": "224 Acres",
-      "url": "/incident/7613/",
-      "id": "7613",
-      "contained": "85"
-    },
-    {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-21 23:30:22",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "460 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "50"
     },
     {
       "name": "Porcupine",
