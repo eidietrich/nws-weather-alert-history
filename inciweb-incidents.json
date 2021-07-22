@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Lava Fire",
+      "type": "Wildfire",
+      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 15:17:25",
+      "lat": "41.459",
+      "lng": "-122.329",
+      "size": "26,316 Acres",
+      "url": "/incident/7581/",
+      "id": "7581",
+      "contained": "77"
+    },
+    {
       "name": "Nez Perce Clearwater Lightning Fires",
       "type": "Wildfire",
       "summary": "In early July, a thunderstorm system moved through the north-central...",
       "state": "IDAHO",
-      "updated": "2021-07-22 14:45:33",
+      "updated": "2021-07-22 15:06:47",
       "lat": "46.245",
       "lng": "-116.033",
       "size": "0 Acres",
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "Black Mountain Fire Closed by Forest Closure OrderThe Forest...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 15:03:28",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "946 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-22 14:58:01",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "35,134 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "5"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-22 14:56:57",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "50,129 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "4"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 14:52:45",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "29,360 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "10"
     },
     {
       "name": "Trestle Creek Complex",
@@ -27,19 +92,6 @@
       "contained": "31"
     },
     {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 14:41:03",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "29,360 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "10"
-    },
-    {
       "name": "Mud Lick, Haynes, and Iron Fires",
       "type": "Wildfire",
       "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
@@ -51,32 +103,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "0"
-    },
-    {
-      "name": "Lava Fire",
-      "type": "Wildfire",
-      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 14:34:40",
-      "lat": "41.459",
-      "lng": "-122.329",
-      "size": "26,316 Acres",
-      "url": "/incident/7581/",
-      "id": "7581",
-      "contained": "77"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-22 14:32:13",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "50,129 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "4"
     },
     {
       "name": "Morgan Creek Fire",
@@ -220,19 +246,6 @@
       "url": "/incident/7711/",
       "id": "7711",
       "contained": "20"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-22 13:21:30",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "35,134 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "5"
     },
     {
       "name": "West Lolo Complex",
@@ -870,19 +883,6 @@
       "url": "/incident/7668/",
       "id": "7668",
       "contained": "95"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "Black Mountain Fire Closed by Forest Closure OrderThe Forest...",
-      "state": "MONTANA",
-      "updated": "2021-07-21 16:56:38",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "946 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
     },
     {
       "name": "Delta Lake Fire ",
