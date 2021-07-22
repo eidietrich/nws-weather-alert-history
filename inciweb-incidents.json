@@ -1,6 +1,162 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Current Conditions: The Dixie Fire remained active overnight with...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 17:07:53",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "103,910 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "17"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 16:59:54",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "4,404 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "10"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 16:59:32",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "2,375 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "0"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "Black Mountain Fire Closed by Forest Closure OrderThe Forest...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 16:57:34",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "946 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-07-22 16:56:25",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "383 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "0"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 16:50:13",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "460 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "50"
+    },
+    {
+      "name": "North",
+      "type": "Wildfire",
+      "summary": "On Thursday, July 8, 2021, an escaped campfire was reported on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 16:49:46",
+      "lat": "37.76",
+      "lng": "-119.559",
+      "size": "0 Acres",
+      "url": "/incident/7623/",
+      "id": "7623",
+      "contained": "100"
+    },
+    {
+      "name": "Hoover",
+      "type": "Wildfire",
+      "summary": "The Hoover Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 16:49:34",
+      "lat": "37.654",
+      "lng": "-119.489",
+      "size": "59 Acres",
+      "url": "/incident/7701/",
+      "id": "7701",
+      "contained": "75"
+    },
+    {
+      "name": "Beckwourth  Complex",
+      "type": "Wildfire",
+      "summary": "Daily Update | Beckwourth Complex Map | Operations Update...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 16:48:22",
+      "lat": "39.875",
+      "lng": "-120.368",
+      "size": "105,670 Acres",
+      "url": "/incident/7601/",
+      "id": "7601",
+      "contained": "96"
+    },
+    {
+      "name": "County Line",
+      "type": "Wildfire",
+      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 16:46:34",
+      "lat": "37.835",
+      "lng": "-119.619",
+      "size": "224 Acres",
+      "url": "/incident/7613/",
+      "id": "7613",
+      "contained": "85"
+    },
+    {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 16:46:24",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,965 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "97"
+    },
+    {
+      "name": "Glacier Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Glacier Fire was reported on 1:18 p.m. on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-22 16:45:48",
+      "lat": "37.145",
+      "lng": "-118.42",
+      "size": "41 Acres",
+      "url": "/incident/7668/",
+      "id": "7668",
+      "contained": "95"
+    },
+    {
       "name": "Delta Lake Fire ",
       "type": "Wildfire",
       "summary": "The Delta Lake Fire continues to be the only active fire within the...",
@@ -12,71 +168,6 @@
       "url": "/incident/7643/",
       "id": "7643",
       "contained": "10"
-    },
-    {
-      "name": "Glacier Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Glacier Fire was reported on 1:18 p.m. on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 16:45:13",
-      "lat": "37.145",
-      "lng": "-118.42",
-      "size": "41 Acres",
-      "url": "/incident/7668/",
-      "id": "7668",
-      "contained": "95"
-    },
-    {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 16:44:45",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "2,375 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "0"
-    },
-    {
-      "name": "County Line",
-      "type": "Wildfire",
-      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 16:40:39",
-      "lat": "37.835",
-      "lng": "-119.619",
-      "size": "224 Acres",
-      "url": "/incident/7613/",
-      "id": "7613",
-      "contained": "85"
-    },
-    {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 16:39:27",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "460 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "50"
-    },
-    {
-      "name": "Hoover",
-      "type": "Wildfire",
-      "summary": "The Hoover Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 16:36:44",
-      "lat": "37.654",
-      "lng": "-119.489",
-      "size": "59 Acres",
-      "url": "/incident/7701/",
-      "id": "7701",
-      "contained": "75"
     },
     {
       "name": "Cedar Creek",
@@ -129,19 +220,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "38"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 16:11:25",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "4,404 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "10"
     },
     {
       "name": "Peak Fire",
@@ -220,19 +298,6 @@
       "url": "/incident/7581/",
       "id": "7581",
       "contained": "77"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "Black Mountain Fire Closed by Forest Closure OrderThe Forest...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 15:03:28",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "946 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
@@ -443,19 +508,6 @@
       "contained": "95"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Current Conditions: The Dixie Fire remained active overnight with...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 12:49:36",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "103,910 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "17"
-    },
-    {
       "name": "Haynes Fire",
       "type": "Wildfire",
       "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
@@ -558,32 +610,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "34"
-    },
-    {
-      "name": "Beckwourth  Complex",
-      "type": "Wildfire",
-      "summary": "Daily Update | Beckwourth Complex Map | Operations Update...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 11:40:09",
-      "lat": "39.875",
-      "lng": "-120.368",
-      "size": "105,670 Acres",
-      "url": "/incident/7601/",
-      "id": "7601",
-      "contained": "96"
-    },
-    {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 11:37:27",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,965 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "97"
     },
     {
       "name": "Bruler Fire",
@@ -765,19 +791,6 @@
       "size": "36 Acres",
       "url": "/incident/7704/",
       "id": "7704",
-      "contained": "0"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on Friday, July 17, 2021. It is located...",
-      "state": "WYOMING",
-      "updated": "2021-07-22 08:41:51",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "383 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
       "contained": "0"
     },
     {
@@ -1221,19 +1234,6 @@
       "url": "/incident/7673/",
       "id": "7673",
       "contained": "0"
-    },
-    {
-      "name": "North",
-      "type": "Wildfire",
-      "summary": "On Thursday, July 8, 2021, an escaped campfire was reported on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-18 14:45:56",
-      "lat": "37.76",
-      "lng": "-119.559",
-      "size": "0 Acres",
-      "url": "/incident/7623/",
-      "id": "7623",
-      "contained": "100"
     },
     {
       "name": "Fork",
