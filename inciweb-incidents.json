@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Goose Fire",
-      "type": "Wildfire",
-      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 17:26:56",
-      "lat": "44.733",
-      "lng": "-111.6",
-      "size": "7,262 Acres",
-      "url": "/incident/7618/",
-      "id": "7618",
-      "contained": "48"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
       "state": "WYOMING",
-      "updated": "2021-07-23 17:15:18",
+      "updated": "2021-07-23 17:43:24",
       "lat": "44.947",
       "lng": "-107.771",
       "size": "383 Acres",
@@ -27,11 +14,37 @@
       "contained": "0"
     },
     {
+      "name": "Goose Fire",
+      "type": "Wildfire",
+      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 17:43:21",
+      "lat": "44.733",
+      "lng": "-111.6",
+      "size": "7,262 Acres",
+      "url": "/incident/7618/",
+      "id": "7618",
+      "contained": "48"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Current Conditions: The Dixie Fire remained active overnight with...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-23 17:42:37",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "142,940 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "18"
+    },
+    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
       "state": "NEVADA",
-      "updated": "2021-07-23 17:04:52",
+      "updated": "2021-07-23 17:41:03",
       "lat": "38.628",
       "lng": "-119.857",
       "size": "58,417 Acres",
@@ -103,19 +116,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Current Conditions: The Dixie Fire remained active overnight with...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-23 16:28:29",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "142,940 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "18"
     },
     {
       "name": "Morgan Creek Fire",
