@@ -1,17 +1,147 @@
 {
   "markers": [
     {
+      "name": "Dexter Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-23 14:45:28",
+      "lat": "37.802",
+      "lng": "-118.874",
+      "size": "2,965 Acres",
+      "url": "/incident/7656/",
+      "id": "7656",
+      "contained": "97"
+    },
+    {
       "name": "Salt Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-23 14:24:23",
+      "updated": "2021-07-23 14:45:20",
       "lat": "40.916",
       "lng": "-122.403",
       "size": "0 Acres",
       "url": "/incident/7697/",
       "id": "7697",
       "contained": "0"
+    },
+    {
+      "name": "Club Fire",
+      "type": "Wildfire",
+      "summary": "The Club Creek Fire is located 3 miles southwest of Root Ranch. Crews...",
+      "state": "IDAHO",
+      "updated": "2021-07-23 14:45:09",
+      "lat": "45.28",
+      "lng": "-115.055",
+      "size": "41 Acres",
+      "url": "/incident/7704/",
+      "id": "7704",
+      "contained": "0"
+    },
+    {
+      "name": "Mud Lick, Haynes, and Iron Fires",
+      "type": "Wildfire",
+      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
+      "state": "IDAHO",
+      "updated": "2021-07-23 14:44:29",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "17,065 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Vinegar Fire",
+      "type": "Wildfire",
+      "summary": "The Vinegar Fire is approximately 2 miles north of the Cabin Creek...",
+      "state": "IDAHO",
+      "updated": "2021-07-23 14:44:29",
+      "lat": "45.179",
+      "lng": "-114.905",
+      "size": "327 Acres",
+      "url": "/incident/7709/",
+      "id": "7709",
+      "contained": "0"
+    },
+    {
+      "name": "Anderson Hill Fire",
+      "type": "Wildfire",
+      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 14:43:28",
+      "lat": "46.818",
+      "lng": "-113.334",
+      "size": "750 Acres",
+      "url": "/incident/7671/",
+      "id": "7671",
+      "contained": "75"
+    },
+    {
+      "name": "Glacier Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Glacier Fire was reported on 1:18 p.m. on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-23 14:42:47",
+      "lat": "37.145",
+      "lng": "-118.42",
+      "size": "41 Acres",
+      "url": "/incident/7668/",
+      "id": "7668",
+      "contained": "95"
+    },
+    {
+      "name": "Tennant Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-23 14:37:53",
+      "lat": "41.733",
+      "lng": "-122.107",
+      "size": "0 Acres",
+      "url": "/incident/7699/",
+      "id": "7699",
+      "contained": "0"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 14:36:10",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "5,727 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "0"
+    },
+    {
+      "name": "Graham Ridge Fire",
+      "type": "Wildfire",
+      "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
+      "state": "IDAHO",
+      "updated": "2021-07-23 14:29:20",
+      "lat": "47.618",
+      "lng": "-116.141",
+      "size": "15 Acres",
+      "url": "/incident/7630/",
+      "id": "7630",
+      "contained": "0"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
+      "state": "IDAHO",
+      "updated": "2021-07-23 14:26:58",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "436 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "31"
     },
     {
       "name": "West Lolo Complex",
@@ -27,45 +157,6 @@
       "contained": "21"
     },
     {
-      "name": "Club Fire",
-      "type": "Wildfire",
-      "summary": "The Club Creek Fire is located 3 miles southwest of Root Ranch. Crews...",
-      "state": "IDAHO",
-      "updated": "2021-07-23 14:20:54",
-      "lat": "45.28",
-      "lng": "-115.055",
-      "size": "41 Acres",
-      "url": "/incident/7704/",
-      "id": "7704",
-      "contained": "0"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
-      "state": "IDAHO",
-      "updated": "2021-07-23 14:20:00",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "436 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "31"
-    },
-    {
-      "name": "Mud Lick, Haynes, and Iron Fires",
-      "type": "Wildfire",
-      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
-      "state": "IDAHO",
-      "updated": "2021-07-23 14:15:32",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "17,065 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
-    },
-    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
@@ -77,32 +168,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "40"
-    },
-    {
-      "name": "Vinegar Fire",
-      "type": "Wildfire",
-      "summary": "The Vinegar Fire is approximately 2 miles north of the Cabin Creek...",
-      "state": "IDAHO",
-      "updated": "2021-07-23 14:12:07",
-      "lat": "45.179",
-      "lng": "-114.905",
-      "size": "327 Acres",
-      "url": "/incident/7709/",
-      "id": "7709",
-      "contained": "0"
-    },
-    {
-      "name": "Tennant Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-23 14:10:47",
-      "lat": "41.733",
-      "lng": "-122.107",
-      "size": "0 Acres",
-      "url": "/incident/7699/",
-      "id": "7699",
-      "contained": "0"
     },
     {
       "name": "Tamarack Fire",
@@ -129,19 +194,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "11"
-    },
-    {
-      "name": "Anderson Hill Fire",
-      "type": "Wildfire",
-      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 13:59:30",
-      "lat": "46.818",
-      "lng": "-113.334",
-      "size": "750 Acres",
-      "url": "/incident/7671/",
-      "id": "7671",
-      "contained": "75"
     },
     {
       "name": "Sherwood",
@@ -285,19 +337,6 @@
       "url": "/incident/7663/",
       "id": "7663",
       "contained": "20"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 12:56:15",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "5,727 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -872,32 +911,6 @@
       "contained": "85"
     },
     {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 16:46:24",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,965 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
-      "contained": "97"
-    },
-    {
-      "name": "Glacier Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Glacier Fire was reported on 1:18 p.m. on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 16:45:48",
-      "lat": "37.145",
-      "lng": "-118.42",
-      "size": "41 Acres",
-      "url": "/incident/7668/",
-      "id": "7668",
-      "contained": "95"
-    },
-    {
       "name": "Lava Fire",
       "type": "Wildfire",
       "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
@@ -1455,19 +1468,6 @@
       "url": "/incident/7650/",
       "id": "7650",
       "contained": "98"
-    },
-    {
-      "name": "Graham Ridge Fire",
-      "type": "Wildfire",
-      "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
-      "state": "IDAHO",
-      "updated": "2021-07-12 16:18:56",
-      "lat": "47.618",
-      "lng": "-116.141",
-      "size": "15 Acres",
-      "url": "/incident/7630/",
-      "id": "7630",
-      "contained": "0"
     },
     {
       "name": "Willow Fire",
