@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-23 14:11:40",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "400,389 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "40"
+    },
+    {
+      "name": "Vinegar Fire",
+      "type": "Wildfire",
+      "summary": "The Vinegar Fire is approximately 2 miles north of the Cabin Creek...",
+      "state": "IDAHO",
+      "updated": "2021-07-23 14:11:36",
+      "lat": "45.179",
+      "lng": "-114.905",
+      "size": "327 Acres",
+      "url": "/incident/7709/",
+      "id": "7709",
+      "contained": "0"
+    },
+    {
       "name": "Tennant Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-23 13:54:05",
+      "updated": "2021-07-23 14:10:47",
       "lat": "41.733",
       "lng": "-122.107",
       "size": "0 Acres",
@@ -14,11 +40,37 @@
       "contained": "0"
     },
     {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-23 14:08:22",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "58,417 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "4"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-23 14:07:14",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "20,806 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
       "name": "Anderson Hill Fire",
       "type": "Wildfire",
       "summary": "This fire originated in Granite County one mile southeast of Garnet...",
       "state": "MONTANA",
-      "updated": "2021-07-23 13:53:26",
+      "updated": "2021-07-23 13:59:30",
       "lat": "46.818",
       "lng": "-113.334",
       "size": "750 Acres",
@@ -300,32 +352,6 @@
       "contained": "21"
     },
     {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-23 12:39:01",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "58,417 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "4"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-23 12:34:54",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "20,806 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
-    },
-    {
       "name": "Peak Fire",
       "type": "Wildfire",
       "summary": "The Bureau of Land Management, U.S. Forest Service and Kern County...",
@@ -443,19 +469,6 @@
       "contained": "35"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-23 11:32:53",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "400,389 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "40"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -480,19 +493,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "55"
-    },
-    {
-      "name": "Vinegar Fire",
-      "type": "Wildfire",
-      "summary": "The Vinegar Fire is approximately 2 miles north of the Cabin Creek...",
-      "state": "IDAHO",
-      "updated": "2021-07-23 11:28:43",
-      "lat": "45.179",
-      "lng": "-114.905",
-      "size": "327 Acres",
-      "url": "/incident/7709/",
-      "id": "7709",
-      "contained": "0"
     },
     {
       "name": "Robertson Draw",
