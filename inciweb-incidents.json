@@ -1,11 +1,115 @@
 {
   "markers": [
     {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 21:28:59",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "0 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "0"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 21:28:33",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "2,136 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "15"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-22 21:24:37",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "5,942 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "2"
+    },
+    {
+      "name": "Muddy Slide Fire",
+      "type": "Wildfire",
+      "summary": "Muddy Slide Fire Update Thursday, July 22, 2021 The Muddy Slide Fire...",
+      "state": "COLORADO",
+      "updated": "2021-07-22 21:24:19",
+      "lat": "40.143",
+      "lng": "-106.798",
+      "size": "4,093 Acres",
+      "url": "/incident/7566/",
+      "id": "7566",
+      "contained": "70"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-22 21:24:03",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "399,359 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "38"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-22 21:21:23",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "5,617 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "0"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-22 21:20:19",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "Black Mountain Fire Closed by Forest Closure OrderThe Forest...",
+      "state": "MONTANA",
+      "updated": "2021-07-22 21:14:52",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "946 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
       "state": "NEVADA",
-      "updated": "2021-07-22 21:01:27",
+      "updated": "2021-07-22 21:13:00",
       "lat": "38.628",
       "lng": "-119.857",
       "size": "50,129 Acres",
@@ -18,26 +122,13 @@
       "type": "Wildfire",
       "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
       "state": "WASHINGTON",
-      "updated": "2021-07-22 20:58:01",
+      "updated": "2021-07-22 21:09:08",
       "lat": "48.229",
       "lng": "-119.017",
       "size": "36,730 Acres",
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "45"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 20:54:33",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "0 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "0"
     },
     {
       "name": "Beckwourth  Complex",
@@ -209,19 +300,6 @@
       "contained": "25"
     },
     {
-      "name": "Nez Perce Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 19:47:04",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -365,19 +443,6 @@
       "contained": "0"
     },
     {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "Black Mountain Fire Closed by Forest Closure OrderThe Forest...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 16:57:34",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "946 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
-    },
-    {
       "name": "Lukens",
       "type": "Wildfire",
       "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
@@ -469,19 +534,6 @@
       "contained": "11"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-22 16:18:28",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "399,359 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "38"
-    },
-    {
       "name": "2021 Payette Wilderness Fires",
       "type": "Wildfire",
       "summary": "Three fires are burning in the Frank Church River of No Return...",
@@ -505,19 +557,6 @@
       "size": "375 Acres",
       "url": "/incident/7713/",
       "id": "7713",
-      "contained": "0"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-22 15:42:03",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "5,548 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
       "contained": "0"
     },
     {
@@ -558,19 +597,6 @@
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "31"
-    },
-    {
-      "name": "Muddy Slide Fire",
-      "type": "Wildfire",
-      "summary": "Muddy Slide Fire Update Thursday, July 22, 2021 The Muddy Slide Fire...",
-      "state": "COLORADO",
-      "updated": "2021-07-22 14:12:18",
-      "lat": "40.143",
-      "lng": "-106.798",
-      "size": "4,093 Acres",
-      "url": "/incident/7566/",
-      "id": "7566",
-      "contained": "70"
     },
     {
       "name": "Divide Complex-Ellis Fire",
@@ -716,19 +742,6 @@
       "contained": "0"
     },
     {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 12:08:58",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "2,104 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "15"
-    },
-    {
       "name": "Vinegar Fire",
       "type": "Wildfire",
       "summary": "The Vinegar Fire is approximately 2 miles north of the Cabin Creek...",
@@ -791,19 +804,6 @@
       "size": "2,175 Acres",
       "url": "/incident/7627/",
       "id": "7627",
-      "contained": "0"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-22 11:01:25",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "5,942 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
       "contained": "0"
     },
     {
