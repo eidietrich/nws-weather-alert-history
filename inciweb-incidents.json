@@ -1,16 +1,16 @@
 {
   "markers": [
     {
-      "name": "Steptoe Canyon",
+      "name": "Crater Ridge",
       "type": "Wildfire",
-      "summary": " The Steptoe Canyon Fire started on July 22, 2021 at approximately...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-23 16:45:43",
-      "lat": "46.482",
-      "lng": "-117.2",
-      "size": "2,000 Acres",
-      "url": "/incident/7717/",
-      "id": "7717",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-07-23 17:15:18",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "383 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
       "contained": "0"
     },
     {
@@ -18,13 +18,52 @@
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
       "state": "NEVADA",
-      "updated": "2021-07-23 16:36:30",
+      "updated": "2021-07-23 17:04:52",
       "lat": "38.628",
       "lng": "-119.857",
       "size": "58,417 Acres",
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "4"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-23 17:02:44",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "40,878 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "5"
+    },
+    {
+      "name": "Steptoe Canyon",
+      "type": "Wildfire",
+      "summary": " The Steptoe Canyon Fire started on July 22, 2021 at approximately...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-23 16:53:15",
+      "lat": "46.49",
+      "lng": "-117.2",
+      "size": "2,000 Acres",
+      "url": "/incident/7717/",
+      "id": "7717",
+      "contained": "10"
+    },
+    {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
+      "state": "IDAHO",
+      "updated": "2021-07-23 16:47:17",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "5,159 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "25"
     },
     {
       "name": "Fly",
@@ -64,19 +103,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "18"
-    },
-    {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
-      "state": "IDAHO",
-      "updated": "2021-07-23 16:22:24",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "5,159 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "25"
     },
     {
       "name": "Morgan Creek Fire",
@@ -508,19 +534,6 @@
       "contained": "3"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-23 12:43:12",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "40,878 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "5"
-    },
-    {
       "name": "South Yaak",
       "type": "Wildfire",
       "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
@@ -714,19 +727,6 @@
       "url": "/incident/7676/",
       "id": "7676",
       "contained": "35"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-07-23 09:54:13",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "383 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "0"
     },
     {
       "name": "Delta Lake Fire ",
@@ -1158,19 +1158,6 @@
       "contained": "68"
     },
     {
-      "name": "Harris ",
-      "type": "Wildfire",
-      "summary": " Incident OverviewThe Harris Fire was first reported Thursday, July...",
-      "state": "MONTANA",
-      "updated": "2021-07-20 21:17:18",
-      "lat": "45.538",
-      "lng": "-108.92",
-      "size": "2,344 Acres",
-      "url": "/incident/7684/",
-      "id": "7684",
-      "contained": "100"
-    },
-    {
       "name": "Backbone Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -1195,19 +1182,6 @@
       "url": "/incident/7667/",
       "id": "7667",
       "contained": "90"
-    },
-    {
-      "name": "Buffalo ",
-      "type": "Wildfire",
-      "summary": "On the evening of Friday, July 16 Yellowstone County fire personnel...",
-      "state": "MONTANA",
-      "updated": "2021-07-20 21:01:28",
-      "lat": "45.862",
-      "lng": "-108.306",
-      "size": "202 Acres",
-      "url": "/incident/7687/",
-      "id": "7687",
-      "contained": "100"
     },
     {
       "name": "Darlene",
