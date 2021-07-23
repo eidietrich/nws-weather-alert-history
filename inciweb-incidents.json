@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Bruler Fire",
+      "type": "Wildfire",
+      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
+      "state": "OREGON",
+      "updated": "2021-07-23 08:43:19",
+      "lat": "44.591",
+      "lng": "-122.156",
+      "size": "195 Acres",
+      "url": "/incident/7663/",
+      "id": "7663",
+      "contained": "20"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-23 08:39:24",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "78,158 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "55"
+    },
+    {
       "name": "Mud Lick, Haynes, and Iron Fires",
       "type": "Wildfire",
       "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
       "state": "IDAHO",
-      "updated": "2021-07-23 08:25:19",
+      "updated": "2021-07-23 08:37:00",
       "lat": "45.183",
       "lng": "-114.421",
       "size": "17,065 Acres",
@@ -18,7 +44,7 @@
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
       "state": "MONTANA",
-      "updated": "2021-07-23 08:24:40",
+      "updated": "2021-07-23 08:28:42",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "24,143 Acres",
@@ -31,7 +57,7 @@
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
       "state": "MONTANA",
-      "updated": "2021-07-23 08:19:50",
+      "updated": "2021-07-23 08:27:22",
       "lat": "47.133",
       "lng": "-114.643",
       "size": "2,408 Acres",
@@ -508,19 +534,6 @@
       "contained": "98"
     },
     {
-      "name": "Bruler Fire",
-      "type": "Wildfire",
-      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
-      "state": "OREGON",
-      "updated": "2021-07-22 20:31:58",
-      "lat": "44.591",
-      "lng": "-122.156",
-      "size": "195 Acres",
-      "url": "/incident/7663/",
-      "id": "7663",
-      "contained": "12"
-    },
-    {
       "name": "Peak Fire",
       "type": "Wildfire",
       "summary": "The BLM, U.S. Forest Service and Kern County Fire Department are in...",
@@ -584,19 +597,6 @@
       "url": "/incident/7701/",
       "id": "7701",
       "contained": "90"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-22 19:50:07",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "73,528 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "50"
     },
     {
       "name": "Shale Creek",
