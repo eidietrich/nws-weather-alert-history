@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "McDougal Fire",
+      "type": "Wildfire",
+      "summary": " The McDougal fire is currently assessed at 16.5 acres. Type 1 and...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 00:35:09",
+      "lat": "46.119",
+      "lng": "-113.451",
+      "size": "17 Acres",
+      "url": "/incident/7695/",
+      "id": "7695",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": "Due to more accurate infrared mapping, the Goat Fire acreage has been...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 00:34:21",
+      "lat": "46.369",
+      "lng": "-113.068",
+      "size": "64 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
@@ -1195,32 +1221,6 @@
       "url": "/incident/7587/",
       "id": "7587",
       "contained": "100"
-    },
-    {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": " The Goat fire is currently estimated to be 40 acres, burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 20:10:13",
-      "lat": "46.369",
-      "lng": "-113.068",
-      "size": "40 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
-    },
-    {
-      "name": "McDougal Fire",
-      "type": "Wildfire",
-      "summary": " The McDougal fire is currently assessed at 16.5 acres. Type 1 and...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 20:09:52",
-      "lat": "46.119",
-      "lng": "-113.451",
-      "size": "17 Acres",
-      "url": "/incident/7695/",
-      "id": "7695",
-      "contained": "0"
     },
     {
       "name": "O'Connell Fire",
