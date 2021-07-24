@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Muddy Slide Fire",
+      "type": "Wildfire",
+      "summary": "Muddy Slide Fire Update Friday, July 23, 2021 The Muddy Slide Fire...",
+      "state": "COLORADO",
+      "updated": "2021-07-23 19:55:11",
+      "lat": "40.143",
+      "lng": "-106.798",
+      "size": "4,093 Acres",
+      "url": "/incident/7566/",
+      "id": "7566",
+      "contained": "70"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-23 19:46:01",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "5,651 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "4"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 19:33:47",
+      "lat": "47.397",
+      "lng": "-115.076",
+      "size": "2,043 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "0"
+    },
+    {
+      "name": "Goose Fire",
+      "type": "Wildfire",
+      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 19:29:35",
+      "lat": "44.733",
+      "lng": "-111.6",
+      "size": "7,262 Acres",
+      "url": "/incident/7618/",
+      "id": "7618",
+      "contained": "49"
+    },
+    {
+      "name": "Ruby",
+      "type": "Wildfire",
+      "summary": " The Ruby Fire was detected on July 15, 2021 at 6:40 p.m.  It is...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 19:28:23",
+      "lat": "48.484",
+      "lng": "-115.94",
+      "size": "86 Acres",
+      "url": "/incident/7698/",
+      "id": "7698",
+      "contained": "85"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-23 19:18:22",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "58,417 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "4"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 19:08:23",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "350 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 18:52:57",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "2,136 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "15"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
@@ -40,19 +144,6 @@
       "contained": "37"
     },
     {
-      "name": "Goose Fire",
-      "type": "Wildfire",
-      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 18:17:15",
-      "lat": "44.733",
-      "lng": "-111.6",
-      "size": "7,262 Acres",
-      "url": "/incident/7618/",
-      "id": "7618",
-      "contained": "48"
-    },
-    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
@@ -90,19 +181,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "18"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-23 17:58:15",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "58,417 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "4"
     },
     {
       "name": "Shale Creek",
@@ -193,19 +271,6 @@
       "size": "0 Acres",
       "url": "/incident/7692/",
       "id": "7692",
-      "contained": "0"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-23 16:11:37",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "5,617 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
       "contained": "0"
     },
     {
@@ -391,19 +456,6 @@
       "contained": "0"
     },
     {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 14:21:01",
-      "lat": "47.133",
-      "lng": "-114.643",
-      "size": "2,408 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "21"
-    },
-    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
@@ -454,19 +506,6 @@
       "url": "/incident/7672/",
       "id": "7672",
       "contained": "20"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 13:41:53",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "2,136 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "15"
     },
     {
       "name": "Dry Cabin",
@@ -820,19 +859,6 @@
       "contained": "1"
     },
     {
-      "name": "Muddy Slide Fire",
-      "type": "Wildfire",
-      "summary": "Muddy Slide Fire Update Thursday, July 22, 2021 The Muddy Slide Fire...",
-      "state": "COLORADO",
-      "updated": "2021-07-22 21:24:19",
-      "lat": "40.143",
-      "lng": "-106.798",
-      "size": "4,093 Acres",
-      "url": "/incident/7566/",
-      "id": "7566",
-      "contained": "70"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "Black Mountain Fire Closed by Forest Closure OrderThe Forest...",
@@ -963,19 +989,6 @@
       "contained": "77"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 13:56:45",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "85 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
-    },
-    {
       "name": "Tiger Fire",
       "type": "Wildfire",
       "summary": "This will be the final news release unless there are significant...",
@@ -1000,19 +1013,6 @@
       "url": "/incident/7651/",
       "id": "7651",
       "contained": "95"
-    },
-    {
-      "name": "Ruby",
-      "type": "Wildfire",
-      "summary": " The Ruby Fire was detected on July 15, 2021 at 6:40 p.m.  It is...",
-      "state": "MONTANA",
-      "updated": "2021-07-22 10:53:37",
-      "lat": "48.484",
-      "lng": "-115.94",
-      "size": "86 Acres",
-      "url": "/incident/7698/",
-      "id": "7698",
-      "contained": "75"
     },
     {
       "name": "King",
