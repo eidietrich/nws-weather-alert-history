@@ -1,37 +1,63 @@
 {
   "markers": [
     {
-      "name": "Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Bureau of Land Management, U.S. Forest Service and Kern County...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-23 21:27:55",
-      "lat": "35.406",
-      "lng": "-118.436",
-      "size": "2,096 Acres",
-      "url": "/incident/7703/",
-      "id": "7703",
-      "contained": "57"
-    },
-    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
       "state": "MONTANA",
-      "updated": "2021-07-23 21:27:15",
+      "updated": "2021-07-23 21:49:48",
       "lat": "46.993",
       "lng": "-110.933",
-      "size": "3,799 Acres",
+      "size": "2,522 Acres",
       "url": "/incident/7624/",
       "id": "7624",
-      "contained": "15"
+      "contained": "0"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 21:47:29",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "500 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "0"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 21:46:49",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "5,726 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
+      "state": "OREGON",
+      "updated": "2021-07-23 21:46:00",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "19,949 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "56"
     },
     {
       "name": "Salt Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-23 21:27:11",
+      "updated": "2021-07-23 21:45:26",
       "lat": "40.916",
       "lng": "-122.403",
       "size": "0 Acres",
@@ -40,17 +66,56 @@
       "contained": "0"
     },
     {
-      "name": "American Fork Fire",
+      "name": "South Yaak",
       "type": "Wildfire",
-      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
       "state": "MONTANA",
-      "updated": "2021-07-23 21:25:06",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "5,727 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
+      "updated": "2021-07-23 21:44:39",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "328 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
       "contained": "0"
+    },
+    {
+      "name": "Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Bureau of Land Management, U.S. Forest Service and Kern County...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-23 21:44:15",
+      "lat": "35.406",
+      "lng": "-118.436",
+      "size": "2,096 Acres",
+      "url": "/incident/7703/",
+      "id": "7703",
+      "contained": "57"
+    },
+    {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 21:39:58",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,277 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "70"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-23 21:29:56",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,820 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "50"
     },
     {
       "name": "Summit Trail",
@@ -77,19 +142,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "20"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-23 21:00:06",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,820 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "50"
     },
     {
       "name": "Beckwourth  Complex",
@@ -235,19 +287,6 @@
       "contained": "25"
     },
     {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 20:13:51",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "328 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "0"
-    },
-    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
@@ -324,19 +363,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-23 18:45:24",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "19,949 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "56"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -428,19 +454,6 @@
       "url": "/incident/7716/",
       "id": "7716",
       "contained": "0"
-    },
-    {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 15:45:07",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,277 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "40"
     },
     {
       "name": "Lava Post-Fire BAER",
@@ -701,19 +714,6 @@
       "url": "/incident/7639/",
       "id": "7639",
       "contained": "52"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 12:25:56",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "200 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "0"
     },
     {
       "name": "Rush Creek",
