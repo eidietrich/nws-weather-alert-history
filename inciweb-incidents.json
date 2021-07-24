@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "The Delta Lake Fire continues to be the only active fire within the...",
       "state": "MINNESOTA",
-      "updated": "2021-07-24 13:51:06",
+      "updated": "2021-07-24 14:11:18",
       "lat": "47.93",
       "lng": "-91.74",
       "size": "62 Acres",
@@ -18,7 +18,7 @@
       "type": "Wildfire",
       "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
       "state": "IDAHO",
-      "updated": "2021-07-24 13:50:40",
+      "updated": "2021-07-24 14:10:16",
       "lat": "48.341",
       "lng": "-116.22",
       "size": "436 Acres",
@@ -27,11 +27,24 @@
       "contained": "37"
     },
     {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 14:02:43",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "2,242 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "19"
+    },
+    {
       "name": "Divide Complex-Ellis Fire",
       "type": "Wildfire",
       "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
       "state": "MONTANA",
-      "updated": "2021-07-24 13:49:14",
+      "updated": "2021-07-24 14:01:20",
       "lat": "46.838",
       "lng": "-111.272",
       "size": "1,277 Acres",
@@ -44,13 +57,26 @@
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
       "state": "MONTANA",
-      "updated": "2021-07-24 13:45:14",
+      "updated": "2021-07-24 13:59:39",
       "lat": "46.165",
       "lng": "-110.248",
       "size": "5,726 Acres",
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "10"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 13:57:00",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "4,746 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "0"
     },
     {
       "name": "South Yaak",
@@ -77,19 +103,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "19"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 13:42:58",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "4,746 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "0"
     },
     {
       "name": "Alder Creek Fire",
@@ -428,19 +441,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "75"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 11:35:32",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "2,242 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "19"
     },
     {
       "name": "Silliman",
