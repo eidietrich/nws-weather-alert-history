@@ -1,24 +1,128 @@
 {
   "markers": [
     {
-      "name": "Green Ridge Fire",
+      "name": "Morgan Creek Fire",
       "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-07-24 11:25:36",
-      "lat": "46.134",
-      "lng": "-117.719",
-      "size": "5,217 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-24 12:01:39",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "5,651 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "4"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 12:01:39",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "22,415 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 11:55:25",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "40,877 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "10"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 11:54:57",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "3,017 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "1"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Current Conditions: Yesterday, the Dixie Fire saw extreme fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-24 11:52:08",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "181,289 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "19"
+    },
+    {
+      "name": "Shale Creek",
+      "type": "Wildfire",
+      "summary": "Shale Creek Fire is located in remote and rugged terrain east of Hams...",
+      "state": "WYOMING",
+      "updated": "2021-07-24 11:50:43",
+      "lat": "42.236",
+      "lng": "-110.606",
+      "size": "189 Acres",
+      "url": "/incident/7689/",
+      "id": "7689",
+      "contained": "45"
+    },
+    {
+      "name": "Anderson Hill Fire",
+      "type": "Wildfire",
+      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 11:49:11",
+      "lat": "46.818",
+      "lng": "-113.334",
+      "size": "750 Acres",
+      "url": "/incident/7671/",
+      "id": "7671",
+      "contained": "85"
+    },
+    {
+      "name": "Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Bureau of Land Management, U.S. Forest Service and Kern County...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-24 11:47:43",
+      "lat": "35.406",
+      "lng": "-118.436",
+      "size": "2,096 Acres",
+      "url": "/incident/7703/",
+      "id": "7703",
+      "contained": "57"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 11:46:55",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "722 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "0"
     },
     {
       "name": "Snake River Complex",
       "type": "Wildfire",
       "summary": "The Snake River Complex comprises of three wildfires that merged...",
       "state": "IDAHO",
-      "updated": "2021-07-24 11:25:24",
+      "updated": "2021-07-24 11:45:23",
       "lat": "46.012",
       "lng": "-116.911",
       "size": "107,679 Acres",
@@ -27,17 +131,82 @@
       "contained": "74"
     },
     {
-      "name": "Shale Creek",
+      "name": "Lick Creek (Dry Gulch) Fire",
       "type": "Wildfire",
-      "summary": "The fire is located in remote and rugged terrain. Current progress...",
-      "state": "WYOMING",
-      "updated": "2021-07-24 11:23:36",
-      "lat": "42.236",
-      "lng": "-110.606",
-      "size": "189 Acres",
-      "url": "/incident/7689/",
-      "id": "7689",
-      "contained": "45"
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-24 11:42:35",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,392 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "75"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-07-24 11:41:51",
+      "lat": "46.134",
+      "lng": "-117.719",
+      "size": "5,217 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 11:35:32",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "2,242 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "19"
+    },
+    {
+      "name": "Silliman",
+      "type": "Wildfire",
+      "summary": "Discovered on July 21, 2021, the lightning-caused Silliman is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-24 11:33:36",
+      "lat": "36.641",
+      "lng": "-118.719",
+      "size": "5 Acres",
+      "url": "/incident/7714/",
+      "id": "7714",
+      "contained": "0"
+    },
+    {
+      "name": "Lost Fire",
+      "type": "Wildfire",
+      "summary": "Discovered on July 10, 2021, the lightning-caused Lost Fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-24 11:33:25",
+      "lat": "36.92",
+      "lng": "-118.707",
+      "size": "101 Acres",
+      "url": "/incident/7666/",
+      "id": "7666",
+      "contained": "100"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-24 11:30:08",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "401,601 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "42"
     },
     {
       "name": "Summit Fire",
@@ -53,19 +222,6 @@
       "contained": "65"
     },
     {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-24 11:22:14",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "5,651 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "4"
-    },
-    {
       "name": "Bruler Fire",
       "type": "Wildfire",
       "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
@@ -77,19 +233,6 @@
       "url": "/incident/7663/",
       "id": "7663",
       "contained": "25"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 11:21:34",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "722 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "0"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -144,19 +287,6 @@
       "contained": "90"
     },
     {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 11:10:14",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "2,242 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "19"
-    },
-    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
@@ -183,45 +313,6 @@
       "contained": "7"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 11:02:38",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "40,877 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "5"
-    },
-    {
-      "name": "Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Bureau of Land Management, U.S. Forest Service and Kern County...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-24 11:01:34",
-      "lat": "35.406",
-      "lng": "-118.436",
-      "size": "2,096 Acres",
-      "url": "/incident/7703/",
-      "id": "7703",
-      "contained": "57"
-    },
-    {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 10:57:58",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "2,606 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "1"
-    },
-    {
       "name": "Fly",
       "type": "Wildfire",
       "summary": "Fly Fire started on the afternoon of July 22, 2021.  It is being...",
@@ -246,19 +337,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Current Conditions: Yesterday, the Dixie Fire saw extreme fire...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-24 10:44:19",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "181,289 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "19"
     },
     {
       "name": "Stateline Complex",
@@ -300,19 +378,6 @@
       "contained": "49"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 10:29:17",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "22,415 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
-    },
-    {
       "name": "Goddard Road Fire",
       "type": "Wildfire",
       "summary": " Yesterday, crews continued to work along the fire line, making...",
@@ -324,19 +389,6 @@
       "url": "/incident/7676/",
       "id": "7676",
       "contained": "50"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-24 10:28:14",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "401,601 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "42"
     },
     {
       "name": "Northrup",
@@ -573,19 +625,6 @@
       "contained": "10"
     },
     {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-24 07:55:59",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,392 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "75"
-    },
-    {
       "name": "Lava Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -768,19 +807,6 @@
       "contained": "97"
     },
     {
-      "name": "Anderson Hill Fire",
-      "type": "Wildfire",
-      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 14:43:28",
-      "lat": "46.818",
-      "lng": "-113.334",
-      "size": "750 Acres",
-      "url": "/incident/7671/",
-      "id": "7671",
-      "contained": "75"
-    },
-    {
       "name": "Tennant Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
@@ -935,32 +961,6 @@
       "url": "/incident/7701/",
       "id": "7701",
       "contained": "90"
-    },
-    {
-      "name": "Silliman",
-      "type": "Wildfire",
-      "summary": "Discovered on July 21, 2021, the lightning-caused Silliman is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 18:35:53",
-      "lat": "36.641",
-      "lng": "-118.719",
-      "size": "5 Acres",
-      "url": "/incident/7714/",
-      "id": "7714",
-      "contained": "0"
-    },
-    {
-      "name": "Lost Fire",
-      "type": "Wildfire",
-      "summary": "Discovered on July 10, 2021, the lightning-caused Lost Fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 18:07:59",
-      "lat": "36.92",
-      "lng": "-118.707",
-      "size": "101 Acres",
-      "url": "/incident/7666/",
-      "id": "7666",
-      "contained": "100"
     },
     {
       "name": "Lukens",
