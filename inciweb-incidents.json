@@ -1,11 +1,141 @@
 {
   "markers": [
     {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-23 22:17:26",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "5,651 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "4"
+    },
+    {
+      "name": "Northrup",
+      "type": "Wildfire",
+      "summary": "INFORMATION RELEASE: 8:00PM July 23,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-23 22:17:21",
+      "lat": "47.859",
+      "lng": "-119.098",
+      "size": "0 Acres",
+      "url": "/incident/7718/",
+      "id": "7718",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Current Conditions: Yesterday, the Dixie Fire saw extreme fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-23 22:14:59",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "142,940 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "18"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-23 22:12:35",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "40,877 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "5"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
+      "state": "IDAHO",
+      "updated": "2021-07-23 22:03:07",
+      "lat": "47.17",
+      "lng": "-115.442",
+      "size": "2,357 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "3"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-07-23 22:01:15",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "383 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "0"
+    },
+    {
+      "name": "Lava Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-23 21:59:41",
+      "lat": "41.425",
+      "lng": "-122.261",
+      "size": "0 Acres",
+      "url": "/incident/7693/",
+      "id": "7693",
+      "contained": "0"
+    },
+    {
+      "name": "Salt Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-23 21:59:11",
+      "lat": "40.916",
+      "lng": "-122.403",
+      "size": "0 Acres",
+      "url": "/incident/7697/",
+      "id": "7697",
+      "contained": "0"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 21:57:38",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "5,726 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
+      "state": "MONTANA",
+      "updated": "2021-07-23 21:53:45",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,277 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "70"
+    },
+    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
       "state": "MONTANA",
-      "updated": "2021-07-23 21:49:48",
+      "updated": "2021-07-23 21:52:13",
       "lat": "46.993",
       "lng": "-110.933",
       "size": "2,522 Acres",
@@ -18,26 +148,13 @@
       "type": "Wildfire",
       "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
       "state": "MONTANA",
-      "updated": "2021-07-23 21:47:29",
+      "updated": "2021-07-23 21:51:01",
       "lat": "48.778",
       "lng": "-114.431",
       "size": "500 Acres",
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "0"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 21:46:49",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "5,726 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "Jack Fire",
@@ -51,19 +168,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "56"
-    },
-    {
-      "name": "Salt Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-23 21:45:26",
-      "lat": "40.916",
-      "lng": "-122.403",
-      "size": "0 Acres",
-      "url": "/incident/7697/",
-      "id": "7697",
-      "contained": "0"
     },
     {
       "name": "South Yaak",
@@ -90,19 +194,6 @@
       "url": "/incident/7703/",
       "id": "7703",
       "contained": "57"
-    },
-    {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 21:39:58",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,277 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "70"
     },
     {
       "name": "Chuweah Creek",
@@ -194,19 +285,6 @@
       "url": "/incident/7608/",
       "id": "7608",
       "contained": "12"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Current Conditions: Yesterday, the Dixie Fire saw extreme fire...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-23 20:37:12",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "142,940 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "18"
     },
     {
       "name": "Robertson Draw",
@@ -313,19 +391,6 @@
       "contained": "70"
     },
     {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-23 19:46:01",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "5,651 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "4"
-    },
-    {
       "name": "Goose Fire",
       "type": "Wildfire",
       "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
@@ -363,19 +428,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-23 18:38:08",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "40,878 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "5"
     },
     {
       "name": "Trestle Creek Complex",
@@ -430,19 +482,6 @@
       "contained": "0"
     },
     {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-07-23 17:43:24",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "383 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "0"
-    },
-    {
       "name": "Fly",
       "type": "Wildfire",
       "summary": "Fly Fire started on the afternoon of July 22, 2021.  It is being...",
@@ -453,19 +492,6 @@
       "size": "1,650 Acres",
       "url": "/incident/7716/",
       "id": "7716",
-      "contained": "0"
-    },
-    {
-      "name": "Lava Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-23 15:15:55",
-      "lat": "41.425",
-      "lng": "-122.261",
-      "size": "0 Acres",
-      "url": "/incident/7693/",
-      "id": "7693",
       "contained": "0"
     },
     {
@@ -726,19 +752,6 @@
       "size": "1,617 Acres",
       "url": "/incident/7710/",
       "id": "7710",
-      "contained": "0"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
-      "state": "IDAHO",
-      "updated": "2021-07-23 11:50:39",
-      "lat": "47.17",
-      "lng": "-115.442",
-      "size": "2,262 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
       "contained": "0"
     },
     {
