@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-24 16:14:47",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "65,152 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "4"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 16:14:41",
+      "lat": "47.742",
+      "lng": "-115.192",
+      "size": "3,262 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "0"
+    },
+    {
+      "name": "Steptoe Canyon",
+      "type": "Wildfire",
+      "summary": " The Steptoe Canyon Fire started on July 22, 2021 at approximately...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 16:13:40",
+      "lat": "46.49",
+      "lng": "-117.2",
+      "size": "2,700 Acres",
+      "url": "/incident/7717/",
+      "id": "7717",
+      "contained": "20"
+    },
+    {
+      "name": "Spruce Canyon",
+      "type": "Wildfire",
+      "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 16:07:09",
+      "lat": "48.54",
+      "lng": "-117.593",
+      "size": "90 Acres",
+      "url": "/incident/7721/",
+      "id": "7721",
+      "contained": "0"
+    },
+    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
       "state": "WASHINGTON",
-      "updated": "2021-07-24 15:41:11",
+      "updated": "2021-07-24 15:56:09",
       "lat": "48.551",
       "lng": "-120.194",
       "size": "42,786 Acres",
@@ -18,13 +70,39 @@
       "type": "Wildfire",
       "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
       "state": "IDAHO",
-      "updated": "2021-07-24 15:40:30",
+      "updated": "2021-07-24 15:54:10",
       "lat": "45.586",
       "lng": "-115.444",
       "size": "31,970 Acres",
       "url": "/incident/7608/",
       "id": "7608",
       "contained": "12"
+    },
+    {
+      "name": "Sherwood",
+      "type": "Wildfire",
+      "summary": " The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 15:53:19",
+      "lat": "47.912",
+      "lng": "-117.986",
+      "size": "500 Acres",
+      "url": "/incident/7713/",
+      "id": "7713",
+      "contained": "30"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-24 15:47:20",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -51,19 +129,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "7"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-24 15:25:08",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "65,152 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "4"
     },
     {
       "name": "Christensen Fire ",
@@ -103,19 +168,6 @@
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "0"
-    },
-    {
-      "name": "Sherwood",
-      "type": "Wildfire",
-      "summary": " The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 15:16:09",
-      "lat": "47.938",
-      "lng": "-117.97",
-      "size": "500 Acres",
-      "url": "/incident/7713/",
-      "id": "7713",
-      "contained": "30"
     },
     {
       "name": "Trail Creek Fire",
@@ -209,19 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Spruce Canyon",
-      "type": "Wildfire",
-      "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 13:37:26",
-      "lat": "48.54",
-      "lng": "-117.593",
-      "size": "90 Acres",
-      "url": "/incident/7721/",
-      "id": "7721",
-      "contained": "0"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
@@ -259,19 +298,6 @@
       "url": "/incident/7718/",
       "id": "7718",
       "contained": "20"
-    },
-    {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-24 13:22:39",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
     },
     {
       "name": "Peak Fire",
@@ -508,19 +534,6 @@
       "contained": "100"
     },
     {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 11:15:51",
-      "lat": "47.397",
-      "lng": "-115.076",
-      "size": "3,262 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "0"
-    },
-    {
       "name": "Robertson Draw",
       "type": "Wildfire",
       "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
@@ -636,19 +649,6 @@
       "url": "/incident/7691/",
       "id": "7691",
       "contained": "0"
-    },
-    {
-      "name": "Steptoe Canyon",
-      "type": "Wildfire",
-      "summary": " The Steptoe Canyon Fire started on July 22, 2021 at approximately...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 09:38:57",
-      "lat": "46.49",
-      "lng": "-117.2",
-      "size": "2,700 Acres",
-      "url": "/incident/7717/",
-      "id": "7717",
-      "contained": "20"
     },
     {
       "name": "Mud Lick, Haynes, and Iron Fires",
