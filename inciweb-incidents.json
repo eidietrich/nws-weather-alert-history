@@ -1,24 +1,24 @@
 {
   "markers": [
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Delta Lake Fire ",
       "type": "Wildfire",
-      "summary": " Yesterday, the Dixie Fire once again saw extreme fire behavior and...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-24 13:38:31",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "181,289 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "19"
+      "summary": "The Delta Lake Fire continues to be the only active fire within the...",
+      "state": "MINNESOTA",
+      "updated": "2021-07-24 13:51:06",
+      "lat": "47.93",
+      "lng": "-91.74",
+      "size": "62 Acres",
+      "url": "/incident/7643/",
+      "id": "7643",
+      "contained": "80"
     },
     {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
       "state": "IDAHO",
-      "updated": "2021-07-24 13:38:26",
+      "updated": "2021-07-24 13:50:40",
       "lat": "48.341",
       "lng": "-116.22",
       "size": "436 Acres",
@@ -27,17 +27,82 @@
       "contained": "37"
     },
     {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 13:49:14",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,277 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "70"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 13:45:14",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "5,726 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 13:44:21",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "722 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Yesterday, the Dixie Fire once again saw extreme fire behavior and...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-24 13:44:05",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "181,289 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "19"
+    },
+    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
       "state": "MONTANA",
-      "updated": "2021-07-24 13:37:43",
+      "updated": "2021-07-24 13:42:58",
       "lat": "46.993",
       "lng": "-110.933",
       "size": "4,746 Acres",
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "0"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 13:41:29",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "6,831 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "7"
     },
     {
       "name": "Spruce Canyon",
@@ -64,32 +129,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "56"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 13:32:52",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "6,831 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "7"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 13:32:22",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "722 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "0"
     },
     {
       "name": "Leland Complex",
@@ -729,19 +768,6 @@
       "contained": "0"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 08:20:26",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "5,726 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
       "name": "Lava Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -779,19 +805,6 @@
       "url": "/incident/7697/",
       "id": "7697",
       "contained": "0"
-    },
-    {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 21:53:45",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,277 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "70"
     },
     {
       "name": "Ruby",
@@ -896,19 +909,6 @@
       "url": "/incident/7639/",
       "id": "7639",
       "contained": "52"
-    },
-    {
-      "name": "Delta Lake Fire ",
-      "type": "Wildfire",
-      "summary": "The Delta Lake Fire continues to be the only active fire within the...",
-      "state": "MINNESOTA",
-      "updated": "2021-07-23 09:05:18",
-      "lat": "47.93",
-      "lng": "-91.74",
-      "size": "65 Acres",
-      "url": "/incident/7643/",
-      "id": "7643",
-      "contained": "10"
     },
     {
       "name": "Tango Fire",
