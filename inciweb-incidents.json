@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 10:49:40",
+      "lat": "47.397",
+      "lng": "-115.076",
+      "size": "3,262 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "0"
+    },
+    {
+      "name": "Shale Creek",
+      "type": "Wildfire",
+      "summary": "The fire is located in remote and rugged terrain. Current progress...",
+      "state": "WYOMING",
+      "updated": "2021-07-24 10:49:07",
+      "lat": "42.236",
+      "lng": "-110.606",
+      "size": "189 Acres",
+      "url": "/incident/7689/",
+      "id": "7689",
+      "contained": "45"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 10:45:59",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "26,539 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Current Conditions: Yesterday, the Dixie Fire saw extreme fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-24 10:44:19",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "181,289 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "19"
+    },
+    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
       "state": "IDAHO",
-      "updated": "2021-07-24 10:37:21",
+      "updated": "2021-07-24 10:39:06",
       "lat": "47.17",
       "lng": "-115.442",
       "size": "2,357 Acres",
@@ -14,30 +66,17 @@
       "contained": "3"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Chuweah Creek",
       "type": "Wildfire",
-      "summary": " Current Conditions: Yesterday, the Dixie Fire saw extreme fire...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-24 10:35:26",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "167,430 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "18"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 10:33:44",
-      "lat": "47.397",
-      "lng": "-115.076",
-      "size": "3,262 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "0"
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 10:39:06",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,820 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "50"
     },
     {
       "name": "Goose Fire",
@@ -116,19 +155,6 @@
       "url": "/incident/7718/",
       "id": "7718",
       "contained": "20"
-    },
-    {
-      "name": "Shale Creek",
-      "type": "Wildfire",
-      "summary": "The fire is located in remote and rugged terrain. Current progress...",
-      "state": "WYOMING",
-      "updated": "2021-07-24 10:20:26",
-      "lat": "42.236",
-      "lng": "-110.606",
-      "size": "189 Acres",
-      "url": "/incident/7689/",
-      "id": "7689",
-      "contained": "45"
     },
     {
       "name": "Summit Trail",
@@ -259,19 +285,6 @@
       "url": "/incident/7644/",
       "id": "7644",
       "contained": "47"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 09:23:29",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,820 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "50"
     },
     {
       "name": "Mud Lick, Haynes, and Iron Fires",
@@ -805,19 +818,6 @@
       "url": "/incident/7629/",
       "id": "7629",
       "contained": "85"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 12:47:02",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "24,435 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "0"
     },
     {
       "name": "Alder Creek Fire",
