@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Goose Fire",
+      "type": "Wildfire",
+      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 09:45:44",
+      "lat": "44.733",
+      "lng": "-111.6",
+      "size": "7,417 Acres",
+      "url": "/incident/7618/",
+      "id": "7618",
+      "contained": "49"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 09:44:25",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "20,806 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 09:44:05",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "40,877 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "5"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 09:42:28",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "958 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Steptoe Canyon",
+      "type": "Wildfire",
+      "summary": " The Steptoe Canyon Fire started on July 22, 2021 at approximately...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 09:38:57",
+      "lat": "46.49",
+      "lng": "-117.2",
+      "size": "2,700 Acres",
+      "url": "/incident/7717/",
+      "id": "7717",
+      "contained": "20"
+    },
+    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "July 24, 2021 7 a.m. A VIRTUAL public meeting will be held TODAY at...",
       "state": "WASHINGTON",
-      "updated": "2021-07-24 09:27:10",
+      "updated": "2021-07-24 09:31:21",
       "lat": "48.285",
       "lng": "-118.531",
       "size": "7,706 Acres",
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "5"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
+      "state": "IDAHO",
+      "updated": "2021-07-24 09:30:25",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "31,970 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "12"
     },
     {
       "name": "Leland Complex",
@@ -66,19 +144,6 @@
       "contained": "1"
     },
     {
-      "name": "Goose Fire",
-      "type": "Wildfire",
-      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 09:13:46",
-      "lat": "44.733",
-      "lng": "-111.6",
-      "size": "7,262 Acres",
-      "url": "/incident/7618/",
-      "id": "7618",
-      "contained": "49"
-    },
-    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
@@ -105,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek Fire was reported at 1:27 p.m. on Friday, July 16,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 09:10:37",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "40,877 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "5"
-    },
-    {
       "name": "Cougar Rock Complex",
       "type": "Wildfire",
       "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
@@ -129,19 +181,6 @@
       "url": "/incident/7640/",
       "id": "7640",
       "contained": "25"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 09:00:49",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "20,806 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
     },
     {
       "name": "Tamarack Fire",
@@ -443,19 +482,6 @@
       "contained": "0"
     },
     {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "Black Mountain Fire Closed by Forest Closure OrderThe Forest...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 22:43:16",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "946 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
-    },
-    {
       "name": "Morgan Creek Fire",
       "type": "Wildfire",
       "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
@@ -560,19 +586,6 @@
       "contained": "98"
     },
     {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
-      "state": "IDAHO",
-      "updated": "2021-07-23 20:37:18",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "31,970 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "12"
-    },
-    {
       "name": "Robertson Draw",
       "type": "Wildfire",
       "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
@@ -584,19 +597,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "85"
-    },
-    {
-      "name": "Steptoe Canyon",
-      "type": "Wildfire",
-      "summary": " The Steptoe Canyon Fire started on July 22, 2021 at approximately...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-23 20:32:37",
-      "lat": "46.49",
-      "lng": "-117.2",
-      "size": "2,700 Acres",
-      "url": "/incident/7717/",
-      "id": "7717",
-      "contained": "20"
     },
     {
       "name": "Nez Perce-Clearwater Lightning Fires",
