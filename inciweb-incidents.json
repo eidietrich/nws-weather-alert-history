@@ -1,16 +1,16 @@
 {
   "markers": [
     {
-      "name": "South Yaak",
+      "name": "Harris Mountain",
       "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "summary": "The Montana Department of Natural Resources and Conservation (DNRC)...",
       "state": "MONTANA",
-      "updated": "2021-07-24 08:00:47",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "722 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
+      "updated": "2021-07-24 08:21:30",
+      "lat": "47.118",
+      "lng": "-111.75",
+      "size": "0 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
       "contained": "0"
     },
     {
@@ -18,7 +18,7 @@
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
       "state": "MONTANA",
-      "updated": "2021-07-24 08:00:34",
+      "updated": "2021-07-24 08:21:26",
       "lat": "48.34",
       "lng": "-115.968",
       "size": "2,242 Acres",
@@ -27,16 +27,107 @@
       "contained": "19"
     },
     {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 08:20:26",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "5,726 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
       "name": "Club Fire",
       "type": "Wildfire",
       "summary": "The Club Creek Fire is located 3 miles southwest of Root Ranch. Crews...",
       "state": "IDAHO",
-      "updated": "2021-07-24 07:59:47",
+      "updated": "2021-07-24 08:19:44",
       "lat": "45.28",
       "lng": "-115.055",
       "size": "85 Acres",
       "url": "/incident/7704/",
       "id": "7704",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 08:16:43",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "7,706 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "2"
+    },
+    {
+      "name": "Bruler Fire",
+      "type": "Wildfire",
+      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
+      "state": "OREGON",
+      "updated": "2021-07-24 08:16:11",
+      "lat": "44.591",
+      "lng": "-122.156",
+      "size": "195 Acres",
+      "url": "/incident/7663/",
+      "id": "7663",
+      "contained": "25"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 08:15:22",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "722 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "0"
+    },
+    {
+      "name": "2021 Payette Wilderness Fires",
+      "type": "Wildfire",
+      "summary": "Three fires are burning in the Frank Church River of No Return...",
+      "state": "IDAHO",
+      "updated": "2021-07-24 08:12:51",
+      "lat": "45",
+      "lng": "-115",
+      "size": "2,152 Acres",
+      "url": "/incident/7700/",
+      "id": "7700",
+      "contained": "0"
+    },
+    {
+      "name": "Rush Creek",
+      "type": "Wildfire",
+      "summary": "The Rush Creek Fire is located at the confluence of Telephone and...",
+      "state": "IDAHO",
+      "updated": "2021-07-24 08:06:07",
+      "lat": "44.983",
+      "lng": "-114.993",
+      "size": "1,660 Acres",
+      "url": "/incident/7710/",
+      "id": "7710",
+      "contained": "0"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-24 08:03:32",
+      "lat": "47.397",
+      "lng": "-115.076",
+      "size": "3,262 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
       "contained": "0"
     },
     {
@@ -77,32 +168,6 @@
       "url": "/incident/7709/",
       "id": "7709",
       "contained": "0"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-24 07:54:15",
-      "lat": "47.397",
-      "lng": "-115.076",
-      "size": "3,262 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "0"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 07:51:53",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "7,706 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "2"
     },
     {
       "name": "Mud Lick, Haynes, and Iron Fires",
@@ -350,19 +415,6 @@
       "url": "/incident/7697/",
       "id": "7697",
       "contained": "0"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The White Sulphur Springs Ranger District of the Helena-Lewis &amp; Clark...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 21:57:38",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "5,726 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "Divide Complex-Ellis Fire",
@@ -716,19 +768,6 @@
       "contained": "85"
     },
     {
-      "name": "Bruler Fire",
-      "type": "Wildfire",
-      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
-      "state": "OREGON",
-      "updated": "2021-07-23 13:01:10",
-      "lat": "44.591",
-      "lng": "-122.156",
-      "size": "195 Acres",
-      "url": "/incident/7663/",
-      "id": "7663",
-      "contained": "20"
-    },
-    {
       "name": "Christensen Fire ",
       "type": "Wildfire",
       "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
@@ -781,19 +820,6 @@
       "contained": "52"
     },
     {
-      "name": "Rush Creek",
-      "type": "Wildfire",
-      "summary": "The Rush Creek Fire is located at the confluence of Telephone and...",
-      "state": "IDAHO",
-      "updated": "2021-07-23 11:54:03",
-      "lat": "44.983",
-      "lng": "-114.993",
-      "size": "1,617 Acres",
-      "url": "/incident/7710/",
-      "id": "7710",
-      "contained": "0"
-    },
-    {
       "name": "Summit Fire",
       "type": "Wildfire",
       "summary": "The Summit Fire is one of several lightning ignited fires associated...",
@@ -805,19 +831,6 @@
       "url": "/incident/7711/",
       "id": "7711",
       "contained": "35"
-    },
-    {
-      "name": "2021 Payette Wilderness Fires",
-      "type": "Wildfire",
-      "summary": "Three fires are burning in the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2021-07-23 11:22:04",
-      "lat": "45",
-      "lng": "-115",
-      "size": "1,985 Acres",
-      "url": "/incident/7700/",
-      "id": "7700",
-      "contained": "0"
     },
     {
       "name": "Goddard Road Fire",
