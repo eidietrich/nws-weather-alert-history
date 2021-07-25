@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-07-25 10:17:27",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "564 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "0"
-    },
-    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
       "state": "WASHINGTON",
-      "updated": "2021-07-25 10:16:31",
+      "updated": "2021-07-25 10:37:02",
       "lat": "48.595",
       "lng": "-120.537",
       "size": "24,647 Acres",
@@ -27,11 +14,50 @@
       "contained": "11"
     },
     {
+      "name": "Sherwood",
+      "type": "Wildfire",
+      "summary": " The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-25 10:36:57",
+      "lat": "47.912",
+      "lng": "-117.986",
+      "size": "500 Acres",
+      "url": "/incident/7713/",
+      "id": "7713",
+      "contained": "30"
+    },
+    {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 10:36:24",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "5,972 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "27"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires that merged...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 10:35:37",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "107,679 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "74"
+    },
+    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
       "state": "MONTANA",
-      "updated": "2021-07-25 10:12:40",
+      "updated": "2021-07-25 10:34:49",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "27,797 Acres",
@@ -44,12 +70,129 @@
       "type": "Wildfire",
       "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
       "state": "MONTANA",
-      "updated": "2021-07-25 10:11:54",
+      "updated": "2021-07-25 10:33:11",
       "lat": "45.781",
       "lng": "-113.226",
       "size": "1,274 Acres",
       "url": "/incident/7702/",
       "id": "7702",
+      "contained": "0"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-25 10:31:57",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "7,281 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
+      "name": "Vinegar Fire",
+      "type": "Wildfire",
+      "summary": "The Vinegar Fire started approximately 2 miles north of the Cabin...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 10:31:06",
+      "lat": "45.179",
+      "lng": "-114.905",
+      "size": "407 Acres",
+      "url": "/incident/7709/",
+      "id": "7709",
+      "contained": "0"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 10:30:27",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "4,582 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "30"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-07-25 10:29:30",
+      "lat": "46.134",
+      "lng": "-117.719",
+      "size": "5,887 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-25 10:27:11",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "66,744 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "27"
+    },
+    {
+      "name": "Northrup",
+      "type": "Wildfire",
+      "summary": " At about 5:00 p.m. yesterday, fire resources responded to a call...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-25 10:26:51",
+      "lat": "47.859",
+      "lng": "-119.098",
+      "size": "252 Acres",
+      "url": "/incident/7718/",
+      "id": "7718",
+      "contained": "65"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 10:23:26",
+      "lat": "47.17",
+      "lng": "-115.442",
+      "size": "2,357 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "3"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
+      "state": "MONTANA",
+      "updated": "2021-07-25 10:22:11",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "1,006 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "0"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-07-25 10:20:40",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "564 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
       "contained": "0"
     },
     {
@@ -64,19 +207,6 @@
       "url": "/incident/7703/",
       "id": "7703",
       "contained": "73"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-25 10:10:39",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "7,281 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
     },
     {
       "name": "Summit Fire",
@@ -103,19 +233,6 @@
       "url": "/incident/7676/",
       "id": "7676",
       "contained": "65"
-    },
-    {
-      "name": "Sherwood",
-      "type": "Wildfire",
-      "summary": " The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-25 10:03:36",
-      "lat": "47.912",
-      "lng": "-117.986",
-      "size": "500 Acres",
-      "url": "/incident/7713/",
-      "id": "7713",
-      "contained": "30"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -194,19 +311,6 @@
       "url": "/incident/7643/",
       "id": "7643",
       "contained": "85"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-25 09:55:25",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "66,744 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "27"
     },
     {
       "name": "South Yaak",
@@ -391,19 +495,6 @@
       "contained": "85"
     },
     {
-      "name": "Vinegar Fire",
-      "type": "Wildfire",
-      "summary": "The Vinegar Fire started approximately 2 miles north of the Cabin...",
-      "state": "IDAHO",
-      "updated": "2021-07-25 08:39:43",
-      "lat": "45.179",
-      "lng": "-114.905",
-      "size": "407 Acres",
-      "url": "/incident/7709/",
-      "id": "7709",
-      "contained": "0"
-    },
-    {
       "name": "Rush Creek",
       "type": "Wildfire",
       "summary": "The Rush Creek Fire started at the confluence of Telephone and Rush...",
@@ -414,19 +505,6 @@
       "size": "1,660 Acres",
       "url": "/incident/7710/",
       "id": "7710",
-      "contained": "0"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
-      "state": "MONTANA",
-      "updated": "2021-07-25 08:31:57",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "1,006 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
       "contained": "0"
     },
     {
@@ -467,19 +545,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "46"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-07-25 07:43:26",
-      "lat": "46.134",
-      "lng": "-117.719",
-      "size": "5,887 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
     },
     {
       "name": "Club Fire",
@@ -534,19 +599,6 @@
       "contained": "90"
     },
     {
-      "name": "Northrup",
-      "type": "Wildfire",
-      "summary": " At about 5:00 p.m. yesterday, fire resources responded to a call...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 23:15:34",
-      "lat": "47.859",
-      "lng": "-119.098",
-      "size": "252 Acres",
-      "url": "/incident/7718/",
-      "id": "7718",
-      "contained": "65"
-    },
-    {
       "name": "Steptoe Canyon",
       "type": "Wildfire",
       "summary": " The Steptoe Canyon Fire started on July 22, 2021 at approximately...",
@@ -558,19 +610,6 @@
       "url": "/incident/7717/",
       "id": "7717",
       "contained": "80"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
-      "state": "IDAHO",
-      "updated": "2021-07-24 22:59:22",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "4,582 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "30"
     },
     {
       "name": "Elbow Creek",
@@ -664,19 +703,6 @@
       "contained": "0"
     },
     {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires that merged...",
-      "state": "IDAHO",
-      "updated": "2021-07-24 20:02:27",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "107,679 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "74"
-    },
-    {
       "name": "Morgan Creek Fire",
       "type": "Wildfire",
       "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
@@ -688,19 +714,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "7"
-    },
-    {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
-      "state": "IDAHO",
-      "updated": "2021-07-24 18:56:03",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "5,972 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "27"
     },
     {
       "name": "Slough Grass",
@@ -779,19 +792,6 @@
       "url": "/incident/7668/",
       "id": "7668",
       "contained": "100"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
-      "state": "IDAHO",
-      "updated": "2021-07-24 10:39:06",
-      "lat": "47.17",
-      "lng": "-115.442",
-      "size": "2,357 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "3"
     },
     {
       "name": "Black Mountain",
