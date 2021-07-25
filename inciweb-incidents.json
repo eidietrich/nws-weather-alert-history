@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "Northrup",
+      "type": "Wildfire",
+      "summary": " At about 5:00 p.m. yesterday, fire resources responded to a call...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 23:15:34",
+      "lat": "47.859",
+      "lng": "-119.098",
+      "size": "252 Acres",
+      "url": "/incident/7718/",
+      "id": "7718",
+      "contained": "65"
+    },
+    {
+      "name": "Steptoe Canyon",
+      "type": "Wildfire",
+      "summary": " The Steptoe Canyon Fire started on July 22, 2021 at approximately...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 23:15:00",
+      "lat": "46.49",
+      "lng": "-117.2",
+      "size": "2,605 Acres",
+      "url": "/incident/7717/",
+      "id": "7717",
+      "contained": "80"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 23:12:24",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "22,415 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Yesterday, the Dixie Fire once again saw extreme fire behavior and...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-24 23:04:34",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "181,289 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "20"
+    },
+    {
       "name": "Peak Fire",
       "type": "Wildfire",
       "summary": "The Bureau of Land Management, U.S. Forest Service and Kern County...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-24 22:47:40",
+      "updated": "2021-07-24 23:01:04",
       "lat": "35.406",
       "lng": "-118.436",
       "size": "2,098 Acres",
       "url": "/incident/7703/",
       "id": "7703",
       "contained": "73"
+    },
+    {
+      "name": "Fly",
+      "type": "Wildfire",
+      "summary": "Fly Fire started on the afternoon of July 22, 2021.  It is being...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-24 23:00:34",
+      "lat": "40.007",
+      "lng": "-120.965",
+      "size": "4,300 Acres",
+      "url": "/incident/7716/",
+      "id": "7716",
+      "contained": "5"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
+      "state": "IDAHO",
+      "updated": "2021-07-24 22:59:22",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "4,582 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "30"
+    },
+    {
+      "name": "Elbow Creek",
+      "type": "Wildfire",
+      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
+      "state": "OREGON",
+      "updated": "2021-07-24 22:59:09",
+      "lat": "45.867",
+      "lng": "-117.619",
+      "size": "21,928 Acres",
+      "url": "/incident/7672/",
+      "id": "7672",
+      "contained": "28"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 22:55:52",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "7,706 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "5"
     },
     {
       "name": "Jack Fire",
@@ -51,19 +155,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 22:33:35",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "22,415 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
     },
     {
       "name": "West Lolo Complex",
@@ -183,19 +274,6 @@
       "contained": "70"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Yesterday, the Dixie Fire once again saw extreme fire behavior and...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-24 21:51:21",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "181,289 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "19"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -235,19 +313,6 @@
       "contained": "45"
     },
     {
-      "name": "Elbow Creek",
-      "type": "Wildfire",
-      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
-      "state": "OREGON",
-      "updated": "2021-07-24 21:22:34",
-      "lat": "45.867",
-      "lng": "-117.619",
-      "size": "20,810 Acres",
-      "url": "/incident/7672/",
-      "id": "7672",
-      "contained": "25"
-    },
-    {
       "name": "Chuweah Creek",
       "type": "Wildfire",
       "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
@@ -274,19 +339,6 @@
       "contained": "0"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 21:04:33",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "7,706 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "5"
-    },
-    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
@@ -298,19 +350,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "42"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
-      "state": "IDAHO",
-      "updated": "2021-07-24 20:43:55",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "4,582 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "30"
     },
     {
       "name": "Hay Creek",
@@ -378,19 +417,6 @@
       "contained": "4"
     },
     {
-      "name": "Northrup",
-      "type": "Wildfire",
-      "summary": " At about 5:00 p.m. yesterday, fire resources responded to a call...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 20:14:12",
-      "lat": "47.859",
-      "lng": "-119.098",
-      "size": "442 Acres",
-      "url": "/incident/7718/",
-      "id": "7718",
-      "contained": "20"
-    },
-    {
       "name": "Snake River Complex",
       "type": "Wildfire",
       "summary": "The Snake River Complex comprises of three wildfires that merged...",
@@ -443,19 +469,6 @@
       "contained": "70"
     },
     {
-      "name": "Steptoe Canyon",
-      "type": "Wildfire",
-      "summary": " The Steptoe Canyon Fire started on July 22, 2021 at approximately...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 19:09:50",
-      "lat": "46.49",
-      "lng": "-117.2",
-      "size": "2,700 Acres",
-      "url": "/incident/7717/",
-      "id": "7717",
-      "contained": "20"
-    },
-    {
       "name": "Cougar Rock Complex",
       "type": "Wildfire",
       "summary": "The Cougar Rock Complex is comprised of several wildfires that all...",
@@ -493,19 +506,6 @@
       "url": "/incident/7608/",
       "id": "7608",
       "contained": "18"
-    },
-    {
-      "name": "Fly",
-      "type": "Wildfire",
-      "summary": "Fly Fire started on the afternoon of July 22, 2021.  It is being...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-24 17:45:32",
-      "lat": "40.007",
-      "lng": "-120.965",
-      "size": "2,800 Acres",
-      "url": "/incident/7716/",
-      "id": "7716",
-      "contained": "5"
     },
     {
       "name": "Anderson Hill Fire",
