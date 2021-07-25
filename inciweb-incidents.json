@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-25 09:13:11",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "460 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "50"
+    },
+    {
+      "name": "County Line",
+      "type": "Wildfire",
+      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-25 09:13:08",
+      "lat": "37.835",
+      "lng": "-119.619",
+      "size": "224 Acres",
+      "url": "/incident/7613/",
+      "id": "7613",
+      "contained": "85"
+    },
+    {
+      "name": "Silliman",
+      "type": "Wildfire",
+      "summary": "Discovered on July 21, 2021, the lightning-caused Silliman is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-25 09:12:38",
+      "lat": "36.641",
+      "lng": "-118.719",
+      "size": "4 Acres",
+      "url": "/incident/7714/",
+      "id": "7714",
+      "contained": "90"
+    },
+    {
+      "name": "Mud Lick, Haynes, and Iron Fires",
+      "type": "Wildfire",
+      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 09:09:01",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "17,291 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-25 09:07:12",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "42,785 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "10"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-25 09:01:47",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "66,744 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "4"
+    },
+    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -25,19 +103,6 @@
       "url": "/incident/7671/",
       "id": "7671",
       "contained": "85"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-25 08:43:30",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "66,744 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "4"
     },
     {
       "name": "Vinegar Fire",
@@ -142,19 +207,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "46"
-    },
-    {
-      "name": "Mud Lick, Haynes, and Iron Fires",
-      "type": "Wildfire",
-      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
-      "state": "IDAHO",
-      "updated": "2021-07-25 07:45:24",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "17,291 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
     },
     {
       "name": "Green Ridge Fire",
@@ -363,19 +415,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 22:14:20",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "42,785 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "10"
     },
     {
       "name": "Christensen Fire ",
@@ -677,19 +716,6 @@
       "contained": "98"
     },
     {
-      "name": "Silliman",
-      "type": "Wildfire",
-      "summary": "Discovered on July 21, 2021, the lightning-caused Silliman is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-24 11:33:36",
-      "lat": "36.641",
-      "lng": "-118.719",
-      "size": "5 Acres",
-      "url": "/incident/7714/",
-      "id": "7714",
-      "contained": "0"
-    },
-    {
       "name": "Lost Fire",
       "type": "Wildfire",
       "summary": "Discovered on July 10, 2021, the lightning-caused Lost Fire is...",
@@ -989,19 +1015,6 @@
       "contained": "90"
     },
     {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 16:50:13",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "460 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "50"
-    },
-    {
       "name": "North",
       "type": "Wildfire",
       "summary": "On Thursday, July 8, 2021, an escaped campfire was reported on the...",
@@ -1013,19 +1026,6 @@
       "url": "/incident/7623/",
       "id": "7623",
       "contained": "100"
-    },
-    {
-      "name": "County Line",
-      "type": "Wildfire",
-      "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-22 16:46:34",
-      "lat": "37.835",
-      "lng": "-119.619",
-      "size": "224 Acres",
-      "url": "/incident/7613/",
-      "id": "7613",
-      "contained": "85"
     },
     {
       "name": "Lava Fire",
