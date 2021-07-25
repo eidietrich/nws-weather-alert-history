@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-07-25 08:32:10",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "564 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "0"
+    },
+    {
       "name": "Rush Creek",
       "type": "Wildfire",
       "summary": "The Rush Creek Fire started at the confluence of Telephone and Rush...",
       "state": "IDAHO",
-      "updated": "2021-07-25 08:20:26",
+      "updated": "2021-07-25 08:31:59",
       "lat": "44.983",
       "lng": "-114.993",
       "size": "1,660 Acres",
@@ -18,7 +31,7 @@
       "type": "Wildfire",
       "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
       "state": "MONTANA",
-      "updated": "2021-07-25 08:13:22",
+      "updated": "2021-07-25 08:31:57",
       "lat": "48.778",
       "lng": "-114.431",
       "size": "1,006 Acres",
@@ -31,7 +44,7 @@
       "type": "Wildfire",
       "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
       "state": "MONTANA",
-      "updated": "2021-07-25 08:06:02",
+      "updated": "2021-07-25 08:30:26",
       "lat": "44.733",
       "lng": "-111.6",
       "size": "7,417 Acres",
@@ -40,17 +53,30 @@
       "contained": "70"
     },
     {
-      "name": "Crater Ridge",
+      "name": "Bruler Fire",
       "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-07-25 08:04:57",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "564 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "0"
+      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
+      "state": "OREGON",
+      "updated": "2021-07-25 08:29:57",
+      "lat": "44.591",
+      "lng": "-122.156",
+      "size": "195 Acres",
+      "url": "/incident/7663/",
+      "id": "7663",
+      "contained": "44"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-25 08:24:30",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "22,415 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
     },
     {
       "name": "West Lolo Complex",
@@ -168,19 +194,6 @@
       "url": "/incident/7700/",
       "id": "7700",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-25 07:19:33",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "22,415 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -701,19 +714,6 @@
       "url": "/incident/7711/",
       "id": "7711",
       "contained": "65"
-    },
-    {
-      "name": "Bruler Fire",
-      "type": "Wildfire",
-      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
-      "state": "OREGON",
-      "updated": "2021-07-24 11:22:00",
-      "lat": "44.591",
-      "lng": "-122.156",
-      "size": "195 Acres",
-      "url": "/incident/7663/",
-      "id": "7663",
-      "contained": "25"
     },
     {
       "name": "Glacier Fire",
