@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-07-25 18:16:07",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "350 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Yesterday the Dixie Fire experienced significant growth and very...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-25 18:15:41",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "190,625 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "21"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires that merged...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 18:15:30",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "107,679 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "74"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "The Stateline Fire Complex is located 6.5 miles West of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 18:13:04",
+      "lat": "47.17",
+      "lng": "-115.442",
+      "size": "2,357 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "3"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "As of 6 a.m. (PDT) July 25, a Nez Perce-Clearwater National Forest's...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 18:10:40",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "37,161 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "18"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-25 18:03:13",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "42,785 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "10"
+    },
+    {
+      "name": "Larkins Fire Complex",
+      "type": "Wildfire",
+      "summary": "The Larkins Fire Complex is located on the St. Joe River Ranger...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 17:53:52",
+      "lat": "46.967",
+      "lng": "-115.671",
+      "size": "2,500 Acres",
+      "url": "/incident/7722/",
+      "id": "7722",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": " The Goat Fire started Saturday, July 17, approximately 16 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-25 17:49:18",
+      "lat": "46.369",
+      "lng": "-113.068",
+      "size": "69 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
       "name": "County Line",
       "type": "Wildfire",
       "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
@@ -40,32 +144,6 @@
       "contained": "90"
     },
     {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": " The Goat Fire started Saturday, July 17, approximately 16 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-25 17:43:03",
-      "lat": "46.369",
-      "lng": "-113.068",
-      "size": "69 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
-    },
-    {
-      "name": "Larkins Fire Complex",
-      "type": "Wildfire",
-      "summary": "The Larkins Fire Complex is located on the St. Joe River Ranger...",
-      "state": "IDAHO",
-      "updated": "2021-07-25 17:42:17",
-      "lat": "46.967",
-      "lng": "-115.671",
-      "size": "2,500 Acres",
-      "url": "/incident/7722/",
-      "id": "7722",
-      "contained": "1"
-    },
-    {
       "name": "Graham Ridge Fire",
       "type": "Wildfire",
       "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
@@ -77,19 +155,6 @@
       "url": "/incident/7630/",
       "id": "7630",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Yesterday the Dixie Fire experienced significant growth and very...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-25 17:35:12",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "190,625 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "21"
     },
     {
       "name": "Lava Post-Fire BAER",
@@ -222,19 +287,6 @@
       "contained": "70"
     },
     {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located 6.5 miles West of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-07-25 16:15:51",
-      "lat": "47.17",
-      "lng": "-115.442",
-      "size": "2,357 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "3"
-    },
-    {
       "name": "Anderson Hill Fire",
       "type": "Wildfire",
       "summary": "This fire originated in Granite County one mile southeast of Garnet...",
@@ -258,19 +310,6 @@
       "size": "5,806 Acres",
       "url": "/incident/7681/",
       "id": "7681",
-      "contained": "10"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-25 15:50:12",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "42,785 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
       "contained": "10"
     },
     {
@@ -298,19 +337,6 @@
       "url": "/incident/7640/",
       "id": "7640",
       "contained": "27"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-07-25 14:52:14",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "350 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
     },
     {
       "name": "Slough Grass",
@@ -573,19 +599,6 @@
       "contained": "0"
     },
     {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires that merged...",
-      "state": "IDAHO",
-      "updated": "2021-07-25 10:35:37",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "107,679 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "74"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
@@ -831,19 +844,6 @@
       "url": "/incident/7689/",
       "id": "7689",
       "contained": "45"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "As of 6 a.m. (PDT) July 8, Doug Turman’s Type 1 Northern Rockies...",
-      "state": "IDAHO",
-      "updated": "2021-07-24 17:49:57",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "37,161 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "18"
     },
     {
       "name": "Trestle Creek Complex",
