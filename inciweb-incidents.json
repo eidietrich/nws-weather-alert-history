@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-25 16:32:02",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "2,416 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "19"
+    },
+    {
+      "name": "Lava Fire",
+      "type": "Wildfire",
+      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-25 16:30:58",
+      "lat": "41.459",
+      "lng": "-122.329",
+      "size": "26,316 Acres",
+      "url": "/incident/7581/",
+      "id": "7581",
+      "contained": "77"
+    },
+    {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-25 16:17:32",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,277 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "70"
+    },
+    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "The Stateline Fire Complex is located 6.5 miles West of St. Regis,...",
@@ -14,19 +53,6 @@
       "contained": "3"
     },
     {
-      "name": "Lava Fire",
-      "type": "Wildfire",
-      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-25 16:14:40",
-      "lat": "41.459",
-      "lng": "-122.329",
-      "size": "26,316 Acres",
-      "url": "/incident/7581/",
-      "id": "7581",
-      "contained": "77"
-    },
-    {
       "name": "Anderson Hill Fire",
       "type": "Wildfire",
       "summary": "This fire originated in Granite County one mile southeast of Garnet...",
@@ -38,19 +64,6 @@
       "url": "/incident/7671/",
       "id": "7671",
       "contained": "90"
-    },
-    {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "On the Ellis Fire, mop-up and securing of existing fireline...",
-      "state": "MONTANA",
-      "updated": "2021-07-25 16:08:11",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,277 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "70"
     },
     {
       "name": "Tamarack Fire",
@@ -77,19 +90,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "10"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-25 15:58:10",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "2,416 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "19"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -1000,19 +1000,6 @@
       "url": "/incident/7695/",
       "id": "7695",
       "contained": "0"
-    },
-    {
-      "name": "Haynes Fire",
-      "type": "Wildfire",
-      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
-      "state": "IDAHO",
-      "updated": "2021-07-22 22:21:46",
-      "lat": "44.987",
-      "lng": "-113.833",
-      "size": "461 Acres",
-      "url": "/incident/7683/",
-      "id": "7683",
-      "contained": "20"
     },
     {
       "name": "Hoover",
