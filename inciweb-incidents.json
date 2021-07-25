@@ -1,30 +1,56 @@
 {
   "markers": [
     {
-      "name": "Muddy Slide Fire",
+      "name": "Lava Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-25 17:15:47",
+      "lat": "41.425",
+      "lng": "-122.261",
+      "size": "0 Acres",
+      "url": "/incident/7693/",
+      "id": "7693",
+      "contained": "0"
+    },
+    {
+      "name": "Lava Fire",
       "type": "Wildfire",
-      "summary": "Muddy Slide Fire Update Saturday, July 24 2021 The Muddy Slide Fire...",
-      "state": "COLORADO",
-      "updated": "2021-07-25 16:46:09",
-      "lat": "40.143",
-      "lng": "-106.798",
-      "size": "4,093 Acres",
-      "url": "/incident/7566/",
-      "id": "7566",
-      "contained": "70"
+      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-25 17:01:43",
+      "lat": "41.459",
+      "lng": "-122.329",
+      "size": "26,316 Acres",
+      "url": "/incident/7581/",
+      "id": "7581",
+      "contained": "77"
     },
     {
       "name": "Sherwood",
       "type": "Wildfire",
       "summary": " The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
       "state": "WASHINGTON",
-      "updated": "2021-07-25 16:41:05",
+      "updated": "2021-07-25 16:58:50",
       "lat": "47.912",
       "lng": "-117.986",
       "size": "700 Acres",
       "url": "/incident/7713/",
       "id": "7713",
       "contained": "20"
+    },
+    {
+      "name": "Muddy Slide Fire",
+      "type": "Wildfire",
+      "summary": "Muddy Slide Fire Update Saturday, July 24 2021 The Muddy Slide Fire...",
+      "state": "COLORADO",
+      "updated": "2021-07-25 16:49:27",
+      "lat": "40.143",
+      "lng": "-106.798",
+      "size": "4,093 Acres",
+      "url": "/incident/7566/",
+      "id": "7566",
+      "contained": "70"
     },
     {
       "name": "Tamarack Fire",
@@ -64,19 +90,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "19"
-    },
-    {
-      "name": "Lava Fire",
-      "type": "Wildfire",
-      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-25 16:30:58",
-      "lat": "41.459",
-      "lng": "-122.329",
-      "size": "26,316 Acres",
-      "url": "/incident/7581/",
-      "id": "7581",
-      "contained": "77"
     },
     {
       "name": "Divide Complex-Ellis Fire",
@@ -870,19 +883,6 @@
       "url": "/incident/7668/",
       "id": "7668",
       "contained": "100"
-    },
-    {
-      "name": "Lava Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-23 23:25:48",
-      "lat": "41.425",
-      "lng": "-122.261",
-      "size": "0 Acres",
-      "url": "/incident/7693/",
-      "id": "7693",
-      "contained": "0"
     },
     {
       "name": "Ruby",
