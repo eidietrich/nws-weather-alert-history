@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-25 13:52:08",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "42,785 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "10"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-25 13:52:02",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "2,416 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "19"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Yesterday the Dixie Fire experienced significant growth and very...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-25 13:52:01",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "190,625 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "21"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": "Due to more accurate infrared mapping, the Goat Fire acreage has been...",
+      "state": "MONTANA",
+      "updated": "2021-07-25 13:51:54",
+      "lat": "46.369",
+      "lng": "-113.068",
+      "size": "69 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
       "state": "MONTANA",
-      "updated": "2021-07-25 13:38:30",
+      "updated": "2021-07-25 13:50:31",
       "lat": "47.41",
       "lng": "-114.988",
       "size": "4,560 Acres",
@@ -14,17 +66,17 @@
       "contained": "0"
     },
     {
-      "name": "Goat Fire",
+      "name": "Alder Creek Fire",
       "type": "Wildfire",
-      "summary": "Due to more accurate infrared mapping, the Goat Fire acreage has been...",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
       "state": "MONTANA",
-      "updated": "2021-07-25 13:35:45",
-      "lat": "46.369",
-      "lng": "-113.068",
-      "size": "69 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
+      "updated": "2021-07-25 13:43:05",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "7,281 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
     },
     {
       "name": "Cedar Creek",
@@ -51,19 +103,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "7"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Yesterday the Dixie Fire experienced significant growth and very...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-25 13:13:44",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "190,625 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "21"
     },
     {
       "name": "Jack Fire",
@@ -261,19 +300,6 @@
       "contained": "90"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-25 11:31:23",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "42,785 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "10"
-    },
-    {
       "name": "Bruler Fire",
       "type": "Wildfire",
       "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
@@ -311,19 +337,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "0"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-25 11:10:37",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "2,416 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "19"
     },
     {
       "name": "Elbow Creek",
@@ -415,19 +428,6 @@
       "url": "/incident/7702/",
       "id": "7702",
       "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-25 10:31:57",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "7,281 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
     },
     {
       "name": "Vinegar Fire",
