@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-07-24 23:36:50",
+      "lat": "46.134",
+      "lng": "-117.719",
+      "size": "5,217 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Yesterday, the Dixie Fire once again saw extreme fire behavior and...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-24 23:28:11",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "181,289 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "20"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-24 23:27:37",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,392 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "90"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-24 23:25:53",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "408,248 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "46"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 23:22:29",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "7,706 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "5"
+    },
+    {
       "name": "Northrup",
       "type": "Wildfire",
       "summary": " At about 5:00 p.m. yesterday, fire resources responded to a call...",
@@ -38,19 +103,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "11"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Yesterday, the Dixie Fire once again saw extreme fire behavior and...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-24 23:04:34",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "181,289 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "20"
     },
     {
       "name": "Peak Fire",
@@ -103,19 +155,6 @@
       "url": "/incident/7672/",
       "id": "7672",
       "contained": "28"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 22:55:52",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "7,706 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "5"
     },
     {
       "name": "Jack Fire",
@@ -337,19 +376,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "0"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-24 20:57:43",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "401,601 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "42"
     },
     {
       "name": "Hay Creek",
@@ -584,32 +610,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "98"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-07-24 12:46:42",
-      "lat": "46.134",
-      "lng": "-117.719",
-      "size": "5,217 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-24 11:42:35",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,392 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "75"
     },
     {
       "name": "Silliman",
