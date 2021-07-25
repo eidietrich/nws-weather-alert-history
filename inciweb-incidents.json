@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Bureau of Land Management, U.S. Forest Service and Kern County...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-24 22:47:40",
+      "lat": "35.406",
+      "lng": "-118.436",
+      "size": "2,098 Acres",
+      "url": "/incident/7703/",
+      "id": "7703",
+      "contained": "73"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
+      "state": "OREGON",
+      "updated": "2021-07-24 22:46:42",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "19,956 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "56"
+    },
+    {
+      "name": "Spruce Canyon",
+      "type": "Wildfire",
+      "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-24 22:42:24",
+      "lat": "48.54",
+      "lng": "-117.593",
+      "size": "90 Acres",
+      "url": "/incident/7721/",
+      "id": "7721",
+      "contained": "0"
+    },
+    {
+      "name": "Mud Lick, Haynes, and Iron Fires",
+      "type": "Wildfire",
+      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
+      "state": "IDAHO",
+      "updated": "2021-07-24 22:42:09",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "17,265 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
@@ -12,32 +64,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "11"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-24 22:30:50",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "19,956 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "56"
-    },
-    {
-      "name": "Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Bureau of Land Management, U.S. Forest Service and Kern County...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-24 22:23:49",
-      "lat": "35.406",
-      "lng": "-118.436",
-      "size": "2,098 Acres",
-      "url": "/incident/7703/",
-      "id": "7703",
-      "contained": "73"
     },
     {
       "name": "West Lolo Complex",
@@ -89,19 +115,6 @@
       "size": "382 Acres",
       "url": "/incident/7702/",
       "id": "7702",
-      "contained": "0"
-    },
-    {
-      "name": "Spruce Canyon",
-      "type": "Wildfire",
-      "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-24 22:05:09",
-      "lat": "48.54",
-      "lng": "-117.593",
-      "size": "90 Acres",
-      "url": "/incident/7721/",
-      "id": "7721",
       "contained": "0"
     },
     {
@@ -713,19 +726,6 @@
       "size": "958 Acres",
       "url": "/incident/7691/",
       "id": "7691",
-      "contained": "0"
-    },
-    {
-      "name": "Mud Lick, Haynes, and Iron Fires",
-      "type": "Wildfire",
-      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
-      "state": "IDAHO",
-      "updated": "2021-07-24 09:20:45",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "17,278 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
       "contained": "0"
     },
     {
