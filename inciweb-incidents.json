@@ -1,30 +1,134 @@
 {
   "markers": [
     {
-      "name": "Jack Fire",
+      "name": "Trail Creek Fire",
       "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-25 22:17:42",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "21,520 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "58"
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-25 22:33:49",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "27,797 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "Mud Lick, Haynes, and Iron Fires",
+      "type": "Wildfire",
+      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 22:33:13",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "17,514 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-25 22:33:02",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "1,164 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "10"
     },
     {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
       "state": "MONTANA",
-      "updated": "2021-07-25 22:09:37",
+      "updated": "2021-07-25 22:31:40",
       "lat": "48.34",
       "lng": "-115.968",
       "size": "2,416 Acres",
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "19"
+    },
+    {
+      "name": "2021 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2021-07-25 22:31:22",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/7304/",
+      "id": "7304",
+      "contained": "0"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-25 22:30:36",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Sherwood",
+      "type": "Wildfire",
+      "summary": " The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-25 22:28:58",
+      "lat": "47.912",
+      "lng": "-117.986",
+      "size": "925 Acres",
+      "url": "/incident/7713/",
+      "id": "7713",
+      "contained": "30"
+    },
+    {
+      "name": "Northrup",
+      "type": "Wildfire",
+      "summary": " At about 5:00 p.m. July 22, fire resources responded to a call for...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-25 22:26:40",
+      "lat": "47.859",
+      "lng": "-119.098",
+      "size": "247 Acres",
+      "url": "/incident/7718/",
+      "id": "7718",
+      "contained": "95"
+    },
+    {
+      "name": "Elbow Creek",
+      "type": "Wildfire",
+      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
+      "state": "OREGON",
+      "updated": "2021-07-25 22:22:37",
+      "lat": "45.867",
+      "lng": "-117.619",
+      "size": "21,928 Acres",
+      "url": "/incident/7672/",
+      "id": "7672",
+      "contained": "28"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
+      "state": "OREGON",
+      "updated": "2021-07-25 22:22:27",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "21,520 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "58"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -64,19 +168,6 @@
       "url": "/incident/7689/",
       "id": "7689",
       "contained": "60"
-    },
-    {
-      "name": "2021 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2021-07-25 21:43:49",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/7304/",
-      "id": "7304",
-      "contained": "0"
     },
     {
       "name": "Storm Theatre Complex",
@@ -222,32 +313,6 @@
       "contained": "46"
     },
     {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-25 20:48:56",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "1,164 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "10"
-    },
-    {
-      "name": "Mud Lick, Haynes, and Iron Fires",
-      "type": "Wildfire",
-      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
-      "state": "IDAHO",
-      "updated": "2021-07-25 20:46:43",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "17,514 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
-    },
-    {
       "name": "Divide Complex-Ellis Fire",
       "type": "Wildfire",
       "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
@@ -352,19 +417,6 @@
       "contained": "0"
     },
     {
-      "name": "Northrup",
-      "type": "Wildfire",
-      "summary": " At about 5:00 p.m. July 22, fire resources responded to a call for...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-25 20:00:23",
-      "lat": "47.859",
-      "lng": "-119.098",
-      "size": "252 Acres",
-      "url": "/incident/7718/",
-      "id": "7718",
-      "contained": "65"
-    },
-    {
       "name": "Snake River Complex",
       "type": "Wildfire",
       "summary": "The Snake River Complex comprises of three wildfires that merged...",
@@ -443,19 +495,6 @@
       "contained": "0"
     },
     {
-      "name": "Sherwood",
-      "type": "Wildfire",
-      "summary": " The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-25 19:07:46",
-      "lat": "47.912",
-      "lng": "-117.986",
-      "size": "700 Acres",
-      "url": "/incident/7713/",
-      "id": "7713",
-      "contained": "20"
-    },
-    {
       "name": "Harris Mountain",
       "type": "Wildfire",
       "summary": "The Montana Department of Natural Resources and Conservation (DNRC)...",
@@ -479,19 +518,6 @@
       "size": "2,500 Acres",
       "url": "/incident/7722/",
       "id": "7722",
-      "contained": "0"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-25 18:53:36",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "27,797 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
       "contained": "0"
     },
     {
@@ -703,19 +729,6 @@
       "contained": "11"
     },
     {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-25 12:46:35",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "Salt Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -753,19 +766,6 @@
       "url": "/incident/7663/",
       "id": "7663",
       "contained": "44"
-    },
-    {
-      "name": "Elbow Creek",
-      "type": "Wildfire",
-      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
-      "state": "OREGON",
-      "updated": "2021-07-25 11:09:19",
-      "lat": "45.867",
-      "lng": "-117.619",
-      "size": "21,928 Acres",
-      "url": "/incident/7672/",
-      "id": "7672",
-      "contained": "28"
     },
     {
       "name": "Tango Fire",
