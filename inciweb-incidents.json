@@ -1,24 +1,63 @@
 {
   "markers": [
     {
-      "name": "Lick Creek (Dry Gulch) Fire",
+      "name": "Jack Fire",
       "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
       "state": "OREGON",
-      "updated": "2021-07-26 17:44:41",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,392 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "90"
+      "updated": "2021-07-26 18:14:54",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "21,609 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "58"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 18:13:40",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "2,715 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "19"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 18:10:45",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "1,523 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "10"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-26 18:04:07",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "43,739 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "10"
     },
     {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
       "state": "OREGON",
-      "updated": "2021-07-26 17:44:35",
+      "updated": "2021-07-26 17:53:43",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "409,611 Acres",
@@ -27,11 +66,50 @@
       "contained": "53"
     },
     {
+      "name": "Dry Cabin",
+      "type": "Wildfire",
+      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 17:50:23",
+      "lat": "47.278",
+      "lng": "-112.956",
+      "size": "2,370 Acres",
+      "url": "/incident/7660/",
+      "id": "7660",
+      "contained": "0"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-26 17:47:41",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,392 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "90"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 17:46:48",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "1,158 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
       "state": "WASHINGTON",
-      "updated": "2021-07-26 17:44:03",
+      "updated": "2021-07-26 17:46:45",
       "lat": "48.595",
       "lng": "-120.537",
       "size": "24,647 Acres",
@@ -64,32 +142,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "15"
-    },
-    {
-      "name": "Dry Cabin",
-      "type": "Wildfire",
-      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 17:38:34",
-      "lat": "47.278",
-      "lng": "-112.956",
-      "size": "2,370 Acres",
-      "url": "/incident/7660/",
-      "id": "7660",
-      "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 17:38:34",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "43,739 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "10"
     },
     {
       "name": "Hardesty Valley Fire",
@@ -157,19 +209,6 @@
       "contained": "0"
     },
     {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 17:01:25",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "1,523 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "10"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
@@ -194,19 +233,6 @@
       "url": "/incident/7640/",
       "id": "7640",
       "contained": "37"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 16:35:32",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "2,715 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "19"
     },
     {
       "name": "Anderson Hill Fire",
@@ -534,19 +560,6 @@
       "contained": "30"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-26 12:58:35",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "21,609 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "58"
-    },
-    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
@@ -583,19 +596,6 @@
       "size": "968 Acres",
       "url": "/incident/7691/",
       "id": "7691",
-      "contained": "0"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 12:38:52",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "1,158 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
       "contained": "0"
     },
     {
