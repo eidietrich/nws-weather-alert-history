@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-26 17:44:41",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,392 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "90"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-26 17:44:35",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "409,611 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "53"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-26 17:44:03",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "24,647 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": " The Goat Fire started Saturday, July 17, approximately 16 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 17:40:46",
+      "lat": "46.369",
+      "lng": "-113.068",
+      "size": "97 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-07-26 17:40:17",
+      "lat": "46.134",
+      "lng": "-117.719",
+      "size": "6,799 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Dry Cabin",
+      "type": "Wildfire",
+      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 17:38:34",
+      "lat": "47.278",
+      "lng": "-112.956",
+      "size": "2,370 Acres",
+      "url": "/incident/7660/",
+      "id": "7660",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-26 17:38:34",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "43,739 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "10"
+    },
+    {
       "name": "Hardesty Valley Fire",
       "type": "Wildfire",
       "summary": "The Hardesty Valley fire was transitioned over to the Southern Area...",
@@ -14,19 +105,6 @@
       "contained": "30"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-26 17:28:27",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "409,611 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "53"
-    },
-    {
       "name": "Granite Pass Complex",
       "type": "Wildfire",
       "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
@@ -38,32 +116,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "1"
-    },
-    {
-      "name": "Dry Cabin",
-      "type": "Wildfire",
-      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 17:22:13",
-      "lat": "47.278",
-      "lng": "-112.956",
-      "size": "2,370 Acres",
-      "url": "/incident/7660/",
-      "id": "7660",
-      "contained": "0"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-07-26 17:18:35",
-      "lat": "46.134",
-      "lng": "-117.719",
-      "size": "6,799 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
     },
     {
       "name": "Tamarack Fire",
@@ -129,19 +181,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "3"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 16:49:13",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "43,739 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "10"
     },
     {
       "name": "Cougar Rock Complex",
@@ -311,19 +350,6 @@
       "url": "/incident/7617/",
       "id": "7617",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 14:44:58",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "24,647 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
     },
     {
       "name": "Dexter Fire",
@@ -638,19 +664,6 @@
       "contained": "100"
     },
     {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-26 12:02:12",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,392 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "90"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
@@ -714,19 +727,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "55"
-    },
-    {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": " The Goat Fire started Saturday, July 17, approximately 16 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 10:57:42",
-      "lat": "46.369",
-      "lng": "-113.068",
-      "size": "97 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
     },
     {
       "name": "King",
