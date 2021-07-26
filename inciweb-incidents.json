@@ -1,14 +1,79 @@
 {
   "markers": [
     {
+      "name": "West Zone Superior Fires",
+      "type": "Wildfire",
+      "summary": " On July 7, 2021, the Astray wildfire was reported on the west zone...",
+      "state": "MINNESOTA",
+      "updated": "2021-07-26 08:46:07",
+      "lat": "47.907",
+      "lng": "-91.831",
+      "size": "0 Acres",
+      "url": "/incident/7617/",
+      "id": "7617",
+      "contained": "0"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
+      "state": "OREGON",
+      "updated": "2021-07-26 08:42:52",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "21,609 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "58"
+    },
+    {
+      "name": "Goose Fire",
+      "type": "Wildfire",
+      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 08:39:42",
+      "lat": "44.733",
+      "lng": "-111.6",
+      "size": "7,471 Acres",
+      "url": "/incident/7618/",
+      "id": "7618",
+      "contained": "78"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-26 08:39:34",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "24,647 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-26 08:35:59",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "409,611 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "53"
+    },
+    {
       "name": "Harris Mountain",
       "type": "Wildfire",
       "summary": "The Montana Department of Natural Resources and Conservation (DNRC)...",
       "state": "MONTANA",
-      "updated": "2021-07-26 08:31:56",
+      "updated": "2021-07-26 08:35:18",
       "lat": "47.118",
       "lng": "-111.75",
-      "size": "6,500 Acres",
+      "size": "11,890 Acres",
       "url": "/incident/7719/",
       "id": "7719",
       "contained": "0"
@@ -51,19 +116,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "0"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-26 07:59:50",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "410,729 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "53"
     },
     {
       "name": "Crater Ridge",
@@ -209,19 +261,6 @@
       "contained": "21"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-25 23:42:21",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "24,647 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
-    },
-    {
       "name": "Elbow Creek",
       "type": "Wildfire",
       "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
@@ -365,19 +404,6 @@
       "contained": "95"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire was reported at approximately 5:00 pm on July 5,...",
-      "state": "OREGON",
-      "updated": "2021-07-25 22:22:27",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "21,520 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "58"
-    },
-    {
       "name": "Shale Creek",
       "type": "Wildfire",
       "summary": "Shale Creek Fire is located in remote and rugged terrain east of Hams...",
@@ -519,19 +545,6 @@
       "url": "/incident/7625/",
       "id": "7625",
       "contained": "70"
-    },
-    {
-      "name": "Goose Fire",
-      "type": "Wildfire",
-      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
-      "state": "MONTANA",
-      "updated": "2021-07-25 20:30:33",
-      "lat": "44.733",
-      "lng": "-111.6",
-      "size": "7,471 Acres",
-      "url": "/incident/7618/",
-      "id": "7618",
-      "contained": "78"
     },
     {
       "name": "Tamarack Fire",
@@ -1442,19 +1455,6 @@
       "url": "/incident/7622/",
       "id": "7622",
       "contained": "0"
-    },
-    {
-      "name": "West Zone Superior Fires",
-      "type": "Wildfire",
-      "summary": " On July 7, 2021, the Astray wildfire was reported on the west zone...",
-      "state": "MINNESOTA",
-      "updated": "2021-07-15 16:35:02",
-      "lat": "47.907",
-      "lng": "-91.831",
-      "size": "22 Acres",
-      "url": "/incident/7617/",
-      "id": "7617",
-      "contained": "100"
     },
     {
       "name": "Cedar Basin Fire",
