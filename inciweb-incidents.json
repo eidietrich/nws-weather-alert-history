@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-07-26 22:18:50",
+      "lat": "47.17",
+      "lng": "-115.442",
+      "size": "2,855 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "3"
+    },
+    {
+      "name": "Mud Lick, Haynes, and Iron Fires",
+      "type": "Wildfire",
+      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
+      "state": "IDAHO",
+      "updated": "2021-07-26 22:15:01",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "18,031 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-26 22:10:20",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "43,739 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "10"
+    },
+    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
       "state": "MONTANA",
-      "updated": "2021-07-26 21:50:16",
+      "updated": "2021-07-26 22:09:04",
       "lat": "47.41",
       "lng": "-114.988",
       "size": "7,300 Acres",
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "0"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
+      "state": "IDAHO",
+      "updated": "2021-07-26 22:07:38",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "4,862 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "30"
+    },
+    {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 21:56:20",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,277 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "70"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-26 21:52:36",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "11,256 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "5"
     },
     {
       "name": "Peak Fire",
@@ -25,32 +103,6 @@
       "url": "/incident/7703/",
       "id": "7703",
       "contained": "87"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
-      "state": "IDAHO",
-      "updated": "2021-07-26 21:44:46",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "4,862 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "30"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 21:41:12",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "43,739 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "10"
     },
     {
       "name": "Nez Perce-Clearwater Lightning Fires",
@@ -92,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 21:25:37",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "11,256 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "5"
-    },
-    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
@@ -129,19 +168,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "65"
-    },
-    {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 21:11:59",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,277 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "70"
     },
     {
       "name": "Harris Mountain",
@@ -456,19 +482,6 @@
       "contained": "0"
     },
     {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-07-26 16:59:40",
-      "lat": "47.17",
-      "lng": "-115.442",
-      "size": "2,855 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "3"
-    },
-    {
       "name": "Anderson Hill Fire",
       "type": "Wildfire",
       "summary": "This fire originated in Granite County one mile southeast of Garnet...",
@@ -558,19 +571,6 @@
       "url": "/incident/7656/",
       "id": "7656",
       "contained": "97"
-    },
-    {
-      "name": "Mud Lick, Haynes, and Iron Fires",
-      "type": "Wildfire",
-      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
-      "state": "IDAHO",
-      "updated": "2021-07-26 14:14:31",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "17,513 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
     },
     {
       "name": "Leland Complex",
