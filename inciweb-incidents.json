@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": "Fire activity increased Monday on the Goat Fire as it spotted to...",
+      "state": "MONTANA",
+      "updated": "2021-07-27 17:59:47",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "150 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
+      "name": "Shale Creek",
+      "type": "Wildfire",
+      "summary": "The Shale Creek Fire has been burning in remote and rugged terrain...",
+      "state": "WYOMING",
+      "updated": "2021-07-27 17:52:55",
+      "lat": "42.236",
+      "lng": "-110.606",
+      "size": "189 Acres",
+      "url": "/incident/7689/",
+      "id": "7689",
+      "contained": "80"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-27 17:51:12",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,103 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "54"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-27 17:50:09",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "51,168 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "11"
+    },
+    {
       "name": "Delta Lake Fire ",
       "type": "Wildfire",
       "summary": "The Delta Lake Fire continues to be the only active fire within the...",
@@ -66,19 +118,6 @@
       "contained": "61"
     },
     {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": "Fire activity increased Monday on the Goat Fire as it spotted to...",
-      "state": "MONTANA",
-      "updated": "2021-07-27 17:13:52",
-      "lat": "46.369",
-      "lng": "-113.068",
-      "size": "97 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
-    },
-    {
       "name": "Club Fire",
       "type": "Wildfire",
       "summary": "The Club Creek Fire started 3 miles southwest of Root Ranch. Crews...",
@@ -116,19 +155,6 @@
       "url": "/incident/7709/",
       "id": "7709",
       "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-27 16:44:44",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "51,168 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "11"
     },
     {
       "name": "Green Ridge Fire",
@@ -233,32 +259,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "90"
-    },
-    {
-      "name": "Shale Creek",
-      "type": "Wildfire",
-      "summary": "The Shale Creek Fire has been burning in remote and rugged terrain...",
-      "state": "WYOMING",
-      "updated": "2021-07-27 15:28:43",
-      "lat": "42.236",
-      "lng": "-110.606",
-      "size": "189 Acres",
-      "url": "/incident/7689/",
-      "id": "7689",
-      "contained": "60"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-27 15:26:06",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,103 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "54"
     },
     {
       "name": "Anderson Hill Fire",
