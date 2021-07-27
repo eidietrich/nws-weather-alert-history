@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-26 19:58:59",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "67,764 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "54"
+    },
+    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
       "state": "WASHINGTON",
-      "updated": "2021-07-26 18:44:53",
+      "updated": "2021-07-26 19:55:39",
       "lat": "48.551",
       "lng": "-120.194",
       "size": "43,739 Acres",
@@ -14,42 +27,55 @@
       "contained": "10"
     },
     {
-      "name": "Woods Creek Fire",
+      "name": "Burnt Peak Fire",
       "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
       "state": "MONTANA",
-      "updated": "2021-07-26 18:44:50",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "2,706 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
+      "updated": "2021-07-26 19:52:32",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "2,715 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "31"
+    },
+    {
+      "name": "Goose Fire",
+      "type": "Wildfire",
+      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 19:38:20",
+      "lat": "44.733",
+      "lng": "-111.6",
+      "size": "7,496 Acres",
+      "url": "/incident/7618/",
+      "id": "7618",
+      "contained": "78"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-26 19:36:52",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
       "contained": "0"
     },
     {
-      "name": "American Fork Fire",
+      "name": "Storm Theatre Complex",
       "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 18:44:16",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "8,379 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 18:36:23",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "1,158 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-07-26 19:30:27",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "6,138 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
       "contained": "0"
     },
     {
@@ -57,7 +83,7 @@
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
       "state": "OREGON",
-      "updated": "2021-07-26 18:31:07",
+      "updated": "2021-07-26 19:20:47",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "409,611 Acres",
@@ -70,13 +96,117 @@
       "type": "Wildfire",
       "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
       "state": "MONTANA",
-      "updated": "2021-07-26 18:26:45",
+      "updated": "2021-07-26 19:20:45",
       "lat": "47.278",
       "lng": "-112.956",
       "size": "2,370 Acres",
       "url": "/incident/7660/",
       "id": "7660",
       "contained": "0"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 19:18:36",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "968 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Fly",
+      "type": "Wildfire",
+      "summary": "The Fly Fire merged with the Dixie Fire on the night of July 24/25. ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-26 19:05:12",
+      "lat": "40.007",
+      "lng": "-120.965",
+      "size": "0 Acres",
+      "url": "/incident/7716/",
+      "id": "7716",
+      "contained": "0"
+    },
+    {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 19:05:08",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,277 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "70"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 19:02:53",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "2,706 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Yesterday, a thick covering of smoke over the area shaded the fire....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-26 19:00:58",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "197,487 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "22"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 18:56:28",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "6,722 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "0"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 18:53:57",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "1,158 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "0"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 18:48:56",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "8,379 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
     },
     {
       "name": "Cougar Rock Complex",
@@ -103,19 +233,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "58"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 18:13:40",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "2,715 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "19"
     },
     {
       "name": "South Yaak",
@@ -209,19 +326,6 @@
       "contained": "1"
     },
     {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-26 17:11:57",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "67,764 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "45"
-    },
-    {
       "name": "Nelson Creek Fire",
       "type": "Wildfire",
       "summary": "Fire activity was active on Sunday afternoon with two new fires...",
@@ -287,19 +391,6 @@
       "contained": "95"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 16:12:59",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "5,203 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "0"
-    },
-    {
       "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
       "summary": "As of 6 a.m. (PDT) July 25, a Nez Perce-Clearwater National Forest's...",
@@ -313,19 +404,6 @@
       "contained": "18"
     },
     {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 15:44:26",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,277 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "70"
-    },
-    {
       "name": "Sherwood",
       "type": "Wildfire",
       "summary": "The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
@@ -337,19 +415,6 @@
       "url": "/incident/7713/",
       "id": "7713",
       "contained": "30"
-    },
-    {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-07-26 15:27:26",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "6,138 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "0"
     },
     {
       "name": "Harris Mountain",
@@ -441,19 +506,6 @@
       "url": "/incident/7703/",
       "id": "7703",
       "contained": "81"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Yesterday, a thick covering of smoke over the area shaded the fire....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-26 13:59:03",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "197,487 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "22"
     },
     {
       "name": "Leland Complex",
@@ -586,19 +638,6 @@
       "contained": "50"
     },
     {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 12:45:04",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "968 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
-    },
-    {
       "name": "Beckwourth  Complex",
       "type": "Wildfire",
       "summary": " Incident Commander Bryce Thomas is leading the Type 3 Organization...",
@@ -610,19 +649,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "98"
-    },
-    {
-      "name": "Goose Fire",
-      "type": "Wildfire",
-      "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 12:18:21",
-      "lat": "44.733",
-      "lng": "-111.6",
-      "size": "7,471 Acres",
-      "url": "/incident/7618/",
-      "id": "7618",
-      "contained": "78"
     },
     {
       "name": "Bruler Fire",
@@ -792,19 +818,6 @@
       "url": "/incident/7562/",
       "id": "7562",
       "contained": "68"
-    },
-    {
-      "name": "Fly",
-      "type": "Wildfire",
-      "summary": "Fly Fire started on the afternoon of July 22, 2021.  It is being...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-26 10:33:18",
-      "lat": "40.007",
-      "lng": "-120.965",
-      "size": "4,300 Acres",
-      "url": "/incident/7716/",
-      "id": "7716",
-      "contained": "5"
     },
     {
       "name": "Spruce Canyon",
@@ -987,19 +1000,6 @@
       "url": "/incident/7672/",
       "id": "7672",
       "contained": "32"
-    },
-    {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-25 22:52:40",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
     },
     {
       "name": "Muddy Slide Fire",
