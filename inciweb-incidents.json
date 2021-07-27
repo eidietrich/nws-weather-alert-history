@@ -1,30 +1,147 @@
 {
   "markers": [
     {
-      "name": "Tamarack Fire",
+      "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-26 19:58:59",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "67,764 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "54"
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 20:59:55",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "6,722 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-26 20:56:08",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "24,647 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-07-26 20:52:08",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,820 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "65"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Yesterday, a thick covering of smoke over the area shaded the fire....",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-26 20:48:34",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "197,487 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "22"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 20:48:25",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "8,379 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 20:46:47",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "1,523 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "10"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 20:45:28",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "865 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 20:25:45",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "3,726 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "22"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "The Harris Mountain Fire started on July 23rd approximately 10 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 20:23:38",
+      "lat": "47.118",
+      "lng": "-111.75",
+      "size": "11,890 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "0"
     },
     {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
       "state": "WASHINGTON",
-      "updated": "2021-07-26 19:55:39",
+      "updated": "2021-07-26 20:16:55",
       "lat": "48.551",
       "lng": "-120.194",
       "size": "43,739 Acres",
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "10"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-26 20:03:08",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,103 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "54"
     },
     {
       "name": "Burnt Peak Fire",
@@ -105,19 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 19:18:36",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "968 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
-    },
-    {
       "name": "Fly",
       "type": "Wildfire",
       "summary": "The Fly Fire merged with the Dixie Fire on the night of July 24/25. ...",
@@ -157,32 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Yesterday, a thick covering of smoke over the area shaded the fire....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-26 19:00:58",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "197,487 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "22"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 18:56:28",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "6,722 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "0"
-    },
-    {
       "name": "Hay Creek",
       "type": "Wildfire",
       "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
@@ -194,19 +272,6 @@
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "0"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 18:48:56",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "8,379 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "Cougar Rock Complex",
@@ -235,19 +300,6 @@
       "contained": "58"
     },
     {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 18:10:45",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "1,523 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "10"
-    },
-    {
       "name": "Lick Creek (Dry Gulch) Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
@@ -259,19 +311,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "90"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 17:46:45",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "24,647 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
     },
     {
       "name": "Goat Fire",
@@ -311,19 +350,6 @@
       "url": "/incident/7725/",
       "id": "7725",
       "contained": "30"
-    },
-    {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 17:23:20",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "3,726 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "1"
     },
     {
       "name": "Nelson Creek Fire",
@@ -415,19 +441,6 @@
       "url": "/incident/7713/",
       "id": "7713",
       "contained": "30"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "The Harris Mountain Fire started on July 23rd approximately 10 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 15:00:17",
-      "lat": "47.118",
-      "lng": "-111.75",
-      "size": "11,890 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "0"
     },
     {
       "name": "Trestle Creek Complex",
@@ -740,19 +753,6 @@
       "url": "/incident/7718/",
       "id": "7718",
       "contained": "95"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 11:35:23",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,820 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "55"
     },
     {
       "name": "King",
