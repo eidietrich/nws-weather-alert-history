@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Park Fire",
+      "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "The Park Fire broke out Monday, July 26 at approximately 2 pm,...",
+      "summary": " Yesterday, a thick covering of smoke over the area shaded the fire....",
       "state": "CALIFORNIA",
-      "updated": "2021-07-27 12:47:03",
-      "lat": "36.2",
-      "lng": "-118.722",
-      "size": "250 Acres",
-      "url": "/incident/7726/",
-      "id": "7726",
-      "contained": "5"
+      "updated": "2021-07-27 13:21:00",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "208,206 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "23"
+    },
+    {
+      "name": "Leland Complex",
+      "type": "Wildfire",
+      "summary": "The Leland Complex is composed of four wildfires: The Sand Mountain,...",
+      "state": "IDAHO",
+      "updated": "2021-07-27 13:17:42",
+      "lat": "46.746",
+      "lng": "-116.628",
+      "size": "3,350 Acres",
+      "url": "/incident/7644/",
+      "id": "7644",
+      "contained": "67"
     },
     {
       "name": "Goat Fire",
       "type": "Wildfire",
-      "summary": " The Goat Fire started Saturday, July 17, approximately 16 miles...",
+      "summary": "Fire activity increased Monday on the Goat Fire as it spotted to...",
       "state": "MONTANA",
-      "updated": "2021-07-27 12:45:56",
+      "updated": "2021-07-27 13:08:45",
       "lat": "46.369",
       "lng": "-113.068",
       "size": "97 Acres",
@@ -27,17 +40,69 @@
       "contained": "0"
     },
     {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
+      "state": "IDAHO",
+      "updated": "2021-07-27 13:06:49",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "5,174 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "30"
+    },
+    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
       "state": "WASHINGTON",
-      "updated": "2021-07-27 12:45:28",
+      "updated": "2021-07-27 13:05:04",
       "lat": "48.285",
       "lng": "-118.531",
       "size": "13,767 Acres",
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "6"
+    },
+    {
+      "name": "Park Fire",
+      "type": "Wildfire",
+      "summary": "The Park Fire was discovered Monday, July 26 at approximately 2 pm,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-27 12:58:30",
+      "lat": "36.2",
+      "lng": "-118.722",
+      "size": "250 Acres",
+      "url": "/incident/7726/",
+      "id": "7726",
+      "contained": "5"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-27 12:58:02",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,103 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "54"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-07-27 12:53:23",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "3,700 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
     },
     {
       "name": "Jack Fire",
@@ -287,19 +352,6 @@
       "contained": "8"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-07-27 11:50:02",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "3,700 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
@@ -339,19 +391,6 @@
       "contained": "10"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Yesterday, a thick covering of smoke over the area shaded the fire....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-27 11:24:36",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "208,206 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "23"
-    },
-    {
       "name": "Sherwood",
       "type": "Wildfire",
       "summary": "The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
@@ -376,19 +415,6 @@
       "url": "/incident/7715/",
       "id": "7715",
       "contained": "100"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-27 11:16:28",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,103 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "54"
     },
     {
       "name": "Sourdough Fire",
@@ -532,19 +558,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "53"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
-      "state": "IDAHO",
-      "updated": "2021-07-27 10:30:56",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "5,174 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "30"
     },
     {
       "name": "Shale Creek",
@@ -844,19 +857,6 @@
       "url": "/incident/7656/",
       "id": "7656",
       "contained": "97"
-    },
-    {
-      "name": "Leland Complex",
-      "type": "Wildfire",
-      "summary": "The Leland Complex is composed of four wildfires: The Sand Mountain,...",
-      "state": "IDAHO",
-      "updated": "2021-07-26 13:52:46",
-      "lat": "46.746",
-      "lng": "-116.628",
-      "size": "3,196 Acres",
-      "url": "/incident/7644/",
-      "id": "7644",
-      "contained": "55"
     },
     {
       "name": "Glacier Fire",
