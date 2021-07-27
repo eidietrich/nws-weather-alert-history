@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-26 22:47:32",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "8,347 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-26 22:44:06",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "44,100 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "10"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
       "state": "OREGON",
-      "updated": "2021-07-26 22:33:53",
+      "updated": "2021-07-26 22:43:47",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "409,611 Acres",
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "53"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-26 22:37:43",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "6,093 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "8"
     },
     {
       "name": "Stateline Complex",
@@ -25,32 +64,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "3"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-26 22:32:49",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "6,093 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "8"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 22:32:48",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "44,100 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "10"
     },
     {
       "name": "Spruce Canyon",
@@ -623,19 +636,6 @@
       "url": "/incident/7644/",
       "id": "7644",
       "contained": "55"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 13:50:28",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "8,347 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
     },
     {
       "name": "Goddard Road Fire",
