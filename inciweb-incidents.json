@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Peak Fire",
+      "type": "Wildfire",
+      "summary": "On Wednesday July 28 2021, California Interagency Incident...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-27 14:02:21",
+      "lat": "35.406",
+      "lng": "-118.436",
+      "size": "2,098 Acres",
+      "url": "/incident/7703/",
+      "id": "7703",
+      "contained": "87"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-27 14:00:30",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,103 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "54"
+    },
+    {
       "name": "Leland Complex",
       "type": "Wildfire",
       "summary": "The Leland Complex is composed of four wildfires: The Sand Mountain,...",
       "state": "IDAHO",
-      "updated": "2021-07-27 13:51:43",
+      "updated": "2021-07-27 13:59:00",
       "lat": "46.746",
       "lng": "-116.628",
       "size": "3,350 Acres",
@@ -103,19 +129,6 @@
       "url": "/incident/7726/",
       "id": "7726",
       "contained": "5"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-27 12:58:02",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,103 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "54"
     },
     {
       "name": "Woods Creek Fire",
@@ -662,19 +675,6 @@
       "url": "/incident/7698/",
       "id": "7698",
       "contained": "95"
-    },
-    {
-      "name": "Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Bureau of Land Management and U.S. Forest Service are in Unified...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-27 08:35:11",
-      "lat": "35.406",
-      "lng": "-118.436",
-      "size": "2,098 Acres",
-      "url": "/incident/7703/",
-      "id": "7703",
-      "contained": "87"
     },
     {
       "name": "Vinegar Fire",
