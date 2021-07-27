@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires that merged...",
+      "state": "IDAHO",
+      "updated": "2021-07-27 10:18:57",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "108,794 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "85"
+    },
+    {
+      "name": "Shale Creek",
+      "type": "Wildfire",
+      "summary": "Shale Creek Fire is located in remote and rugged terrain east of Hams...",
+      "state": "WYOMING",
+      "updated": "2021-07-27 10:18:20",
+      "lat": "42.236",
+      "lng": "-110.606",
+      "size": "189 Acres",
+      "url": "/incident/7689/",
+      "id": "7689",
+      "contained": "60"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Evening Update - 7.26.2021 at 8:00 PMFire activity picked up in the...",
+      "state": "MONTANA",
+      "updated": "2021-07-27 10:17:36",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "19,103 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "0"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-07-27 10:16:14",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "968 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-27 10:09:24",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "13,767 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "6"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to burn actively on the Fremont-Winema...",
       "state": "OREGON",
-      "updated": "2021-07-27 09:45:09",
+      "updated": "2021-07-27 10:08:46",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "410,731 Acres",
@@ -14,17 +79,121 @@
       "contained": "53"
     },
     {
-      "name": "Summit Trail",
+      "name": "Tamarack Fire",
       "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-27 10:07:32",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,103 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "54"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
       "state": "WASHINGTON",
-      "updated": "2021-07-27 09:44:14",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "13,767 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "6"
+      "updated": "2021-07-27 10:03:06",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,820 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "65"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-07-27 10:00:36",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "7,915 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "0"
+    },
+    {
+      "name": "Sherwood",
+      "type": "Wildfire",
+      "summary": "The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-27 09:59:57",
+      "lat": "47.912",
+      "lng": "-117.986",
+      "size": "1,102 Acres",
+      "url": "/incident/7713/",
+      "id": "7713",
+      "contained": "30"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-27 09:58:44",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "51,168 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "11"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-27 09:57:59",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "2,715 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "31"
+    },
+    {
+      "name": "Bruler Fire",
+      "type": "Wildfire",
+      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
+      "state": "OREGON",
+      "updated": "2021-07-27 09:55:23",
+      "lat": "44.591",
+      "lng": "-122.156",
+      "size": "195 Acres",
+      "url": "/incident/7663/",
+      "id": "7663",
+      "contained": "53"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-27 09:50:17",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "24,647 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
+      "name": "Goddard Road Fire",
+      "type": "Wildfire",
+      "summary": "The Goddard Road Fire has been returned to the local district (DNR)...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-27 09:49:29",
+      "lat": "48.447",
+      "lng": "-118.152",
+      "size": "815 Acres",
+      "url": "/incident/7676/",
+      "id": "7676",
+      "contained": "100"
     },
     {
       "name": "Spruce Canyon",
@@ -40,19 +209,6 @@
       "contained": "10"
     },
     {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Evening Update - 7.26.2021 at 8:00 PMFire activity picked up in the...",
-      "state": "MONTANA",
-      "updated": "2021-07-27 09:34:17",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "19,103 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "0"
-    },
-    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
@@ -66,19 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "Bruler Fire",
-      "type": "Wildfire",
-      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
-      "state": "OREGON",
-      "updated": "2021-07-27 09:19:13",
-      "lat": "44.591",
-      "lng": "-122.156",
-      "size": "195 Acres",
-      "url": "/incident/7663/",
-      "id": "7663",
-      "contained": "53"
-    },
-    {
       "name": "Muddy Slide Fire",
       "type": "Wildfire",
       "summary": "Muddy Slide Fire Update Sunday, July 25 2021The Muddy Slide Fire...",
@@ -90,19 +233,6 @@
       "url": "/incident/7566/",
       "id": "7566",
       "contained": "70"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-27 09:13:48",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "44,100 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "10"
     },
     {
       "name": "Mud Lick, Haynes, and Iron Fires",
@@ -144,19 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-07-27 08:56:06",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "968 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
-    },
-    {
       "name": "Ruby",
       "type": "Wildfire",
       "summary": " The Ruby Fire was detected on July 15, 2021 at 6:40 p.m.  It is...",
@@ -168,19 +285,6 @@
       "url": "/incident/7698/",
       "id": "7698",
       "contained": "95"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-27 08:48:17",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,103 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "54"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -261,19 +365,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-27 07:42:17",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "24,647 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
-    },
-    {
       "name": "Rush Creek",
       "type": "Wildfire",
       "summary": "The Rush Creek Fire started at the confluence of Telephone and Rush...",
@@ -311,19 +402,6 @@
       "url": "/incident/7700/",
       "id": "7700",
       "contained": "0"
-    },
-    {
-      "name": "Sherwood",
-      "type": "Wildfire",
-      "summary": "The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 23:30:18",
-      "lat": "47.912",
-      "lng": "-117.986",
-      "size": "1,102 Acres",
-      "url": "/incident/7713/",
-      "id": "7713",
-      "contained": "30"
     },
     {
       "name": "Elbow Creek",
@@ -365,19 +443,6 @@
       "contained": "0"
     },
     {
-      "name": "Shale Creek",
-      "type": "Wildfire",
-      "summary": "Shale Creek Fire is located in remote and rugged terrain east of Hams...",
-      "state": "WYOMING",
-      "updated": "2021-07-26 22:55:53",
-      "lat": "42.236",
-      "lng": "-110.606",
-      "size": "189 Acres",
-      "url": "/incident/7689/",
-      "id": "7689",
-      "contained": "60"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -417,19 +482,6 @@
       "contained": "3"
     },
     {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires that merged...",
-      "state": "IDAHO",
-      "updated": "2021-07-26 22:28:18",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "108,794 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "85"
-    },
-    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
@@ -454,19 +506,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 21:19:38",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,820 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "65"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -521,19 +560,6 @@
       "contained": "22"
     },
     {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-26 19:52:32",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "2,715 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "31"
-    },
-    {
       "name": "Goose Fire",
       "type": "Wildfire",
       "summary": "The Goose Fire started on July 1, 2021 32 miles SSE of Ennis, MT near...",
@@ -545,19 +571,6 @@
       "url": "/incident/7618/",
       "id": "7618",
       "contained": "78"
-    },
-    {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-07-26 19:30:27",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "6,138 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "0"
     },
     {
       "name": "Dry Cabin",
@@ -753,19 +766,6 @@
       "url": "/incident/7644/",
       "id": "7644",
       "contained": "55"
-    },
-    {
-      "name": "Goddard Road Fire",
-      "type": "Wildfire",
-      "summary": "News Release July 26th, 2021 FINAL NEWS RELEASE Rice, WA: Yesterday,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 13:50:24",
-      "lat": "48.447",
-      "lng": "-118.152",
-      "size": "815 Acres",
-      "url": "/incident/7676/",
-      "id": "7676",
-      "contained": "75"
     },
     {
       "name": "Glacier Fire",
