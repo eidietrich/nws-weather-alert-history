@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Shale Creek",
+      "type": "Wildfire",
+      "summary": "The Shale Creek Fire has been burning in remote and rugged terrain...",
+      "state": "WYOMING",
+      "updated": "2021-07-27 15:28:43",
+      "lat": "42.236",
+      "lng": "-110.606",
+      "size": "189 Acres",
+      "url": "/incident/7689/",
+      "id": "7689",
+      "contained": "60"
+    },
+    {
+      "name": "Lava Fire",
+      "type": "Wildfire",
+      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-27 15:26:30",
+      "lat": "41.459",
+      "lng": "-122.329",
+      "size": "26,365 Acres",
+      "url": "/incident/7581/",
+      "id": "7581",
+      "contained": "78"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-27 15:26:06",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,103 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "54"
+    },
+    {
+      "name": "Anderson Hill Fire",
+      "type": "Wildfire",
+      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
+      "state": "MONTANA",
+      "updated": "2021-07-27 15:24:23",
+      "lat": "46.818",
+      "lng": "-113.334",
+      "size": "750 Acres",
+      "url": "/incident/7671/",
+      "id": "7671",
+      "contained": "90"
+    },
+    {
+      "name": "West Zone Superior Fires",
+      "type": "Wildfire",
+      "summary": " The West Zone of the Superior National Forest, consisting of the...",
+      "state": "MINNESOTA",
+      "updated": "2021-07-27 15:19:34",
+      "lat": "47.907",
+      "lng": "-91.831",
+      "size": "0 Acres",
+      "url": "/incident/7617/",
+      "id": "7617",
+      "contained": "0"
+    },
+    {
       "name": "Delta Lake Fire ",
       "type": "Wildfire",
       "summary": "The Delta Lake Fire continues to be the only active fire within the...",
       "state": "MINNESOTA",
-      "updated": "2021-07-27 15:09:40",
+      "updated": "2021-07-27 15:17:12",
       "lat": "47.93",
       "lng": "-91.74",
       "size": "62 Acres",
@@ -27,19 +92,6 @@
       "contained": "30"
     },
     {
-      "name": "Lava Fire",
-      "type": "Wildfire",
-      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-27 14:58:09",
-      "lat": "41.459",
-      "lng": "-122.329",
-      "size": "26,365 Acres",
-      "url": "/incident/7581/",
-      "id": "7581",
-      "contained": "78"
-    },
-    {
       "name": "Peak Fire",
       "type": "Wildfire",
       "summary": "On Wednesday July 28 2021, California Interagency Incident...",
@@ -51,19 +103,6 @@
       "url": "/incident/7703/",
       "id": "7703",
       "contained": "87"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-27 14:00:30",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,103 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "54"
     },
     {
       "name": "Leland Complex",
@@ -352,19 +391,6 @@
       "contained": "0"
     },
     {
-      "name": "Anderson Hill Fire",
-      "type": "Wildfire",
-      "summary": "This fire originated in Granite County one mile southeast of Garnet...",
-      "state": "MONTANA",
-      "updated": "2021-07-27 12:10:29",
-      "lat": "46.818",
-      "lng": "-113.334",
-      "size": "750 Acres",
-      "url": "/incident/7671/",
-      "id": "7671",
-      "contained": "90"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -597,19 +623,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "0"
-    },
-    {
-      "name": "Shale Creek",
-      "type": "Wildfire",
-      "summary": "Shale Creek Fire is located in remote and rugged terrain east of Hams...",
-      "state": "WYOMING",
-      "updated": "2021-07-27 10:28:03",
-      "lat": "42.236",
-      "lng": "-110.606",
-      "size": "189 Acres",
-      "url": "/incident/7689/",
-      "id": "7689",
-      "contained": "60"
     },
     {
       "name": "Snake River Complex",
@@ -857,19 +870,6 @@
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "37"
-    },
-    {
-      "name": "West Zone Superior Fires",
-      "type": "Wildfire",
-      "summary": " The West Zone of the Superior National Forest, consisting of the...",
-      "state": "MINNESOTA",
-      "updated": "2021-07-26 14:48:13",
-      "lat": "47.907",
-      "lng": "-91.831",
-      "size": "0 Acres",
-      "url": "/incident/7617/",
-      "id": "7617",
-      "contained": "0"
     },
     {
       "name": "Dexter Fire",
