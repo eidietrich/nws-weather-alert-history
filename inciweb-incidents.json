@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "West Zone Superior Fires",
-      "type": "Wildfire",
-      "summary": " The West Zone of the Superior National Forest, consisting of the...",
-      "state": "MINNESOTA",
-      "updated": "2021-07-28 16:29:57",
-      "lat": "47.907",
-      "lng": "-91.831",
-      "size": "0 Acres",
-      "url": "/incident/7617/",
-      "id": "7617",
-      "contained": "0"
-    },
-    {
       "name": "Soda Lake",
       "type": "Wildfire",
       "summary": "The #SodaLakeFire is burning three miles west of the national forest...",
       "state": "WYOMING",
-      "updated": "2021-07-28 16:28:51",
+      "updated": "2021-07-28 16:43:59",
       "lat": "42.757",
       "lng": "-110.528",
       "size": "0 Acres",
@@ -31,13 +18,26 @@
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
       "state": "OREGON",
-      "updated": "2021-07-28 16:27:11",
+      "updated": "2021-07-28 16:43:35",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "413,400 Acres",
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "53"
+    },
+    {
+      "name": "West Zone Superior Fires",
+      "type": "Wildfire",
+      "summary": " The West Zone of the Superior National Forest, consisting of the...",
+      "state": "MINNESOTA",
+      "updated": "2021-07-28 16:29:57",
+      "lat": "47.907",
+      "lng": "-91.831",
+      "size": "0 Acres",
+      "url": "/incident/7617/",
+      "id": "7617",
+      "contained": "0"
     },
     {
       "name": "Deer Creek 2 Fire",
