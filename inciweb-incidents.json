@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Lava Fire",
+      "type": "Wildfire",
+      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-27 22:10:49",
+      "lat": "41.459",
+      "lng": "-122.329",
+      "size": "26,365 Acres",
+      "url": "/incident/7581/",
+      "id": "7581",
+      "contained": "78"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-27 22:09:57",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "33,462 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "13"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-07-27 22:07:20",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "968 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-27 22:05:41",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,327 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "59"
+    },
+    {
+      "name": "Elbow Creek",
+      "type": "Wildfire",
+      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
+      "state": "OREGON",
+      "updated": "2021-07-27 22:03:45",
+      "lat": "45.867",
+      "lng": "-117.619",
+      "size": "22,901 Acres",
+      "url": "/incident/7672/",
+      "id": "7672",
+      "contained": "43"
+    },
+    {
+      "name": "Goose Fire",
+      "type": "Wildfire",
+      "summary": "The Goose Fire is currently 7,496 acres and 78% contained as of July...",
+      "state": "MONTANA",
+      "updated": "2021-07-27 21:56:36",
+      "lat": "44.733",
+      "lng": "-111.6",
+      "size": "7,522 Acres",
+      "url": "/incident/7618/",
+      "id": "7618",
+      "contained": "78"
+    },
+    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
@@ -170,19 +248,6 @@
       "contained": "85"
     },
     {
-      "name": "Goose Fire",
-      "type": "Wildfire",
-      "summary": "The Goose Fire is currently 7,496 acres and 78% contained as of July...",
-      "state": "MONTANA",
-      "updated": "2021-07-27 20:36:34",
-      "lat": "44.733",
-      "lng": "-111.6",
-      "size": "7,496 Acres",
-      "url": "/incident/7618/",
-      "id": "7618",
-      "contained": "78"
-    },
-    {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
@@ -220,19 +285,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "10"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-27 20:16:13",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,103 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "59"
     },
     {
       "name": "Christensen Fire ",
@@ -573,32 +625,6 @@
       "contained": "15"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-27 16:19:56",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "33,462 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "13"
-    },
-    {
-      "name": "Lava Fire",
-      "type": "Wildfire",
-      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-27 15:38:02",
-      "lat": "41.459",
-      "lng": "-122.329",
-      "size": "26,365 Acres",
-      "url": "/incident/7581/",
-      "id": "7581",
-      "contained": "78"
-    },
-    {
       "name": "Lick Creek (Dry Gulch) Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
@@ -794,19 +820,6 @@
       "contained": "0"
     },
     {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-07-27 11:06:42",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "968 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
-    },
-    {
       "name": "Storm Theatre Complex",
       "type": "Wildfire",
       "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
@@ -883,19 +896,6 @@
       "url": "/incident/7700/",
       "id": "7700",
       "contained": "0"
-    },
-    {
-      "name": "Elbow Creek",
-      "type": "Wildfire",
-      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
-      "state": "OREGON",
-      "updated": "2021-07-26 23:18:35",
-      "lat": "45.867",
-      "lng": "-117.619",
-      "size": "22,790 Acres",
-      "url": "/incident/7672/",
-      "id": "7672",
-      "contained": "38"
     },
     {
       "name": "Granite Pass Complex",
