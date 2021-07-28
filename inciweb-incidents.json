@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-07-27 23:41:32",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "7,000 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "Shale Creek",
+      "type": "Wildfire",
+      "summary": "The Shale Creek Fire has been burning in remote and rugged terrain...",
+      "state": "WYOMING",
+      "updated": "2021-07-27 23:40:21",
+      "lat": "42.236",
+      "lng": "-110.606",
+      "size": "189 Acres",
+      "url": "/incident/7689/",
+      "id": "7689",
+      "contained": "80"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-27 23:33:27",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "33,462 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "13"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Yesterday, a thick covering of smoke over the area shaded the fire....",
       "state": "CALIFORNIA",
-      "updated": "2021-07-27 23:18:33",
+      "updated": "2021-07-27 23:30:48",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "212,799 Acres",
@@ -18,7 +57,7 @@
       "type": "Wildfire",
       "summary": "The Snake River Complex comprises of three wildfires that merged...",
       "state": "IDAHO",
-      "updated": "2021-07-27 23:16:02",
+      "updated": "2021-07-27 23:29:47",
       "lat": "46.012",
       "lng": "-116.911",
       "size": "108,794 Acres",
@@ -116,19 +155,6 @@
       "url": "/incident/7581/",
       "id": "7581",
       "contained": "78"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-27 22:30:53",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "33,462 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "13"
     },
     {
       "name": "Harris Mountain",
@@ -547,19 +573,6 @@
       "contained": "0"
     },
     {
-      "name": "Shale Creek",
-      "type": "Wildfire",
-      "summary": "The Shale Creek Fire has been burning in remote and rugged terrain...",
-      "state": "WYOMING",
-      "updated": "2021-07-27 17:52:55",
-      "lat": "42.236",
-      "lng": "-110.606",
-      "size": "189 Acres",
-      "url": "/incident/7689/",
-      "id": "7689",
-      "contained": "80"
-    },
-    {
       "name": "Delta Lake Fire ",
       "type": "Wildfire",
       "summary": "The Delta Lake Fire continues to be the only active fire within the...",
@@ -714,19 +727,6 @@
       "url": "/incident/7726/",
       "id": "7726",
       "contained": "5"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-07-27 12:53:23",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "3,700 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
     },
     {
       "name": "Henry Fire",
