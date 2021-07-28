@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": "Due to Monday's fire activity, the Goat Fire increased in size and is...",
+      "state": "MONTANA",
+      "updated": "2021-07-28 17:25:06",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "150 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Weather conditions and fire behavior continue to vary across the fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-28 17:18:18",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "217,581 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "23"
+    },
+    {
       "name": "Deer Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Deer Creek Fire originated off Echeta Road and is currently...",
       "state": "WYOMING",
-      "updated": "2021-07-28 17:14:11",
+      "updated": "2021-07-28 17:16:49",
       "lat": "44.529",
       "lng": "-106.003",
       "size": "3,000 Acres",
@@ -339,19 +365,6 @@
       "contained": "18"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Yesterday, a thick covering of smoke over the area shaded the fire....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-28 13:15:00",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "217,581 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "23"
-    },
-    {
       "name": "Lick Creek (Dry Gulch) Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
@@ -558,19 +571,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "13"
-    },
-    {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": "Due to Monday's fire activity, the Goat Fire increased in size and is...",
-      "state": "MONTANA",
-      "updated": "2021-07-28 11:27:28",
-      "lat": "46.379",
-      "lng": "-113.071",
-      "size": "150 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
     },
     {
       "name": "Morgan Creek Fire",
