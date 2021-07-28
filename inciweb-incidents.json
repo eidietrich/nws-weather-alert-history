@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Evening Update - 7.27.2021 at 9:00 PMFire activity moderated today...",
+      "state": "MONTANA",
+      "updated": "2021-07-28 09:26:32",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "19,103 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "0"
+    },
+    {
+      "name": "Peak Fire",
+      "type": "Wildfire",
+      "summary": "July 28, 2021, California Interagency Incident Management Team 11...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-28 09:25:43",
+      "lat": "35.406",
+      "lng": "-118.436",
+      "size": "2,098 Acres",
+      "url": "/incident/7703/",
+      "id": "7703",
+      "contained": "95"
+    },
+    {
+      "name": "Steptoe Canyon",
+      "type": "Wildfire",
+      "summary": " The Steptoe Canyon Fire started on July 22, 2021 at approximately...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-28 09:21:03",
+      "lat": "46.49",
+      "lng": "-117.2",
+      "size": "2,605 Acres",
+      "url": "/incident/7717/",
+      "id": "7717",
+      "contained": "100"
+    },
+    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
       "state": "WASHINGTON",
-      "updated": "2021-07-28 09:15:21",
+      "updated": "2021-07-28 09:20:55",
       "lat": "48.285",
       "lng": "-118.531",
       "size": "15,246 Acres",
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "6"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": "Fire activity increased Monday on the Goat Fire as it spotted to...",
+      "state": "MONTANA",
+      "updated": "2021-07-28 09:18:17",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "150 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-28 09:16:45",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "52,387 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "13"
     },
     {
       "name": "Cedar Creek",
@@ -53,19 +118,6 @@
       "contained": "59"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-28 09:11:35",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "52,387 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "11"
-    },
-    {
       "name": "Morgan Creek Fire",
       "type": "Wildfire",
       "summary": " The Morgan Creek Fire was reported on July 9 on the Routt National...",
@@ -90,19 +142,6 @@
       "url": "/incident/7643/",
       "id": "7643",
       "contained": "92"
-    },
-    {
-      "name": "Peak Fire",
-      "type": "Wildfire",
-      "summary": "On Wednesday July 28 2021, California Interagency Incident...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-28 08:58:58",
-      "lat": "35.406",
-      "lng": "-118.436",
-      "size": "2,098 Acres",
-      "url": "/incident/7703/",
-      "id": "7703",
-      "contained": "95"
     },
     {
       "name": "Lick Creek (Dry Gulch) Fire",
@@ -157,19 +196,6 @@
       "contained": "20"
     },
     {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": "Fire activity increased Monday on the Goat Fire as it spotted to...",
-      "state": "MONTANA",
-      "updated": "2021-07-28 08:40:28",
-      "lat": "46.379",
-      "lng": "-113.071",
-      "size": "150 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
-    },
-    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
@@ -219,19 +245,6 @@
       "size": "19,619 Acres",
       "url": "/incident/7638/",
       "id": "7638",
-      "contained": "0"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Evening Update - 7.27.2021 at 9:00 PMFire activity moderated today...",
-      "state": "MONTANA",
-      "updated": "2021-07-28 07:55:54",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "19,103 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
       "contained": "0"
     },
     {
@@ -1002,32 +1015,6 @@
       "contained": "0"
     },
     {
-      "name": "Steptoe Canyon",
-      "type": "Wildfire",
-      "summary": " The Steptoe Canyon Fire started on July 22, 2021 at approximately...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 12:13:19",
-      "lat": "46.49",
-      "lng": "-117.2",
-      "size": "2,605 Acres",
-      "url": "/incident/7717/",
-      "id": "7717",
-      "contained": "100"
-    },
-    {
-      "name": "Northrup",
-      "type": "Wildfire",
-      "summary": " At about 5:00 p.m. July 22, fire resources responded to a call for...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-26 11:40:23",
-      "lat": "47.859",
-      "lng": "-119.098",
-      "size": "247 Acres",
-      "url": "/incident/7718/",
-      "id": "7718",
-      "contained": "95"
-    },
-    {
       "name": "King",
       "type": "Wildfire",
       "summary": "There are multiple fires burning in Yosemite National Park...",
@@ -1327,19 +1314,6 @@
       "contained": "0"
     },
     {
-      "name": "Red Apple",
-      "type": "Wildfire",
-      "summary": "The Red Apple Fire was first reported to RIVERCOM at 6:55 p.m. on...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-20 21:05:30",
-      "lat": "47.508",
-      "lng": "-120.426",
-      "size": "12,288 Acres",
-      "url": "/incident/7667/",
-      "id": "7667",
-      "contained": "90"
-    },
-    {
       "name": "Darlene",
       "type": "Wildfire",
       "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
@@ -1442,19 +1416,6 @@
       "url": "/incident/7645/",
       "id": "7645",
       "contained": "93"
-    },
-    {
-      "name": "Lyle Hill",
-      "type": "Wildfire",
-      "summary": " The Lyle Hill fire started just NE of Lyle, WA on July 12, 2021....",
-      "state": "WASHINGTON",
-      "updated": "2021-07-16 20:33:30",
-      "lat": "45.698",
-      "lng": "-121.271",
-      "size": "135 Acres",
-      "url": "/incident/7662/",
-      "id": "7662",
-      "contained": "90"
     },
     {
       "name": "Pinnacle Fire",
@@ -1574,19 +1535,6 @@
       "contained": "0"
     },
     {
-      "name": "Burbank",
-      "type": "Wildfire",
-      "summary": "The Burbank fire, located west of South Badger Pocket Road in Yakima...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-14 10:39:24",
-      "lat": "46.752",
-      "lng": "-120.388",
-      "size": "13,000 Acres",
-      "url": "/incident/7650/",
-      "id": "7650",
-      "contained": "98"
-    },
-    {
       "name": "Willow Fire",
       "type": "Wildfire",
       "summary": "CURRENT CONDITIONS:The weather is expected to be hotter and dryer...",
@@ -1678,19 +1626,6 @@
       "contained": "95"
     },
     {
-      "name": "Silcott Fire",
-      "type": "Wildfire",
-      "summary": "The Silcott fire started in the area of Silcott Grade Road west of...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-11 14:42:28",
-      "lat": "46.376",
-      "lng": "-117.167",
-      "size": "8,633 Acres",
-      "url": "/incident/7626/",
-      "id": "7626",
-      "contained": "100"
-    },
-    {
       "name": "Rafael Fire ",
       "type": "Wildfire",
       "summary": "The Rafael Fire was discovered on June 18, 2021 on the Prescott...",
@@ -1702,19 +1637,6 @@
       "url": "/incident/7567/",
       "id": "7567",
       "contained": "95"
-    },
-    {
-      "name": "Batterman RD",
-      "type": "Wildfire",
-      "summary": " The Batterman Road Fire started on July 4, 2021 at approximately...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-09 22:24:03",
-      "lat": "47.409",
-      "lng": "-120.176",
-      "size": "14,100 Acres",
-      "url": "/incident/7603/",
-      "id": "7603",
-      "contained": "100"
     },
     {
       "name": "Bottom Fire",
