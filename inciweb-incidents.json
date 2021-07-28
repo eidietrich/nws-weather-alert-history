@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-28 14:10:55",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "9,574 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-28 14:10:17",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "32,933 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-28 14:00:36",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "466 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "50"
+    },
+    {
       "name": "West Zone Superior Fires",
       "type": "Wildfire",
       "summary": " The West Zone of the Superior National Forest, consisting of the...",
@@ -76,19 +115,6 @@
       "size": "4,891 Acres",
       "url": "/incident/7702/",
       "id": "7702",
-      "contained": "0"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-28 13:28:43",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "32,933 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
       "contained": "0"
     },
     {
@@ -389,19 +415,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "13"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-07-28 11:29:29",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "9,574 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "Goat Fire",
@@ -974,19 +987,6 @@
       "url": "/incident/7668/",
       "id": "7668",
       "contained": "100"
-    },
-    {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-26 12:47:16",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "466 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "50"
     },
     {
       "name": "King",
