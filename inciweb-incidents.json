@@ -1,29 +1,94 @@
 {
   "markers": [
     {
-      "name": "Tennant Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
+      "name": "Park Fire",
+      "type": "Wildfire",
+      "summary": "Park Fire - July 29 UpdateWork to fully suppress the Park fire,...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-29 12:44:09",
-      "lat": "41.733",
-      "lng": "-122.107",
-      "size": "0 Acres",
-      "url": "/incident/7699/",
-      "id": "7699",
-      "contained": "0"
+      "updated": "2021-07-29 13:21:02",
+      "lat": "36.2",
+      "lng": "-118.722",
+      "size": "54 Acres",
+      "url": "/incident/7726/",
+      "id": "7726",
+      "contained": "40"
     },
     {
       "name": "Deer Fire",
       "type": "Wildfire",
-      "summary": "Firefighters responded to a wildfire reported at approximately 3 p.m....",
+      "summary": "Fire crews responded to a wildfire reported at approximately 3 p.m....",
       "state": "IDAHO",
-      "updated": "2021-07-29 12:41:20",
+      "updated": "2021-07-29 13:18:40",
       "lat": "43.642",
       "lng": "-115.916",
       "size": "1,000 Acres",
       "url": "/incident/7732/",
       "id": "7732",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-29 13:11:19",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "52,832 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "18"
+    },
+    {
+      "name": "McDougal Fire",
+      "type": "Wildfire",
+      "summary": " The McDougal fire is currently assessed at 16.5 acres. Type 1 and...",
+      "state": "MONTANA",
+      "updated": "2021-07-29 13:10:13",
+      "lat": "46.119",
+      "lng": "-113.451",
+      "size": "17 Acres",
+      "url": "/incident/7695/",
+      "id": "7695",
+      "contained": "0"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-29 13:02:51",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Bruler Fire",
+      "type": "Wildfire",
+      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
+      "state": "OREGON",
+      "updated": "2021-07-29 12:51:32",
+      "lat": "44.591",
+      "lng": "-122.156",
+      "size": "195 Acres",
+      "url": "/incident/7663/",
+      "id": "7663",
+      "contained": "53"
+    },
+    {
+      "name": "Tennant Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-29 12:47:38",
+      "lat": "41.733",
+      "lng": "-122.107",
+      "size": "0 Acres",
+      "url": "/incident/7699/",
+      "id": "7699",
       "contained": "0"
     },
     {
@@ -118,19 +183,6 @@
       "contained": "50"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-29 12:08:11",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "52,832 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "18"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -168,19 +220,6 @@
       "url": "/incident/7702/",
       "id": "7702",
       "contained": "0"
-    },
-    {
-      "name": "Bruler Fire",
-      "type": "Wildfire",
-      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
-      "state": "OREGON",
-      "updated": "2021-07-29 12:00:22",
-      "lat": "44.591",
-      "lng": "-122.156",
-      "size": "195 Acres",
-      "url": "/incident/7663/",
-      "id": "7663",
-      "contained": "53"
     },
     {
       "name": "Goat",
@@ -690,19 +729,6 @@
       "contained": "18"
     },
     {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-28 19:25:54",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "Yosemite Creek",
       "type": "Wildfire",
       "summary": "As of June 28th Yosemite, has had 23 fires started by lightning and...",
@@ -857,19 +883,6 @@
       "url": "/incident/7643/",
       "id": "7643",
       "contained": "92"
-    },
-    {
-      "name": "Park Fire",
-      "type": "Wildfire",
-      "summary": "July 28 Park Fire Update will be delayed while we transition. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-28 12:36:00",
-      "lat": "36.2",
-      "lng": "-118.722",
-      "size": "152 Acres",
-      "url": "/incident/7726/",
-      "id": "7726",
-      "contained": "25"
     },
     {
       "name": "Granite Pass Complex",
@@ -1143,19 +1156,6 @@
       "url": "/incident/7629/",
       "id": "7629",
       "contained": "85"
-    },
-    {
-      "name": "McDougal Fire",
-      "type": "Wildfire",
-      "summary": " The McDougal fire is currently assessed at 16.5 acres. Type 1 and...",
-      "state": "MONTANA",
-      "updated": "2021-07-23 00:35:09",
-      "lat": "46.119",
-      "lng": "-113.451",
-      "size": "17 Acres",
-      "url": "/incident/7695/",
-      "id": "7695",
-      "contained": "0"
     },
     {
       "name": "North",
