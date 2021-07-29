@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-29 16:12:54",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,097 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "31"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-07-29 16:11:22",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "40,519 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "30"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
+      "state": "MONTANA",
+      "updated": "2021-07-29 16:08:52",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,020 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "0"
+    },
+    {
       "name": "Mud Lick, Haynes, and Iron Fires",
       "type": "Wildfire",
       "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
       "state": "IDAHO",
-      "updated": "2021-07-29 15:44:11",
+      "updated": "2021-07-29 16:03:54",
       "lat": "45.183",
       "lng": "-114.421",
       "size": "19,801 Acres",
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "0"
+    },
+    {
+      "name": "Robertson Draw",
+      "type": "Wildfire",
+      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
+      "state": "MONTANA",
+      "updated": "2021-07-29 15:58:07",
+      "lat": "45.015",
+      "lng": "-109.253",
+      "size": "29,885 Acres",
+      "url": "/incident/7537/",
+      "id": "7537",
+      "contained": "90"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-29 15:52:13",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "52,832 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "18"
+    },
+    {
+      "name": "Deer Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Deer Creek Fire originated off Echeta Road and is currently...",
+      "state": "WYOMING",
+      "updated": "2021-07-29 15:51:56",
+      "lat": "44.529",
+      "lng": "-106.003",
+      "size": "5,295 Acres",
+      "url": "/incident/7730/",
+      "id": "7730",
+      "contained": "35"
     },
     {
       "name": "Hardesty Valley Fire",
@@ -38,19 +116,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "0"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-29 15:39:42",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,097 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "31"
     },
     {
       "name": "Hazard Hill Fire",
@@ -105,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Deer Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Deer Creek Fire originated off Echeta Road and is currently...",
-      "state": "WYOMING",
-      "updated": "2021-07-29 15:26:07",
-      "lat": "44.529",
-      "lng": "-106.003",
-      "size": "5,295 Acres",
-      "url": "/incident/7730/",
-      "id": "7730",
-      "contained": "35"
-    },
-    {
       "name": "Soda Lake",
       "type": "Wildfire",
       "summary": "The #SodaLakeFire is burning three miles west of the national forest...",
@@ -128,19 +180,6 @@
       "size": "96 Acres",
       "url": "/incident/7729/",
       "id": "7729",
-      "contained": "0"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
-      "state": "MONTANA",
-      "updated": "2021-07-29 15:19:35",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,020 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
       "contained": "0"
     },
     {
@@ -248,19 +287,6 @@
       "contained": "0"
     },
     {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-07-29 13:58:02",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "40,519 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "30"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
@@ -272,19 +298,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "9"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-29 13:53:40",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "52,832 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "18"
     },
     {
       "name": "Lava Fire",
@@ -311,19 +324,6 @@
       "url": "/incident/7713/",
       "id": "7713",
       "contained": "50"
-    },
-    {
-      "name": "Robertson Draw",
-      "type": "Wildfire",
-      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
-      "state": "MONTANA",
-      "updated": "2021-07-29 13:27:56",
-      "lat": "45.015",
-      "lng": "-109.253",
-      "size": "29,885 Acres",
-      "url": "/incident/7537/",
-      "id": "7537",
-      "contained": "90"
     },
     {
       "name": "Park Fire",
