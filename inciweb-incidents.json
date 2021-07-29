@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-29 16:45:12",
+      "lat": "47.41",
+      "lng": "-114.988",
+      "size": "10,357 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "0"
+    },
+    {
+      "name": "Lava Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-29 16:45:00",
+      "lat": "41.425",
+      "lng": "-122.261",
+      "size": "0 Acres",
+      "url": "/incident/7693/",
+      "id": "7693",
+      "contained": "0"
+    },
+    {
+      "name": "Tennant Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-29 16:43:51",
+      "lat": "41.733",
+      "lng": "-122.107",
+      "size": "0 Acres",
+      "url": "/incident/7699/",
+      "id": "7699",
+      "contained": "0"
+    },
+    {
+      "name": "Deer Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Deer Creek Fire originated off Echeta Road and is currently...",
+      "state": "WYOMING",
+      "updated": "2021-07-29 16:41:35",
+      "lat": "44.529",
+      "lng": "-106.003",
+      "size": "5,295 Acres",
+      "url": "/incident/7730/",
+      "id": "7730",
+      "contained": "35"
+    },
+    {
+      "name": "Tango Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Tango Fire was reported the evening of July...",
+      "state": "IDAHO",
+      "updated": "2021-07-29 16:38:39",
+      "lat": "44.483",
+      "lng": "-114.873",
+      "size": "102 Acres",
+      "url": "/incident/7706/",
+      "id": "7706",
+      "contained": "0"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-29 16:36:38",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "4,152 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "20"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
@@ -12,19 +90,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "53"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-29 16:30:47",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "4,152 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "20"
     },
     {
       "name": "Robertson Draw",
@@ -105,19 +170,6 @@
       "contained": "18"
     },
     {
-      "name": "Deer Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Deer Creek Fire originated off Echeta Road and is currently...",
-      "state": "WYOMING",
-      "updated": "2021-07-29 15:51:56",
-      "lat": "44.529",
-      "lng": "-106.003",
-      "size": "5,295 Acres",
-      "url": "/incident/7730/",
-      "id": "7730",
-      "contained": "35"
-    },
-    {
       "name": "Hardesty Valley Fire",
       "type": "Wildfire",
       "summary": "",
@@ -129,19 +181,6 @@
       "url": "/incident/7725/",
       "id": "7725",
       "contained": "90"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-29 15:42:51",
-      "lat": "47.41",
-      "lng": "-114.988",
-      "size": "10,357 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "0"
     },
     {
       "name": "Hazard Hill Fire",
@@ -378,19 +417,6 @@
       "contained": "0"
     },
     {
-      "name": "Tennant Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-29 12:47:38",
-      "lat": "41.733",
-      "lng": "-122.107",
-      "size": "0 Acres",
-      "url": "/incident/7699/",
-      "id": "7699",
-      "contained": "0"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -415,19 +441,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "10"
-    },
-    {
-      "name": "Lava Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-29 12:34:09",
-      "lat": "41.425",
-      "lng": "-122.261",
-      "size": "0 Acres",
-      "url": "/incident/7693/",
-      "id": "7693",
-      "contained": "0"
     },
     {
       "name": "Salt Post-Fire BAER",
@@ -870,19 +883,6 @@
       "url": "/incident/7656/",
       "id": "7656",
       "contained": "100"
-    },
-    {
-      "name": "Tango Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Tango Fire was reported the evening of July...",
-      "state": "IDAHO",
-      "updated": "2021-07-28 14:42:16",
-      "lat": "44.483",
-      "lng": "-114.873",
-      "size": "102 Acres",
-      "url": "/incident/7706/",
-      "id": "7706",
-      "contained": "0"
     },
     {
       "name": "Ruby",
