@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-29 08:33:17",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "4,152 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "20"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
       "state": "OREGON",
-      "updated": "2021-07-29 08:33:12",
+      "updated": "2021-07-29 08:44:33",
       "lat": "46.134",
       "lng": "-117.719",
       "size": "7,846 Acres",
@@ -31,13 +18,65 @@
       "type": "Wildfire",
       "summary": "The #SodaLakeFire is burning three miles west of the national forest...",
       "state": "WYOMING",
-      "updated": "2021-07-29 08:32:43",
+      "updated": "2021-07-29 08:44:28",
       "lat": "42.757",
       "lng": "-110.528",
       "size": "0 Acres",
       "url": "/incident/7729/",
       "id": "7729",
       "contained": "0"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-29 08:43:37",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,392 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "90"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Dixie Fire West Zone – Fire activity will continue in the North...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-29 08:43:23",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "221,504 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "23"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-29 08:35:51",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,097 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "31"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-29 08:33:17",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "4,152 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "20"
     },
     {
       "name": "Tamarack Fire",
@@ -103,19 +142,6 @@
       "url": "/incident/7710/",
       "id": "7710",
       "contained": "0"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-29 08:09:51",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,392 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "90"
     },
     {
       "name": "Woods Creek Fire",
@@ -207,19 +233,6 @@
       "url": "/incident/7731/",
       "id": "7731",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Dixie Fire West Zone – Fire activity will continue in the North...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-29 01:05:54",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "220,012 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "23"
     },
     {
       "name": "Cedar Creek",
@@ -337,19 +350,6 @@
       "url": "/incident/7697/",
       "id": "7697",
       "contained": "0"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-28 22:57:11",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,002 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "31"
     },
     {
       "name": "Leland Complex",
