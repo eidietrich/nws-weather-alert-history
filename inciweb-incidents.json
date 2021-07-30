@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Bruler Fire",
+      "type": "Wildfire",
+      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
+      "state": "OREGON",
+      "updated": "2021-07-30 17:14:59",
+      "lat": "44.591",
+      "lng": "-122.156",
+      "size": "195 Acres",
+      "url": "/incident/7663/",
+      "id": "7663",
+      "contained": "53"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-30 17:14:06",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "36,922 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
       "name": "Deer Fire",
       "type": "Wildfire",
       "summary": "Fire crews responded to a wildfire reported at approximately 3 p.m....",
       "state": "IDAHO",
-      "updated": "2021-07-30 16:44:52",
+      "updated": "2021-07-30 17:11:51",
       "lat": "43.642",
       "lng": "-115.916",
       "size": "1,000 Acres",
@@ -14,11 +40,24 @@
       "contained": "0"
     },
     {
+      "name": "2021 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2021-07-30 16:51:23",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/7304/",
+      "id": "7304",
+      "contained": "0"
+    },
+    {
       "name": "Salt Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-30 16:44:25",
+      "updated": "2021-07-30 16:48:46",
       "lat": "40.916",
       "lng": "-122.403",
       "size": "0 Acres",
@@ -31,7 +70,7 @@
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-30 16:30:11",
+      "updated": "2021-07-30 16:48:01",
       "lat": "41.425",
       "lng": "-122.261",
       "size": "0 Acres",
@@ -469,19 +508,6 @@
       "contained": "13"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-30 11:45:25",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "36,922 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
-    },
-    {
       "name": "Elbow Creek",
       "type": "Wildfire",
       "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
@@ -623,19 +649,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "8"
-    },
-    {
-      "name": "Bruler Fire",
-      "type": "Wildfire",
-      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
-      "state": "OREGON",
-      "updated": "2021-07-30 11:06:43",
-      "lat": "44.591",
-      "lng": "-122.156",
-      "size": "195 Acres",
-      "url": "/incident/7663/",
-      "id": "7663",
-      "contained": "53"
     },
     {
       "name": "Cougar Rock Complex",
@@ -947,19 +960,6 @@
       "size": "96 Acres",
       "url": "/incident/7729/",
       "id": "7729",
-      "contained": "0"
-    },
-    {
-      "name": "2021 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2021-07-29 14:40:44",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/7304/",
-      "id": "7304",
       "contained": "0"
     },
     {
