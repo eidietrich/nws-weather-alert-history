@@ -1,16 +1,42 @@
 {
   "markers": [
     {
-      "name": "Christensen Fire ",
+      "name": "Tamarack Fire",
       "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-30 18:43:05",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,696 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "65"
+    },
+    {
+      "name": "Leland Complex",
+      "type": "Wildfire",
+      "summary": "The Leland Complex is composed of four wildfires: The Sand Mountain,...",
+      "state": "IDAHO",
+      "updated": "2021-07-30 18:39:59",
+      "lat": "46.746",
+      "lng": "-116.628",
+      "size": "3,413 Acres",
+      "url": "/incident/7644/",
+      "id": "7644",
+      "contained": "67"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
       "state": "MONTANA",
-      "updated": "2021-07-30 18:28:36",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "4,892 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
+      "updated": "2021-07-30 18:38:36",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "34,997 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
       "contained": "0"
     },
     {
@@ -18,13 +44,39 @@
       "type": "Wildfire",
       "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
       "state": "WASHINGTON",
-      "updated": "2021-07-30 18:28:05",
+      "updated": "2021-07-30 18:38:17",
       "lat": "48.551",
       "lng": "-120.194",
       "size": "53,277 Acres",
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "24"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-07-30 18:33:24",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,021 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-30 18:29:54",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "4,892 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "0"
     },
     {
       "name": "Alder Creek Fire",
@@ -115,19 +167,6 @@
       "size": "85 Acres",
       "url": "/incident/7741/",
       "id": "7741",
-      "contained": "0"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-30 17:29:48",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "34,997 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
       "contained": "0"
     },
     {
@@ -508,32 +547,6 @@
       "contained": "0"
     },
     {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-30 13:14:18",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,696 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "65"
-    },
-    {
-      "name": "Leland Complex",
-      "type": "Wildfire",
-      "summary": "The Leland Complex is composed of four wildfires: The Sand Mountain,...",
-      "state": "IDAHO",
-      "updated": "2021-07-30 12:47:59",
-      "lat": "46.746",
-      "lng": "-116.628",
-      "size": "3,413 Acres",
-      "url": "/incident/7644/",
-      "id": "7644",
-      "contained": "67"
-    },
-    {
       "name": "Beckwourth  Complex",
       "type": "Wildfire",
       "summary": " The Beckwourth Complex is making good progress towards full...",
@@ -622,19 +635,6 @@
       "size": "2,370 Acres",
       "url": "/incident/7660/",
       "id": "7660",
-      "contained": "0"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-07-30 11:14:50",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,021 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
       "contained": "0"
     },
     {
