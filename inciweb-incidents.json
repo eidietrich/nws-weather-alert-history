@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Fire behavior is expected to remain active as more thunderstorms are...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-30 14:12:58",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "240,595 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "24"
+    },
+    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
       "state": "IDAHO",
-      "updated": "2021-07-30 13:53:28",
+      "updated": "2021-07-30 14:01:37",
       "lat": "47.645",
       "lng": "-116.019",
       "size": "6,383 Acres",
@@ -14,11 +27,63 @@
       "contained": "30"
     },
     {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-30 14:00:02",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "17,812 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "12"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "RED FLAG WARNING has been issued for today (Thursday) through Friday...",
+      "state": "OREGON",
+      "updated": "2021-07-30 13:56:57",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "22,491 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "62"
+    },
+    {
+      "name": "Hardesty Valley Fire",
+      "type": "Wildfire",
+      "summary": "Fire activity was low on Thursday. Crews continue to take advantage...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-30 13:55:46",
+      "lat": "48.013",
+      "lng": "-117.314",
+      "size": "30 Acres",
+      "url": "/incident/7725/",
+      "id": "7725",
+      "contained": "90"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-07-30 13:55:37",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "40,519 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "30"
+    },
+    {
       "name": "Hazard Hill Fire",
       "type": "Wildfire",
       "summary": "Fire activity was low on Thursday. Crews continue to take advantage...",
       "state": "WASHINGTON",
-      "updated": "2021-07-30 13:53:16",
+      "updated": "2021-07-30 13:55:30",
       "lat": "47.821",
       "lng": "-117.47",
       "size": "125 Acres",
@@ -53,19 +118,6 @@
       "contained": "90"
     },
     {
-      "name": "Hardesty Valley Fire",
-      "type": "Wildfire",
-      "summary": "Fire activity was low on Thursday. Crews continue to take advantage...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-30 13:51:47",
-      "lat": "48.013",
-      "lng": "-117.314",
-      "size": "30 Acres",
-      "url": "/incident/7725/",
-      "id": "7725",
-      "contained": "90"
-    },
-    {
       "name": "Goat",
       "type": "Wildfire",
       "summary": "Structure assessment continues, based on that assessment,...",
@@ -92,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-30 13:47:31",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "17,812 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "12"
-    },
-    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
@@ -129,19 +168,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "20"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-07-30 13:38:17",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "40,519 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "30"
     },
     {
       "name": "Granite Pass Complex",
@@ -285,19 +311,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "15"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Dixie Fire West ZonePotential exists for increased fire activity...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-30 12:00:28",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "240,595 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "24"
     },
     {
       "name": "Harris Mountain",
@@ -727,19 +740,6 @@
       "url": "/incident/7700/",
       "id": "7700",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "RED FLAG WARNING has been issued for today (Thursday) through Friday...",
-      "state": "OREGON",
-      "updated": "2021-07-29 23:14:00",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "22,244 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "61"
     },
     {
       "name": "Lava Post-Fire BAER",
