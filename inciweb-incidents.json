@@ -1,11 +1,128 @@
 {
   "markers": [
     {
+      "name": "Hardesty Valley Fire",
+      "type": "Wildfire",
+      "summary": "Fire activity was low on Friday. Crews continue to take advantage of...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 12:00:39",
+      "lat": "48.013",
+      "lng": "-117.314",
+      "size": "30 Acres",
+      "url": "/incident/7725/",
+      "id": "7725",
+      "contained": "90"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 12:00:38",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "6,975 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "10"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 12:00:21",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,191 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "46"
+    },
+    {
+      "name": "Hazard Hill Fire",
+      "type": "Wildfire",
+      "summary": "Fire activity was low on Friday. Crews continue to take advantage of...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 11:59:45",
+      "lat": "47.821",
+      "lng": "-117.47",
+      "size": "125 Acres",
+      "url": "/incident/7727/",
+      "id": "7727",
+      "contained": "80"
+    },
+    {
+      "name": "Lava Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 11:59:23",
+      "lat": "41.425",
+      "lng": "-122.261",
+      "size": "0 Acres",
+      "url": "/incident/7693/",
+      "id": "7693",
+      "contained": "0"
+    },
+    {
+      "name": "Nelson Creek Fire",
+      "type": "Wildfire",
+      "summary": "Fire activity was low on Friday. Crews continue to take advantage of...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 11:59:02",
+      "lat": "47.998",
+      "lng": "-117.23",
+      "size": "154 Acres",
+      "url": "/incident/7723/",
+      "id": "7723",
+      "contained": "90"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires that merged...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 11:55:30",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "109,262 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "87"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West Zone Fire behavior is expected to increase due to...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 11:50:14",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "240,795 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "24"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 11:49:54",
+      "lat": "47.41",
+      "lng": "-114.988",
+      "size": "15,860 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "0"
+    },
+    {
       "name": "Lava Fire",
       "type": "Wildfire",
       "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-31 11:24:38",
+      "updated": "2021-07-31 11:49:09",
       "lat": "41.459",
       "lng": "-122.329",
       "size": "26,365 Acres",
@@ -14,17 +131,82 @@
       "contained": "78"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Summit Trail",
       "type": "Wildfire",
-      "summary": "Dixie Fire West Zone Fire behavior is expected to increase due to...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 11:23:16",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "240,795 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 11:46:52",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "18,540 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "12"
+    },
+    {
+      "name": "Soda Lake",
+      "type": "Wildfire",
+      "summary": "The #SodaLakeFire is burning three miles west of the national forest...",
+      "state": "WYOMING",
+      "updated": "2021-07-31 11:42:55",
+      "lat": "42.757",
+      "lng": "-110.528",
+      "size": "96 Acres",
+      "url": "/incident/7729/",
+      "id": "7729",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-31 11:41:29",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,562 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "56"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 11:37:30",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "54,858 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
       "contained": "24"
+    },
+    {
+      "name": "Deer Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Deer Creek Fire originated off Echeta Road and is currently 5,295...",
+      "state": "WYOMING",
+      "updated": "2021-07-31 11:37:06",
+      "lat": "44.529",
+      "lng": "-106.003",
+      "size": "5,295 Acres",
+      "url": "/incident/7730/",
+      "id": "7730",
+      "contained": "50"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 11:33:58",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,131 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "0"
     },
     {
       "name": "Park Fire",
@@ -38,19 +220,6 @@
       "url": "/incident/7726/",
       "id": "7726",
       "contained": "100"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 11:19:59",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "54,858 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
@@ -92,19 +261,6 @@
       "contained": "53"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-31 11:15:50",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,562 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "56"
-    },
-    {
       "name": "Leland Complex",
       "type": "Wildfire",
       "summary": "The Leland Complex is composed of four wildfires: The Sand Mountain,...",
@@ -116,19 +272,6 @@
       "url": "/incident/7644/",
       "id": "7644",
       "contained": "59"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 11:11:20",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "18,540 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "12"
     },
     {
       "name": "Sherwood",
@@ -183,19 +326,6 @@
       "contained": "98"
     },
     {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 10:52:06",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,131 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "0"
-    },
-    {
       "name": "Spruce Canyon",
       "type": "Wildfire",
       "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
@@ -246,19 +376,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "15"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 10:37:03",
-      "lat": "47.41",
-      "lng": "-114.988",
-      "size": "15,860 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "0"
     },
     {
       "name": "Storm Theatre Complex",
@@ -350,19 +467,6 @@
       "url": "/incident/7702/",
       "id": "7702",
       "contained": "0"
-    },
-    {
-      "name": "Deer Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Deer Creek Fire originated off Echeta Road and is currently 5,295...",
-      "state": "WYOMING",
-      "updated": "2021-07-31 10:18:08",
-      "lat": "44.529",
-      "lng": "-106.003",
-      "size": "5,295 Acres",
-      "url": "/incident/7730/",
-      "id": "7730",
-      "contained": "50"
     },
     {
       "name": "Shasta-Trinity July Lightning",
@@ -794,19 +898,6 @@
       "contained": "0"
     },
     {
-      "name": "Soda Lake",
-      "type": "Wildfire",
-      "summary": "The #SodaLakeFire is burning three miles west of the national forest...",
-      "state": "WYOMING",
-      "updated": "2021-07-30 23:40:16",
-      "lat": "42.757",
-      "lng": "-110.528",
-      "size": "96 Acres",
-      "url": "/incident/7729/",
-      "id": "7729",
-      "contained": "0"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "RED FLAG WARNING has been issued for today (Thursday) through Friday...",
@@ -818,45 +909,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "63"
-    },
-    {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires that merged...",
-      "state": "IDAHO",
-      "updated": "2021-07-30 22:59:32",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "109,262 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "87"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-30 22:22:50",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,152 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-30 22:22:44",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "5,837 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "10"
     },
     {
       "name": "Character Complex",
@@ -950,19 +1002,6 @@
       "contained": "0"
     },
     {
-      "name": "Lava Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-30 16:48:01",
-      "lat": "41.425",
-      "lng": "-122.261",
-      "size": "0 Acres",
-      "url": "/incident/7693/",
-      "id": "7693",
-      "contained": "0"
-    },
-    {
       "name": "Granite Pass Complex",
       "type": "Wildfire",
       "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
@@ -987,45 +1026,6 @@
       "url": "/incident/7731/",
       "id": "7731",
       "contained": "0"
-    },
-    {
-      "name": "Hardesty Valley Fire",
-      "type": "Wildfire",
-      "summary": "Fire activity was low on Thursday. Crews continue to take advantage...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-30 13:55:46",
-      "lat": "48.013",
-      "lng": "-117.314",
-      "size": "30 Acres",
-      "url": "/incident/7725/",
-      "id": "7725",
-      "contained": "90"
-    },
-    {
-      "name": "Hazard Hill Fire",
-      "type": "Wildfire",
-      "summary": "Fire activity was low on Thursday. Crews continue to take advantage...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-30 13:55:30",
-      "lat": "47.821",
-      "lng": "-117.47",
-      "size": "125 Acres",
-      "url": "/incident/7727/",
-      "id": "7727",
-      "contained": "60"
-    },
-    {
-      "name": "Nelson Creek Fire",
-      "type": "Wildfire",
-      "summary": "Fire activity was low on Thursday. Crews continue to take advantage...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-30 13:52:50",
-      "lat": "47.998",
-      "lng": "-117.23",
-      "size": "154 Acres",
-      "url": "/incident/7723/",
-      "id": "7723",
-      "contained": "90"
     },
     {
       "name": "Tango Fire",
