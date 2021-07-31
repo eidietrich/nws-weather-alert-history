@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "RED FLAG WARNING has been issued for today (Thursday) through Friday...",
+      "state": "OREGON",
+      "updated": "2021-07-30 23:20:38",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "22,491 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "63"
+    },
+    {
+      "name": "Klamath NF Lightning July 2021  ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-30 23:18:42",
+      "lat": "41.707",
+      "lng": "-122.644",
+      "size": "0 Acres",
+      "url": "/incident/7738/",
+      "id": "7738",
+      "contained": "0"
+    },
+    {
+      "name": "Pioneer Fire",
+      "type": "Wildfire",
+      "summary": "The Pioneer Fire was detected on July 29, 2021 at 1:30pm on Idaho...",
+      "state": "IDAHO",
+      "updated": "2021-07-30 23:17:59",
+      "lat": "48.221",
+      "lng": "-116.942",
+      "size": "358 Acres",
+      "url": "/incident/7743/",
+      "id": "7743",
+      "contained": "100"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West ZonePotential exist for increased fire activity...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-30 23:12:44",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "240,795 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "24"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-30 23:08:47",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "36,922 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "11"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires that merged...",
+      "state": "IDAHO",
+      "updated": "2021-07-30 22:59:32",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "109,262 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "87"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
@@ -25,19 +103,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "24"
-    },
-    {
-      "name": "Pioneer Fire",
-      "type": "Wildfire",
-      "summary": "The Pioneer Fire was detected on July 29, 2021 at 1:30pm on Idaho...",
-      "state": "IDAHO",
-      "updated": "2021-07-30 22:29:02",
-      "lat": "48.221",
-      "lng": "-116.942",
-      "size": "0 Acres",
-      "url": "/incident/7743/",
-      "id": "7743",
-      "contained": "0"
     },
     {
       "name": "Burnt Peak Fire",
@@ -105,19 +170,6 @@
       "contained": "8"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Dixie Fire West ZonePotential exist for increased fire activity...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-30 22:07:06",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "240,795 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "24"
-    },
-    {
       "name": "Spruce Canyon",
       "type": "Wildfire",
       "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
@@ -155,19 +207,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "10"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-30 21:16:26",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "36,922 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
     },
     {
       "name": "Black Mountain",
@@ -311,19 +350,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "79"
-    },
-    {
-      "name": "Klamath NF Lightning July 2021  ",
-      "type": "Wildfire",
-      "summary": "  Klamath National Forest Lightning Fires – Afternoon Update...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-30 20:00:14",
-      "lat": "41.707",
-      "lng": "-122.644",
-      "size": "0 Acres",
-      "url": "/incident/7738/",
-      "id": "7738",
-      "contained": "0"
     },
     {
       "name": "Nez Perce-Clearwater Lightning Fires",
@@ -506,19 +532,6 @@
       "url": "/incident/7703/",
       "id": "7703",
       "contained": "95"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "RED FLAG WARNING has been issued for today (Thursday) through Friday...",
-      "state": "OREGON",
-      "updated": "2021-07-30 15:08:42",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "22,491 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "62"
     },
     {
       "name": "Storm Theatre Complex",
@@ -766,19 +779,6 @@
       "url": "/incident/7643/",
       "id": "7643",
       "contained": "100"
-    },
-    {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires that merged...",
-      "state": "IDAHO",
-      "updated": "2021-07-30 10:28:33",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "109,262 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "87"
     },
     {
       "name": "Stateline Complex",
