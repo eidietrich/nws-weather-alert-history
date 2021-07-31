@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 17:41:42",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "41,142 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "17"
+    },
+    {
+      "name": "2021 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2021-07-31 17:40:00",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/7304/",
+      "id": "7304",
+      "contained": "0"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 17:38:49",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,473 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "18"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 17:38:22",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "12,310 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 17:37:55",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,325 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
       "state": "WYOMING",
-      "updated": "2021-07-31 17:29:20",
+      "updated": "2021-07-31 17:36:29",
       "lat": "44.947",
       "lng": "-107.771",
       "size": "685 Acres",
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "0"
+    },
+    {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 17:35:50",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,277 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "80"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -51,45 +129,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "4"
-    },
-    {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 17:07:11",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,277 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "80"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 17:04:55",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,325 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 17:03:06",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,473 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "18"
     },
     {
       "name": "Vinegar Fire",
@@ -141,19 +180,6 @@
       "size": "34,244 Acres",
       "url": "/incident/7634/",
       "id": "7634",
-      "contained": "0"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 16:44:22",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "12,310 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
       "contained": "0"
     },
     {
@@ -233,19 +259,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 15:52:05",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "41,142 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "17"
     },
     {
       "name": "Nelson Creek Fire",
@@ -999,19 +1012,6 @@
       "size": "0 Acres",
       "url": "/incident/7734/",
       "id": "7734",
-      "contained": "0"
-    },
-    {
-      "name": "2021 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2021-07-31 08:41:43",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/7304/",
-      "id": "7304",
       "contained": "0"
     },
     {
