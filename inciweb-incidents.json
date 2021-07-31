@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-07-31 07:55:19",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "685 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "0"
+    },
+    {
+      "name": "Mud Lick, Haynes, and Iron Fires",
+      "type": "Wildfire",
+      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 07:53:06",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "19,870 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "2021 Payette Wilderness Fires",
+      "type": "Wildfire",
+      "summary": "Three fires are burning in the Frank Church River of No Return...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 07:43:18",
+      "lat": "45",
+      "lng": "-115",
+      "size": "3,199 Acres",
+      "url": "/incident/7700/",
+      "id": "7700",
+      "contained": "0"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-31 07:37:18",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,392 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "90"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-07-31 07:34:12",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "9,669 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
@@ -64,32 +129,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "17"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-30 23:56:43",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,392 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "90"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-07-30 23:53:30",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "9,669 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
     },
     {
       "name": "Klamath NF Lightning July 2021  ",
@@ -207,19 +246,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "10"
-    },
-    {
-      "name": "Mud Lick, Haynes, and Iron Fires",
-      "type": "Wildfire",
-      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
-      "state": "IDAHO",
-      "updated": "2021-07-30 22:22:14",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "19,870 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
     },
     {
       "name": "Morgan Creek Fire",
@@ -414,19 +440,6 @@
       "size": "0 Acres",
       "url": "/incident/7692/",
       "id": "7692",
-      "contained": "0"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-07-30 19:42:54",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "685 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
       "contained": "0"
     },
     {
@@ -869,19 +882,6 @@
       "size": "227 Acres",
       "url": "/incident/7704/",
       "id": "7704",
-      "contained": "0"
-    },
-    {
-      "name": "2021 Payette Wilderness Fires",
-      "type": "Wildfire",
-      "summary": "Three fires are burning in the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2021-07-30 08:08:06",
-      "lat": "45",
-      "lng": "-115",
-      "size": "3,199 Acres",
-      "url": "/incident/7700/",
-      "id": "7700",
       "contained": "0"
     },
     {
