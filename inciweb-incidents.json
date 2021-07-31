@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 15:11:32",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 15:06:03",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,131 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-31 15:02:06",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,562 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "56"
+    },
+    {
       "name": "Deer Fire",
       "type": "Wildfire",
       "summary": "Fire crews responded to a wildfire reported at approximately 3 p.m....",
       "state": "IDAHO",
-      "updated": "2021-07-31 14:45:07",
+      "updated": "2021-07-31 15:00:45",
       "lat": "43.642",
       "lng": "-115.916",
       "size": "856 Acres",
       "url": "/incident/7732/",
       "id": "7732",
       "contained": "25"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 15:00:41",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "42,039 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "30"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 14:53:59",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "12,310 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 14:47:54",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "41,142 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "17"
     },
     {
       "name": "Deep Creek Fire",
@@ -25,45 +103,6 @@
       "url": "/incident/7744/",
       "id": "7744",
       "contained": "20"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 14:41:19",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "41,142 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "17"
-    },
-    {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 14:41:12",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 14:38:56",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,131 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "0"
     },
     {
       "name": "Klamath NF Lightning July 2021  ",
@@ -181,19 +220,6 @@
       "url": "/incident/7691/",
       "id": "7691",
       "contained": "0"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 13:11:06",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "41,019 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "30"
     },
     {
       "name": "West Zone Superior Fires",
@@ -337,19 +363,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "30"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-31 12:36:50",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,562 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "56"
     },
     {
       "name": "Hazard Hill Fire",
@@ -895,19 +908,6 @@
       "size": "0 Acres",
       "url": "/incident/7734/",
       "id": "7734",
-      "contained": "0"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 09:16:52",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "12,310 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
       "contained": "0"
     },
     {
