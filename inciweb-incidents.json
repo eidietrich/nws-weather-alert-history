@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Shasta-Trinity July Lightning",
+      "type": "Wildfire",
+      "summary": "A lightning storm passed over the Shasta-Trinity National Forest on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 00:10:14",
+      "lat": "40.35",
+      "lng": "-123.036",
+      "size": "0 Acres",
+      "url": "/incident/7739/",
+      "id": "7739",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West ZonePotential exist for increased fire activity...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 00:07:56",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "240,795 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "24"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-30 23:59:47",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "41,142 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "17"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-07-30 23:56:43",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,392 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "90"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-07-30 23:53:30",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "9,669 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Klamath NF Lightning July 2021  ",
+      "type": "Wildfire",
+      "summary": "Klamath National Forest Lightning Fires – Evening Update...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-30 23:52:58",
+      "lat": "41.707",
+      "lng": "-122.644",
+      "size": "0 Acres",
+      "url": "/incident/7738/",
+      "id": "7738",
+      "contained": "0"
+    },
+    {
+      "name": "Pioneer Fire",
+      "type": "Wildfire",
+      "summary": "The Pioneer Fire was detected on July 29, 2021 at 1:40pm on Idaho...",
+      "state": "IDAHO",
+      "updated": "2021-07-30 23:50:27",
+      "lat": "48.221",
+      "lng": "-116.942",
+      "size": "358 Acres",
+      "url": "/incident/7743/",
+      "id": "7743",
+      "contained": "0"
+    },
+    {
       "name": "Soda Lake",
       "type": "Wildfire",
       "summary": "The #SodaLakeFire is burning three miles west of the national forest...",
@@ -14,45 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Klamath NF Lightning July 2021  ",
-      "type": "Wildfire",
-      "summary": "Klamath National Forest Lightning Fires – Evening Update...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-30 23:37:19",
-      "lat": "41.707",
-      "lng": "-122.644",
-      "size": "0 Acres",
-      "url": "/incident/7738/",
-      "id": "7738",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Dixie Fire West ZonePotential exist for increased fire activity...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-30 23:33:15",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "240,795 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "24"
-    },
-    {
-      "name": "Pioneer Fire",
-      "type": "Wildfire",
-      "summary": "The Pioneer Fire was detected on July 29, 2021 at 1:40pm on Idaho...",
-      "state": "IDAHO",
-      "updated": "2021-07-30 23:29:41",
-      "lat": "48.221",
-      "lng": "-116.942",
-      "size": "358 Acres",
-      "url": "/incident/7743/",
-      "id": "7743",
-      "contained": "100"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "RED FLAG WARNING has been issued for today (Thursday) through Friday...",
@@ -64,19 +116,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "63"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-30 23:08:47",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "36,922 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "11"
     },
     {
       "name": "Snake River Complex",
@@ -154,19 +193,6 @@
       "size": "19,870 Acres",
       "url": "/incident/7638/",
       "id": "7638",
-      "contained": "0"
-    },
-    {
-      "name": "Shasta-Trinity July Lightning",
-      "type": "Wildfire",
-      "summary": "A lightning storm passed over the Shasta-Trinity National Forest on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-30 22:10:57",
-      "lat": "40.35",
-      "lng": "-123.036",
-      "size": "0 Acres",
-      "url": "/incident/7739/",
-      "id": "7739",
       "contained": "0"
     },
     {
@@ -688,32 +714,6 @@
       "url": "/incident/7671/",
       "id": "7671",
       "contained": "100"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-07-30 12:03:07",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,392 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "90"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-07-30 12:01:47",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "9,039 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
     },
     {
       "name": "Elbow Creek",
