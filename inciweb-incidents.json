@@ -1,16 +1,94 @@
 {
   "markers": [
     {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 17:07:11",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,277 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "80"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 17:04:55",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,325 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 17:03:06",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,473 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "18"
+    },
+    {
+      "name": "Vinegar Fire",
+      "type": "Wildfire",
+      "summary": "The Vinegar Fire started approximately 2 miles north of the Cabin...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 16:58:28",
+      "lat": "45.179",
+      "lng": "-114.905",
+      "size": "2,000 Acres",
+      "url": "/incident/7709/",
+      "id": "7709",
+      "contained": "0"
+    },
+    {
+      "name": "Rush Creek",
+      "type": "Wildfire",
+      "summary": "The Rush Creek Fire started at the confluence of Telephone and Rush...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 16:56:48",
+      "lat": "44.983",
+      "lng": "-114.993",
+      "size": "3,000 Acres",
+      "url": "/incident/7710/",
+      "id": "7710",
+      "contained": "0"
+    },
+    {
       "name": "Club Fire",
       "type": "Wildfire",
       "summary": "The Club Creek Fire started 3 miles southwest of Root Ranch. Crews...",
       "state": "IDAHO",
-      "updated": "2021-07-31 16:45:22",
+      "updated": "2021-07-31 16:54:36",
       "lat": "45.28",
       "lng": "-115.055",
       "size": "395 Acres",
       "url": "/incident/7704/",
       "id": "7704",
+      "contained": "0"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 16:49:00",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "34,244 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
       "contained": "0"
     },
     {
@@ -287,19 +365,6 @@
       "contained": "5"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 13:14:02",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,473 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "18"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
@@ -352,19 +417,6 @@
       "contained": "0"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 13:05:18",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "34,244 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "0"
-    },
-    {
       "name": "Bruler Fire",
       "type": "Wildfire",
       "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
@@ -389,19 +441,6 @@
       "url": "/incident/7697/",
       "id": "7697",
       "contained": "0"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 12:46:34",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,325 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "Lava Post-Fire BAER",
@@ -950,19 +989,6 @@
       "contained": "0"
     },
     {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 09:10:46",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,277 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "80"
-    },
-    {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
       "type": "Wildfire",
       "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
@@ -986,32 +1012,6 @@
       "size": "19,870 Acres",
       "url": "/incident/7638/",
       "id": "7638",
-      "contained": "0"
-    },
-    {
-      "name": "Vinegar Fire",
-      "type": "Wildfire",
-      "summary": "The Vinegar Fire started approximately 2 miles north of the Cabin...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 08:29:03",
-      "lat": "45.179",
-      "lng": "-114.905",
-      "size": "1,125 Acres",
-      "url": "/incident/7709/",
-      "id": "7709",
-      "contained": "0"
-    },
-    {
-      "name": "Rush Creek",
-      "type": "Wildfire",
-      "summary": "The Rush Creek Fire started at the confluence of Telephone and Rush...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 08:04:42",
-      "lat": "44.983",
-      "lng": "-114.993",
-      "size": "1,847 Acres",
-      "url": "/incident/7710/",
-      "id": "7710",
       "contained": "0"
     },
     {
