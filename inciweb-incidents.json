@@ -1,37 +1,11 @@
 {
   "markers": [
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 14:25:31",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "54,858 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
-    },
-    {
-      "name": "Klamath NF Lightning July 2021  ",
-      "type": "Wildfire",
-      "summary": "RIVER COMPLEX   Trailhead Fire 2 miles north of Etna Summit 5 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 14:24:31",
-      "lat": "41.707",
-      "lng": "-122.644",
-      "size": "0 Acres",
-      "url": "/incident/7738/",
-      "id": "7738",
-      "contained": "0"
-    },
-    {
       "name": "Deer Fire",
       "type": "Wildfire",
       "summary": "Fire crews responded to a wildfire reported at approximately 3 p.m....",
       "state": "IDAHO",
-      "updated": "2021-07-31 14:24:18",
+      "updated": "2021-07-31 14:45:07",
       "lat": "43.642",
       "lng": "-115.916",
       "size": "856 Acres",
@@ -42,15 +16,80 @@
     {
       "name": "Deep Creek Fire",
       "type": "Wildfire",
-      "summary": "The Deep Creek Fire start on Thursday, July 29, 2021 at approximately...",
+      "summary": "The Deep Creek Fire start on Thursday, July 29, 2021 at 5:54 p.m....",
       "state": "OREGON",
-      "updated": "2021-07-31 14:23:46",
+      "updated": "2021-07-31 14:43:52",
       "lat": "44.983",
       "lng": "-120.951",
-      "size": "0 Acres",
+      "size": "1,219 Acres",
       "url": "/incident/7744/",
       "id": "7744",
+      "contained": "20"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 14:41:19",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "41,142 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "17"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 14:41:12",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
       "contained": "0"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 14:38:56",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,131 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "0"
+    },
+    {
+      "name": "Klamath NF Lightning July 2021  ",
+      "type": "Wildfire",
+      "summary": " Klamath National Forest Lightning Fires – Update for July 31 1200...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 14:36:06",
+      "lat": "41.707",
+      "lng": "-122.644",
+      "size": "0 Acres",
+      "url": "/incident/7738/",
+      "id": "7738",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 14:25:53",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "54,858 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
     },
     {
       "name": "Jack Fire",
@@ -77,19 +116,6 @@
       "url": "/incident/7743/",
       "id": "7743",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 13:36:02",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "41,142 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "17"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -454,19 +480,6 @@
       "url": "/incident/7730/",
       "id": "7730",
       "contained": "50"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 11:33:58",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,131 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "0"
     },
     {
       "name": "Park Fire",
@@ -1013,19 +1026,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "98"
-    },
-    {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-30 19:46:27",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
     },
     {
       "name": "Larkins Fire Complex",
