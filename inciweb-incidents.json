@@ -1,30 +1,95 @@
 {
   "markers": [
     {
-      "name": "Spruce Canyon",
+      "name": "Burnt Peak Fire",
       "type": "Wildfire",
-      "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-30 21:46:58",
-      "lat": "48.54",
-      "lng": "-117.593",
-      "size": "130 Acres",
-      "url": "/incident/7721/",
-      "id": "7721",
-      "contained": "55"
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-30 22:16:38",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,152 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "46"
     },
     {
       "name": "Pioneer Fire",
       "type": "Wildfire",
       "summary": "The Pioneer Fire was detected on July 29, 2021 at 1:30pm on Idaho...",
       "state": "IDAHO",
-      "updated": "2021-07-30 21:43:50",
+      "updated": "2021-07-30 22:12:02",
       "lat": "48.221",
       "lng": "-116.942",
       "size": "0 Acres",
       "url": "/incident/7743/",
       "id": "7743",
       "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-30 22:11:14",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "54,858 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Shasta-Trinity July Lightning",
+      "type": "Wildfire",
+      "summary": "A lightning storm passed over the Shasta-Trinity National Forest on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-30 22:10:57",
+      "lat": "40.35",
+      "lng": "-123.036",
+      "size": "0 Acres",
+      "url": "/incident/7739/",
+      "id": "7739",
+      "contained": "0"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-07-30 22:08:44",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "7,500 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "8"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West ZonePotential exist for increased fire activity...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-30 22:07:06",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "240,795 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "24"
+    },
+    {
+      "name": "Spruce Canyon",
+      "type": "Wildfire",
+      "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-30 21:54:35",
+      "lat": "48.54",
+      "lng": "-117.593",
+      "size": "130 Acres",
+      "url": "/incident/7721/",
+      "id": "7721",
+      "contained": "55"
     },
     {
       "name": "Sherwood",
@@ -38,19 +103,6 @@
       "url": "/incident/7713/",
       "id": "7713",
       "contained": "75"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-30 21:34:18",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "54,858 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
     },
     {
       "name": "Bootleg Fire",
@@ -77,19 +129,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "10"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Fire behavior is expected to remain active as more thunderstorms are...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-30 21:19:31",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "240,795 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "24"
     },
     {
       "name": "Cedar Creek",
@@ -141,19 +180,6 @@
       "size": "34,244 Acres",
       "url": "/incident/7634/",
       "id": "7634",
-      "contained": "0"
-    },
-    {
-      "name": "Shasta-Trinity July Lightning",
-      "type": "Wildfire",
-      "summary": "A lightning storm passed over the Shasta-Trinity National Forest on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-30 20:48:26",
-      "lat": "40.35",
-      "lng": "-123.036",
-      "size": "0 Acres",
-      "url": "/incident/7739/",
-      "id": "7739",
       "contained": "0"
     },
     {
@@ -482,19 +508,6 @@
       "contained": "62"
     },
     {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-30 15:05:49",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,097 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
-    },
-    {
       "name": "South Yaak",
       "type": "Wildfire",
       "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
@@ -753,19 +766,6 @@
       "url": "/incident/7643/",
       "id": "7643",
       "contained": "100"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-07-30 11:10:58",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "7,049 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "8"
     },
     {
       "name": "Snake River Complex",
