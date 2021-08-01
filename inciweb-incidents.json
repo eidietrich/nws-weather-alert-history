@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 22:34:45",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,038 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 22:34:11",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "54,858 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West Zone Main fire activity will continue in the unburned...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 22:27:30",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "244,388 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "30"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 22:26:34",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "12,310 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "Divide Complex-Ellis Fire",
+      "type": "Wildfire",
+      "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 22:25:32",
+      "lat": "46.838",
+      "lng": "-111.272",
+      "size": "1,277 Acres",
+      "url": "/incident/7625/",
+      "id": "7625",
+      "contained": "80"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 22:23:09",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,473 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "18"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 22:18:11",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,325 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
@@ -12,32 +103,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "0"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 22:16:06",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,325 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Dixie Fire West Zone Main fire activity will continue in the unburned...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 22:12:41",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "244,388 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "30"
     },
     {
       "name": "West Lolo Complex",
@@ -103,19 +168,6 @@
       "url": "/incident/7713/",
       "id": "7713",
       "contained": "85"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 21:18:35",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "54,858 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
     },
     {
       "name": "Middle Fork Complex",
@@ -391,19 +443,6 @@
       "contained": "100"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 18:32:21",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,473 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "18"
-    },
-    {
       "name": "West Zone Superior Fires",
       "type": "Wildfire",
       "summary": " The West Zone of the Superior National Forest, consisting of the...",
@@ -417,19 +456,6 @@
       "contained": "0"
     },
     {
-      "name": "Divide Complex-Ellis Fire",
-      "type": "Wildfire",
-      "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 17:47:51",
-      "lat": "46.838",
-      "lng": "-111.272",
-      "size": "1,277 Acres",
-      "url": "/incident/7625/",
-      "id": "7625",
-      "contained": "80"
-    },
-    {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
       "type": "Wildfire",
       "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
@@ -440,19 +466,6 @@
       "size": "1 Acres",
       "url": "/incident/7304/",
       "id": "7304",
-      "contained": "0"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 17:38:22",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "12,310 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
       "contained": "0"
     },
     {
@@ -649,19 +662,6 @@
       "url": "/incident/7729/",
       "id": "7729",
       "contained": "5"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 13:12:27",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,021 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
     },
     {
       "name": "Alder Creek Fire",
