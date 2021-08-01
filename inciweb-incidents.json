@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-01 14:25:19",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "41,142 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "17"
-    },
-    {
       "name": "Deer Fire",
       "type": "Wildfire",
       "summary": "Fire crews responded to a wildfire reported at approximately 3 p.m....",
       "state": "IDAHO",
-      "updated": "2021-08-01 14:23:13",
+      "updated": "2021-08-01 14:45:28",
       "lat": "43.642",
       "lng": "-115.916",
       "size": "856 Acres",
@@ -27,17 +14,95 @@
       "contained": "70"
     },
     {
+      "name": "Pioneer Fire",
+      "type": "Wildfire",
+      "summary": "The Pioneer Fire was detected on July 29, 2021 at 1:40pm on Idaho...",
+      "state": "IDAHO",
+      "updated": "2021-08-01 14:43:51",
+      "lat": "48.221",
+      "lng": "-116.942",
+      "size": "355 Acres",
+      "url": "/incident/7743/",
+      "id": "7743",
+      "contained": "50"
+    },
+    {
+      "name": "PF Fire",
+      "type": "Wildfire",
+      "summary": "The DNRC’s County Assist Team (CAT) was briefed by local...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 14:41:56",
+      "lat": "45.904",
+      "lng": "-107.368",
+      "size": "65,941 Acres",
+      "url": "/incident/7731/",
+      "id": "7731",
+      "contained": "20"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Fire behavior is expected to increase through the day as west winds...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-01 14:39:36",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "244,888 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "32"
+    },
+    {
+      "name": "Dry Cabin",
+      "type": "Wildfire",
+      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 14:39:31",
+      "lat": "47.278",
+      "lng": "-112.956",
+      "size": "3,000 Acres",
+      "url": "/incident/7660/",
+      "id": "7660",
+      "contained": "0"
+    },
+    {
       "name": "Hay Creek",
       "type": "Wildfire",
-      "summary": "| Facebook | Twitter |The Hay Creek Fire was reported Wednesday...",
+      "summary": "| Facebook | Twitter | Flathead National Forest |The management...",
       "state": "MONTANA",
-      "updated": "2021-08-01 14:19:28",
+      "updated": "2021-08-01 14:31:10",
       "lat": "48.778",
       "lng": "-114.431",
       "size": "2,265 Acres",
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "5"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 14:30:40",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,473 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "18"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-01 14:28:00",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "41,142 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "17"
     },
     {
       "name": "Stateline Complex",
@@ -103,19 +168,6 @@
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "37"
-    },
-    {
-      "name": "Dry Cabin",
-      "type": "Wildfire",
-      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 14:04:26",
-      "lat": "47.278",
-      "lng": "-112.956",
-      "size": "3,000 Acres",
-      "url": "/incident/7660/",
-      "id": "7660",
-      "contained": "0"
     },
     {
       "name": "Yosemite Creek",
@@ -482,19 +534,6 @@
       "contained": "24"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 11:41:57",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,473 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "18"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -532,19 +571,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Fire behavior is expected to increase through the day as west winds...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-01 11:22:05",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "244,888 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "32"
     },
     {
       "name": "McFarland Fire",
@@ -597,19 +623,6 @@
       "url": "/incident/7672/",
       "id": "7672",
       "contained": "71"
-    },
-    {
-      "name": "PF Fire",
-      "type": "Wildfire",
-      "summary": "The DNRC’s County Assist Team (CAT) was briefed by local...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 10:33:19",
-      "lat": "45.904",
-      "lng": "-107.368",
-      "size": "65,941 Acres",
-      "url": "/incident/7731/",
-      "id": "7731",
-      "contained": "20"
     },
     {
       "name": "Black Mountain",
@@ -934,19 +947,6 @@
       "size": "1 Acres",
       "url": "/incident/7304/",
       "id": "7304",
-      "contained": "0"
-    },
-    {
-      "name": "Pioneer Fire",
-      "type": "Wildfire",
-      "summary": "The Pioneer Fire was detected on July 29, 2021 at 1:40pm on Idaho...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 14:06:31",
-      "lat": "48.221",
-      "lng": "-116.942",
-      "size": "358 Acres",
-      "url": "/incident/7743/",
-      "id": "7743",
       "contained": "0"
     },
     {
