@@ -1,16 +1,94 @@
 {
   "markers": [
     {
+      "name": "Sherwood",
+      "type": "Wildfire",
+      "summary": "The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 21:39:25",
+      "lat": "47.912",
+      "lng": "-117.986",
+      "size": "1,256 Acres",
+      "url": "/incident/7713/",
+      "id": "7713",
+      "contained": "85"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West Zone Main fire activity will continue in the unburned...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 21:34:41",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "244,388 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "30"
+    },
+    {
+      "name": "Elbow Creek",
+      "type": "Wildfire",
+      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
+      "state": "OREGON",
+      "updated": "2021-07-31 21:27:12",
+      "lat": "45.867",
+      "lng": "-117.619",
+      "size": "22,960 Acres",
+      "url": "/incident/7672/",
+      "id": "7672",
+      "contained": "71"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 21:23:14",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,325 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 21:18:35",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "54,858 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "This week, lightning caused 22 wildfires on the Middle Fork Ranger...",
       "state": "OREGON",
-      "updated": "2021-07-31 21:09:29",
+      "updated": "2021-07-31 21:18:02",
       "lat": "43.869",
       "lng": "-122.409",
       "size": "458 Acres",
       "url": "/incident/7745/",
       "id": "7745",
+      "contained": "0"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-07-31 21:14:51",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "685 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
       "contained": "0"
     },
     {
@@ -64,19 +142,6 @@
       "url": "/incident/7744/",
       "id": "7744",
       "contained": "23"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 20:49:00",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,325 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "McFarland Fire",
@@ -155,19 +220,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "63"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Today, the weather forecast will return to hot temperatures and...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 20:11:42",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "244,388 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "30"
     },
     {
       "name": "Cougar Rock Complex",
@@ -339,32 +391,6 @@
       "contained": "0"
     },
     {
-      "name": "Sherwood",
-      "type": "Wildfire",
-      "summary": "The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 18:05:02",
-      "lat": "47.912",
-      "lng": "-117.986",
-      "size": "1,257 Acres",
-      "url": "/incident/7713/",
-      "id": "7713",
-      "contained": "75"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 18:04:40",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "54,858 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
-    },
-    {
       "name": "Divide Complex-Ellis Fire",
       "type": "Wildfire",
       "summary": "The Ellis Fire, which is being managed as part of the Divide Complex...",
@@ -401,19 +427,6 @@
       "size": "12,310 Acres",
       "url": "/incident/7649/",
       "id": "7649",
-      "contained": "0"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-07-31 17:36:29",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "685 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
       "contained": "0"
     },
     {
@@ -714,19 +727,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "30"
-    },
-    {
-      "name": "Elbow Creek",
-      "type": "Wildfire",
-      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
-      "state": "OREGON",
-      "updated": "2021-07-31 12:22:46",
-      "lat": "45.867",
-      "lng": "-117.619",
-      "size": "22,960 Acres",
-      "url": "/incident/7672/",
-      "id": "7672",
-      "contained": "64"
     },
     {
       "name": "Summit Trail",
