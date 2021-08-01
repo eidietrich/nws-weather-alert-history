@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "August 1, 2021, 8:45 amThe Monument Fire (formerly the Panther Fire)...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-01 10:45:11",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "1,000 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "0"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 10:44:48",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "27,533 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "18"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West Zone Fire continues to move towards control lines...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-01 10:43:22",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "244,888 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "32"
+    },
+    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "On Thursday, July 29, thunderstorms moved across the Shasta-Trinity...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-01 10:37:22",
+      "updated": "2021-08-01 10:42:40",
       "lat": "40.35",
       "lng": "-123.034",
       "size": "2,100 Acres",
@@ -14,17 +53,30 @@
       "contained": "5"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Hay Creek",
       "type": "Wildfire",
-      "summary": "Dixie Fire West Zone Fire continues to move towards control lines...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-01 10:36:16",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "244,888 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "32"
+      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 10:42:29",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,265 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "5"
+    },
+    {
+      "name": "Nelson Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Nelson Creek Fire started on Friday, July 23, 2021. The fire was...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-01 10:41:37",
+      "lat": "47.998",
+      "lng": "-117.23",
+      "size": "154 Acres",
+      "url": "/incident/7723/",
+      "id": "7723",
+      "contained": "90"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -63,19 +115,6 @@
       "size": "589 Acres",
       "url": "/incident/7745/",
       "id": "7745",
-      "contained": "5"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 10:33:05",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,265 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
       "contained": "5"
     },
     {
@@ -285,19 +324,6 @@
       "url": "/incident/7694/",
       "id": "7694",
       "contained": "0"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 09:33:01",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "27,533 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "18"
     },
     {
       "name": "Divide Complex-Ellis Fire",
@@ -752,19 +778,6 @@
       "size": "30 Acres",
       "url": "/incident/7725/",
       "id": "7725",
-      "contained": "90"
-    },
-    {
-      "name": "Nelson Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Nelson Creek Fire started on Friday, July 23, 2021. The fire was...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 15:39:25",
-      "lat": "47.998",
-      "lng": "-117.23",
-      "size": "154 Acres",
-      "url": "/incident/7723/",
-      "id": "7723",
       "contained": "90"
     },
     {
