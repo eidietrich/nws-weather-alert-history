@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 10:17:08",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,038 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 10:16:15",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "6,305 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "0"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 10:16:05",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "10,322 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-01 10:14:45",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "54,858 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Lava Fire",
+      "type": "Wildfire",
+      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-01 10:14:21",
+      "lat": "41.459",
+      "lng": "-122.329",
+      "size": "26,365 Acres",
+      "url": "/incident/7581/",
+      "id": "7581",
+      "contained": "78"
+    },
+    {
       "name": "Tar",
       "type": "Wildfire",
       "summary": "The lightning caused Tar Fire discovered on 7.31.2021 is located near...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-01 09:45:12",
+      "updated": "2021-08-01 10:09:48",
       "lat": "36.419",
       "lng": "-118.651",
       "size": "0 Acres",
@@ -14,14 +79,105 @@
       "contained": "0"
     },
     {
+      "name": "Spruce Canyon",
+      "type": "Wildfire",
+      "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-01 10:02:34",
+      "lat": "48.54",
+      "lng": "-117.593",
+      "size": "130 Acres",
+      "url": "/incident/7721/",
+      "id": "7721",
+      "contained": "65"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 10:02:10",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,265 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "5"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-01 10:00:03",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "18,540 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "12"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-01 09:58:26",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "41,142 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "17"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 09:57:11",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,111 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 09:53:09",
+      "lat": "47.41",
+      "lng": "-114.988",
+      "size": "17,685 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "0"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 09:53:07",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "12,310 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
       "name": "Gatlin Gulch Fire",
       "type": "Wildfire",
       "summary": " The Gatlin Gulch Fire is located approximately six miles SW of...",
       "state": "MONTANA",
-      "updated": "2021-08-01 09:43:31",
+      "updated": "2021-08-01 09:48:38",
       "lat": "46.168",
       "lng": "-112.201",
-      "size": "0 Acres",
+      "size": "60 Acres",
       "url": "/incident/7749/",
       "id": "7749",
       "contained": "0"
@@ -31,26 +187,13 @@
       "type": "Wildfire",
       "summary": "   Klamath National Forest Lightning Fires – Update for July 31...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-01 09:42:12",
+      "updated": "2021-08-01 09:46:29",
       "lat": "41.707",
       "lng": "-122.644",
       "size": "0 Acres",
       "url": "/incident/7738/",
       "id": "7738",
       "contained": "0"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-01 09:37:39",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "18,540 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "12"
     },
     {
       "name": "Goat Fire",
@@ -92,32 +235,6 @@
       "contained": "85"
     },
     {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 09:32:02",
-      "lat": "47.41",
-      "lng": "-114.988",
-      "size": "17,685 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "0"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "The Hay Creek Fire was reported Wednesday evening, July 21, 2021,...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 09:22:36",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,131 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "0"
-    },
-    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
@@ -142,19 +259,6 @@
       "url": "/incident/7625/",
       "id": "7625",
       "contained": "80"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 09:07:37",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "12,310 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
     },
     {
       "name": "Green Ridge Fire",
@@ -209,45 +313,6 @@
       "contained": "90"
     },
     {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 08:45:06",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,038 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 08:44:39",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "35,111 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 08:44:04",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "10,322 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
-    },
-    {
       "name": "Mud Lick, Haynes, and Iron Fires",
       "type": "Wildfire",
       "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
@@ -258,19 +323,6 @@
       "size": "20,607 Acres",
       "url": "/incident/7638/",
       "id": "7638",
-      "contained": "0"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 08:43:34",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "6,305 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
       "contained": "0"
     },
     {
@@ -378,19 +430,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-01 00:12:03",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "41,142 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "17"
-    },
-    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "On Thursday, July 29, thunderstorms moved across the Shasta-Trinity...",
@@ -454,19 +493,6 @@
       "url": "/incident/7739/",
       "id": "7739",
       "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 22:57:15",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "54,858 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
     },
     {
       "name": "Snake River Complex",
@@ -846,19 +872,6 @@
       "contained": "30"
     },
     {
-      "name": "Lava Fire",
-      "type": "Wildfire",
-      "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 11:49:09",
-      "lat": "41.459",
-      "lng": "-122.329",
-      "size": "26,365 Acres",
-      "url": "/incident/7581/",
-      "id": "7581",
-      "contained": "78"
-    },
-    {
       "name": "Deer Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Deer Creek Fire originated off Echeta Road and is currently 5,295...",
@@ -909,19 +922,6 @@
       "url": "/incident/7703/",
       "id": "7703",
       "contained": "98"
-    },
-    {
-      "name": "Spruce Canyon",
-      "type": "Wildfire",
-      "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 10:50:52",
-      "lat": "48.54",
-      "lng": "-117.593",
-      "size": "130 Acres",
-      "url": "/incident/7721/",
-      "id": "7721",
-      "contained": "55"
     },
     {
       "name": "Morgan Creek Fire",
