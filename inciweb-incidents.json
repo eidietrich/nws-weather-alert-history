@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 22:46:23",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "54,858 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 22:46:08",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,111 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires that merged...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 22:45:59",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "109,444 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "90"
+    },
+    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
       "state": "MONTANA",
-      "updated": "2021-07-31 22:34:45",
+      "updated": "2021-07-31 22:40:31",
       "lat": "45.185",
       "lng": "-113.474",
       "size": "1,038 Acres",
@@ -14,17 +53,17 @@
       "contained": "0"
     },
     {
-      "name": "Cub Creek 2 Fire",
+      "name": "McFarland Fire",
       "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 22:34:11",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "54,858 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
+      "summary": "On Thursday, July 29, thunderstorms moved across the Shasta-Trinity...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 22:36:49",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "1,800 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "5"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -246,19 +285,6 @@
       "url": "/incident/7744/",
       "id": "7744",
       "contained": "23"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, July 29, thunderstorms moved across the Shasta-Trinity...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 20:43:21",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "0 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "0"
     },
     {
       "name": "Nez Perce-Clearwater Lightning Fires",
@@ -521,19 +547,6 @@
       "contained": "0"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 16:49:00",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "34,244 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "0"
-    },
-    {
       "name": "2021 Payette Wilderness Fires",
       "type": "Wildfire",
       "summary": "Three fires are burning in the Frank Church River of No Return...",
@@ -753,19 +766,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "12"
-    },
-    {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires that merged...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 11:55:30",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "109,262 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "87"
     },
     {
       "name": "Lava Fire",
