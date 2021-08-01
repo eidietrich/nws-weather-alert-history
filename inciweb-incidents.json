@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
+      "state": "IDAHO",
+      "updated": "2021-08-01 18:44:57",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "2,562 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "37"
+    },
+    {
+      "name": "Molybdenite",
+      "type": "Wildfire",
+      "summary": " NE Type 3, Team 3 assumed command on 8/1/21 at 0600.The fire...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-01 18:41:31",
+      "lat": "48.675",
+      "lng": "-118.27",
+      "size": "60 Acres",
+      "url": "/incident/7753/",
+      "id": "7753",
+      "contained": "0"
+    },
+    {
       "name": "Deer Fire",
       "type": "Wildfire",
       "summary": "Fire crews responded to a wildfire reported at approximately 3 p.m....",
       "state": "IDAHO",
-      "updated": "2021-08-01 18:28:45",
+      "updated": "2021-08-01 18:41:21",
       "lat": "43.642",
       "lng": "-115.916",
       "size": "856 Acres",
       "url": "/incident/7732/",
       "id": "7732",
       "contained": "70"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "This week, lightning caused 22 wildfires on the Middle Fork Ranger...",
+      "state": "OREGON",
+      "updated": "2021-08-01 18:40:10",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "589 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "5"
     },
     {
       "name": "Granite Pass Complex",
@@ -63,32 +102,6 @@
       "size": "17,685 Acres",
       "url": "/incident/7620/",
       "id": "7620",
-      "contained": "0"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
-      "state": "IDAHO",
-      "updated": "2021-08-01 18:07:51",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "2,400 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "37"
-    },
-    {
-      "name": "Molybdenite",
-      "type": "Wildfire",
-      "summary": " NE Type 3, Team 3 assumed command on 8/1/21 at 0600.The fire...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-01 17:50:47",
-      "lat": "48.675",
-      "lng": "-118.27",
-      "size": "60 Acres",
-      "url": "/incident/7753/",
-      "id": "7753",
       "contained": "0"
     },
     {
@@ -584,19 +597,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "0"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "This week, lightning caused 22 wildfires on the Middle Fork Ranger...",
-      "state": "OREGON",
-      "updated": "2021-08-01 12:44:06",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "589 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "5"
     },
     {
       "name": "Summit Trail",
