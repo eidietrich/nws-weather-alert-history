@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Tar",
+      "type": "Wildfire",
+      "summary": "The lightning caused Tar Fire discovered on 7.31.2021 is located near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-01 09:45:12",
+      "lat": "36.419",
+      "lng": "-118.651",
+      "size": "0 Acres",
+      "url": "/incident/7748/",
+      "id": "7748",
+      "contained": "0"
+    },
+    {
+      "name": "Gatlin Gulch Fire",
+      "type": "Wildfire",
+      "summary": " The Gatlin Gulch Fire is located approximately six miles SW of...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 09:43:31",
+      "lat": "46.168",
+      "lng": "-112.201",
+      "size": "0 Acres",
+      "url": "/incident/7749/",
+      "id": "7749",
+      "contained": "0"
+    },
+    {
+      "name": "Klamath NF Lightning July 2021  ",
+      "type": "Wildfire",
+      "summary": "   Klamath National Forest Lightning Fires – Update for July 31...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-01 09:42:12",
+      "lat": "41.707",
+      "lng": "-122.644",
+      "size": "0 Acres",
+      "url": "/incident/7738/",
+      "id": "7738",
+      "contained": "0"
+    },
+    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
       "state": "WASHINGTON",
-      "updated": "2021-08-01 09:27:20",
+      "updated": "2021-08-01 09:37:39",
       "lat": "48.285",
       "lng": "-118.531",
       "size": "18,540 Acres",
@@ -14,11 +53,24 @@
       "contained": "12"
     },
     {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": "Heavy equipment continues to establish fuel breaks in the northwest...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 09:34:49",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "212 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
       "name": "Harris Mountain",
       "type": "Wildfire",
       "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
       "state": "MONTANA",
-      "updated": "2021-08-01 09:26:56",
+      "updated": "2021-08-01 09:33:01",
       "lat": "47.127",
       "lng": "-111.75",
       "size": "27,533 Acres",
@@ -27,16 +79,29 @@
       "contained": "18"
     },
     {
-      "name": "Klamath NF Lightning July 2021  ",
+      "name": "Sherwood",
       "type": "Wildfire",
-      "summary": "   Klamath National Forest Lightning Fires – Update for July 31...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-01 09:23:26",
-      "lat": "41.707",
-      "lng": "-122.644",
-      "size": "0 Acres",
-      "url": "/incident/7738/",
-      "id": "7738",
+      "summary": "The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-01 09:32:21",
+      "lat": "47.912",
+      "lng": "-117.986",
+      "size": "1,256 Acres",
+      "url": "/incident/7713/",
+      "id": "7713",
+      "contained": "85"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-01 09:32:02",
+      "lat": "47.41",
+      "lng": "-114.988",
+      "size": "17,685 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
       "contained": "0"
     },
     {
@@ -183,19 +248,6 @@
       "contained": "10"
     },
     {
-      "name": "Sherwood",
-      "type": "Wildfire",
-      "summary": "The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-01 08:43:55",
-      "lat": "47.912",
-      "lng": "-117.986",
-      "size": "1,256 Acres",
-      "url": "/incident/7713/",
-      "id": "7713",
-      "contained": "85"
-    },
-    {
       "name": "Mud Lick, Haynes, and Iron Fires",
       "type": "Wildfire",
       "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
@@ -246,19 +298,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "74"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 08:18:06",
-      "lat": "47.41",
-      "lng": "-114.988",
-      "size": "17,685 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "0"
     },
     {
       "name": "Granite Pass Complex",
@@ -857,19 +896,6 @@
       "url": "/incident/7644/",
       "id": "7644",
       "contained": "59"
-    },
-    {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": "Heavy equipment continues to establish fuel breaks in the northwest...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 10:56:23",
-      "lat": "46.379",
-      "lng": "-113.071",
-      "size": "212 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
     },
     {
       "name": "Peak Fire",
