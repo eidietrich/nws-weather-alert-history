@@ -1,11 +1,167 @@
 {
   "markers": [
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "This week, lightning caused 22 wildfires on the Middle Fork Ranger...",
+      "state": "OREGON",
+      "updated": "2021-07-31 21:09:29",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "458 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 21:05:46",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "41,142 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "17"
+    },
+    {
+      "name": "Johnson Ridge Fire",
+      "type": "Wildfire",
+      "summary": " The Johnson Ridge Fire began on July 30, 2021 just after 8 a.m....",
+      "state": "OREGON",
+      "updated": "2021-07-31 20:58:42",
+      "lat": "45.061",
+      "lng": "-120.935",
+      "size": "0 Acres",
+      "url": "/incident/7747/",
+      "id": "7747",
+      "contained": "0"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 20:58:13",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "4,978 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "4"
+    },
+    {
+      "name": "Deep Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Deep Creek Fire start on Thursday, July 29, 2021 at 5:54 p.m....",
+      "state": "OREGON",
+      "updated": "2021-07-31 20:52:07",
+      "lat": "44.983",
+      "lng": "-120.951",
+      "size": "2,010 Acres",
+      "url": "/incident/7744/",
+      "id": "7744",
+      "contained": "23"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 20:49:00",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,325 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, July 29, thunderstorms moved across the Shasta-Trinity...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 20:43:21",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "0 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "0"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through the north-central...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 20:36:21",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 20:31:54",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "6,975 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "10"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 20:24:17",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,191 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "46"
+    },
+    {
+      "name": "Mud Lick, Haynes, and Iron Fires",
+      "type": "Wildfire",
+      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 20:22:50",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,607 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Due to the multiple small fire starts over the last two days, which...",
+      "state": "OREGON",
+      "updated": "2021-07-31 20:16:46",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "22,491 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "63"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Today, the weather forecast will return to hot temperatures and...",
       "state": "CALIFORNIA",
-      "updated": "2021-07-31 20:03:00",
+      "updated": "2021-07-31 20:11:42",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "244,388 Acres",
@@ -14,16 +170,16 @@
       "contained": "30"
     },
     {
-      "name": "Jack Fire",
+      "name": "Cougar Rock Complex",
       "type": "Wildfire",
-      "summary": "Due to the multiple small fire starts over the last two days, which...",
-      "state": "OREGON",
-      "updated": "2021-07-31 20:02:51",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "22,491 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
+      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 20:05:02",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "7,427 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
       "contained": "63"
     },
     {
@@ -38,19 +194,6 @@
       "url": "/incident/7719/",
       "id": "7719",
       "contained": "18"
-    },
-    {
-      "name": "Mud Lick, Haynes, and Iron Fires",
-      "type": "Wildfire",
-      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 19:58:22",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,607 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
     },
     {
       "name": "Storm Theatre Complex",
@@ -142,32 +285,6 @@
       "url": "/incident/7614/",
       "id": "7614",
       "contained": "50"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 18:51:29",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "41,142 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "17"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 18:51:18",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,325 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "County Line",
@@ -313,19 +430,6 @@
       "contained": "0"
     },
     {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "Follow the Granite Pass Complex on Facebook The Granite Pass Complex...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 17:17:56",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "4,978 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "4"
-    },
-    {
       "name": "Vinegar Fire",
       "type": "Wildfire",
       "summary": "The Vinegar Fire started approximately 2 miles north of the Cabin...",
@@ -417,19 +521,6 @@
       "contained": "90"
     },
     {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through the north-central...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 15:56:21",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "Nelson Creek Fire",
       "type": "Wildfire",
       "summary": "The Nelson Creek Fire started on Friday, July 23, 2021. The fire was...",
@@ -480,19 +571,6 @@
       "url": "/incident/7608/",
       "id": "7608",
       "contained": "30"
-    },
-    {
-      "name": "Deep Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Deep Creek Fire start on Thursday, July 29, 2021 at 5:54 p.m....",
-      "state": "OREGON",
-      "updated": "2021-07-31 14:43:52",
-      "lat": "44.983",
-      "lng": "-120.951",
-      "size": "1,219 Acres",
-      "url": "/incident/7744/",
-      "id": "7744",
-      "contained": "20"
     },
     {
       "name": "Klamath NF Lightning July 2021  ",
@@ -636,32 +714,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "30"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 12:30:19",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "6,975 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "10"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 12:30:05",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,191 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
     },
     {
       "name": "Elbow Creek",
@@ -831,19 +883,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "15"
-    },
-    {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 10:21:56",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "7,427 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "63"
     },
     {
       "name": "Morgan Creek Fire",
