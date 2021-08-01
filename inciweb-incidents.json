@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-01 13:51:07",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "466 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "50"
+    },
+    {
+      "name": "Deer Fire",
+      "type": "Wildfire",
+      "summary": "Fire crews responded to a wildfire reported at approximately 3 p.m....",
+      "state": "IDAHO",
+      "updated": "2021-08-01 13:51:07",
+      "lat": "43.642",
+      "lng": "-115.916",
+      "size": "856 Acres",
+      "url": "/incident/7732/",
+      "id": "7732",
+      "contained": "70"
+    },
+    {
+      "name": "Mono",
+      "type": "Wildfire",
+      "summary": "The Mono Fire is near Ostrander Lake and is one of multiple fires...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-01 13:50:33",
+      "lat": "37.676",
+      "lng": "-119.545",
+      "size": "0 Acres",
+      "url": "/incident/7752/",
+      "id": "7752",
+      "contained": "0"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-01 13:49:04",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "10,663 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
       "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
       "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
       "state": "IDAHO",
-      "updated": "2021-08-01 13:37:27",
+      "updated": "2021-08-01 13:46:45",
       "lat": "45.586",
       "lng": "-115.444",
       "size": "42,039 Acres",
@@ -51,19 +103,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "75"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-01 13:22:33",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "10,663 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
     },
     {
       "name": "Lick Creek (Dry Gulch) Fire",
@@ -807,19 +846,6 @@
       "contained": "0"
     },
     {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 19:05:49",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "466 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "50"
-    },
-    {
       "name": "County Line",
       "type": "Wildfire",
       "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
@@ -857,19 +883,6 @@
       "url": "/incident/7304/",
       "id": "7304",
       "contained": "0"
-    },
-    {
-      "name": "Deer Fire",
-      "type": "Wildfire",
-      "summary": "Fire crews responded to a wildfire reported at approximately 3 p.m....",
-      "state": "IDAHO",
-      "updated": "2021-07-31 15:00:45",
-      "lat": "43.642",
-      "lng": "-115.916",
-      "size": "856 Acres",
-      "url": "/incident/7732/",
-      "id": "7732",
-      "contained": "25"
     },
     {
       "name": "Pioneer Fire",
