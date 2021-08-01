@@ -1,6 +1,175 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Today, the weather forecast will return to hot temperatures and...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 20:03:00",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "244,388 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "30"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Due to the multiple small fire starts over the last two days, which...",
+      "state": "OREGON",
+      "updated": "2021-07-31 20:02:51",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "22,491 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "63"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 19:58:43",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "27,533 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "18"
+    },
+    {
+      "name": "Mud Lick, Haynes, and Iron Fires",
+      "type": "Wildfire",
+      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 19:58:22",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,607 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 19:43:28",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "15,423 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "0"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-07-31 19:38:54",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,696 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "82"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 19:38:35",
+      "lat": "47.17",
+      "lng": "-115.442",
+      "size": "6,178 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "0"
+    },
+    {
+      "name": "PF Fire",
+      "type": "Wildfire",
+      "summary": "Saturday, July 31, 6:30 PM - The DNRC’s County Assist Team (CAT)...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 19:26:48",
+      "lat": "45.904",
+      "lng": "-107.368",
+      "size": "65,941 Acres",
+      "url": "/incident/7731/",
+      "id": "7731",
+      "contained": "20"
+    },
+    {
+      "name": "Quartzite",
+      "type": "Wildfire",
+      "summary": "The Quartzite Fire is one of multiple fires burning in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 19:19:04",
+      "lat": "37.702",
+      "lng": "-119.467",
+      "size": "0 Acres",
+      "url": "/incident/7612/",
+      "id": "7612",
+      "contained": "100"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-07-31 19:13:00",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,734 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "56"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 19:05:49",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "466 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "50"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-07-31 18:51:29",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "41,142 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "17"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 18:51:18",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,325 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
       "name": "County Line",
       "type": "Wildfire",
       "summary": "The County Line Fire is one of multiple fires burning in Yosemite...",
@@ -27,45 +196,6 @@
       "contained": "100"
     },
     {
-      "name": "Poverty Flats",
-      "type": "Wildfire",
-      "summary": "The Poverty Flats fire is managed and administered by Montana DNRC...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 18:39:59",
-      "lat": "45.904",
-      "lng": "-107.368",
-      "size": "0 Acres",
-      "url": "/incident/7731/",
-      "id": "7731",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-07-31 18:35:11",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "41,142 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "17"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 18:33:49",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,325 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
@@ -77,19 +207,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "18"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-07-31 18:27:38",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,562 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "56"
     },
     {
       "name": "West Zone Superior Fires",
@@ -144,19 +261,6 @@
       "contained": "80"
     },
     {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 17:46:04",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "13,388 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "0"
-    },
-    {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
       "type": "Wildfire",
       "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
@@ -194,19 +298,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Today, the weather forecast will return to hot temperatures and...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 17:26:36",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "240,795 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "24"
     },
     {
       "name": "Shasta-Trinity July Lightning",
@@ -415,19 +506,6 @@
       "url": "/incident/7738/",
       "id": "7738",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "RED FLAG WARNING has been issued for today (Thursday) through Friday...",
-      "state": "OREGON",
-      "updated": "2021-07-31 14:20:07",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "22,491 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "63"
     },
     {
       "name": "Pioneer Fire",
@@ -677,19 +755,6 @@
       "contained": "100"
     },
     {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-07-31 11:18:47",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,696 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "79"
-    },
-    {
       "name": "Leland Complex",
       "type": "Wildfire",
       "summary": "The Leland Complex is composed of four wildfires: The Sand Mountain,...",
@@ -713,19 +778,6 @@
       "size": "212 Acres",
       "url": "/incident/7694/",
       "id": "7694",
-      "contained": "0"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 10:54:03",
-      "lat": "47.17",
-      "lng": "-115.442",
-      "size": "6,178 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
       "contained": "0"
     },
     {
@@ -859,19 +911,6 @@
       "contained": "100"
     },
     {
-      "name": "Quartzite",
-      "type": "Wildfire",
-      "summary": "The Quartzite Fire is one of multiple fires burning in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 09:48:09",
-      "lat": "37.702",
-      "lng": "-119.467",
-      "size": "0 Acres",
-      "url": "/incident/7612/",
-      "id": "7612",
-      "contained": "100"
-    },
-    {
       "name": "Stubblefield",
       "type": "Wildfire",
       "summary": "The Stubblefield Fire is one of multiple fires burning in Yosemite...",
@@ -922,32 +961,6 @@
       "url": "/incident/7593/",
       "id": "7593",
       "contained": "100"
-    },
-    {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 09:39:13",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "466 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "50"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 09:31:50",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "27,533 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "18"
     },
     {
       "name": "Timber",
@@ -1012,19 +1025,6 @@
       "size": "0 Acres",
       "url": "/incident/7734/",
       "id": "7734",
-      "contained": "0"
-    },
-    {
-      "name": "Mud Lick, Haynes, and Iron Fires",
-      "type": "Wildfire",
-      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 08:30:58",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "19,870 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
       "contained": "0"
     },
     {
