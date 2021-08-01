@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-07-31 22:16:14",
+      "lat": "47.17",
+      "lng": "-115.442",
+      "size": "5,716 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "0"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 22:16:06",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,325 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West Zone Main fire activity will continue in the unburned...",
+      "state": "CALIFORNIA",
+      "updated": "2021-07-31 22:12:41",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "244,388 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "30"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-07-31 22:09:27",
+      "lat": "47.41",
+      "lng": "-114.988",
+      "size": "15,860 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "0"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Due to the multiple small fire starts over the last two days, which...",
+      "state": "OREGON",
+      "updated": "2021-07-31 22:04:41",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "22,491 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "63"
+    },
+    {
+      "name": "Bruler Fire",
+      "type": "Wildfire",
+      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
+      "state": "OREGON",
+      "updated": "2021-07-31 22:02:39",
+      "lat": "44.591",
+      "lng": "-122.156",
+      "size": "195 Acres",
+      "url": "/incident/7663/",
+      "id": "7663",
+      "contained": "53"
+    },
+    {
       "name": "Elbow Creek",
       "type": "Wildfire",
       "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
@@ -25,32 +103,6 @@
       "url": "/incident/7713/",
       "id": "7713",
       "contained": "85"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Dixie Fire West Zone Main fire activity will continue in the unburned...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 21:34:41",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "244,388 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "30"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 21:23:14",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,325 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -209,19 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Due to the multiple small fire starts over the last two days, which...",
-      "state": "OREGON",
-      "updated": "2021-07-31 20:16:46",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "22,491 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "63"
-    },
-    {
       "name": "Cougar Rock Complex",
       "type": "Wildfire",
       "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
@@ -272,19 +311,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "82"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-07-31 19:38:35",
-      "lat": "47.17",
-      "lng": "-115.442",
-      "size": "6,178 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "0"
     },
     {
       "name": "PF Fire",
@@ -664,19 +690,6 @@
       "contained": "0"
     },
     {
-      "name": "Bruler Fire",
-      "type": "Wildfire",
-      "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
-      "state": "OREGON",
-      "updated": "2021-07-31 12:57:23",
-      "lat": "44.591",
-      "lng": "-122.156",
-      "size": "195 Acres",
-      "url": "/incident/7663/",
-      "id": "7663",
-      "contained": "53"
-    },
-    {
       "name": "Salt Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -753,19 +766,6 @@
       "url": "/incident/7636/",
       "id": "7636",
       "contained": "87"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-07-31 11:49:54",
-      "lat": "47.41",
-      "lng": "-114.988",
-      "size": "15,860 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "0"
     },
     {
       "name": "Lava Fire",
