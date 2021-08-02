@@ -1,11 +1,115 @@
 {
   "markers": [
     {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 09:15:02",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,038 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 09:14:48",
+      "lat": "47.764",
+      "lng": "-113.996",
+      "size": "0 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-02 09:14:22",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "42,539 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "12"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-08-02 09:12:40",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,762 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "84"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 09:12:18",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,111 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "PF Fire",
+      "type": "Wildfire",
+      "summary": " 08:00 AM Aug 2 Update: Current Situation: Crews will work today...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 09:12:13",
+      "lat": "45.904",
+      "lng": "-107.368",
+      "size": "67,098 Acres",
+      "url": "/incident/7731/",
+      "id": "7731",
+      "contained": "60"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": " A Community meeting was held Saturday evening July 31at Winninghoff...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 09:10:41",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "212 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 09:07:38",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "27,533 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "18"
+    },
+    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
       "state": "WASHINGTON",
-      "updated": "2021-08-02 08:44:35",
+      "updated": "2021-08-02 08:59:51",
       "lat": "48.551",
       "lng": "-120.194",
       "size": "58,793 Acres",
@@ -18,13 +122,13 @@
       "type": "Wildfire",
       "summary": "Dixie Fire West Zone Main fire activity will continue as planned...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-02 08:42:59",
+      "updated": "2021-08-02 08:55:52",
       "lat": "39.819",
       "lng": "-121.419",
-      "size": "248,570 Acres",
+      "size": "248,820 Acres",
       "url": "/incident/7690/",
       "id": "7690",
-      "contained": "33"
+      "contained": "35"
     },
     {
       "name": "Mud Lick, Haynes, and Iron Fires",
@@ -51,32 +155,6 @@
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "5"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-02 08:31:49",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "42,539 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "12"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-08-02 08:27:12",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,762 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "84"
     },
     {
       "name": "South Yaak",
@@ -261,19 +339,6 @@
       "contained": "46"
     },
     {
-      "name": "PF Fire",
-      "type": "Wildfire",
-      "summary": "2:00 PM Update 8/1/21Firefighters are putting in a hard days work....",
-      "state": "MONTANA",
-      "updated": "2021-08-01 21:55:36",
-      "lat": "45.904",
-      "lng": "-107.368",
-      "size": "67,005 Acres",
-      "url": "/incident/7731/",
-      "id": "7731",
-      "contained": "60"
-    },
-    {
       "name": "Beckwourth  Complex",
       "type": "Wildfire",
       "summary": " A new, reduced in size, Forest Closure order has been issued...",
@@ -363,32 +428,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "5"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 20:51:01",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "35,111 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "0"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 20:42:15",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,038 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
     },
     {
       "name": "American Fork Fire",
@@ -571,32 +610,6 @@
       "url": "/incident/7753/",
       "id": "7753",
       "contained": "0"
-    },
-    {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": " A Community meeting was held Saturday evening July 31at Winninghoff...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 17:48:15",
-      "lat": "46.379",
-      "lng": "-113.071",
-      "size": "212 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
-      "state": "MONTANA",
-      "updated": "2021-08-01 17:42:37",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "27,533 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "18"
     },
     {
       "name": "Vinegar Fire",
