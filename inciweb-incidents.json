@@ -1,24 +1,24 @@
 {
   "markers": [
     {
-      "name": "Hay Creek",
+      "name": "Tamarack Fire",
       "type": "Wildfire",
-      "summary": "| Daily Updates | Facebook | Twitter | Flathead National...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 15:17:08",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,265 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "5"
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-08-02 15:28:33",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,696 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "82"
     },
     {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
       "state": "MONTANA",
-      "updated": "2021-08-02 15:14:55",
+      "updated": "2021-08-02 15:28:29",
       "lat": "46.165",
       "lng": "-110.248",
       "size": "14,397 Acres",
@@ -27,11 +27,24 @@
       "contained": "10"
     },
     {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 15:26:59",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "9,788 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "26"
+    },
+    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
       "state": "MONTANA",
-      "updated": "2021-08-02 15:14:00",
+      "updated": "2021-08-02 15:25:18",
       "lat": "46.553",
       "lng": "-111.356",
       "size": "15,252 Acres",
@@ -40,17 +53,56 @@
       "contained": "0"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
+      "name": "Klamath NF Lightning July 2021  ",
       "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "summary": "River Complex Update August 2, 12:30 pm An evacuation order has been...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-02 15:23:34",
+      "lat": "41.707",
+      "lng": "-122.644",
+      "size": "0 Acres",
+      "url": "/incident/7738/",
+      "id": "7738",
+      "contained": "0"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "| Daily Updates | Videos | Facebook | Twitter | Flathead...",
       "state": "MONTANA",
-      "updated": "2021-08-02 15:12:56",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "9,788 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "26"
+      "updated": "2021-08-02 15:22:48",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,265 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "5"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Lassen and Plumas National Forests, August 2, 2021 — Fire behavior...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-02 15:22:09",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "248,820 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-08-02 15:19:37",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,762 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "84"
     },
     {
       "name": "Pioneer Fire",
@@ -105,19 +157,6 @@
       "contained": "46"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-08-02 14:56:50",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,762 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "84"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "Due to the multiple small fire starts over the last two days, which...",
@@ -168,32 +207,6 @@
       "url": "/incident/7663/",
       "id": "7663",
       "contained": "65"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Lassen and Plumas National Forests, August 2, 2021 — Fire behavior...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 13:29:06",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "248,820 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-08-02 13:19:41",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,696 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "82"
     },
     {
       "name": "Cedar Creek",
@@ -389,19 +402,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "90"
-    },
-    {
-      "name": "Klamath NF Lightning July 2021  ",
-      "type": "Wildfire",
-      "summary": "  River Complex Update August 2, 9:15amActivity on the Haypress,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 11:37:35",
-      "lat": "41.707",
-      "lng": "-122.644",
-      "size": "0 Acres",
-      "url": "/incident/7738/",
-      "id": "7738",
-      "contained": "0"
     },
     {
       "name": "Snake River Complex",
