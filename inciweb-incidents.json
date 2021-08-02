@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 14:40:47",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "15,252 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Due to the multiple small fire starts over the last two days, which...",
+      "state": "OREGON",
+      "updated": "2021-08-02 14:39:04",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,002 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "76"
+    },
+    {
       "name": "Granite Pass Complex",
       "type": "Wildfire",
       "summary": "The Granite Pass Complex consists of four wildfires burning in the...",
       "state": "MONTANA",
-      "updated": "2021-08-02 14:24:36",
+      "updated": "2021-08-02 14:29:57",
       "lat": "46.652",
       "lng": "-114.591",
       "size": "5,739 Acres",
@@ -560,19 +586,6 @@
       "contained": "0"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 10:01:31",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "15,252 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
-    },
-    {
       "name": "Tar",
       "type": "Wildfire",
       "summary": "The lightning caused Tar Fire discovered on 7.31.2021 is located near...",
@@ -779,19 +792,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "30"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Due to the multiple small fire starts over the last two days, which...",
-      "state": "OREGON",
-      "updated": "2021-08-01 23:36:23",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,002 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "76"
     },
     {
       "name": "Goose Fire",
