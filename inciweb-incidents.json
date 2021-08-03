@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 23:42:06",
+      "lat": "47.764",
+      "lng": "-113.996",
+      "size": "1,416 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "0"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning.  As of 8:00 AM this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-02 23:40:17",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "15,565 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "5"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-02 23:32:37",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "90"
+    },
+    {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires that merged...",
+      "state": "IDAHO",
+      "updated": "2021-08-02 23:27:53",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "109,444 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "90"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 23:26:14",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,111 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-02 23:23:53",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "50,406 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "23"
+    },
+    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -12,19 +90,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "15"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 23:11:23",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "35,111 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -51,19 +116,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "30"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-02 23:01:43",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "90"
     },
     {
       "name": "Bootleg Fire",
@@ -300,19 +352,6 @@
       "contained": "0"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning.  As of 8:00 AM this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 22:14:21",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "15,565 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "5"
-    },
-    {
       "name": "Elbow Creek",
       "type": "Wildfire",
       "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
@@ -388,19 +427,6 @@
       "size": "1 Acres",
       "url": "/incident/7304/",
       "id": "7304",
-      "contained": "0"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 20:53:07",
-      "lat": "47.764",
-      "lng": "-113.996",
-      "size": "1,134 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
       "contained": "0"
     },
     {
@@ -651,19 +677,6 @@
       "contained": "68"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-02 18:33:44",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "48,771 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "23"
-    },
-    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire started on 7/31/21 @ 7:11 pm.  The fire is located...",
@@ -870,19 +883,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "90"
-    },
-    {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires that merged...",
-      "state": "IDAHO",
-      "updated": "2021-08-02 11:31:33",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "109,444 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "87"
     },
     {
       "name": "Lava Fire",
