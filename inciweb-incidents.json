@@ -1,11 +1,154 @@
 {
   "markers": [
     {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-02 23:20:40",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "11,449 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 23:11:23",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,111 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West Zone – Extreme fire behavior has been mostly...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-02 23:10:43",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "249,635 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
+      "state": "IDAHO",
+      "updated": "2021-08-02 23:04:25",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "7,260 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "30"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-02 23:01:43",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "90"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-08-02 22:59:13",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,762 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "84"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 22:58:06",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,397 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 22:52:44",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "15,252 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-02 22:51:23",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "0 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "0"
+    },
+    {
+      "name": "Antelope Fire 2021",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire remains very active, now estimated at least 300...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-02 22:50:54",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "0 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "0"
+    },
+    {
+      "name": "Spruce Canyon",
+      "type": "Wildfire",
+      "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-02 22:49:38",
+      "lat": "48.54",
+      "lng": "-117.593",
+      "size": "130 Acres",
+      "url": "/incident/7721/",
+      "id": "7721",
+      "contained": "90"
+    },
+    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
       "state": "MONTANA",
-      "updated": "2021-08-02 22:46:58",
+      "updated": "2021-08-02 22:48:56",
       "lat": "46.993",
       "lng": "-110.933",
       "size": "9,788 Acres",
@@ -25,45 +168,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "24"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-08-02 22:42:11",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,762 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "84"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 22:41:19",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "15,252 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 22:38:39",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "0 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "0"
     },
     {
       "name": "Middle Fork Complex",
@@ -92,32 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 22:36:06",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,397 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
-      "name": "Antelope Fire 2021",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire remains very active, now estimated at least 300...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 22:35:13",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "0 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "0"
-    },
-    {
       "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
       "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
@@ -142,19 +220,6 @@
       "url": "/incident/7731/",
       "id": "7731",
       "contained": "80"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-02 22:32:54",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "90"
     },
     {
       "name": "Sugar Cane",
@@ -220,19 +285,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "0"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-02 22:18:54",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "11,449 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
     },
     {
       "name": "Crooks Fire",
@@ -324,19 +376,6 @@
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "5"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " East ZoneOn the East Zone fire activity increased as higher...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 21:31:13",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "249,635 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
     },
     {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
@@ -677,19 +716,6 @@
       "contained": "0"
     },
     {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Type 2 Northern Rockies Incident Management Team 3, Mike Almas,...",
-      "state": "IDAHO",
-      "updated": "2021-08-02 16:10:37",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "7,260 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "30"
-    },
-    {
       "name": "Nelson Creek Fire",
       "type": "Wildfire",
       "summary": "The Southern Area Incident Management Gray Team will...",
@@ -859,19 +885,6 @@
       "contained": "87"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 11:21:05",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "35,111 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "0"
-    },
-    {
       "name": "Lava Fire",
       "type": "Wildfire",
       "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
@@ -909,19 +922,6 @@
       "url": "/incident/7644/",
       "id": "7644",
       "contained": "59"
-    },
-    {
-      "name": "Spruce Canyon",
-      "type": "Wildfire",
-      "summary": "Our Northeast Washington Interagency Type 3 IMT Team 2 were stood up...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-02 10:04:30",
-      "lat": "48.54",
-      "lng": "-117.593",
-      "size": "130 Acres",
-      "url": "/incident/7721/",
-      "id": "7721",
-      "contained": "85"
     },
     {
       "name": "Rush Creek",
