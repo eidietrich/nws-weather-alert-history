@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-02 21:39:31",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "22,305 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "15"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-02 21:39:24",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "0 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "0"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "| Daily Updates | Videos | Facebook | Twitter | Flathead...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 21:39:06",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,265 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "5"
+    },
+    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
       "state": "MONTANA",
-      "updated": "2021-08-02 21:09:11",
+      "updated": "2021-08-02 21:38:42",
       "lat": "45.185",
       "lng": "-113.474",
       "size": "1,038 Acres",
@@ -14,17 +53,56 @@
       "contained": "0"
     },
     {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-08-02 21:37:29",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,762 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "84"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " East ZoneOn the East Zone fire activity increased as higher...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-02 20:56:18",
+      "updated": "2021-08-02 21:31:13",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "249,635 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "35"
+    },
+    {
+      "name": "Elbow Creek",
+      "type": "Wildfire",
+      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
+      "state": "OREGON",
+      "updated": "2021-08-02 21:24:26",
+      "lat": "45.867",
+      "lng": "-117.619",
+      "size": "22,960 Acres",
+      "url": "/incident/7672/",
+      "id": "7672",
+      "contained": "95"
+    },
+    {
+      "name": "2021 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "NEVADA",
+      "updated": "2021-08-02 21:15:22",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/7304/",
+      "id": "7304",
+      "contained": "0"
     },
     {
       "name": "Boulder 2700 Fire ",
@@ -274,19 +352,6 @@
       "contained": "0"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-08-02 19:16:24",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,762 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "84"
-    },
-    {
       "name": "Klamath NF Lightning July 2021  ",
       "type": "Wildfire",
       "summary": "Klamath National Forest Lightning fires update, August 2, 2021 5:00...",
@@ -297,19 +362,6 @@
       "size": "0 Acres",
       "url": "/incident/7738/",
       "id": "7738",
-      "contained": "0"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 18:52:40",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "0 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
       "contained": "0"
     },
     {
@@ -599,19 +651,6 @@
       "contained": "90"
     },
     {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "| Daily Updates | Videos | Facebook | Twitter | Flathead...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 15:22:48",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,265 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "5"
-    },
-    {
       "name": "Pioneer Fire",
       "type": "Wildfire",
       "summary": "The Pioneer Fire was detected on July 29, 2021 at 1:40pm on Idaho...",
@@ -781,19 +820,6 @@
       "contained": "0"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-02 11:10:53",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "22,305 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "12"
-    },
-    {
       "name": "Lava Fire",
       "type": "Wildfire",
       "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
@@ -844,19 +870,6 @@
       "url": "/incident/7644/",
       "id": "7644",
       "contained": "59"
-    },
-    {
-      "name": "Elbow Creek",
-      "type": "Wildfire",
-      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
-      "state": "OREGON",
-      "updated": "2021-08-02 10:20:23",
-      "lat": "45.867",
-      "lng": "-117.619",
-      "size": "22,960 Acres",
-      "url": "/incident/7672/",
-      "id": "7672",
-      "contained": "78"
     },
     {
       "name": "Spruce Canyon",
@@ -1181,19 +1194,6 @@
       "size": "0 Acres",
       "url": "/incident/7617/",
       "id": "7617",
-      "contained": "0"
-    },
-    {
-      "name": "2021 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2021-07-31 17:40:00",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/7304/",
-      "id": "7304",
       "contained": "0"
     },
     {
