@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 22:46:58",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "9,788 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "26"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-02 22:44:00",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "58,793 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-08-02 22:42:11",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,762 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "84"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 22:41:19",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "15,252 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-02 22:38:39",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "0 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "0"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "This week, lightning caused 22 wildfires on the Middle Fork Ranger...",
+      "state": "OREGON",
+      "updated": "2021-08-02 22:38:24",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "589 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "5"
+    },
+    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": " On August 2, 2021, the Northern Rockies Incident Management Team 2...",
       "state": "IDAHO",
-      "updated": "2021-08-02 22:35:24",
+      "updated": "2021-08-02 22:37:19",
       "lat": "47.17",
       "lng": "-115.442",
       "size": "5,716 Acres",
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "0"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-02 22:36:06",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,397 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
     },
     {
       "name": "Antelope Fire 2021",
@@ -40,19 +131,6 @@
       "contained": "12"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-02 22:34:38",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "58,793 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
-    },
-    {
       "name": "PF Fire",
       "type": "Wildfire",
       "summary": " 9:00 PM Aug 2 Update: Current Situation: Crews worked hard today...",
@@ -77,19 +155,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "90"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 22:31:18",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "9,788 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "26"
     },
     {
       "name": "Sugar Cane",
@@ -209,19 +274,6 @@
       "contained": "95"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "This week, lightning caused 22 wildfires on the Middle Fork Ranger...",
-      "state": "OREGON",
-      "updated": "2021-08-02 22:01:02",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "589 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "5"
-    },
-    {
       "name": "Chuweah Creek",
       "type": "Wildfire",
       "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
@@ -233,19 +285,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "90"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-08-02 21:54:57",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,762 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "84"
     },
     {
       "name": "Summit Trail",
@@ -271,19 +310,6 @@
       "size": "1,038 Acres",
       "url": "/incident/7691/",
       "id": "7691",
-      "contained": "0"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 21:39:24",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "0 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
       "contained": "0"
     },
     {
@@ -636,32 +662,6 @@
       "url": "/incident/7755/",
       "id": "7755",
       "contained": "0"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 17:10:42",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "15,252 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 17:07:22",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,397 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "Dry Cabin",
