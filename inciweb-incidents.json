@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 07:00:02",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "15,252 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 06:58:10",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "9,788 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "26"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 06:53:15",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,397 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
       "state": "NEVADA",
-      "updated": "2021-08-03 06:44:29",
+      "updated": "2021-08-03 06:50:06",
       "lat": "38.628",
       "lng": "-119.857",
       "size": "68,696 Acres",
@@ -196,32 +235,6 @@
       "contained": "84"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 22:58:06",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,397 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Woods Creek Fire was discovered on Saturday, July 10 near Boulder...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 22:52:44",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "15,252 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
@@ -246,19 +259,6 @@
       "url": "/incident/7721/",
       "id": "7721",
       "contained": "90"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 22:48:56",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "9,788 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "26"
     },
     {
       "name": "Cub Creek 2 Fire",
