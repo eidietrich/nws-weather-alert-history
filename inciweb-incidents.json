@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Sentinel",
+      "type": "Wildfire",
+      "summary": "On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-03 09:44:40",
+      "lat": "36.753",
+      "lng": "-118.672",
+      "size": "0 Acres",
+      "url": "/incident/7734/",
+      "id": "7734",
+      "contained": "0"
+    },
+    {
+      "name": "West Zone Superior Fires",
+      "type": "Wildfire",
+      "summary": " The West Zone of the Superior National Forest, consisting of the...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-03 09:43:56",
+      "lat": "47.907",
+      "lng": "-91.831",
+      "size": "0 Acres",
+      "url": "/incident/7617/",
+      "id": "7617",
+      "contained": "0"
+    },
+    {
+      "name": "Tar",
+      "type": "Wildfire",
+      "summary": "The lightning caused Tar Fire discovered on 7.31.2021 is located near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-03 09:43:32",
+      "lat": "36.419",
+      "lng": "-118.651",
+      "size": "0 Acres",
+      "url": "/incident/7748/",
+      "id": "7748",
+      "contained": "0"
+    },
+    {
+      "name": "Deer",
+      "type": "Wildfire",
+      "summary": " On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-03 09:43:04",
+      "lat": "36.443",
+      "lng": "-118.652",
+      "size": "0 Acres",
+      "url": "/incident/7736/",
+      "id": "7736",
+      "contained": "100"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-03 09:40:22",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,023 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "12"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 09:39:36",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "10,624 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Dixie Fire West Zone – Extreme fire behavior has been mostly...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-03 09:27:13",
+      "updated": "2021-08-03 09:36:40",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "253,052 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "35"
+    },
+    {
+      "name": "Molybdenite",
+      "type": "Wildfire",
+      "summary": " Molybdenite fire was reported on 7/31/21 and is located about 9...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-03 09:33:37",
+      "lat": "48.674",
+      "lng": "-117.272",
+      "size": "60 Acres",
+      "url": "/incident/7755/",
+      "id": "7755",
+      "contained": "0"
     },
     {
       "name": "Harris Mountain",
@@ -417,19 +508,6 @@
       "contained": "0"
     },
     {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-02 22:34:49",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "42,751 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "12"
-    },
-    {
       "name": "PF Fire",
       "type": "Wildfire",
       "summary": " 9:00 PM Aug 2 Update: Current Situation: Crews worked hard today...",
@@ -599,19 +677,6 @@
       "contained": "0"
     },
     {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 20:37:13",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "10,624 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
-    },
-    {
       "name": "Sherwood",
       "type": "Wildfire",
       "summary": "The Sherwood Fire is located about 2 miles Northeast of Wellpinit,...",
@@ -739,19 +804,6 @@
       "size": "0 Acres",
       "url": "/incident/7751/",
       "id": "7751",
-      "contained": "0"
-    },
-    {
-      "name": "Molybdenite",
-      "type": "Wildfire",
-      "summary": " Molybdenite fire was reported on 7/31/21 and is located about 9...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-02 18:04:38",
-      "lat": "48.674",
-      "lng": "-117.272",
-      "size": "60 Acres",
-      "url": "/incident/7755/",
-      "id": "7755",
       "contained": "0"
     },
     {
@@ -950,19 +1002,6 @@
       "contained": "0"
     },
     {
-      "name": "Tar",
-      "type": "Wildfire",
-      "summary": "The lightning caused Tar Fire discovered on 7.31.2021 is located near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 10:01:23",
-      "lat": "36.419",
-      "lng": "-118.651",
-      "size": "0 Acres",
-      "url": "/incident/7748/",
-      "id": "7748",
-      "contained": "0"
-    },
-    {
       "name": "Timber",
       "type": "Wildfire",
       "summary": " On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
@@ -989,19 +1028,6 @@
       "contained": "0"
     },
     {
-      "name": "Deer",
-      "type": "Wildfire",
-      "summary": " On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 10:01:15",
-      "lat": "36.443",
-      "lng": "-118.652",
-      "size": "0 Acres",
-      "url": "/incident/7736/",
-      "id": "7736",
-      "contained": "0"
-    },
-    {
       "name": "Red Spur",
       "type": "Wildfire",
       "summary": "On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
@@ -1012,19 +1038,6 @@
       "size": "0 Acres",
       "url": "/incident/7733/",
       "id": "7733",
-      "contained": "0"
-    },
-    {
-      "name": "Sentinel",
-      "type": "Wildfire",
-      "summary": "On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 09:59:59",
-      "lat": "36.753",
-      "lng": "-118.672",
-      "size": "0 Acres",
-      "url": "/incident/7734/",
-      "id": "7734",
       "contained": "0"
     },
     {
@@ -1207,19 +1220,6 @@
       "size": "0 Acres",
       "url": "/incident/7739/",
       "id": "7739",
-      "contained": "0"
-    },
-    {
-      "name": "West Zone Superior Fires",
-      "type": "Wildfire",
-      "summary": " The West Zone of the Superior National Forest, consisting of the...",
-      "state": "MINNESOTA",
-      "updated": "2021-07-31 18:17:14",
-      "lat": "47.907",
-      "lng": "-91.831",
-      "size": "0 Acres",
-      "url": "/incident/7617/",
-      "id": "7617",
       "contained": "0"
     },
     {
