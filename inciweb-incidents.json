@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-03 16:15:18",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "19,308 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-08-03 16:10:58",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,765 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "84"
+    },
+    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
       "state": "MONTANA",
-      "updated": "2021-08-03 15:43:05",
+      "updated": "2021-08-03 16:06:41",
       "lat": "46.165",
       "lng": "-110.248",
       "size": "14,397 Acres",
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "10"
+    },
+    {
+      "name": "Gatlin Gulch Fire",
+      "type": "Wildfire",
+      "summary": " The Gatlin Gulch Fire is located approximately six miles SW of...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 16:03:43",
+      "lat": "46.168",
+      "lng": "-112.201",
+      "size": "60 Acres",
+      "url": "/incident/7749/",
+      "id": "7749",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-03 15:55:17",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "58,793 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 15:50:42",
+      "lat": "47.764",
+      "lng": "-113.996",
+      "size": "1,416 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "0"
     },
     {
       "name": "West Lolo Complex",
@@ -40,19 +105,6 @@
       "contained": "4"
     },
     {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-03 15:30:17",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "19,308 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "0"
-    },
-    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
@@ -64,32 +116,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "82"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-03 15:20:47",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "58,793 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-08-03 15:18:01",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,765 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "84"
     },
     {
       "name": "Summit Trail",
@@ -326,19 +352,6 @@
       "contained": "100"
     },
     {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-03 13:06:33",
-      "lat": "47.764",
-      "lng": "-113.996",
-      "size": "1,416 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "0"
-    },
-    {
       "name": "Christensen Fire ",
       "type": "Wildfire",
       "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
@@ -557,19 +570,6 @@
       "size": "2,462 Acres",
       "url": "/incident/7709/",
       "id": "7709",
-      "contained": "0"
-    },
-    {
-      "name": "Gatlin Gulch Fire",
-      "type": "Wildfire",
-      "summary": " The Gatlin Gulch Fire is located approximately six miles SW of...",
-      "state": "MONTANA",
-      "updated": "2021-08-03 11:25:48",
-      "lat": "46.168",
-      "lng": "-112.201",
-      "size": "60 Acres",
-      "url": "/incident/7749/",
-      "id": "7749",
       "contained": "0"
     },
     {
