@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "The Granite Pass Complex consists of four wildfires burning in the...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 08:45:49",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "5,739 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "4"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
+      "state": "IDAHO",
+      "updated": "2021-08-04 08:42:52",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,643 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West ZoneExtreme fire activity occurred today with plume...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-04 08:41:52",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "274,139 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-08-04 08:41:27",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,765 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "84"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-04 08:37:13",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "58,697 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "August 3, 2021 8:30amBig Bar, Calif.  The Monument Fire is currently...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-04 08:35:23",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "6,057 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "0"
+    },
+    {
       "name": "Morgan Creek Fire",
       "type": "Wildfire",
       "summary": " The Morgan Creek Fire was reported on July 9 on the Routt National...",
@@ -12,45 +90,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "18"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "August 3, 2021 8:30amBig Bar, Calif.  The Monument Fire is currently...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-04 08:33:41",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "6,057 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Dixie Fire West ZoneExtreme fire activity occurred today with plume...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-04 08:32:41",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "274,139 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
-      "state": "IDAHO",
-      "updated": "2021-08-04 08:32:18",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,643 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "0"
     },
     {
       "name": "Christensen Fire ",
@@ -129,19 +168,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "82"
-    },
-    {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "The Granite Pass Complex consists of four wildfires burning in the...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 08:14:27",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "5,739 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "4"
     },
     {
       "name": "Cedar Creek",
@@ -404,19 +430,6 @@
       "contained": "5"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-03 23:20:29",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "58,697 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
-    },
-    {
       "name": "Snake River Complex",
       "type": "Wildfire",
       "summary": "The Snake River Complex comprises of three wildfires that merged...",
@@ -480,19 +493,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "0"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-08-03 21:51:54",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,765 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "84"
     },
     {
       "name": "Summit Trail",
