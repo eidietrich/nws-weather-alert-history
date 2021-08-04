@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-04 16:41:25",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "20,005 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "5"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-08-04 16:40:02",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,765 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "84"
+    },
+    {
       "name": "Taylor",
       "type": "Wildfire",
       "summary": "August 4, 2021 - 3 pm: The DNRC's County Assist Team (CAT) will be...",
@@ -25,19 +51,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "0"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-08-04 16:25:37",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,765 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "84"
     },
     {
       "name": "Goat Fire",
@@ -89,19 +102,6 @@
       "size": "1,707 Acres",
       "url": "/incident/7745/",
       "id": "7745",
-      "contained": "5"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-04 15:48:17",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "20,005 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
       "contained": "5"
     },
     {
