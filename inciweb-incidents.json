@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 12:07:59",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,397 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Due to the multiple small fire starts over the last two days, which...",
+      "state": "OREGON",
+      "updated": "2021-08-04 12:07:32",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,182 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "77"
+    },
+    {
+      "name": "Molybdenite",
+      "type": "Wildfire",
+      "summary": " Molybdenite fire was reported on 7/31/21 and is located about 9...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-04 12:06:26",
+      "lat": "48.674",
+      "lng": "-117.272",
+      "size": "54 Acres",
+      "url": "/incident/7755/",
+      "id": "7755",
+      "contained": "30"
+    },
+    {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": " A complex of 19 fires north of Glide,",
+      "state": "OREGON",
+      "updated": "2021-08-04 12:05:35",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "720 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "1"
+    },
+    {
+      "name": "Skyline Ridge Complex",
+      "type": "Wildfire",
+      "summary": " A number of fires have been reported in the South Umpqua River...",
+      "state": "OREGON",
+      "updated": "2021-08-04 11:54:38",
+      "lat": "42.901",
+      "lng": "-123.111",
+      "size": "550 Acres",
+      "url": "/incident/7762/",
+      "id": "7762",
+      "contained": "0"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 11:54:31",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "9,788 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "26"
+    },
+    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
       "state": "WASHINGTON",
-      "updated": "2021-08-04 11:25:55",
+      "updated": "2021-08-04 11:50:56",
       "lat": "48.285",
       "lng": "-118.531",
       "size": "22,305 Acres",
@@ -14,17 +92,108 @@
       "contained": "15"
     },
     {
+      "name": "Antelope Fire 2021",
+      "type": "Wildfire",
+      "summary": "Antelope Fire – Update 8/2, 10pm An EVACUATION ORDER has been...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-04 11:48:32",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "0 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "0"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-04 11:47:47",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "12,260 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Robertson Draw",
+      "type": "Wildfire",
+      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 11:47:21",
+      "lat": "45.015",
+      "lng": "-109.253",
+      "size": "29,885 Acres",
+      "url": "/incident/7537/",
+      "id": "7537",
+      "contained": "90"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-04 11:44:09",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "90"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 11:39:25",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,384 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "46"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 11:39:13",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "9,290 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "10"
+    },
+    {
       "name": "Hay Creek",
       "type": "Wildfire",
       "summary": " Daily Updates | Videos | Facebook | Twitter | Flathead...",
       "state": "MONTANA",
-      "updated": "2021-08-04 11:21:46",
+      "updated": "2021-08-04 11:32:38",
       "lat": "48.778",
       "lng": "-114.431",
       "size": "2,356 Acres",
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "9"
+    },
+    {
+      "name": "Crooks Fire",
+      "type": "Wildfire",
+      "summary": " Confederated Salish and Kootenai Tribes discovered the Crooks Fire...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 11:31:43",
+      "lat": "47.175",
+      "lng": "-113.869",
+      "size": "904 Acres",
+      "url": "/incident/7759/",
+      "id": "7759",
+      "contained": "0"
     },
     {
       "name": "Crater Ridge",
@@ -64,45 +233,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "84"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 10:58:14",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "9,290 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "10"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 10:56:32",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,384 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Due to the multiple small fire starts over the last two days, which...",
-      "state": "OREGON",
-      "updated": "2021-08-04 10:49:56",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,182 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "77"
     },
     {
       "name": "Leland Complex",
@@ -365,45 +495,6 @@
       "contained": "25"
     },
     {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": " Confederated Salish and Kootenai Tribes discovered the Crooks Fire...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 09:57:43",
-      "lat": "47.175",
-      "lng": "-113.869",
-      "size": "904 Acres",
-      "url": "/incident/7759/",
-      "id": "7759",
-      "contained": "0"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 09:56:39",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "9,788 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "26"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-04 09:52:36",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "90"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily Map     |     Shasta-Trinity Nat'l Forest Facebook    ...",
@@ -428,32 +519,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-04 09:51:12",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "12,260 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 09:46:25",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,397 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "Woods Creek Fire",
@@ -651,19 +716,6 @@
       "contained": "0"
     },
     {
-      "name": "Skyline Ridge Complex",
-      "type": "Wildfire",
-      "summary": " A number of fires have been reported in the South Umpqua River...",
-      "state": "OREGON",
-      "updated": "2021-08-03 23:31:55",
-      "lat": "42.901",
-      "lng": "-123.111",
-      "size": "550 Acres",
-      "url": "/incident/7762/",
-      "id": "7762",
-      "contained": "0"
-    },
-    {
       "name": "Snake River Complex",
       "type": "Wildfire",
       "summary": "The Snake River Complex comprises of three wildfires that merged...",
@@ -714,19 +766,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "90"
-    },
-    {
-      "name": "Antelope Fire 2021",
-      "type": "Wildfire",
-      "summary": "Antelope Fire – Update 8/2, 10pm An EVACUATION ORDER has been...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-03 21:03:28",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "0 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "0"
     },
     {
       "name": "Character Complex",
@@ -950,32 +989,6 @@
       "contained": "100"
     },
     {
-      "name": "Molybdenite",
-      "type": "Wildfire",
-      "summary": " Molybdenite fire was reported on 7/31/21 and is located about 9...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-03 12:14:31",
-      "lat": "48.674",
-      "lng": "-117.272",
-      "size": "54 Acres",
-      "url": "/incident/7755/",
-      "id": "7755",
-      "contained": "20"
-    },
-    {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": " A complex of 19 fires north of Glide,",
-      "state": "OREGON",
-      "updated": "2021-08-03 11:56:41",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "429 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "1"
-    },
-    {
       "name": "Club Fire",
       "type": "Wildfire",
       "summary": "The Club Fire started 3 miles southwest of Root Ranch. Crews have...",
@@ -1195,19 +1208,6 @@
       "url": "/incident/7566/",
       "id": "7566",
       "contained": "70"
-    },
-    {
-      "name": "Robertson Draw",
-      "type": "Wildfire",
-      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 11:57:53",
-      "lat": "45.015",
-      "lng": "-109.253",
-      "size": "29,885 Acres",
-      "url": "/incident/7537/",
-      "id": "7537",
-      "contained": "90"
     },
     {
       "name": "Beckwourth  Complex",
@@ -1598,19 +1598,6 @@
       "url": "/incident/7652/",
       "id": "7652",
       "contained": "100"
-    },
-    {
-      "name": "Too Kush 2",
-      "type": "Wildfire",
-      "summary": "The Too Kush 2 wildfire was started by lightning on July 2, 2021. It...",
-      "state": "IDAHO",
-      "updated": "2021-07-21 13:26:21",
-      "lat": "46.145",
-      "lng": "-115.907",
-      "size": "1,341 Acres",
-      "url": "/incident/7659/",
-      "id": "7659",
-      "contained": "90"
     },
     {
       "name": "Creek Fire",
