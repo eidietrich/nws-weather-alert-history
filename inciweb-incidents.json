@@ -1,30 +1,82 @@
 {
   "markers": [
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-03 23:21:19",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "52,030 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "25"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Dixie Fire West ZoneExtreme fire activity occurred today with plume...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-03 23:21:17",
+      "updated": "2021-08-03 23:43:38",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "254,466 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "35"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-03 23:33:32",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "0 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "0"
+    },
+    {
+      "name": "Skyline Ridge Complex",
+      "type": "Wildfire",
+      "summary": " A number of fires have been reported in the South Umpqua River...",
+      "state": "OREGON",
+      "updated": "2021-08-03 23:31:55",
+      "lat": "42.901",
+      "lng": "-123.111",
+      "size": "550 Acres",
+      "url": "/incident/7762/",
+      "id": "7762",
+      "contained": "0"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-03 23:28:50",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "90"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-03 23:27:30",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "15,925 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "5"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-03 23:23:33",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "52,030 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "25"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -38,32 +90,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "24"
-    },
-    {
-      "name": "Skyline Ridge Complex",
-      "type": "Wildfire",
-      "summary": " A number of fires have been reported in the South Umpqua River...",
-      "state": "OREGON",
-      "updated": "2021-08-03 23:14:02",
-      "lat": "42.901",
-      "lng": "-123.111",
-      "size": "100 Acres",
-      "url": "/incident/7762/",
-      "id": "7762",
-      "contained": "0"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-03 23:07:21",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "15,925 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "5"
     },
     {
       "name": "Snake River Complex",
@@ -599,19 +625,6 @@
       "contained": "95"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-03 17:57:22",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "0 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "0"
-    },
-    {
       "name": "East Troublesome Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "The East Troublesome Fire was reported on the afternoon of October...",
@@ -820,19 +833,6 @@
       "contained": "78"
     },
     {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-03 10:58:04",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "90"
-    },
-    {
       "name": "Club Fire",
       "type": "Wildfire",
       "summary": "The Club Fire started 3 miles southwest of Root Ranch. Crews have...",
@@ -1026,19 +1026,6 @@
       "url": "/incident/7732/",
       "id": "7732",
       "contained": "80"
-    },
-    {
-      "name": "Klamath NF Lightning July 2021  ",
-      "type": "Wildfire",
-      "summary": "Klamath National Forest Lightning fires update, August 2, 2021 5:00...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 19:09:45",
-      "lat": "41.707",
-      "lng": "-122.644",
-      "size": "0 Acres",
-      "url": "/incident/7738/",
-      "id": "7738",
-      "contained": "0"
     },
     {
       "name": "Sylvan Fire",
