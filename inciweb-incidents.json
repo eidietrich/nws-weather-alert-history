@@ -1,24 +1,50 @@
 {
   "markers": [
     {
-      "name": "South Yaak",
+      "name": "Stateline Complex",
       "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-03 21:49:26",
+      "lat": "47.17",
+      "lng": "-115.442",
+      "size": "11,350 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": "For Immediate Release:Weather Helps and Hinders Containment Efforts....",
       "state": "MONTANA",
-      "updated": "2021-08-03 21:31:23",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "9,290 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "10"
+      "updated": "2021-08-03 21:49:25",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "212 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire Update for Tuesday, August 3, 2021Lassen and Plumas...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-03 21:49:07",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "254,466 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
       "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
       "state": "IDAHO",
-      "updated": "2021-08-03 21:30:42",
+      "updated": "2021-08-03 21:47:26",
       "lat": "45.586",
       "lng": "-115.444",
       "size": "43,023 Acres",
@@ -27,11 +53,50 @@
       "contained": "12"
     },
     {
+      "name": "Snake River Complex",
+      "type": "Wildfire",
+      "summary": "The Snake River Complex comprises of three wildfires that merged...",
+      "state": "IDAHO",
+      "updated": "2021-08-03 21:47:13",
+      "lat": "46.012",
+      "lng": "-116.911",
+      "size": "109,444 Acres",
+      "url": "/incident/7636/",
+      "id": "7636",
+      "contained": "90"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-08-03 21:46:21",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,765 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "84"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 21:46:21",
+      "lat": "47.764",
+      "lng": "-113.996",
+      "size": "1,416 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "0"
+    },
+    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
       "state": "WASHINGTON",
-      "updated": "2021-08-03 21:30:11",
+      "updated": "2021-08-03 21:43:18",
       "lat": "48.551",
       "lng": "-120.194",
       "size": "58,697 Acres",
@@ -40,37 +105,11 @@
       "contained": "24"
     },
     {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-08-03 21:28:43",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,752 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "90"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-08-03 21:23:51",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,384 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
       "state": "WASHINGTON",
-      "updated": "2021-08-03 21:14:08",
+      "updated": "2021-08-03 21:42:03",
       "lat": "48.285",
       "lng": "-118.531",
       "size": "22,305 Acres",
@@ -79,17 +118,82 @@
       "contained": "15"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Burnt Peak Fire",
       "type": "Wildfire",
-      "summary": "Dixie Fire Update for Tuesday, August 3, 2021Lassen and Plumas...",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 21:37:13",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,384 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "46"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 21:35:27",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "9,290 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "10"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-08-03 21:34:57",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,752 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "90"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": " Daily Updates | Videos | Facebook | Twitter | Flathead...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 21:34:33",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,356 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "5"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through north-central...",
+      "state": "IDAHO",
+      "updated": "2021-08-03 21:33:52",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-03 21:13:38",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "254,466 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
+      "updated": "2021-08-03 21:32:49",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "15,925 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "5"
     },
     {
       "name": "Mud Lick Fire",
@@ -116,32 +220,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "0"
-    },
-    {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through north-central...",
-      "state": "IDAHO",
-      "updated": "2021-08-03 20:55:22",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
-      "name": "Snake River Complex",
-      "type": "Wildfire",
-      "summary": "The Snake River Complex comprises of three wildfires that merged...",
-      "state": "IDAHO",
-      "updated": "2021-08-03 20:54:23",
-      "lat": "46.012",
-      "lng": "-116.911",
-      "size": "109,444 Acres",
-      "url": "/incident/7636/",
-      "id": "7636",
-      "contained": "90"
     },
     {
       "name": "Character Complex",
@@ -378,19 +456,6 @@
       "contained": "0"
     },
     {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-03 19:27:32",
-      "lat": "47.17",
-      "lng": "-115.442",
-      "size": "11,350 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "0"
-    },
-    {
       "name": "Antonio",
       "type": "Wildfire",
       "summary": "The Antonio Fire was first reported at 2:08 P.M. near Glendora Ridge...",
@@ -404,19 +469,6 @@
       "contained": "0"
     },
     {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": " Daily Updates | Videos | Facebook | Twitter | Flathead...",
-      "state": "MONTANA",
-      "updated": "2021-08-03 19:21:49",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,356 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "5"
-    },
-    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
@@ -428,19 +480,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "0"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-03 18:46:32",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "15,925 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "5"
     },
     {
       "name": "Skyline Ridge Complex",
@@ -586,19 +625,6 @@
       "contained": "0"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-08-03 17:09:05",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,765 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "84"
-    },
-    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": " Confederated Salish and Kootenai Tribes discovered the Crooks Fire...",
@@ -609,19 +635,6 @@
       "size": "904 Acres",
       "url": "/incident/7759/",
       "id": "7759",
-      "contained": "0"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-03 15:50:42",
-      "lat": "47.764",
-      "lng": "-113.996",
-      "size": "1,416 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
       "contained": "0"
     },
     {
@@ -701,19 +714,6 @@
       "url": "/incident/7689/",
       "id": "7689",
       "contained": "100"
-    },
-    {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": "For Immediate Release:Weather Helps and Hinders Containment Efforts....",
-      "state": "MONTANA",
-      "updated": "2021-08-03 12:38:51",
-      "lat": "46.379",
-      "lng": "-113.071",
-      "size": "212 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
     },
     {
       "name": "Alder Creek Fire",
