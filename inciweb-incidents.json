@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 21:31:23",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "9,290 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "10"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-03 21:30:42",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,023 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "12"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-03 21:30:11",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "58,697 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-08-03 21:28:43",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,752 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "90"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-08-03 21:23:51",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,384 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "46"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-03 21:14:08",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "22,305 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "15"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Dixie Fire Update for Tuesday, August 3, 2021Lassen and Plumas...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-03 20:59:16",
+      "updated": "2021-08-03 21:13:38",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "254,466 Acres",
@@ -16,14 +94,27 @@
     {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
-      "summary": "On July 21st at 6 a.m. Tony DeMasters Great Basin Team 2 took command...",
+      "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
       "state": "IDAHO",
-      "updated": "2021-08-03 20:58:49",
+      "updated": "2021-08-03 21:03:49",
       "lat": "45.183",
       "lng": "-114.421",
       "size": "20,641 Acres",
       "url": "/incident/7638/",
       "id": "7638",
+      "contained": "0"
+    },
+    {
+      "name": "Antelope Fire 2021",
+      "type": "Wildfire",
+      "summary": "Antelope Fire – Update 8/2, 10pm An EVACUATION ORDER has been...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-03 21:03:28",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "0 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
       "contained": "0"
     },
     {
@@ -64,19 +155,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "30"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-03 20:52:41",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "22,305 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "15"
     },
     {
       "name": "Trestle Creek Complex",
@@ -339,19 +417,6 @@
       "contained": "5"
     },
     {
-      "name": "Antelope Fire 2021",
-      "type": "Wildfire",
-      "summary": "Antelope Fire – Update 8/2, 10pm An EVACUATION ORDER has been...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-03 19:14:04",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "0 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "0"
-    },
-    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
@@ -376,19 +441,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "5"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-03 18:44:40",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "58,793 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
     },
     {
       "name": "Skyline Ridge Complex",
@@ -729,19 +781,6 @@
       "contained": "0"
     },
     {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-03 11:58:29",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "9,290 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "10"
-    },
-    {
       "name": "Rough Patch Complex",
       "type": "Wildfire",
       "summary": " A complex of 19 fires north of Glide,",
@@ -753,19 +792,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "1"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-08-03 11:55:15",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,384 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
     },
     {
       "name": "Vinegar Fire",
@@ -792,19 +818,6 @@
       "url": "/incident/7644/",
       "id": "7644",
       "contained": "78"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-08-03 11:02:30",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,752 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "90"
     },
     {
       "name": "Lick Creek (Dry Gulch) Fire",
@@ -844,19 +857,6 @@
       "url": "/incident/7710/",
       "id": "7710",
       "contained": "0"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-03 10:56:37",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,023 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "12"
     },
     {
       "name": "Green Ridge Fire",
