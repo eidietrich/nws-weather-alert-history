@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": " A complex of 19 fires north of Glide,",
+      "state": "OREGON",
+      "updated": "2021-08-04 12:47:58",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "720 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "1"
+    },
+    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
       "state": "WASHINGTON",
-      "updated": "2021-08-04 12:39:50",
+      "updated": "2021-08-04 12:47:38",
       "lat": "48.285",
       "lng": "-118.531",
       "size": "22,305 Acres",
@@ -14,30 +27,95 @@
       "contained": "15"
     },
     {
-      "name": "Molybdenite",
+      "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
-      "summary": "Normal 0 false false false EN-US X-NONE X-NONE /&amp;#183; Style...",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
       "state": "WASHINGTON",
-      "updated": "2021-08-04 12:39:47",
-      "lat": "48.674",
-      "lng": "-117.272",
-      "size": "54 Acres",
-      "url": "/incident/7755/",
-      "id": "7755",
-      "contained": "30"
+      "updated": "2021-08-04 12:47:36",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "58,697 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-04 12:47:14",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,152 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "12"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-04 12:46:22",
+      "lat": "47.17",
+      "lng": "-115.442",
+      "size": "11,350 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-08-04 12:45:23",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,765 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "84"
     },
     {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire started on 7/31/21 @ 7:11 pm.  The fire is located...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-04 12:39:36",
+      "updated": "2021-08-04 12:43:19",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "835 Acres",
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": " Daily Updates | Videos | Facebook | Twitter | Flathead...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 12:42:19",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,677 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "9"
+    },
+    {
+      "name": "Molybdenite",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2021-08-04 12:41:27",
+      "lat": "48.674",
+      "lng": "-117.272",
+      "size": "54 Acres",
+      "url": "/incident/7755/",
+      "id": "7755",
+      "contained": "30"
     },
     {
       "name": "McFarland Fire",
@@ -77,19 +155,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "0"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-04 12:33:00",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,152 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "12"
     },
     {
       "name": "Boulder 2700 Fire ",
@@ -196,19 +261,6 @@
       "contained": "10"
     },
     {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": " A complex of 19 fires north of Glide,",
-      "state": "OREGON",
-      "updated": "2021-08-04 12:05:35",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "720 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "1"
-    },
-    {
       "name": "Skyline Ridge Complex",
       "type": "Wildfire",
       "summary": " A number of fires have been reported in the South Umpqua River...",
@@ -300,19 +352,6 @@
       "contained": "10"
     },
     {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": " Daily Updates | Videos | Facebook | Twitter | Flathead...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 11:32:38",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,356 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "9"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -324,32 +363,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-04 11:15:09",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "58,697 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-08-04 10:58:31",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,765 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "84"
     },
     {
       "name": "Leland Complex",
@@ -778,19 +791,6 @@
       "size": "212 Acres",
       "url": "/incident/7694/",
       "id": "7694",
-      "contained": "0"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-03 21:53:01",
-      "lat": "47.17",
-      "lng": "-115.442",
-      "size": "11,350 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
       "contained": "0"
     },
     {
