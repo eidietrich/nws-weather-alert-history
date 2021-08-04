@@ -1,17 +1,160 @@
 {
   "markers": [
     {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "The Granite Pass Complex consists of four wildfires burning in the...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 13:59:34",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "5,739 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "4"
+    },
+    {
       "name": "Pioneer Fire",
       "type": "Wildfire",
       "summary": "The Pioneer Fire was detected on July 29, 2021 at 1:40pm on Idaho...",
       "state": "IDAHO",
-      "updated": "2021-08-04 13:23:46",
+      "updated": "2021-08-04 13:58:09",
       "lat": "48.221",
       "lng": "-116.942",
       "size": "355 Acres",
       "url": "/incident/7743/",
       "id": "7743",
       "contained": "100"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
+      "state": "OREGON",
+      "updated": "2021-08-04 13:53:15",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,765 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "84"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Dixie Fire Update for Wednesday, August 4, 2021 Lassen and Plumas...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-04 13:49:50",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "274,139 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
+      "state": "IDAHO",
+      "updated": "2021-08-04 13:48:32",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "7,260 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "30"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-08-04 13:43:10",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,696 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "82"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-04 13:42:32",
+      "lat": "47.17",
+      "lng": "-115.442",
+      "size": "11,350 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-04 13:40:53",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "52,030 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "25"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 13:26:25",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,661 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "6"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 13:26:16",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,042 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 13:26:01",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "8,426 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "0"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 13:24:30",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "11,313 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
     },
     {
       "name": "McFarland Fire",
@@ -25,19 +168,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "5"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Dixie Fire West ZoneFire continues to move toward control lines...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-04 13:20:06",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "274,139 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
     },
     {
       "name": "Snake River Complex",
@@ -64,19 +194,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "5"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
-      "state": "OREGON",
-      "updated": "2021-08-04 13:07:44",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,765 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "84"
     },
     {
       "name": "Trestle Creek Complex",
@@ -144,19 +261,6 @@
       "contained": "30"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-04 12:54:56",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "52,030 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "25"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "Due to the multiple small fire starts over the last two days, which...",
@@ -168,19 +272,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "77"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-04 12:49:17",
-      "lat": "47.17",
-      "lng": "-115.442",
-      "size": "11,350 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "0"
     },
     {
       "name": "Rough Patch Complex",
@@ -259,19 +350,6 @@
       "url": "/incident/7754/",
       "id": "7754",
       "contained": "0"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
-      "state": "IDAHO",
-      "updated": "2021-08-04 12:30:26",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "7,260 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "30"
     },
     {
       "name": "Woods Creek Fire",
@@ -469,19 +547,6 @@
       "contained": "0"
     },
     {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "The Granite Pass Complex consists of four wildfires burning in the...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 10:47:34",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "5,739 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "4"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
@@ -545,58 +610,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 10:36:37",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "11,313 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 10:34:19",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "8,426 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "0"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 10:30:37",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,042 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 10:28:48",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "35,661 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "6"
     },
     {
       "name": "Cougar Rock Complex",
@@ -727,19 +740,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "18"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-08-04 08:19:01",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,696 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "82"
     },
     {
       "name": "Mono",
