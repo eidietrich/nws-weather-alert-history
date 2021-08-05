@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-05 15:13:27",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "52,030 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "25"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-05 15:02:26",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "16,773 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "1"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 15:00:13",
+      "lat": "47.764",
+      "lng": "-113.996",
+      "size": "1,844 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "0"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 14:55:59",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,465 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "46"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 14:47:19",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "9,795 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "10"
+    },
+    {
+      "name": "Gatlin Gulch Fire",
+      "type": "Wildfire",
+      "summary": " The Gatlin Gulch Fire is located approximately six miles SW of...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 14:46:49",
+      "lat": "46.168",
+      "lng": "-112.201",
+      "size": "60 Acres",
+      "url": "/incident/7749/",
+      "id": "7749",
+      "contained": "0"
+    },
+    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
@@ -14,19 +92,6 @@
       "contained": "0"
     },
     {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 14:45:44",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "9,795 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "10"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
@@ -38,19 +103,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "10"
-    },
-    {
-      "name": "Gatlin Gulch Fire",
-      "type": "Wildfire",
-      "summary": " The Gatlin Gulch Fire is located approximately six miles SW of...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 14:42:17",
-      "lat": "46.168",
-      "lng": "-112.201",
-      "size": "60 Acres",
-      "url": "/incident/7749/",
-      "id": "7749",
-      "contained": "0"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -168,32 +220,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "4"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 13:19:39",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,465 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-05 13:18:45",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "11,680 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "0"
     },
     {
       "name": "Middle Fork Complex",
@@ -495,19 +521,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-05 11:16:37",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "52,030 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "25"
-    },
-    {
       "name": "Nez Perce-Clearwater Lightning Fires",
       "type": "Wildfire",
       "summary": "In early July, a thunderstorm system moved through north-central...",
@@ -597,19 +610,6 @@
       "url": "/incident/7613/",
       "id": "7613",
       "contained": "100"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 10:51:45",
-      "lat": "47.764",
-      "lng": "-113.996",
-      "size": "1,844 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "0"
     },
     {
       "name": "Tamarack Fire",
