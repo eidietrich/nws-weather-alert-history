@@ -1,37 +1,115 @@
 {
   "markers": [
     {
-      "name": "Christensen Fire ",
+      "name": "Goat Fire",
       "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "summary": "                                            ...",
       "state": "MONTANA",
-      "updated": "2021-08-04 18:44:55",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "8,426 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
+      "updated": "2021-08-04 19:55:12",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "212 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
       "contained": "0"
     },
     {
-      "name": "Trail Creek Fire",
+      "name": "Gatlin Gulch Fire",
       "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "summary": " The Gatlin Gulch Fire is located approximately six miles SW of...",
       "state": "MONTANA",
-      "updated": "2021-08-04 18:40:37",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "35,661 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "10"
+      "updated": "2021-08-04 19:51:44",
+      "lat": "46.168",
+      "lng": "-112.201",
+      "size": "50 Acres",
+      "url": "/incident/7749/",
+      "id": "7749",
+      "contained": "0"
+    },
+    {
+      "name": "Dry Cabin",
+      "type": "Wildfire",
+      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 19:51:15",
+      "lat": "47.278",
+      "lng": "-112.956",
+      "size": "3,000 Acres",
+      "url": "/incident/7660/",
+      "id": "7660",
+      "contained": "0"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-04 19:37:50",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "20,005 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "5"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 19:37:04",
+      "lat": "47.764",
+      "lng": "-113.996",
+      "size": "1,416 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "0"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-04 19:29:57",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "0 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "0"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
+      "state": "IDAHO",
+      "updated": "2021-08-04 19:25:57",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "3,425 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "0"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-04 19:25:49",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "20,465 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "0"
     },
     {
       "name": "Antelope Fire 2021",
       "type": "Wildfire",
       "summary": "Please see the News and Announcements tabs for the latest updates on...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-04 18:36:32",
+      "updated": "2021-08-04 19:19:24",
       "lat": "41.521",
       "lng": "-121.919",
       "size": "0 Acres",
@@ -44,13 +122,78 @@
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
       "state": "MONTANA",
-      "updated": "2021-08-04 18:31:39",
+      "updated": "2021-08-04 19:15:18",
       "lat": "45.79",
       "lng": "-113.101",
       "size": "11,313 Acres",
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "10"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 19:04:15",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,041 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "0"
+    },
+    {
+      "name": "Elbow Creek",
+      "type": "Wildfire",
+      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
+      "state": "OREGON",
+      "updated": "2021-08-04 19:03:19",
+      "lat": "45.867",
+      "lng": "-117.619",
+      "size": "22,960 Acres",
+      "url": "/incident/7672/",
+      "id": "7672",
+      "contained": "95"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 18:54:27",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "18,107 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 18:53:29",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,661 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "10"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-04 18:44:55",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "8,426 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "0"
     },
     {
       "name": "Granite Pass Complex",
@@ -131,19 +274,6 @@
       "contained": "25"
     },
     {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": "                                            ...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 18:22:54",
-      "lat": "46.379",
-      "lng": "-113.071",
-      "size": "212 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily Map     |     Daily Update     |     Shasta-Trinity...",
@@ -222,19 +352,6 @@
       "contained": "26"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-04 17:29:58",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "0 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "0"
-    },
-    {
       "name": "Janus Complex",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
@@ -274,32 +391,6 @@
       "contained": "15"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 16:47:12",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "18,107 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-04 16:41:25",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "20,005 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "5"
-    },
-    {
       "name": "Taylor",
       "type": "Wildfire",
       "summary": "August 4, 2021 - 3 pm: The DNRC's County Assist Team (CAT) will be...",
@@ -310,19 +401,6 @@
       "size": "27,178 Acres",
       "url": "/incident/7768/",
       "id": "7768",
-      "contained": "0"
-    },
-    {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-04 16:07:49",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "20,465 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
       "contained": "0"
     },
     {
@@ -495,19 +573,6 @@
       "contained": "0"
     },
     {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 13:26:16",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,042 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "0"
-    },
-    {
       "name": "Snake River Complex",
       "type": "Wildfire",
       "summary": "This is the final update for the Snake River Complex.The Snake River...",
@@ -519,19 +584,6 @@
       "url": "/incident/7636/",
       "id": "7636",
       "contained": "90"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
-      "state": "IDAHO",
-      "updated": "2021-08-04 13:03:59",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "3,425 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "0"
     },
     {
       "name": "Molybdenite",
@@ -597,19 +649,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 12:30:31",
-      "lat": "47.764",
-      "lng": "-113.996",
-      "size": "1,416 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "0"
     },
     {
       "name": "Crooks Fire",
@@ -937,19 +976,6 @@
       "contained": "90"
     },
     {
-      "name": "Gatlin Gulch Fire",
-      "type": "Wildfire",
-      "summary": " The Gatlin Gulch Fire is located approximately six miles SW of...",
-      "state": "MONTANA",
-      "updated": "2021-08-03 20:18:36",
-      "lat": "46.168",
-      "lng": "-112.201",
-      "size": "60 Acres",
-      "url": "/incident/7749/",
-      "id": "7749",
-      "contained": "0"
-    },
-    {
       "name": "Black Butte Fire",
       "type": "Wildfire",
       "summary": " The Black Butte Fire was discovered as lightning start on Tuesday,...",
@@ -961,19 +987,6 @@
       "url": "/incident/7770/",
       "id": "7770",
       "contained": "0"
-    },
-    {
-      "name": "Elbow Creek",
-      "type": "Wildfire",
-      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
-      "state": "OREGON",
-      "updated": "2021-08-03 18:05:32",
-      "lat": "45.867",
-      "lng": "-117.619",
-      "size": "22,960 Acres",
-      "url": "/incident/7672/",
-      "id": "7672",
-      "contained": "95"
     },
     {
       "name": "East Troublesome Post-Fire BAER",
@@ -1182,19 +1195,6 @@
       "url": "/incident/7562/",
       "id": "7562",
       "contained": "68"
-    },
-    {
-      "name": "Dry Cabin",
-      "type": "Wildfire",
-      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
-      "state": "MONTANA",
-      "updated": "2021-08-02 17:00:39",
-      "lat": "47.278",
-      "lng": "-112.956",
-      "size": "3,000 Acres",
-      "url": "/incident/7660/",
-      "id": "7660",
-      "contained": "0"
     },
     {
       "name": "Nelson Creek Fire",
