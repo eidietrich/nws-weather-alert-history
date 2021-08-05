@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 14:45:48",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "20,146 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 14:45:44",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "9,795 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "10"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 14:44:20",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "14,738 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Gatlin Gulch Fire",
+      "type": "Wildfire",
+      "summary": " The Gatlin Gulch Fire is located approximately six miles SW of...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 14:42:17",
+      "lat": "46.168",
+      "lng": "-112.201",
+      "size": "60 Acres",
+      "url": "/incident/7749/",
+      "id": "7749",
+      "contained": "0"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 14:40:03",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "9,788 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "26"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Lassen and Plumas National Forests, August 5, 2021 A Red Flag Warning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-05 14:32:58",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "322,502 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-05 14:29:00",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "300 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "0"
+    },
+    {
       "name": "Black Butte Fire",
       "type": "Wildfire",
       "summary": "Wednesday, August 4, 2021...",
@@ -25,19 +116,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Dixie Fire West ZoneExtreme fire behavior through the night fueled by...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-05 14:19:07",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "322,502 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
     },
     {
       "name": "Goat Fire",
@@ -79,32 +157,6 @@
       "contained": "0"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "Cascade County Sheriff’s Office has issued an evacuation order for...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 13:27:40",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "9,788 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "26"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 13:25:29",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "20,146 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
-    },
-    {
       "name": "Granite Pass Complex",
       "type": "Wildfire",
       "summary": "The Granite Pass Complex consists of four wildfires burning in the...",
@@ -116,32 +168,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "4"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 13:22:31",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,738 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 13:20:46",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "9,795 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "10"
     },
     {
       "name": "Burnt Peak Fire",
@@ -363,19 +389,6 @@
       "url": "/incident/7608/",
       "id": "7608",
       "contained": "12"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-05 12:03:09",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "300 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "0"
     },
     {
       "name": "Molybdenite",
@@ -739,19 +752,6 @@
       "size": "20,994 Acres",
       "url": "/incident/7724/",
       "id": "7724",
-      "contained": "0"
-    },
-    {
-      "name": "Gatlin Gulch Fire",
-      "type": "Wildfire",
-      "summary": " The Gatlin Gulch Fire is located approximately six miles SW of...",
-      "state": "MONTANA",
-      "updated": "2021-08-04 19:51:44",
-      "lat": "46.168",
-      "lng": "-112.201",
-      "size": "50 Acres",
-      "url": "/incident/7749/",
-      "id": "7749",
       "contained": "0"
     },
     {
