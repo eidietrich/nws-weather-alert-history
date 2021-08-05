@@ -1,16 +1,81 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 16:15:18",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "20,146 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-05 16:07:21",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "23,409 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "7"
+    },
+    {
+      "name": "Elbow Creek",
+      "type": "Wildfire",
+      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
+      "state": "OREGON",
+      "updated": "2021-08-05 16:06:48",
+      "lat": "45.867",
+      "lng": "-117.619",
+      "size": "22,960 Acres",
+      "url": "/incident/7672/",
+      "id": "7672",
+      "contained": "95"
+    },
+    {
       "name": "Bull Complex (formally Janus Complex)",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
       "state": "OREGON",
-      "updated": "2021-08-05 15:37:48",
+      "updated": "2021-08-05 16:01:08",
       "lat": "44.879",
       "lng": "-122.009",
       "size": "323 Acres",
       "url": "/incident/7773/",
       "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-05 15:59:53",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "59,365 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through north-central...",
+      "state": "IDAHO",
+      "updated": "2021-08-05 15:54:23",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
       "contained": "0"
     },
     {
@@ -102,19 +167,6 @@
       "size": "60 Acres",
       "url": "/incident/7749/",
       "id": "7749",
-      "contained": "0"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 14:45:48",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "20,146 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
       "contained": "0"
     },
     {
@@ -378,19 +430,6 @@
       "contained": "0"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-05 12:44:05",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "23,409 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "7"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
@@ -521,19 +560,6 @@
       "contained": "0"
     },
     {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through north-central...",
-      "state": "IDAHO",
-      "updated": "2021-08-05 11:15:12",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire continues to actively burn on the Fremont-Winema...",
@@ -584,19 +610,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "15"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-05 10:55:53",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "59,365 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
     },
     {
       "name": "County Line",
@@ -766,19 +779,6 @@
       "url": "/incident/7660/",
       "id": "7660",
       "contained": "0"
-    },
-    {
-      "name": "Elbow Creek",
-      "type": "Wildfire",
-      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
-      "state": "OREGON",
-      "updated": "2021-08-04 19:03:19",
-      "lat": "45.867",
-      "lng": "-117.619",
-      "size": "22,960 Acres",
-      "url": "/incident/7672/",
-      "id": "7672",
-      "contained": "95"
     },
     {
       "name": "Taylor",
