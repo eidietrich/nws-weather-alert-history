@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": "     Fire Information Location: 11 miles Northeast of Philipsburg,...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 14:09:55",
-      "lat": "46.379",
-      "lng": "-113.071",
-      "size": "212 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
-    },
-    {
       "name": "Black Butte Fire",
       "type": "Wildfire",
       "summary": "Wednesday, August 4, 2021...",
       "state": "OREGON",
-      "updated": "2021-08-05 14:09:11",
+      "updated": "2021-08-05 14:23:40",
       "lat": "44.093",
       "lng": "-118.326",
       "size": "4,000 Acres",
@@ -31,13 +18,39 @@
       "type": "Wildfire",
       "summary": "The McCash Fire started on 7/31/21 @ 7:11 pm.  The fire is located...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-05 14:02:15",
+      "updated": "2021-08-05 14:22:26",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "951 Acres",
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West ZoneExtreme fire behavior through the night fueled by...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-05 14:19:07",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "322,502 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": "     Fire Information Location: 11 miles Northeast of Philipsburg,...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 14:09:55",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "212 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
     },
     {
       "name": "West Lolo Complex",
@@ -389,19 +402,6 @@
       "url": "/incident/7640/",
       "id": "7640",
       "contained": "42"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Dixie Fire West ZoneExtreme fire behavior through the night fueled by...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-05 11:41:35",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "322,502 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
     },
     {
       "name": "Jack Fire",
