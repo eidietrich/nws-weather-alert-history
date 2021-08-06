@@ -1,17 +1,147 @@
 {
   "markers": [
     {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 21:29:43",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "17,537 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-05 21:28:32",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "13,498 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
       "state": "WASHINGTON",
-      "updated": "2021-08-05 20:59:34",
+      "updated": "2021-08-05 21:28:02",
       "lat": "48.285",
       "lng": "-118.531",
       "size": "28,036 Acres",
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "20"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-08-05 21:24:23",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "7,505 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "24"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-08-05 21:20:48",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,752 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "93"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-05 21:17:59",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "24,247 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "7"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
+      "state": "IDAHO",
+      "updated": "2021-08-05 21:16:56",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,643 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "48"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 21:13:18",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,881 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "22"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": "     Fire Information Location: 11 miles Northeast of Philipsburg,...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 21:12:31",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "212 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "0"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-08-05 21:09:37",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,696 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "78"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-05 21:06:24",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,168 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "59"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -25,32 +155,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "24"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-05 20:44:56",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "13,498 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
-    },
-    {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": "     Fire Information Location: 11 miles Northeast of Philipsburg,...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 20:42:45",
-      "lat": "46.379",
-      "lng": "-113.071",
-      "size": "212 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "0"
     },
     {
       "name": "Alder Creek Fire",
@@ -77,32 +181,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "35"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-05 20:27:55",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,168 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "53"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
-      "state": "IDAHO",
-      "updated": "2021-08-05 20:20:42",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,643 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "48"
     },
     {
       "name": "River Complex 2021",
@@ -482,19 +560,6 @@
       "contained": "0"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-05 16:07:21",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "23,409 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "7"
-    },
-    {
       "name": "Elbow Creek",
       "type": "Wildfire",
       "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
@@ -544,19 +609,6 @@
       "size": "9,795 Acres",
       "url": "/incident/7696/",
       "id": "7696",
-      "contained": "10"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 14:44:20",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "14,738 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
       "contained": "10"
     },
     {
@@ -610,32 +662,6 @@
       "url": "/incident/7618/",
       "id": "7618",
       "contained": "80"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 12:54:59",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "35,881 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "10"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-08-05 12:51:04",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,752 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "92"
     },
     {
       "name": "Character Complex",
@@ -742,19 +768,6 @@
       "contained": "100"
     },
     {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-08-05 10:31:55",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,696 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "78"
-    },
-    {
       "name": "Lava Fire",
       "type": "Wildfire",
       "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
@@ -766,19 +779,6 @@
       "url": "/incident/7581/",
       "id": "7581",
       "contained": "78"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-08-05 09:40:24",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "7,505 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "24"
     },
     {
       "name": "Walker Creek Fire",
