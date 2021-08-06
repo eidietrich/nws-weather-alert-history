@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-06 14:11:41",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "34,479 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "0"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": " Daily Updates | Videos | Facebook | Twitter | Flathead...",
+      "state": "MONTANA",
+      "updated": "2021-08-06 14:10:42",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,699 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "18"
+    },
+    {
+      "name": "Whitetail Creek Fire",
+      "type": "Wildfire",
+      "summary": " Fire personnel made good headway on containing the fire yesterday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-06 14:08:57",
+      "lat": "47.811",
+      "lng": "-113.883",
+      "size": "348 Acres",
+      "url": "/incident/7767/",
+      "id": "7767",
+      "contained": "30"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West ZoneThe Dixie Fire remained very active overnight...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-06 14:07:25",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "432,813 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-06 14:07:20",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "61,026 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-06 14:05:04",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "20,783 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "3"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "Lightning during the week of July 26 caused multiple wildfires on the...",
+      "state": "OREGON",
+      "updated": "2021-08-06 14:02:27",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "3,305 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
+    },
+    {
+      "name": "Bull Complex (formally Janus Complex)",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-06 14:00:26",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "400 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
       "name": "Gatlin Gulch Fire",
       "type": "Wildfire",
       "summary": " The Gatlin Gulch Fire is located approximately six miles SW of...",
@@ -12,45 +116,6 @@
       "url": "/incident/7749/",
       "id": "7749",
       "contained": "25"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Dixie Fire West ZoneThe Dixie Fire remained very active overnight...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-06 13:49:12",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "432,813 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "Lightning during the week of July 26 caused multiple wildfires on the...",
-      "state": "OREGON",
-      "updated": "2021-08-06 13:46:24",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "3,305 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": " Daily Updates | Videos | Facebook | Twitter | Flathead...",
-      "state": "MONTANA",
-      "updated": "2021-08-06 13:37:33",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,699 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "18"
     },
     {
       "name": "Black Butte Fire",
@@ -76,32 +141,6 @@
       "size": "758 Acres",
       "url": "/incident/7685/",
       "id": "7685",
-      "contained": "0"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-06 13:27:05",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "34,479 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "0"
-    },
-    {
-      "name": "Bull Complex (formally Janus Complex)",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-06 13:09:43",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "300 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
       "contained": "0"
     },
     {
@@ -272,19 +311,6 @@
       "url": "/incident/7779/",
       "id": "7779",
       "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-06 12:24:09",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "61,026 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
     },
     {
       "name": "Summit Trail",
@@ -781,19 +807,6 @@
       "contained": "0"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-05 22:07:26",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "16,773 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "1"
-    },
-    {
       "name": "Bruler Fire",
       "type": "Wildfire",
       "summary": "The Bruler Fire was detected on July 12, 2021 and is located near the...",
@@ -883,19 +896,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
-    },
-    {
-      "name": "Whitetail Creek Fire",
-      "type": "Wildfire",
-      "summary": " Fire personnel made good headway on containing the fire yesterday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 18:47:28",
-      "lat": "47.811",
-      "lng": "-113.883",
-      "size": "348 Acres",
-      "url": "/incident/7767/",
-      "id": "7767",
-      "contained": "30"
     },
     {
       "name": "Elbow Creek",
