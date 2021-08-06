@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-06 17:45:33",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "13,498 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
       "state": "IDAHO",
-      "updated": "2021-08-06 17:32:17",
+      "updated": "2021-08-06 17:44:43",
       "lat": "48.341",
       "lng": "-116.22",
       "size": "3,450 Acres",
@@ -14,17 +27,56 @@
       "contained": "0"
     },
     {
+      "name": "Skyline Ridge Complex",
+      "type": "Wildfire",
+      "summary": " A number of fires have been reported in the South Umpqua River...",
+      "state": "OREGON",
+      "updated": "2021-08-06 17:41:56",
+      "lat": "42.901",
+      "lng": "-123.111",
+      "size": "1,516 Acres",
+      "url": "/incident/7762/",
+      "id": "7762",
+      "contained": "5"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Lassen and Plumas National Forests, August 6, 2021 — The forecast...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-06 17:41:00",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "432,813 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
       "name": "Harris Mountain",
       "type": "Wildfire",
       "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
       "state": "MONTANA",
-      "updated": "2021-08-06 17:31:53",
+      "updated": "2021-08-06 17:34:12",
       "lat": "47.127",
       "lng": "-111.75",
       "size": "31,460 Acres",
       "url": "/incident/7719/",
       "id": "7719",
       "contained": "23"
+    },
+    {
+      "name": "Tiltill",
+      "type": "Wildfire",
+      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-06 17:32:52",
+      "lat": "37.969",
+      "lng": "-119.723",
+      "size": "520 Acres",
+      "url": "/incident/7761/",
+      "id": "7761",
+      "contained": "15"
     },
     {
       "name": "Nez Perce-Clearwater Lightning Fires",
@@ -38,32 +90,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "Tiltill",
-      "type": "Wildfire",
-      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-06 17:29:38",
-      "lat": "37.969",
-      "lng": "-119.723",
-      "size": "520 Acres",
-      "url": "/incident/7761/",
-      "id": "7761",
-      "contained": "15"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Lassen and Plumas National Forests, August 6, 2021 — The forecast...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-06 17:27:04",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "432,813 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
     },
     {
       "name": "Cougar Rock Complex",
@@ -144,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-06 16:34:02",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "13,498 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
-    },
-    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
@@ -194,19 +207,6 @@
       "url": "/incident/7694/",
       "id": "7694",
       "contained": "30"
-    },
-    {
-      "name": "Skyline Ridge Complex",
-      "type": "Wildfire",
-      "summary": " A number of fires have been reported in the South Umpqua River...",
-      "state": "OREGON",
-      "updated": "2021-08-06 16:22:14",
-      "lat": "42.901",
-      "lng": "-123.111",
-      "size": "1,516 Acres",
-      "url": "/incident/7762/",
-      "id": "7762",
-      "contained": "5"
     },
     {
       "name": "Hay Creek",
