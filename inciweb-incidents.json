@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning.  As of 7:00 PM this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-05 21:42:55",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "24,247 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "7"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
+      "state": "MONTANA",
+      "updated": "2021-08-05 21:42:50",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "20,671 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "0"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-05 21:41:46",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "10,874 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "0"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Due to the multiple small fire starts over the last two days, which...",
+      "state": "OREGON",
+      "updated": "2021-08-05 21:37:37",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,280 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "54"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-05 21:36:46",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,168 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "59"
+    },
+    {
+      "name": "Whitmore",
+      "type": "Wildfire",
+      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-05 21:35:50",
+      "lat": "48.166",
+      "lng": "-119.139",
+      "size": "1,000 Acres",
+      "url": "/incident/7776/",
+      "id": "7776",
+      "contained": "0"
+    },
+    {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": " A complex of 19 fires north of Glide,",
+      "state": "OREGON",
+      "updated": "2021-08-05 21:34:01",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "838 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "1"
+    },
+    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
@@ -66,19 +157,6 @@
       "contained": "93"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-05 21:17:59",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "24,247 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "7"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
@@ -129,19 +207,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "78"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-05 21:06:24",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,168 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "59"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -248,19 +313,6 @@
       "contained": "75"
     },
     {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-05 19:49:06",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "10,874 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "0"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -284,19 +336,6 @@
       "size": "8,510 Acres",
       "url": "/incident/7702/",
       "id": "7702",
-      "contained": "0"
-    },
-    {
-      "name": "Whitmore",
-      "type": "Wildfire",
-      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-05 19:37:23",
-      "lat": "48.166",
-      "lng": "-119.139",
-      "size": "1,000 Acres",
-      "url": "/incident/7776/",
-      "id": "7776",
       "contained": "0"
     },
     {
@@ -402,19 +441,6 @@
       "url": "/incident/7767/",
       "id": "7767",
       "contained": "30"
-    },
-    {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": " A complex of 19 fires north of Glide,",
-      "state": "OREGON",
-      "updated": "2021-08-05 18:41:10",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "838 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "1"
     },
     {
       "name": "Middle Fork Complex",
@@ -547,19 +573,6 @@
       "contained": "0"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
-      "state": "MONTANA",
-      "updated": "2021-08-05 16:15:18",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "20,146 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "0"
-    },
-    {
       "name": "Elbow Creek",
       "type": "Wildfire",
       "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
@@ -688,19 +701,6 @@
       "url": "/incident/7640/",
       "id": "7640",
       "contained": "42"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Due to the multiple small fire starts over the last two days, which...",
-      "state": "OREGON",
-      "updated": "2021-08-05 11:37:52",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,280 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "54"
     },
     {
       "name": "Crooks Fire",
