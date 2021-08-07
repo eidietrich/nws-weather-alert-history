@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-06 22:13:24",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "14,053 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
+      "state": "IDAHO",
+      "updated": "2021-08-06 22:11:52",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "8,079 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "42"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-06 22:10:10",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,036 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "23"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-08-06 22:08:00",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,752 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "95"
+    },
+    {
       "name": "Boulder 2700 Fire ",
       "type": "Wildfire",
       "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
       "state": "MONTANA",
-      "updated": "2021-08-06 21:49:43",
+      "updated": "2021-08-06 22:00:18",
       "lat": "47.765",
       "lng": "-114.009",
       "size": "1,922 Acres",
@@ -14,17 +66,17 @@
       "contained": "0"
     },
     {
-      "name": "Summit Trail",
+      "name": "Middle Fork Complex",
       "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-06 21:49:23",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,036 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "23"
+      "summary": "Lightning during the week of July 26 caused multiple wildfires on the...",
+      "state": "OREGON",
+      "updated": "2021-08-06 21:59:06",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "3,308 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
     },
     {
       "name": "Monument Fire",
@@ -77,32 +129,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "3"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-06 21:30:08",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "14,053 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
-    },
-    {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
-      "state": "IDAHO",
-      "updated": "2021-08-06 21:27:47",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "8,079 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "42"
     },
     {
       "name": "Windy Pass",
@@ -181,19 +207,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "21"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "Lightning during the week of July 26 caused multiple wildfires on the...",
-      "state": "OREGON",
-      "updated": "2021-08-06 20:40:09",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "3,308 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
     },
     {
       "name": "Tamarack Fire",
@@ -922,19 +935,6 @@
       "url": "/incident/7663/",
       "id": "7663",
       "contained": "75"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-08-05 21:20:48",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,752 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "93"
     },
     {
       "name": "Lukens",
