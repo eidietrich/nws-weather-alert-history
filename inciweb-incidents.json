@@ -1,17 +1,147 @@
 {
   "markers": [
     {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-07 10:46:20",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "19,100 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
+      "state": "OREGON",
+      "updated": "2021-08-07 10:44:47",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "1,500 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "0"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-07 10:44:24",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "8,575 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "0"
+    },
+    {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
+      "state": "IDAHO",
+      "updated": "2021-08-07 10:44:21",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "8,079 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "42"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-07 10:43:55",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,897 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "23"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-07 10:43:54",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "10,874 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "0"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-07 10:43:27",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "11,540 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning.  As of 6:30 PM this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-07 10:42:05",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "27,148 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "21"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire started on July 6th. It continues to actively burn...",
       "state": "OREGON",
-      "updated": "2021-08-07 10:36:42",
+      "updated": "2021-08-07 10:41:42",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "413,765 Acres",
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "87"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-07 10:41:40",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "10,153 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "15"
+    },
+    {
+      "name": "Leland Complex",
+      "type": "Wildfire",
+      "summary": "The Leland Complex is composed of four wildfires: The Sand Mountain,...",
+      "state": "IDAHO",
+      "updated": "2021-08-07 10:40:21",
+      "lat": "46.746",
+      "lng": "-116.628",
+      "size": "3,514 Acres",
+      "url": "/incident/7644/",
+      "id": "7644",
+      "contained": "76"
     },
     {
       "name": "Character Complex",
@@ -25,19 +155,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "30"
-    },
-    {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
-      "state": "IDAHO",
-      "updated": "2021-08-07 10:35:43",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "8,079 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "42"
     },
     {
       "name": "Cedar Creek",
@@ -261,19 +378,6 @@
       "contained": "15"
     },
     {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-07 09:48:59",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "19,100 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
-    },
-    {
       "name": "Tango Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Tango Fire was reported the evening of July...",
@@ -363,19 +467,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "24"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-07 09:29:00",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "10,153 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "15"
     },
     {
       "name": "Hay Creek",
@@ -469,19 +560,6 @@
       "contained": "0"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-07 08:50:16",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "35,881 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "23"
-    },
-    {
       "name": "Goat Fire",
       "type": "Wildfire",
       "summary": " The Goat Fire is located 11 miles northeast of Philipsburg, MT on...",
@@ -493,19 +571,6 @@
       "url": "/incident/7694/",
       "id": "7694",
       "contained": "30"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
-      "state": "OREGON",
-      "updated": "2021-08-07 07:39:39",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "1,500 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "0"
     },
     {
       "name": "American Fork Fire",
@@ -662,32 +727,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "20"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning.  As of 6:30 PM this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-06 20:50:24",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "27,148 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "21"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-06 19:43:46",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "10,874 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "0"
     },
     {
       "name": "Storm Theatre Complex",
@@ -857,45 +896,6 @@
       "url": "/incident/7743/",
       "id": "7743",
       "contained": "100"
-    },
-    {
-      "name": "Leland Complex",
-      "type": "Wildfire",
-      "summary": "The Leland Complex is composed of four wildfires: The Sand Mountain,...",
-      "state": "IDAHO",
-      "updated": "2021-08-06 11:18:39",
-      "lat": "46.746",
-      "lng": "-116.628",
-      "size": "3,514 Acres",
-      "url": "/incident/7644/",
-      "id": "7644",
-      "contained": "76"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-06 10:42:33",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "8,510 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-06 10:41:11",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "11,467 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
     },
     {
       "name": "Rush Creek",
@@ -1106,19 +1106,6 @@
       "contained": "90"
     },
     {
-      "name": "Deer",
-      "type": "Wildfire",
-      "summary": " On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-04 09:38:37",
-      "lat": "36.443",
-      "lng": "-118.652",
-      "size": "0 Acres",
-      "url": "/incident/7736/",
-      "id": "7736",
-      "contained": "100"
-    },
-    {
       "name": "Mather Complex",
       "type": "Wildfire",
       "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
@@ -1197,19 +1184,6 @@
       "contained": "100"
     },
     {
-      "name": "Sixty Lakes",
-      "type": "Wildfire",
-      "summary": "On 8.2.2021 a hiker discovered a single tree on fire from a lightning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-03 09:57:58",
-      "lat": "36.814",
-      "lng": "-118.427",
-      "size": "0 Acres",
-      "url": "/incident/7766/",
-      "id": "7766",
-      "contained": "0"
-    },
-    {
       "name": "Delta Lake Fire ",
       "type": "Wildfire",
       "summary": "",
@@ -1221,19 +1195,6 @@
       "url": "/incident/7643/",
       "id": "7643",
       "contained": "100"
-    },
-    {
-      "name": "Tar",
-      "type": "Wildfire",
-      "summary": "The lightning caused Tar Fire discovered on 7.31.2021 is located near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-03 09:43:32",
-      "lat": "36.419",
-      "lng": "-118.651",
-      "size": "0 Acres",
-      "url": "/incident/7748/",
-      "id": "7748",
-      "contained": "0"
     },
     {
       "name": "Spruce Canyon",
@@ -1338,32 +1299,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "98"
-    },
-    {
-      "name": "Timber",
-      "type": "Wildfire",
-      "summary": " On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 10:01:20",
-      "lat": "36.452",
-      "lng": "-118.593",
-      "size": "0 Acres",
-      "url": "/incident/7737/",
-      "id": "7737",
-      "contained": "0"
-    },
-    {
-      "name": "Red Spur",
-      "type": "Wildfire",
-      "summary": "On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-02 10:01:13",
-      "lat": "36.551",
-      "lng": "-118.419",
-      "size": "0 Acres",
-      "url": "/incident/7733/",
-      "id": "7733",
-      "contained": "0"
     },
     {
       "name": "Tiger Fire",
