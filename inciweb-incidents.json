@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": " August 5, 2021: The lightning-caused Balsinger Fire started burning...",
+      "state": "MONTANA",
+      "updated": "2021-08-07 13:32:06",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "9,824 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "26"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-07 13:29:26",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "62,368 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily PIO Map  |     Daily IR Map   |     Daily Update   | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-07 13:27:15",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "42,567 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "0"
+    },
+    {
+      "name": "Bull Complex (formerly Janus Complex)",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-07 13:25:50",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "441 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-07 13:25:34",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "10,874 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "0"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "Friday, August 6, 2021...",
+      "state": "OREGON",
+      "updated": "2021-08-07 13:22:21",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "8,612 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "0"
+    },
+    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
@@ -51,32 +129,6 @@
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "22"
-    },
-    {
-      "name": "Bull Complex (formerly Janus Complex)",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-07 13:13:43",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "441 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily PIO Map  |     Daily IR Map   |     Daily Update  ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-07 13:04:32",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "42,567 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "0"
     },
     {
       "name": "West Lolo Complex",
@@ -207,19 +259,6 @@
       "url": "/incident/7735/",
       "id": "7735",
       "contained": "100"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-07 12:44:37",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "62,368 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
     },
     {
       "name": "Middle Fork Complex",
@@ -391,19 +430,6 @@
       "contained": "4"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": " August 5, 2021: The lightning-caused Balsinger Fire started burning...",
-      "state": "MONTANA",
-      "updated": "2021-08-07 11:45:30",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "9,824 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "26"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
@@ -545,19 +571,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "3"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-07 10:43:54",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "10,874 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "0"
     },
     {
       "name": "Leland Complex",
@@ -778,19 +791,6 @@
       "size": "21,772 Acres",
       "url": "/incident/7724/",
       "id": "7724",
-      "contained": "0"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "Friday, August 6, 2021...",
-      "state": "OREGON",
-      "updated": "2021-08-06 18:50:04",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "7,645 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
       "contained": "0"
     },
     {
