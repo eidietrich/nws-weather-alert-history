@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-07 12:44:37",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "62,368 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "24"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "Lightning during the week of July 26 caused multiple wildfires on the...",
+      "state": "OREGON",
+      "updated": "2021-08-07 12:42:36",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "3,308 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-08-07 12:42:09",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,042 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "14"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-07 12:36:21",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "11,540 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
       "name": "Christensen Fire ",
       "type": "Wildfire",
       "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
       "state": "MONTANA",
-      "updated": "2021-08-07 12:22:31",
+      "updated": "2021-08-07 12:34:43",
       "lat": "45.781",
       "lng": "-113.226",
       "size": "8,575 Acres",
@@ -14,24 +66,24 @@
       "contained": "0"
     },
     {
-      "name": "Windy Pass",
+      "name": "Trail Creek Fire",
       "type": "Wildfire",
-      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-07 12:21:51",
-      "lat": "47.112",
-      "lng": "-121.141",
-      "size": "119 Acres",
-      "url": "/incident/7779/",
-      "id": "7779",
-      "contained": "15"
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-07 12:33:39",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,897 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "23"
     },
     {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-07 12:20:14",
+      "updated": "2021-08-07 12:33:31",
       "lat": "41.143",
       "lng": "-123.018",
       "size": "23,085 Acres",
@@ -40,17 +92,30 @@
       "contained": "3"
     },
     {
-      "name": "Cub Creek 2 Fire",
+      "name": "Summit Trail",
       "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
       "state": "WASHINGTON",
-      "updated": "2021-08-07 12:17:22",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "62,368 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "24"
+      "updated": "2021-08-07 12:25:19",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,036 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "23"
+    },
+    {
+      "name": "Windy Pass",
+      "type": "Wildfire",
+      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-07 12:24:22",
+      "lat": "47.112",
+      "lng": "-121.141",
+      "size": "119 Acres",
+      "url": "/incident/7779/",
+      "id": "7779",
+      "contained": "15"
     },
     {
       "name": "Devil's Knob Complex",
@@ -64,19 +129,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-07 12:15:19",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "11,540 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
     },
     {
       "name": "Monument Fire",
@@ -313,19 +365,6 @@
       "contained": "75"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-07 11:21:36",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,036 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "23"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -430,19 +469,6 @@
       "contained": "15"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-07 10:43:55",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "35,897 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "23"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
@@ -493,19 +519,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "30"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-07 10:23:17",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,042 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "14"
     },
     {
       "name": "Schneider Springs",
@@ -753,19 +766,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "95"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "Lightning during the week of July 26 caused multiple wildfires on the...",
-      "state": "OREGON",
-      "updated": "2021-08-06 21:59:06",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "3,308 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
     },
     {
       "name": "Storm Theatre Complex",
