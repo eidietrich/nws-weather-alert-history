@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-07 08:44:18",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "19,100 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily PIO Map    |     Daily IR Map     |     Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-07 08:42:49",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "36,015 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West Zone –There was a change in the weather pattern...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-07 08:40:26",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "446,723 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "21"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
+      "state": "IDAHO",
+      "updated": "2021-08-07 08:36:53",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,643 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "48"
+    },
+    {
       "name": "South Yaak",
       "type": "Wildfire",
       "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
@@ -38,19 +90,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "32"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-07 08:04:19",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "19,100 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
     },
     {
       "name": "Hay Creek",
@@ -181,32 +220,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "87"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Dixie Fire West Zone –There was a change in the weather pattern...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-07 00:04:31",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "434,813 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "21"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily PIO Map    |     Daily IR Map     |     Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-06 23:58:11",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "36,015 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "0"
     },
     {
       "name": "Lick Creek (Dry Gulch) Fire",
@@ -428,19 +441,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "21"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
-      "state": "IDAHO",
-      "updated": "2021-08-06 20:33:57",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,643 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "48"
     },
     {
       "name": "Cedar Creek",
