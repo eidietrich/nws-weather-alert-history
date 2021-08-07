@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
+      "state": "IDAHO",
+      "updated": "2021-08-06 21:27:47",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "8,079 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "42"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-06 21:25:17",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,036 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "23"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-06 21:24:26",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "14,053 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Windy Pass",
+      "type": "Wildfire",
+      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-06 21:23:47",
+      "lat": "47.112",
+      "lng": "-121.141",
+      "size": "85 Acres",
+      "url": "/incident/7779/",
+      "id": "7779",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-06 21:15:28",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,168 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "59"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Dixie Fire West Zone –There was a change in the weather pattern...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-06 21:14:11",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "434,813 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "21"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Fire is located 11 miles northeast of Philipsburg, MT on the...",
+      "state": "MONTANA",
+      "updated": "2021-08-06 21:04:57",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "212 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "50"
+    },
+    {
       "name": "Moe Canyon",
       "type": "Wildfire",
       "summary": "Southeast WA Type 3 Incident Management Team assumed command of the...",
       "state": "WASHINGTON",
-      "updated": "2021-08-06 20:54:15",
+      "updated": "2021-08-06 20:57:19",
       "lat": "47.718",
       "lng": "-120.382",
       "size": "250 Acres",
       "url": "/incident/7778/",
       "id": "7778",
       "contained": "5"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-08-06 20:55:39",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "7,505 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "24"
     },
     {
       "name": "McFarland Fire",
@@ -38,32 +142,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Lassen and Plumas National Forests, August 6, 2021 — The forecast...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-06 20:49:16",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "434,813 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "21"
-    },
-    {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Fire is located 11 miles northeast of Philipsburg, MT on the...",
-      "state": "MONTANA",
-      "updated": "2021-08-06 20:45:18",
-      "lat": "46.379",
-      "lng": "-113.071",
-      "size": "212 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "50"
     },
     {
       "name": "Middle Fork Complex",
@@ -300,19 +378,6 @@
       "contained": "0"
     },
     {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-06 18:20:39",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "13,498 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
-    },
-    {
       "name": "Half Moon",
       "type": "Wildfire",
       "summary": "The Half Moon Fire  is one of multiple fires burning in Yosemite...",
@@ -363,19 +428,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
-      "state": "IDAHO",
-      "updated": "2021-08-06 17:21:47",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "8,079 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "42"
     },
     {
       "name": "Muddy Slide Fire",
@@ -638,32 +690,6 @@
       "contained": "0"
     },
     {
-      "name": "Windy Pass",
-      "type": "Wildfire",
-      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-06 12:29:02",
-      "lat": "47.112",
-      "lng": "-121.141",
-      "size": "85 Acres",
-      "url": "/incident/7779/",
-      "id": "7779",
-      "contained": "0"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-06 12:23:34",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,036 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "20"
-    },
-    {
       "name": "West Zone Superior Fires",
       "type": "Wildfire",
       "summary": " The West Zone of the Superior National Forest, consisting of the...",
@@ -729,19 +755,6 @@
       "contained": "76"
     },
     {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-06 11:02:23",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,168 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "59"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
@@ -792,19 +805,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "10"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-08-06 10:38:10",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "7,505 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "24"
     },
     {
       "name": "Tango Fire",
