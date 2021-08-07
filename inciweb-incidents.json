@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-06 21:49:43",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "1,922 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-06 21:49:23",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,036 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "23"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily PIO Map    |     Daily IR Map     |     Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-06 21:49:18",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "36,015 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "0"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-06 21:48:34",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "38,601 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "20"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-06 21:42:01",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,168 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "59"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-06 21:40:58",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "20,810 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "3"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-06 21:30:08",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "14,053 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
       "name": "Cougar Rock Complex",
       "type": "Wildfire",
       "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
@@ -14,32 +105,6 @@
       "contained": "42"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-06 21:25:17",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,036 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "23"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-06 21:24:26",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "14,053 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
-    },
-    {
       "name": "Windy Pass",
       "type": "Wildfire",
       "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
@@ -51,19 +116,6 @@
       "url": "/incident/7779/",
       "id": "7779",
       "contained": "0"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-06 21:15:28",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,168 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "59"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -129,19 +181,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "21"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily PIO Map    |     Daily IR Map     |     Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-06 20:49:49",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "36,015 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "0"
     },
     {
       "name": "Middle Fork Complex",
@@ -469,32 +508,6 @@
       "contained": "26"
     },
     {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-06 15:51:48",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "1,922 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "0"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-06 15:45:52",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "34,479 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "0"
-    },
-    {
       "name": "Goose Fire",
       "type": "Wildfire",
       "summary": "The Goose Fire is currently 7,522 acres and 80% contained as of...",
@@ -545,19 +558,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "90"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-06 15:25:37",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "20,783 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "3"
     },
     {
       "name": "McCash Fire",
