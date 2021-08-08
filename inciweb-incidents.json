@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "August 8, 2021 - The McFarland Fire is currently 31,185 acres and 21%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-08 12:24:14",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "31,185 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "21"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 12:23:55",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "2,066 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "16"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through north-central...",
+      "state": "IDAHO",
+      "updated": "2021-08-08 12:15:57",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "The Granite Pass Complex consists of four wildfires burning in the...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 12:15:05",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "5,739 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "13"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire started on 7/31/21 @ 7:11 pm.  The fire is located...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-08 12:13:04",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "1,334 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-08 12:10:53",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,250 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "23"
+    },
+    {
+      "name": "Nine Mine Fire",
+      "type": "Wildfire",
+      "summary": "Orient, WA - The Nine Mine Fire is located 4.5 miles south /...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-08 12:07:08",
+      "lat": "48.942",
+      "lng": "-118.207",
+      "size": "300 Acres",
+      "url": "/incident/7783/",
+      "id": "7783",
+      "contained": "5"
+    },
+    {
       "name": "Whitmore",
       "type": "Wildfire",
       "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
       "state": "WASHINGTON",
-      "updated": "2021-08-08 12:01:16",
+      "updated": "2021-08-08 12:04:10",
       "lat": "48.15",
       "lng": "-119.134",
       "size": "53,314 Acres",
@@ -25,19 +116,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "0"
-    },
-    {
-      "name": "Nine Mine Fire",
-      "type": "Wildfire",
-      "summary": "Orient, WA - The Nine Mine Fire is located 4.5 miles south /...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-08 11:58:46",
-      "lat": "48.942",
-      "lng": "-118.207",
-      "size": "300 Acres",
-      "url": "/incident/7783/",
-      "id": "7783",
-      "contained": "5"
     },
     {
       "name": "River Complex 2021",
@@ -64,19 +142,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "20"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-08 11:56:38",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,250 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "23"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -222,19 +287,6 @@
       "contained": "16"
     },
     {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "The Granite Pass Complex consists of four wildfires burning in the...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 11:37:58",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "5,739 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "13"
-    },
-    {
       "name": "Needles Fire",
       "type": "Wildfire",
       "summary": "The Needles Fire started on August 6, 2021, approximately 11 miles...",
@@ -272,19 +324,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "23"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 11:32:12",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "2,066 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "16"
     },
     {
       "name": "Lava Fire",
@@ -378,19 +417,6 @@
       "contained": "0"
     },
     {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through north-central...",
-      "state": "IDAHO",
-      "updated": "2021-08-08 11:06:27",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "Cougar Rock Complex",
       "type": "Wildfire",
       "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
@@ -415,19 +441,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "0"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-08 10:57:54",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "31,185 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "21"
     },
     {
       "name": "Tamarack Fire",
@@ -909,19 +922,6 @@
       "url": "/incident/7734/",
       "id": "7734",
       "contained": "25"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire started on 7/31/21 @ 7:11 pm.  The fire is located...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-07 12:12:21",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "1,270 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Whitetail Creek Fire",
