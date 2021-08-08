@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-08 15:29:01",
+      "lat": "48.575",
+      "lng": "-119.832",
+      "size": "1,213 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "0"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "Fire:  Black Butte Fire                             ...",
+      "state": "OREGON",
+      "updated": "2021-08-08 15:27:37",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "9,673 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "0"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "In early July, a thunderstorm system moved through north-central...",
+      "state": "IDAHO",
+      "updated": "2021-08-08 15:26:24",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire is now the second largest wildland fire in...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-08 15:14:51",
+      "updated": "2021-08-08 15:22:04",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "463,477 Acres",
@@ -25,32 +64,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "10"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-08 15:08:50",
-      "lat": "48.575",
-      "lng": "-119.832",
-      "size": "1,213 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "0"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "Fire:  Black Butte Fire                             ...",
-      "state": "OREGON",
-      "updated": "2021-08-08 15:08:48",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "9,673 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "0"
     },
     {
       "name": "Hay Creek",
@@ -142,19 +155,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "48"
-    },
-    {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "In early July, a thunderstorm system moved through north-central...",
-      "state": "IDAHO",
-      "updated": "2021-08-08 13:53:54",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
     },
     {
       "name": "Taylor",
