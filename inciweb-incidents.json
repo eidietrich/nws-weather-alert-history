@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": " Management of the Middle Fork Complex was transferred to Pacific...",
+      "state": "OREGON",
+      "updated": "2021-08-08 18:27:47",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "3,703 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 18:25:26",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,897 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "23"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": " Daily Updates | Videos | Facebook | Twitter | Flathead...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 18:25:17",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,894 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "23"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 18:25:04",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,042 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "32"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 18:24:49",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "11,540 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 18:24:30",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "8,575 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "0"
+    },
+    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
       "state": "MONTANA",
-      "updated": "2021-08-08 18:15:38",
+      "updated": "2021-08-08 18:23:50",
       "lat": "47.667",
       "lng": "-115.298",
       "size": "21,967 Acres",
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "15"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 18:20:09",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "19,028 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -64,19 +155,6 @@
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "0"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": " Management of the Middle Fork Complex was transferred to Pacific...",
-      "state": "OREGON",
-      "updated": "2021-08-08 17:31:14",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "3,703 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
     },
     {
       "name": "Whitmore",
@@ -196,32 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 15:11:08",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "19,028 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": " Daily Updates | Videos | Facebook | Twitter | Flathead...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 15:08:10",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,894 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "23"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "Please see the News and Announcements tabs for the latest updates on...",
@@ -274,19 +326,6 @@
       "contained": "32"
     },
     {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 13:41:41",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "11,540 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
-    },
-    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
@@ -300,19 +339,6 @@
       "contained": "24"
     },
     {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 13:36:05",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,042 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "32"
-    },
-    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire started on 7/31/21 @ 7:11 pm.  The fire is located...",
@@ -324,32 +350,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 13:29:28",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "35,897 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "23"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 13:23:58",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "8,575 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "0"
     },
     {
       "name": "Green Ridge Fire",
