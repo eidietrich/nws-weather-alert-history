@@ -1,6 +1,214 @@
 {
   "markers": [
     {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-08 10:18:02",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "31,185 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "21"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 10:17:37",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "10,380 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "15"
+    },
+    {
+      "name": "Whitmore",
+      "type": "Wildfire",
+      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-08 10:17:35",
+      "lat": "48.15",
+      "lng": "-119.134",
+      "size": "53,314 Acres",
+      "url": "/incident/7776/",
+      "id": "7776",
+      "contained": "0"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 10:16:34",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,560 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "46"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-08 10:14:02",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "20,259 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily PIO Map  |     Daily IR Map   |     Fire Progression...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-08 10:13:22",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "49,068 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-08 10:10:18",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,210 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "59"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 10:07:16",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "2,066 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "16"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-08 10:04:10",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "5,000 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "0"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 09:58:06",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "21,967 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 09:58:02",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "31,069 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "2"
+    },
+    {
+      "name": "Windy Pass",
+      "type": "Wildfire",
+      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-08 09:57:14",
+      "lat": "47.112",
+      "lng": "-121.141",
+      "size": "98 Acres",
+      "url": "/incident/7779/",
+      "id": "7779",
+      "contained": "16"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": " August 5, 2021: The lightning-caused Balsinger Fire started burning...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 09:55:41",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "9,824 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "45"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": " Daily Updates | Videos | Facebook | Twitter | Flathead...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 09:52:56",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,894 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "23"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-08 09:51:36",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "1,800 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "0"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 09:49:38",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "19,028 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
@@ -12,32 +220,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "80"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 09:45:03",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "21,967 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-08 09:44:21",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,210 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "59"
     },
     {
       "name": "Granite Pass Complex",
@@ -64,19 +246,6 @@
       "url": "/incident/7768/",
       "id": "7768",
       "contained": "90"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 09:37:09",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "19,028 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "Needles Fire",
@@ -183,19 +352,6 @@
       "contained": "23"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning.  As of 6:00 AM this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-08 08:53:03",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "30,093 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "21"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
@@ -207,19 +363,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "48"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 08:47:21",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "2,066 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "16"
     },
     {
       "name": "Walker Creek Fire",
@@ -246,84 +389,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "24"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily PIO Map  |     Daily IR Map   |     Fire Progression...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-08 07:56:02",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "49,068 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "0"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": " August 5, 2021: The lightning-caused Balsinger Fire started burning...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 07:46:55",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "9,824 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "45"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 07:42:47",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "31,069 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "2"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 07:38:19",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "10,380 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "15"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 07:35:24",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,560 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": " Daily Updates | Videos | Facebook | Twitter | Flathead...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 07:23:48",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,894 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "23"
     },
     {
       "name": "Black Butte Fire",
@@ -378,19 +443,6 @@
       "contained": "96"
     },
     {
-      "name": "Whitmore",
-      "type": "Wildfire",
-      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-07 23:29:08",
-      "lat": "48.15",
-      "lng": "-119.134",
-      "size": "53,314 Acres",
-      "url": "/incident/7776/",
-      "id": "7776",
-      "contained": "0"
-    },
-    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
@@ -415,19 +467,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "10"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-07 22:59:10",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "15,390 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
     },
     {
       "name": "Moe Canyon",
@@ -480,19 +519,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "24"
-    },
-    {
-      "name": "Windy Pass",
-      "type": "Wildfire",
-      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-07 21:29:45",
-      "lat": "47.112",
-      "lng": "-121.141",
-      "size": "98 Acres",
-      "url": "/incident/7779/",
-      "id": "7779",
-      "contained": "16"
     },
     {
       "name": "2021 Payette Wilderness Fires",
@@ -586,19 +612,6 @@
       "contained": "3"
     },
     {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": " The Bulldog Mountain Fire started August 5, 2021 and is burning 20...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-07 21:01:58",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "1,800 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "0"
-    },
-    {
       "name": "Rough Patch Complex",
       "type": "Wildfire",
       "summary": " A complex of 19 fires north of Glide,",
@@ -636,19 +649,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "95"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-07 20:44:27",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "4,000 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "0"
     },
     {
       "name": "Goose Fire",
