@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-08 21:44:51",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "1,258 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "20"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 21:43:03",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "19,028 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily PIO Map  |     Daily IR Map   |     Fire Progression...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-08 21:24:10",
+      "updated": "2021-08-08 21:42:59",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "50,487 Acres",
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "3"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 21:39:26",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "2,066 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "16"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 21:36:07",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "10,388 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "34"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 21:34:36",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,560 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "46"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-08 21:30:22",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,250 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "23"
     },
     {
       "name": "McFarland Fire",
@@ -25,19 +103,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "26"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 21:15:49",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "2,066 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "16"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
@@ -90,19 +155,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "24"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-08 20:55:55",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,250 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "23"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -365,19 +417,6 @@
       "contained": "0"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 18:20:09",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "19,028 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire is now the second largest wildland fire in...",
@@ -402,19 +441,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "9"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-08 17:59:21",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "1,258 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "20"
     },
     {
       "name": "Muckamuck",
@@ -545,19 +571,6 @@
       "url": "/incident/7783/",
       "id": "7783",
       "contained": "5"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 12:48:49",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "10,388 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "15"
     },
     {
       "name": "Jack Fire",
@@ -805,19 +818,6 @@
       "url": "/incident/7663/",
       "id": "7663",
       "contained": "75"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 10:16:34",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,560 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
     },
     {
       "name": "Harris Mountain",
