@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "Fire:  Black Butte Fire                             ...",
+      "state": "OREGON",
+      "updated": "2021-08-09 08:44:17",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "9,673 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-09 08:43:32",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "2,072 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "31"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily PIO Map  |     Daily IR Map   |     Fire Progression...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-09 08:43:26",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "53,019 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "3"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 08:40:24",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,250 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "25"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 08:39:59",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "62,368 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "26"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire is now the second largest wildland fire in...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-09 08:33:24",
+      "updated": "2021-08-09 08:39:31",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "463,477 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "21"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": " This will be the last update for the Goat Fire unless significant...",
+      "state": "MONTANA",
+      "updated": "2021-08-09 08:38:36",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "212 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "75"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 08:38:05",
+      "lat": "48.575",
+      "lng": "-119.832",
+      "size": "1,213 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "0"
     },
     {
       "name": "South Yaak",
@@ -25,32 +116,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "34"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-09 08:32:25",
-      "lat": "48.575",
-      "lng": "-119.832",
-      "size": "1,213 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-09 08:31:40",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "62,368 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "26"
     },
     {
       "name": "Hay Creek",
@@ -77,19 +142,6 @@
       "url": "/incident/7776/",
       "id": "7776",
       "contained": "15"
-    },
-    {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": " This will be the last update for the Goat Fire unless significant...",
-      "state": "MONTANA",
-      "updated": "2021-08-09 08:24:09",
-      "lat": "46.379",
-      "lng": "-113.071",
-      "size": "212 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "75"
     },
     {
       "name": "Burnt Peak Fire",
@@ -142,19 +194,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "45"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-09 07:46:33",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "2,072 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "16"
     },
     {
       "name": "Mud Lick Fire",
@@ -233,19 +272,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "13"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily PIO Map  |     Daily IR Map   |     Fire Progression...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-09 00:28:48",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "50,487 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "3"
     },
     {
       "name": "Lick Creek (Dry Gulch) Fire",
@@ -363,19 +389,6 @@
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "0"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-08 22:47:38",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,250 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "23"
     },
     {
       "name": "Chickadee Creek",
@@ -609,19 +622,6 @@
       "size": "8,575 Acres",
       "url": "/incident/7702/",
       "id": "7702",
-      "contained": "0"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "Fire:  Black Butte Fire                             ...",
-      "state": "OREGON",
-      "updated": "2021-08-08 15:27:37",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "9,673 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
       "contained": "0"
     },
     {
