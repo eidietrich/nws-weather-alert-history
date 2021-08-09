@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily PIO Map  |     Daily IR Map   |     Fire Progression...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-08 21:24:10",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "50,487 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "3"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "August 8, 2021 - The McFarland Fire is currently 31,754 acres and 26%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-08 21:19:24",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "31,754 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "26"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 21:15:49",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "2,066 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "16"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-08 21:09:40",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,210 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "59"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 21:01:03",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "40,157 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "3"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": " Management of the Middle Fork Complex was transferred to Pacific...",
+      "state": "OREGON",
+      "updated": "2021-08-08 21:01:02",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "3,703 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "Please see the News and Announcements tabs for the latest updates on...",
@@ -27,19 +105,6 @@
       "contained": "23"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "August 8, 2021 - The McFarland Fire is currently 31,754 acres and 26%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-08 20:54:45",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "31,754 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "26"
-    },
-    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
@@ -63,19 +128,6 @@
       "size": "3,586 Acres",
       "url": "/incident/7648/",
       "id": "7648",
-      "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily PIO Map  |     Daily IR Map   |     Fire Progression...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-08 20:33:46",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "49,068 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
       "contained": "0"
     },
     {
@@ -183,19 +235,6 @@
       "contained": "0"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 19:21:51",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "31,069 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "2"
-    },
-    {
       "name": "Bulldog Mountain",
       "type": "Wildfire",
       "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
@@ -259,19 +298,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "15"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": " Management of the Middle Fork Complex was transferred to Pacific...",
-      "state": "OREGON",
-      "updated": "2021-08-08 18:52:27",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "3,703 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -534,19 +560,6 @@
       "contained": "15"
     },
     {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 12:40:51",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "2,066 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "16"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "Due to the multiple small fire starts over the last two days, which...",
@@ -571,19 +584,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "3"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-08 11:42:54",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,210 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "59"
     },
     {
       "name": "Bull Complex (formerly Janus Complex)",
