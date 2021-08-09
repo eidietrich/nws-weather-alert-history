@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
+      "state": "MONTANA",
+      "updated": "2021-08-09 14:42:29",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,560 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "46"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "  August 9, 2021 Acres: 32,687 Containment: 26% Injuries: 8...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-09 14:38:44",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "32,687 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "26"
+    },
+    {
+      "name": "Bull Complex (formerly Janus Complex)",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-09 14:36:20",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "450 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
       "state": "OREGON",
-      "updated": "2021-08-09 14:24:43",
+      "updated": "2021-08-09 14:33:07",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "413,765 Acres",
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "96"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-09 14:29:12",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "27,076 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "5"
     },
     {
       "name": "Muckamuck",
@@ -105,32 +157,6 @@
       "contained": "98"
     },
     {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
-      "state": "MONTANA",
-      "updated": "2021-08-09 13:32:11",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,560 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
-    },
-    {
-      "name": "Bull Complex (formerly Janus Complex)",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-09 13:26:20",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "450 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
       "name": "Goat Fire",
       "type": "Wildfire",
       "summary": " This will be the last update for the Goat Fire unless significant...",
@@ -168,19 +194,6 @@
       "url": "/incident/7724/",
       "id": "7724",
       "contained": "0"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "  August 9, 2021 Acres: 32,687 Containment: 26% Injuries: 8...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-09 13:16:33",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "32,687 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "26"
     },
     {
       "name": "Jack Fire",
@@ -402,19 +415,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "23"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-09 12:35:02",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "27,076 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "5"
     },
     {
       "name": "Middle Fork Complex",
