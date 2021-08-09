@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Whitmore Fire ",
+      "type": "Wildfire",
+      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-08 23:22:08",
+      "lat": "48.15",
+      "lng": "-119.134",
+      "size": "53,314 Acres",
+      "url": "/incident/7776/",
+      "id": "7776",
+      "contained": "15"
+    },
+    {
+      "name": "Knoll",
+      "type": "Wildfire",
+      "summary": "Management of the Knoll Fire was transferred to Pacific Northwest...",
+      "state": "OREGON",
+      "updated": "2021-08-08 23:22:07",
+      "lat": "44.246",
+      "lng": "-122.055",
+      "size": "59 Acres",
+      "url": "/incident/7790/",
+      "id": "7790",
+      "contained": "0"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": " Management of the Middle Fork Complex was transferred to Pacific...",
+      "state": "OREGON",
+      "updated": "2021-08-08 23:12:14",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "3,703 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire is now the second largest wildland fire in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-08 23:05:15",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "463,477 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "21"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
+      "state": "IDAHO",
+      "updated": "2021-08-08 22:56:14",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "3,586 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "0"
+    },
+    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
       "state": "WASHINGTON",
-      "updated": "2021-08-08 22:45:58",
+      "updated": "2021-08-08 22:56:11",
       "lat": "48.575",
       "lng": "-119.832",
       "size": "1,213 Acres",
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "0"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-08 22:49:55",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "2,066 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "16"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-08 22:47:38",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,250 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "23"
     },
     {
       "name": "Spur Fire",
@@ -144,32 +235,6 @@
       "contained": "42"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-08 22:01:11",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,250 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "23"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire is now the second largest wildland fire in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-08 21:51:41",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "463,477 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "21"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -194,19 +259,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "10"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 21:39:26",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "2,066 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "16"
     },
     {
       "name": "South Yaak",
@@ -261,19 +313,6 @@
       "contained": "3"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": " Management of the Middle Fork Complex was transferred to Pacific...",
-      "state": "OREGON",
-      "updated": "2021-08-08 21:01:02",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "3,703 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "Please see the News and Announcements tabs for the latest updates on...",
@@ -285,32 +324,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "24"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
-      "state": "IDAHO",
-      "updated": "2021-08-08 20:46:23",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "3,586 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "0"
-    },
-    {
-      "name": "Whitmore Fire ",
-      "type": "Wildfire",
-      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-08 20:28:26",
-      "lat": "48.15",
-      "lng": "-119.134",
-      "size": "53,314 Acres",
-      "url": "/incident/7776/",
-      "id": "7776",
-      "contained": "0"
     },
     {
       "name": "Cedar Creek",
