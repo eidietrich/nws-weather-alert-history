@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": " The Chickadee Creek Fire started on August 4, 2021 from a dry...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-09 18:28:35",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "490 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "0"
-    },
-    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "McFarland Fire UpdateAugust 9, 2021  With updated mapping, the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-09 18:27:50",
+      "updated": "2021-08-09 18:45:33",
       "lat": "40.35",
       "lng": "-123.034",
       "size": "32,687 Acres",
@@ -27,16 +14,55 @@
       "contained": "26"
     },
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-09 18:43:17",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "27,076 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "5"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": " Today, the management of the Walker Fire will transition from Tom...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 18:41:06",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "238 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "10"
+    },
+    {
       "name": "Spur Fire",
       "type": "Wildfire",
       "summary": " Management of the Spur Fire transitioned from Tom Merritt’s...",
       "state": "WASHINGTON",
-      "updated": "2021-08-09 18:27:01",
+      "updated": "2021-08-09 18:33:28",
       "lat": "48.815",
       "lng": "-119.079",
       "size": "1,935 Acres",
       "url": "/incident/7789/",
       "id": "7789",
+      "contained": "0"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": " The Chickadee Creek Fire started on August 4, 2021 from a dry...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 18:32:09",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "490 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
       "contained": "0"
     },
     {
@@ -259,19 +285,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-09 15:36:38",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "27,076 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "5"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -896,19 +909,6 @@
       "url": "/incident/7706/",
       "id": "7706",
       "contained": "0"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": " Today, the management of the Walker Fire will transition from Tom...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-08 19:48:47",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "238 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "10"
     },
     {
       "name": "Taylor",
