@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": " Management of the Middle Fork Complex was transferred to Pacific...",
+      "state": "OREGON",
+      "updated": "2021-08-09 18:11:18",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "3,703 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
+    },
+    {
+      "name": "Spur Fire",
+      "type": "Wildfire",
+      "summary": " Management of the Spur Fire transitioned from Tom Merritt’s...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 18:09:10",
+      "lat": "48.815",
+      "lng": "-119.079",
+      "size": "1,935 Acres",
+      "url": "/incident/7789/",
+      "id": "7789",
+      "contained": "0"
+    },
+    {
       "name": "Whitmore Fire ",
       "type": "Wildfire",
       "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
       "state": "WASHINGTON",
-      "updated": "2021-08-09 17:46:28",
+      "updated": "2021-08-09 18:02:06",
       "lat": "48.15",
       "lng": "-119.134",
       "size": "55,148 Acres",
       "url": "/incident/7776/",
       "id": "7776",
       "contained": "15"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 17:53:15",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "52,859 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "33"
     },
     {
       "name": "Upper Lime Creek",
@@ -404,32 +443,6 @@
       "contained": "3"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-09 12:57:38",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "52,859 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "33"
-    },
-    {
-      "name": "Spur Fire",
-      "type": "Wildfire",
-      "summary": " Management of the Spur Fire transitioned from Tom Merritt’s...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-09 12:54:31",
-      "lat": "48.815",
-      "lng": "-119.079",
-      "size": "1,935 Acres",
-      "url": "/incident/7789/",
-      "id": "7789",
-      "contained": "0"
-    },
-    {
       "name": "Nine Mine Fire",
       "type": "Wildfire",
       "summary": " Orient, WA - The Nine Mine Fire is located 4.5 miles south /...",
@@ -545,19 +558,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "23"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": " Management of the Middle Fork Complex was transferred to Pacific...",
-      "state": "OREGON",
-      "updated": "2021-08-09 12:34:35",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "3,703 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
     },
     {
       "name": "Woods Creek Fire",
