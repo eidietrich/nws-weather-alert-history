@@ -1,24 +1,232 @@
 {
   "markers": [
     {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "McFarland Fire UpdateAugust 9, 2021  With updated mapping, the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-09 21:01:42",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "32,940 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "33"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 20:59:53",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,250 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "30"
+    },
+    {
+      "name": "Upper Lime Creek",
+      "type": "Wildfire",
+      "summary": "The Upper Lime Creek Fire was started by lightning on August 4th and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 20:58:47",
+      "lat": "48.156",
+      "lng": "-118.717",
+      "size": "265 Acres",
+      "url": "/incident/7791/",
+      "id": "7791",
+      "contained": "3"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire started on 7/31/21 at 7:11 pm.  The fire is located...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-09 20:57:06",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "1,438 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 20:56:42",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,752 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "95"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-09 20:54:37",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,213 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "59"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
+      "state": "MONTANA",
+      "updated": "2021-08-09 20:53:38",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "31,591 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "43"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-09 20:51:06",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "27,076 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "7"
+    },
+    {
+      "name": "Bull Complex (formerly Janus Complex)",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-09 20:51:01",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "450 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-09 19:45:44",
+      "updated": "2021-08-09 20:48:54",
       "lat": "39.819",
       "lng": "-121.419",
-      "size": "489,287 Acres",
+      "size": "482,047 Acres",
       "url": "/incident/7690/",
       "id": "7690",
-      "contained": "21"
+      "contained": "22"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-08-09 20:20:42",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "7,505 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "24"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
+      "state": "IDAHO",
+      "updated": "2021-08-09 20:19:54",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "8,178 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "33"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-09 20:19:30",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "11,090 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "8"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "On June 30th a succession of thunderstorm systems have moved through...",
+      "state": "IDAHO",
+      "updated": "2021-08-09 20:18:00",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
+      "state": "IDAHO",
+      "updated": "2021-08-09 20:17:27",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,643 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "59"
+    },
+    {
+      "name": "Whitmore Fire ",
+      "type": "Wildfire",
+      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 20:16:06",
+      "lat": "48.15",
+      "lng": "-119.134",
+      "size": "55,148 Acres",
+      "url": "/incident/7776/",
+      "id": "7776",
+      "contained": "15"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": " Management of the Middle Fork Complex was transferred to Pacific...",
+      "state": "OREGON",
+      "updated": "2021-08-09 20:14:38",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "5,003 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
     },
     {
       "name": "Storm Theatre Complex",
       "type": "Wildfire",
       "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
       "state": "IDAHO",
-      "updated": "2021-08-09 19:43:43",
+      "updated": "2021-08-09 20:06:34",
       "lat": "46.555",
       "lng": "-115.097",
       "size": "22,019 Acres",
@@ -38,32 +246,6 @@
       "url": "/incident/7761/",
       "id": "7761",
       "contained": "45"
-    },
-    {
-      "name": "Upper Lime Creek",
-      "type": "Wildfire",
-      "summary": "The Upper Lime Creek Fire was started by lightning on August 4th and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-09 19:39:40",
-      "lat": "48.156",
-      "lng": "-118.717",
-      "size": "265 Acres",
-      "url": "/incident/7791/",
-      "id": "7791",
-      "contained": "0"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire started on 7/31/21 @ 7:11 pm.  The fire is located...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-09 19:37:51",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "1,438 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Black Butte Fire",
@@ -118,19 +300,6 @@
       "contained": "22"
     },
     {
-      "name": "Bull Complex (formerly Janus Complex)",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-09 19:24:45",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "450 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
@@ -142,19 +311,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "10"
-    },
-    {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "On June 30th a succession of thunderstorm systems have moved through...",
-      "state": "IDAHO",
-      "updated": "2021-08-09 19:09:50",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -209,19 +365,6 @@
       "contained": "35"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-09 19:00:20",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "27,076 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "5"
-    },
-    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
@@ -246,19 +389,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "15"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "McFarland Fire UpdateAugust 9, 2021  With updated mapping, the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-09 18:50:38",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "32,687 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "26"
     },
     {
       "name": "Walker Creek Fire",
@@ -311,32 +441,6 @@
       "url": "/incident/7790/",
       "id": "7790",
       "contained": "0"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": " Management of the Middle Fork Complex was transferred to Pacific...",
-      "state": "OREGON",
-      "updated": "2021-08-09 18:24:37",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "3,703 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
-    },
-    {
-      "name": "Whitmore Fire ",
-      "type": "Wildfire",
-      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-09 18:02:06",
-      "lat": "48.15",
-      "lng": "-119.134",
-      "size": "55,148 Acres",
-      "url": "/incident/7776/",
-      "id": "7776",
-      "contained": "15"
     },
     {
       "name": "Cedar Creek",
@@ -482,19 +586,6 @@
       "contained": "96"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-09 14:13:05",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,250 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "25"
-    },
-    {
       "name": "Lava Fire",
       "type": "Wildfire",
       "summary": "The Lava Fire started on 6/24/21 by lightning and is burning...",
@@ -573,45 +664,6 @@
       "contained": "20"
     },
     {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
-      "state": "IDAHO",
-      "updated": "2021-08-09 12:47:44",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "8,062 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "30"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-09 12:47:09",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "11,090 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-09 12:46:16",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,210 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "59"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
@@ -675,19 +727,6 @@
       "url": "/incident/7660/",
       "id": "7660",
       "contained": "0"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
-      "state": "MONTANA",
-      "updated": "2021-08-09 12:04:37",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "31,591 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "43"
     },
     {
       "name": "Sylvan Fire",
@@ -898,19 +937,6 @@
       "contained": "0"
     },
     {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
-      "state": "IDAHO",
-      "updated": "2021-08-09 07:40:42",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,643 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "53"
-    },
-    {
       "name": "Tango Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Tango Fire was reported the evening of July...",
@@ -1026,32 +1052,6 @@
       "url": "/incident/7700/",
       "id": "7700",
       "contained": "0"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-08-08 09:23:45",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "7,505 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "24"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-08-07 20:51:55",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,752 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "95"
     },
     {
       "name": "Goose Fire",
