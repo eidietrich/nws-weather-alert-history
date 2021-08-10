@@ -1,30 +1,95 @@
 {
   "markers": [
     {
-      "name": "McFarland Fire",
+      "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
-      "summary": "McFarland Fire UpdateAugust 9, 2021  With updated mapping, the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-09 21:01:42",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "32,940 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "33"
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-09 21:30:44",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,213 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "59"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-09 21:30:28",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "62,489 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "50"
+    },
+    {
+      "name": "Lick Creek (Dry Gulch) Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-09 21:27:00",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "90"
     },
     {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
       "state": "WASHINGTON",
-      "updated": "2021-08-09 20:59:53",
+      "updated": "2021-08-09 21:26:48",
       "lat": "48.285",
       "lng": "-118.531",
       "size": "28,250 Acres",
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "30"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily PIO Map  |     Daily IR Map   |     Fire Progression...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-09 21:26:30",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "53,019 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "3"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire located on July 31, 2021 around 7:00 pm.  The fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-09 21:14:33",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "1,438 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "McFarland Fire UpdateAugust 9, 2021  With updated mapping, the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-09 21:06:43",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "32,940 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "33"
     },
     {
       "name": "Upper Lime Creek",
@@ -40,19 +105,6 @@
       "contained": "3"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire started on 7/31/21 at 7:11 pm.  The fire is located...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-09 20:57:06",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "1,438 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
-    },
-    {
       "name": "Chuweah Creek",
       "type": "Wildfire",
       "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
@@ -64,19 +116,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "95"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-09 20:54:37",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,213 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "59"
     },
     {
       "name": "Harris Mountain",
@@ -495,32 +534,6 @@
       "contained": "70"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily PIO Map  |     Daily IR Map   |     Fire Progression...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-09 16:53:55",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "53,019 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "3"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-09 16:46:18",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "62,368 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "26"
-    },
-    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
@@ -857,19 +870,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "14"
-    },
-    {
-      "name": "Lick Creek (Dry Gulch) Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-09 11:33:33",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "90"
     },
     {
       "name": "Green Ridge Fire",
