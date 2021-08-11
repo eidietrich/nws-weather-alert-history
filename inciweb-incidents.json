@@ -1,24 +1,154 @@
 {
   "markers": [
     {
-      "name": "Scarface Fire",
+      "name": "Bull Complex (formerly Janus Complex)",
       "type": "Wildfire",
-      "summary": "On the evening of August 7, eight (8) firefighters were flown out to...",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-11 13:20:40",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "666 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Spur Fire",
+      "type": "Wildfire",
+      "summary": "  WILDFIRE INFORMATION August 11, 2021...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 13:20:01",
+      "lat": "48.815",
+      "lng": "-119.079",
+      "size": "2,379 Acres",
+      "url": "/incident/7789/",
+      "id": "7789",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 13:19:18",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "62,489 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "54"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 13:11:53",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "501,008 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "30"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": " The Middle Fork Complex is being managed under Unified Command by...",
+      "state": "OREGON",
+      "updated": "2021-08-11 13:10:00",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "5,097 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "2"
+    },
+    {
+      "name": "Knoll Fire",
+      "type": "Wildfire",
+      "summary": "Management of the Knoll Fire was transferred to Pacific Northwest...",
+      "state": "OREGON",
+      "updated": "2021-08-11 13:09:13",
+      "lat": "44.246",
+      "lng": "-122.055",
+      "size": "400 Acres",
+      "url": "/incident/7790/",
+      "id": "7790",
+      "contained": "0"
+    },
+    {
+      "name": "Muddy Slide Fire",
+      "type": "Wildfire",
+      "summary": "The Muddy Slide Fire remains 4,093 acres and 70% contained. The fire...",
+      "state": "COLORADO",
+      "updated": "2021-08-11 13:09:00",
+      "lat": "40.143",
+      "lng": "-106.798",
+      "size": "4,093 Acres",
+      "url": "/incident/7566/",
+      "id": "7566",
+      "contained": "70"
+    },
+    {
+      "name": "Skyline Ridge Complex",
+      "type": "Wildfire",
+      "summary": " A number of fires have been reported in the South Umpqua River...",
+      "state": "OREGON",
+      "updated": "2021-08-11 13:06:00",
+      "lat": "42.901",
+      "lng": "-123.111",
+      "size": "3,087 Acres",
+      "url": "/incident/7762/",
+      "id": "7762",
+      "contained": "23"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 13:03:57",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "1,237 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "0"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
       "state": "IDAHO",
-      "updated": "2021-08-11 12:50:30",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "292 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "60"
+      "updated": "2021-08-11 13:03:52",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "8,178 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "33"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 13:00:39",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "31,033 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "7"
     },
     {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
       "state": "MONTANA",
-      "updated": "2021-08-11 12:49:07",
+      "updated": "2021-08-11 12:59:22",
       "lat": "45.185",
       "lng": "-113.474",
       "size": "1,042 Acres",
@@ -27,17 +157,69 @@
       "contained": "75"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Christensen Fire ",
       "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 12:57:58",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "8,744 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "10"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-11 12:57:33",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "14,521 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "5"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-11 12:45:20",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "501,008 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "30"
+      "updated": "2021-08-11 12:57:12",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "43,900 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "24"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 12:56:37",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "35,928 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "26"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "On the evening of August 7, eight (8) firefighters were flown out to...",
+      "state": "IDAHO",
+      "updated": "2021-08-11 12:53:56",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "292 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "60"
     },
     {
       "name": "Stateline Complex",
@@ -118,19 +300,6 @@
       "contained": "10"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 12:34:37",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "31,033 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "7"
-    },
-    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
@@ -209,19 +378,6 @@
       "contained": "47"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 12:16:56",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "43,900 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "24"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": " Progression Map  |     Daily IR Map   |     Daily...",
@@ -233,19 +389,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "3"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 12:08:25",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "8,744 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "10"
     },
     {
       "name": "Cedar Creek",
@@ -391,32 +534,6 @@
       "contained": "5"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-11 11:31:10",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "62,489 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "54"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": " The Middle Fork Complex is being managed under Unified Command by...",
-      "state": "OREGON",
-      "updated": "2021-08-11 11:27:57",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "5,097 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "2"
-    },
-    {
       "name": "Lick Creek (Dry Gulch) Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
@@ -521,32 +638,6 @@
       "contained": "15"
     },
     {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-11 10:40:49",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "1,237 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "0"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 10:39:58",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "8,178 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "33"
-    },
-    {
       "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
       "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
@@ -612,19 +703,6 @@
       "contained": "0"
     },
     {
-      "name": "Knoll Fire",
-      "type": "Wildfire",
-      "summary": "Management of the Knoll Fire was transferred to Pacific Northwest...",
-      "state": "OREGON",
-      "updated": "2021-08-11 10:11:45",
-      "lat": "44.246",
-      "lng": "-122.055",
-      "size": "400 Acres",
-      "url": "/incident/7790/",
-      "id": "7790",
-      "contained": "0"
-    },
-    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
@@ -675,19 +753,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "3"
-    },
-    {
-      "name": "Bull Complex (formerly Janus Complex)",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-11 09:25:07",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "666 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
     },
     {
       "name": "Harris Mountain",
@@ -742,32 +807,6 @@
       "contained": "85"
     },
     {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-11 09:06:42",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "14,521 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "5"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 07:47:25",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "35,928 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "26"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
@@ -779,19 +818,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "59"
-    },
-    {
-      "name": "Skyline Ridge Complex",
-      "type": "Wildfire",
-      "summary": " A number of fires have been reported in the South Umpqua River...",
-      "state": "OREGON",
-      "updated": "2021-08-11 00:03:37",
-      "lat": "42.901",
-      "lng": "-123.111",
-      "size": "3,087 Acres",
-      "url": "/incident/7762/",
-      "id": "7762",
-      "contained": "23"
     },
     {
       "name": "Trestle Creek Complex",
@@ -856,19 +882,6 @@
       "size": "3,358 Acres",
       "url": "/incident/7722/",
       "id": "7722",
-      "contained": "0"
-    },
-    {
-      "name": "Spur Fire",
-      "type": "Wildfire",
-      "summary": "  WILDFIRE INFORMATION August 10, 2021...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 16:10:29",
-      "lat": "48.815",
-      "lng": "-119.079",
-      "size": "2,379 Acres",
-      "url": "/incident/7789/",
-      "id": "7789",
       "contained": "0"
     },
     {
@@ -948,19 +961,6 @@
       "url": "/incident/7663/",
       "id": "7663",
       "contained": "75"
-    },
-    {
-      "name": "Muddy Slide Fire",
-      "type": "Wildfire",
-      "summary": "Muddy Slide Fire Update Sunday, July 25 2021The Muddy Slide Fire...",
-      "state": "COLORADO",
-      "updated": "2021-08-09 17:27:25",
-      "lat": "40.143",
-      "lng": "-106.798",
-      "size": "4,093 Acres",
-      "url": "/incident/7566/",
-      "id": "7566",
-      "contained": "70"
     },
     {
       "name": "Whitetail Creek Fire",
