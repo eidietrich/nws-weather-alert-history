@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 08:41:06",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "22,739 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "The Granite Pass Complex consists of four wildfires in the vicinity...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 08:36:50",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "5,739 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "15"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update     Public Information Map    Closure Order ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 08:35:13",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "1,555 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 08:35:10",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "501,008 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "30"
+    },
+    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
@@ -12,32 +64,6 @@
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "0"
-    },
-    {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "The Granite Pass Complex consists of four wildfires in the vicinity...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 08:23:18",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "5,739 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "15"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 08:21:33",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "22,739 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
     },
     {
       "name": "Black Butte Fire",
@@ -378,19 +404,6 @@
       "contained": "35"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update     Public Information Map    Closure Order ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-10 22:04:50",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "1,438 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
-    },
-    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "McFarland Fire UpdateAugust 10, 2021This morning, the McFarland Fire...",
@@ -402,19 +415,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "47"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-10 21:44:26",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "490,205 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "27"
     },
     {
       "name": "Cub Creek 2 Fire",
