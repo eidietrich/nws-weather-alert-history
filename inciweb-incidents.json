@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-08-11 14:23:13",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "7,505 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "24"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 14:20:43",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "31,033 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "7"
+    },
+    {
+      "name": "Windy Pass",
+      "type": "Wildfire",
+      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 14:19:31",
+      "lat": "47.112",
+      "lng": "-121.141",
+      "size": "82 Acres",
+      "url": "/incident/7779/",
+      "id": "7779",
+      "contained": "64"
+    },
+    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
       "state": "WYOMING",
-      "updated": "2021-08-11 14:11:19",
+      "updated": "2021-08-11 14:16:45",
       "lat": "44.947",
       "lng": "-107.771",
       "size": "1,660 Acres",
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "35"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 14:16:31",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "5,893 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "0"
     },
     {
       "name": "Storm Theatre Complex",
@@ -38,19 +90,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "0"
-    },
-    {
-      "name": "Windy Pass",
-      "type": "Wildfire",
-      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-11 14:02:17",
-      "lat": "47.112",
-      "lng": "-121.141",
-      "size": "82 Acres",
-      "url": "/incident/7779/",
-      "id": "7779",
-      "contained": "64"
     },
     {
       "name": "Tamarack Fire",
@@ -222,19 +261,6 @@
       "contained": "33"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 13:00:39",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "31,033 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "7"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
@@ -350,19 +376,6 @@
       "url": "/incident/7794/",
       "id": "7794",
       "contained": "15"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-08-11 12:42:31",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "7,505 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "24"
     },
     {
       "name": "Alder Creek Fire",
@@ -908,19 +921,6 @@
       "size": "3,358 Acres",
       "url": "/incident/7722/",
       "id": "7722",
-      "contained": "0"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 15:45:42",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "4,652 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
       "contained": "0"
     },
     {
