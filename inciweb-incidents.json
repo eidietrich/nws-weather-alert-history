@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Daily PIO Map  |     Daily IR Map   |     Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 09:46:39",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "62,490 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "3"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 09:46:21",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "501,008 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "30"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
       "state": "OREGON",
-      "updated": "2021-08-11 09:28:22",
+      "updated": "2021-08-11 09:45:29",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "413,765 Acres",
@@ -14,11 +40,102 @@
       "contained": "98"
     },
     {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 09:45:08",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "52,889 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "35"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 09:42:47",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "31,033 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "7"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 09:42:38",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "62,489 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "54"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 09:39:21",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "19,028 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
+      "state": "OREGON",
+      "updated": "2021-08-11 09:39:07",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "3,003 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "5"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": " August 5, 2021: The lightning-caused Balsinger Fire started burning...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 09:38:49",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "9,834 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "45"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 09:38:21",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "46,691 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "3"
+    },
+    {
       "name": "Whitmore Fire ",
       "type": "Wildfire",
       "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
       "state": "WASHINGTON",
-      "updated": "2021-08-11 09:26:18",
+      "updated": "2021-08-11 09:34:44",
       "lat": "48.15",
       "lng": "-119.134",
       "size": "56,454 Acres",
@@ -105,58 +222,6 @@
       "contained": "33"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 09:13:37",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "19,028 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 09:13:02",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "501,008 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "30"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 09:10:03",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "46,691 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "3"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": " August 5, 2021: The lightning-caused Balsinger Fire started burning...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 09:09:43",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "9,834 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "45"
-    },
-    {
       "name": "County Line",
       "type": "Wildfire",
       "summary": "The County Line Fire, located south of the Tioga Road near the White...",
@@ -207,19 +272,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "60"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Daily PIO Map  |     Daily IR Map   |     Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 08:53:01",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "62,490 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "3"
     },
     {
       "name": "West Lolo Complex",
@@ -324,19 +376,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "59"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
-      "state": "OREGON",
-      "updated": "2021-08-11 07:15:48",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "3,003 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "5"
     },
     {
       "name": "Tamarack Fire",
@@ -456,19 +495,6 @@
       "contained": "0"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-10 22:59:24",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "28,720 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "7"
-    },
-    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
@@ -521,19 +547,6 @@
       "contained": "47"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 21:41:07",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "62,489 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "54"
-    },
-    {
       "name": "Upper Lime Creek",
       "type": "Wildfire",
       "summary": "The Upper Lime Creek Fire was started by lightning on August 4th and...",
@@ -558,19 +571,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "98"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 21:04:48",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "52,889 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "35"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
