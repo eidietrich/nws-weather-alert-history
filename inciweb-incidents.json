@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "On the evening of August 7, eight (8) firefighters were flown out to...",
+      "state": "IDAHO",
+      "updated": "2021-08-11 12:50:30",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "292 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "60"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 12:49:07",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,042 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "75"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 12:45:20",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "501,008 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "30"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-11 12:44:51",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "11,372 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "19"
+    },
+    {
       "name": "Nine Mine Fire",
       "type": "Wildfire",
       "summary": "Orient, WA - The Nine Mine Fire is located 4.5 miles south /...",
       "state": "WASHINGTON",
-      "updated": "2021-08-11 12:40:32",
+      "updated": "2021-08-11 12:43:43",
       "lat": "48.942",
       "lng": "-118.207",
       "size": "139 Acres",
       "url": "/incident/7783/",
       "id": "7783",
       "contained": "40"
+    },
+    {
+      "name": "Richard Spring",
+      "type": "Wildfire",
+      "summary": "The Richard Spring Fire was identified on August 8, 2021 about 10...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 12:43:31",
+      "lat": "45.809",
+      "lng": "-106.764",
+      "size": "149,453 Acres",
+      "url": "/incident/7794/",
+      "id": "7794",
+      "contained": "15"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-08-11 12:42:31",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "7,505 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "24"
+    },
+    {
+      "name": "Windy Pass",
+      "type": "Wildfire",
+      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 12:41:01",
+      "lat": "47.112",
+      "lng": "-121.141",
+      "size": "82 Acres",
+      "url": "/incident/7779/",
+      "id": "7779",
+      "contained": "64"
     },
     {
       "name": "Alder Creek Fire",
@@ -90,32 +181,6 @@
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "30"
-    },
-    {
-      "name": "Richard Spring",
-      "type": "Wildfire",
-      "summary": "The Richard Spring Fire is a fire that is burning 10 miles southwest...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 12:24:53",
-      "lat": "45.809",
-      "lng": "-106.764",
-      "size": "150,000 Acres",
-      "url": "/incident/7794/",
-      "id": "7794",
-      "contained": "0"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 12:20:38",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "11,372 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "19"
     },
     {
       "name": "Storm Theatre Complex",
@@ -209,19 +274,6 @@
       "contained": "15"
     },
     {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 12:04:55",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,042 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "75"
-    },
-    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "Yesterday, three (3) Type I helicopters, two (2) Type II helicopters,...",
@@ -246,19 +298,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "33"
-    },
-    {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "On the evening of August 7, eight (8) firefighters were flown out to...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 11:57:31",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "292 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "60"
     },
     {
       "name": "Crooked Creek",
@@ -599,19 +638,6 @@
       "contained": "46"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 09:47:48",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "501,008 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "30"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
@@ -768,19 +794,6 @@
       "contained": "23"
     },
     {
-      "name": "Windy Pass",
-      "type": "Wildfire",
-      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 23:19:56",
-      "lat": "47.112",
-      "lng": "-121.141",
-      "size": "82 Acres",
-      "url": "/incident/7779/",
-      "id": "7779",
-      "contained": "64"
-    },
-    {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
@@ -922,19 +935,6 @@
       "url": "/incident/7778/",
       "id": "7778",
       "contained": "60"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-08-10 11:22:15",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "7,505 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "24"
     },
     {
       "name": "Bruler Fire",
