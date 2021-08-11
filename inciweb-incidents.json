@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 14:46:39",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "22,739 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 14:45:19",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "31,033 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "7"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-11 14:42:18",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "1,660 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "35"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 14:39:47",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "1,237 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "0"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": " The Middle Fork Complex is being managed under Unified Command by...",
+      "state": "OREGON",
+      "updated": "2021-08-11 14:36:02",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "5,097 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "2"
+    },
+    {
+      "name": "Bull Complex (formerly Janus Complex)",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-11 14:33:14",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "666 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 14:31:01",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "43,900 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "24"
+    },
+    {
       "name": "Morgan Creek Fire",
       "type": "Wildfire",
       "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
@@ -14,19 +105,6 @@
       "contained": "24"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 14:20:43",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "31,033 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "7"
-    },
-    {
       "name": "Windy Pass",
       "type": "Wildfire",
       "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
@@ -38,19 +116,6 @@
       "url": "/incident/7779/",
       "id": "7779",
       "contained": "64"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-11 14:16:45",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "1,660 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "35"
     },
     {
       "name": "Schneider Springs",
@@ -77,19 +142,6 @@
       "url": "/incident/7724/",
       "id": "7724",
       "contained": "3"
-    },
-    {
-      "name": "Bull Complex (formerly Janus Complex)",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-11 14:08:34",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "666 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
     },
     {
       "name": "Tamarack Fire",
@@ -183,19 +235,6 @@
       "contained": "15"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": " The Middle Fork Complex is being managed under Unified Command by...",
-      "state": "OREGON",
-      "updated": "2021-08-11 13:10:00",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "5,097 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "2"
-    },
-    {
       "name": "Knoll Fire",
       "type": "Wildfire",
       "summary": "Management of the Knoll Fire was transferred to Pacific Northwest...",
@@ -233,19 +272,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "23"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-11 13:03:57",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "1,237 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "0"
     },
     {
       "name": "Character Complex",
@@ -298,19 +324,6 @@
       "url": "/incident/7770/",
       "id": "7770",
       "contained": "5"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 12:57:12",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "43,900 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "24"
     },
     {
       "name": "Trail Creek Fire",
@@ -662,19 +675,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "53"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 10:41:59",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "22,739 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
