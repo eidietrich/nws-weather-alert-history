@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-10 21:47:26",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "1,179 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "0"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "McFarland Fire UpdateAugust 10, 2021This morning, the McFarland Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-10 21:46:29",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "34,596 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "47"
+    },
+    {
+      "name": "Whitmore Fire ",
+      "type": "Wildfire",
+      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-10 21:45:34",
+      "lat": "48.15",
+      "lng": "-119.134",
+      "size": "55,970 Acres",
+      "url": "/incident/7776/",
+      "id": "7776",
+      "contained": "20"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-10 21:23:11",
+      "updated": "2021-08-10 21:44:26",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "490,205 Acres",
@@ -14,17 +53,56 @@
       "contained": "27"
     },
     {
+      "name": "Windy Pass",
+      "type": "Wildfire",
+      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-10 21:42:38",
+      "lat": "47.112",
+      "lng": "-121.141",
+      "size": "80 Acres",
+      "url": "/incident/7779/",
+      "id": "7779",
+      "contained": "35"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-10 21:41:07",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "62,489 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "54"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily PIO Map  |     Daily IR Map   |     Daily...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-10 21:22:45",
+      "updated": "2021-08-10 21:29:31",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "58,836 Acres",
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "3"
+    },
+    {
+      "name": "Upper Lime Creek",
+      "type": "Wildfire",
+      "summary": "The Upper Lime Creek Fire was started by lightning on August 4th and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-10 21:26:31",
+      "lat": "48.156",
+      "lng": "-118.717",
+      "size": "347 Acres",
+      "url": "/incident/7791/",
+      "id": "7791",
+      "contained": "15"
     },
     {
       "name": "Boulder 2700 Fire ",
@@ -38,19 +116,6 @@
       "url": "/incident/7754/",
       "id": "7754",
       "contained": "33"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "McFarland Fire UpdateAugust 10, 2021This morning, the McFarland Fire...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-10 21:22:04",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "34,596 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "47"
     },
     {
       "name": "Chuweah Creek",
@@ -339,19 +404,6 @@
       "contained": "2"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 18:43:02",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "62,489 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "50"
-    },
-    {
       "name": "Tiltill",
       "type": "Wildfire",
       "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
@@ -391,19 +443,6 @@
       "contained": "100"
     },
     {
-      "name": "Whitmore Fire ",
-      "type": "Wildfire",
-      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 18:18:38",
-      "lat": "48.15",
-      "lng": "-119.134",
-      "size": "55,970 Acres",
-      "url": "/incident/7776/",
-      "id": "7776",
-      "contained": "20"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "Please see the News and Announcements tabs for the latest updates on...",
@@ -441,45 +480,6 @@
       "url": "/incident/7792/",
       "id": "7792",
       "contained": "100"
-    },
-    {
-      "name": "Upper Lime Creek",
-      "type": "Wildfire",
-      "summary": "The Upper Lime Creek Fire was started by lightning on August 4th and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 17:48:32",
-      "lat": "48.156",
-      "lng": "-118.717",
-      "size": "265 Acres",
-      "url": "/incident/7791/",
-      "id": "7791",
-      "contained": "3"
-    },
-    {
-      "name": "Windy Pass",
-      "type": "Wildfire",
-      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 17:47:12",
-      "lat": "47.112",
-      "lng": "-121.141",
-      "size": "80 Acres",
-      "url": "/incident/7779/",
-      "id": "7779",
-      "contained": "35"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 17:17:24",
-      "lat": "48.575",
-      "lng": "-119.832",
-      "size": "1,179 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "0"
     },
     {
       "name": "Bull Complex (formerly Janus Complex)",
