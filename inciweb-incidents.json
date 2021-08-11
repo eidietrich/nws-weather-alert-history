@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-10 21:23:11",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "490,205 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "27"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily PIO Map  |     Daily IR Map   |     Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-10 21:22:45",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "58,836 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "3"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-10 21:22:27",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "2,072 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "33"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "McFarland Fire UpdateAugust 10, 2021This morning, the McFarland Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-10 21:22:04",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "34,596 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "47"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-08-10 21:15:47",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,752 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "98"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-10 21:07:56",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,250 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "33"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-10 21:04:48",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "52,889 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "35"
+    },
+    {
       "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
       "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
@@ -51,19 +142,6 @@
       "url": "/incident/7794/",
       "id": "7794",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily PIO Map  |     Daily IR Map   |     Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-10 20:29:31",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "58,836 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "3"
     },
     {
       "name": "Stateline Complex",
@@ -261,19 +339,6 @@
       "contained": "2"
     },
     {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-10 18:46:41",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "2,072 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "33"
-    },
-    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
@@ -378,19 +443,6 @@
       "contained": "100"
     },
     {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 17:49:26",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,752 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "95"
-    },
-    {
       "name": "Upper Lime Creek",
       "type": "Wildfire",
       "summary": "The Upper Lime Creek Fire was started by lightning on August 4th and...",
@@ -415,19 +467,6 @@
       "url": "/incident/7779/",
       "id": "7779",
       "contained": "35"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 17:44:02",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,250 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "30"
     },
     {
       "name": "Muckamuck",
@@ -677,19 +716,6 @@
       "contained": "10"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-10 14:13:20",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "487,764 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "25"
-    },
-    {
       "name": "Goose Fire",
       "type": "Wildfire",
       "summary": "The Goose Fire is currently 7,522 acres and 80% contained as of...",
@@ -727,32 +753,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "3"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "McFarland Fire UpdateAugust 10, 2021This morning, the McFarland Fire...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-10 14:02:06",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "33,528 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "33"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 13:53:45",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "52,859 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "34"
     },
     {
       "name": "Black Butte Fire",
