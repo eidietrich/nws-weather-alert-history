@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Windy Pass",
+      "type": "Wildfire",
+      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-10 22:12:57",
+      "lat": "47.112",
+      "lng": "-121.141",
+      "size": "82 Acres",
+      "url": "/incident/7779/",
+      "id": "7779",
+      "contained": "64"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-10 22:10:40",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "1,660 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "35"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update     Public Information Map    Closure Order ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-10 22:04:50",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "1,438 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
       "state": "WASHINGTON",
-      "updated": "2021-08-10 21:47:26",
+      "updated": "2021-08-10 22:02:16",
       "lat": "48.576",
       "lng": "-119.832",
       "size": "1,179 Acres",
@@ -51,19 +90,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "27"
-    },
-    {
-      "name": "Windy Pass",
-      "type": "Wildfire",
-      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-10 21:42:38",
-      "lat": "47.112",
-      "lng": "-121.141",
-      "size": "80 Acres",
-      "url": "/incident/7779/",
-      "id": "7779",
-      "contained": "35"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -300,19 +326,6 @@
       "contained": "44"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update     Public Information Map    Closure Order ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-10 19:45:37",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "1,438 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
-    },
-    {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
@@ -324,19 +337,6 @@
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "0"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-10 19:36:17",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "1,660 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "35"
     },
     {
       "name": "Burnt Peak Fire",
