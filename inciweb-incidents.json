@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
+      "state": "IDAHO",
+      "updated": "2021-08-11 10:50:35",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "8,353 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "42"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 10:49:56",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,549 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "33"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 10:41:59",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "22,739 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-11 10:41:32",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "11,372 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "19"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
+      "state": "OREGON",
+      "updated": "2021-08-11 10:40:54",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,765 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "98"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 10:40:49",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "1,237 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "0"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
+      "state": "IDAHO",
+      "updated": "2021-08-11 10:39:58",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "8,178 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "33"
+    },
+    {
       "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
       "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
       "state": "IDAHO",
-      "updated": "2021-08-11 10:33:05",
+      "updated": "2021-08-11 10:39:20",
       "lat": "45.586",
       "lng": "-115.444",
       "size": "43,225 Acres",
       "url": "/incident/7608/",
       "id": "7608",
       "contained": "59"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Due to the multiple small fire starts over the last two days, which...",
+      "state": "OREGON",
+      "updated": "2021-08-11 10:38:27",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,355 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "53"
     },
     {
       "name": "Hay Creek",
@@ -53,19 +157,6 @@
       "contained": "0"
     },
     {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 10:30:08",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "8,178 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "33"
-    },
-    {
       "name": "Dry Cabin",
       "type": "Wildfire",
       "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
@@ -103,19 +194,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "3"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": " The Muckamuck Fire started on August 4, 2012. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-11 10:25:59",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "1,237 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "0"
     },
     {
       "name": "Bulldog Mountain",
@@ -209,19 +287,6 @@
       "contained": "46"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
-      "state": "OREGON",
-      "updated": "2021-08-11 10:08:53",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,765 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "98"
-    },
-    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "Daily Update     Public Information Map    Closure Order ...",
@@ -233,19 +298,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 09:50:26",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "22,739 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -417,19 +469,6 @@
       "contained": "45"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12 and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-11 09:17:05",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,549 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "33"
-    },
-    {
       "name": "County Line",
       "type": "Wildfire",
       "summary": "The County Line Fire, located south of the Tioga Road near the White...",
@@ -560,19 +599,6 @@
       "contained": "23"
     },
     {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
-      "state": "IDAHO",
-      "updated": "2021-08-10 23:31:49",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "8,353 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "42"
-    },
-    {
       "name": "Lick Creek (Dry Gulch) Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
@@ -623,19 +649,6 @@
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "0"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-10 22:51:42",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "11,372 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "19"
     },
     {
       "name": "Crater Ridge",
@@ -844,19 +857,6 @@
       "url": "/incident/7618/",
       "id": "7618",
       "contained": "90"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Due to the multiple small fire starts over the last two days, which...",
-      "state": "OREGON",
-      "updated": "2021-08-10 14:04:26",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,355 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
     },
     {
       "name": "Nine Mine Fire",
