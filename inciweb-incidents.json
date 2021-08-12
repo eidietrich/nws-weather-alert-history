@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
+      "state": "IDAHO",
+      "updated": "2021-08-12 10:36:33",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "8,403 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "35"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 10:36:14",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "510,227 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "30"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 10:33:43",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "23,010 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Spur Fire",
+      "type": "Wildfire",
+      "summary": "  WILDFIRE INFORMATION August 11, 2021...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-12 10:33:11",
+      "lat": "48.815",
+      "lng": "-119.079",
+      "size": "2,379 Acres",
+      "url": "/incident/7789/",
+      "id": "7789",
+      "contained": "0"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-12 10:32:40",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "2,000 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "5"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-12 10:30:20",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "62,489 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "54"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-12 10:28:52",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,225 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "60"
+    },
+    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
       "state": "IDAHO",
-      "updated": "2021-08-12 10:18:43",
+      "updated": "2021-08-12 10:25:39",
       "lat": "47.128",
       "lng": "-115.354",
       "size": "11,372 Acres",
@@ -14,30 +105,43 @@
       "contained": "21"
     },
     {
-      "name": "Balsinger Fire",
+      "name": "Antelope Fire",
       "type": "Wildfire",
-      "summary": "The lightning-caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-12 10:18:30",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "9,834 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "45"
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 10:24:58",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "44,839 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "24"
     },
     {
       "name": "Cougar Rock Complex",
       "type": "Wildfire",
       "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
       "state": "IDAHO",
-      "updated": "2021-08-12 10:17:01",
+      "updated": "2021-08-12 10:21:34",
       "lat": "46.893",
       "lng": "-115.846",
       "size": "8,353 Acres",
       "url": "/incident/7640/",
       "id": "7640",
       "contained": "42"
+    },
+    {
+      "name": "Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 10:19:07",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "9,834 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "45"
     },
     {
       "name": "Jack Fire",
@@ -144,19 +248,6 @@
       "contained": "30"
     },
     {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-12 10:05:08",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,225 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "60"
-    },
-    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
@@ -181,45 +272,6 @@
       "url": "/incident/7625/",
       "id": "7625",
       "contained": "80"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 09:59:10",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "62,489 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "54"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 09:57:57",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "2,000 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "5"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 09:55:30",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "510,227 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "30"
     },
     {
       "name": "Woods Creek Fire",
@@ -298,19 +350,6 @@
       "url": "/incident/7770/",
       "id": "7770",
       "contained": "15"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 09:28:12",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "44,839 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "24"
     },
     {
       "name": "Upper Lime Creek",
@@ -443,19 +482,6 @@
       "contained": "0"
     },
     {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-12 08:47:29",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "23,010 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
-    },
-    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
@@ -493,19 +519,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "82"
-    },
-    {
-      "name": "Spur Fire",
-      "type": "Wildfire",
-      "summary": "  WILDFIRE INFORMATION August 11, 2021...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 07:31:27",
-      "lat": "48.815",
-      "lng": "-119.079",
-      "size": "2,379 Acres",
-      "url": "/incident/7789/",
-      "id": "7789",
-      "contained": "0"
     },
     {
       "name": "Lick Creek Fire",
@@ -584,19 +597,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "30"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 22:47:12",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "8,403 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "35"
     },
     {
       "name": "River Complex 2021",
@@ -1077,19 +1077,6 @@
       "size": "97 Acres",
       "url": "/incident/7729/",
       "id": "7729",
-      "contained": "100"
-    },
-    {
-      "name": "Taylor",
-      "type": "Wildfire",
-      "summary": "August 8, 2021 - 1:00 pm FINAL UPDATE: The fire is now 100%...",
-      "state": "MONTANA",
-      "updated": "2021-08-08 13:48:10",
-      "lat": "47.495",
-      "lng": "-109.638",
-      "size": "22,909 Acres",
-      "url": "/incident/7768/",
-      "id": "7768",
       "contained": "100"
     },
     {
