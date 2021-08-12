@@ -1,11 +1,115 @@
 {
   "markers": [
     {
+      "name": "Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 13:39:46",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "9,834 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "45"
+    },
+    {
+      "name": "Elbow Creek",
+      "type": "Wildfire",
+      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
+      "state": "OREGON",
+      "updated": "2021-08-12 13:39:07",
+      "lat": "45.867",
+      "lng": "-117.619",
+      "size": "22,960 Acres",
+      "url": "/incident/7672/",
+      "id": "7672",
+      "contained": "95"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 13:36:35",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "19,599 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 13:32:23",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "44,839 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "24"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
+      "state": "IDAHO",
+      "updated": "2021-08-12 13:29:08",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "3,586 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "0"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "  The Walker Creek fire started on August  3, 2021. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-12 13:26:43",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "526 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "10"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-12 13:26:32",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "62,489 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "54"
+    },
+    {
+      "name": "Knoll Fire",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
+      "state": "OREGON",
+      "updated": "2021-08-12 13:24:23",
+      "lat": "44.246",
+      "lng": "-122.055",
+      "size": "560 Acres",
+      "url": "/incident/7790/",
+      "id": "7790",
+      "contained": "0"
+    },
+    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed under Unified Command by...",
       "state": "OREGON",
-      "updated": "2021-08-12 13:20:03",
+      "updated": "2021-08-12 13:21:58",
       "lat": "43.869",
       "lng": "-122.409",
       "size": "6,259 Acres",
@@ -14,30 +118,43 @@
       "contained": "2"
     },
     {
+      "name": "Spur Fire",
+      "type": "Wildfire",
+      "summary": "The Spur Creek fire started on August 5, 2021. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-12 13:21:58",
+      "lat": "48.815",
+      "lng": "-119.079",
+      "size": "5,249 Acres",
+      "url": "/incident/7789/",
+      "id": "7789",
+      "contained": "0"
+    },
+    {
+      "name": "Richard Spring",
+      "type": "Wildfire",
+      "summary": "The Richard Spring Fire was identified on August 8, 2021 about 10...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 13:21:56",
+      "lat": "45.809",
+      "lng": "-106.764",
+      "size": "149,453 Acres",
+      "url": "/incident/7794/",
+      "id": "7794",
+      "contained": "15"
+    },
+    {
       "name": "Chickadee Creek",
       "type": "Wildfire",
       "summary": " The Chickadee Creek fire started on August  4, 2021. It is located...",
       "state": "WASHINGTON",
-      "updated": "2021-08-12 13:18:56",
+      "updated": "2021-08-12 13:21:11",
       "lat": "48.763",
       "lng": "-119.788",
       "size": "645 Acres",
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "0"
-    },
-    {
-      "name": "Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-12 13:18:11",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "9,834 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "45"
     },
     {
       "name": "Cedar Creek",
@@ -51,32 +168,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "37"
-    },
-    {
-      "name": "Spur Fire",
-      "type": "Wildfire",
-      "summary": "The Spur Creek fire started on August 5, 2021. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 13:14:19",
-      "lat": "48.815",
-      "lng": "-119.079",
-      "size": "5,249 Acres",
-      "url": "/incident/7789/",
-      "id": "7789",
-      "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 13:14:01",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "62,489 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "54"
     },
     {
       "name": "Crater Ridge",
@@ -103,45 +194,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "23"
-    },
-    {
-      "name": "Knoll Fire",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
-      "state": "OREGON",
-      "updated": "2021-08-12 13:09:07",
-      "lat": "44.246",
-      "lng": "-122.055",
-      "size": "560 Acres",
-      "url": "/incident/7790/",
-      "id": "7790",
-      "contained": "0"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-12 13:06:34",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "19,599 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 13:05:27",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "44,839 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "24"
     },
     {
       "name": "West Zone Superior Fires",
@@ -181,19 +233,6 @@
       "url": "/incident/7791/",
       "id": "7791",
       "contained": "23"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "  The Walker Creek fire started on August  3, 2021. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 12:49:32",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "526 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "10"
     },
     {
       "name": "Nez Perce-Clearwater Lightning Fires",
@@ -820,19 +859,6 @@
       "contained": "98"
     },
     {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 18:03:27",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "3,586 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "0"
-    },
-    {
       "name": "Goose Fire",
       "type": "Wildfire",
       "summary": "The Goose Fire is currently 7,522 acres and 80% contained as of...",
@@ -883,19 +909,6 @@
       "url": "/incident/7566/",
       "id": "7566",
       "contained": "70"
-    },
-    {
-      "name": "Richard Spring",
-      "type": "Wildfire",
-      "summary": "The Richard Spring Fire was identified on August 8, 2021 about 10...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 12:43:31",
-      "lat": "45.809",
-      "lng": "-106.764",
-      "size": "149,453 Acres",
-      "url": "/incident/7794/",
-      "id": "7794",
-      "contained": "15"
     },
     {
       "name": "Crooked Creek",
@@ -1234,19 +1247,6 @@
       "url": "/incident/7743/",
       "id": "7743",
       "contained": "100"
-    },
-    {
-      "name": "Elbow Creek",
-      "type": "Wildfire",
-      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
-      "state": "OREGON",
-      "updated": "2021-08-05 16:06:48",
-      "lat": "45.867",
-      "lng": "-117.619",
-      "size": "22,960 Acres",
-      "url": "/incident/7672/",
-      "id": "7672",
-      "contained": "95"
     },
     {
       "name": "Crooks Fire",
