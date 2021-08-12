@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
+      "state": "IDAHO",
+      "updated": "2021-08-11 22:46:28",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,643 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "64"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-11 22:45:35",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "2,033 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "30"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-11 22:42:51",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "11,372 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "21"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-11 22:42:07",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "14,520 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "15"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
+      "state": "OREGON",
+      "updated": "2021-08-11 22:36:43",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,717 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "98"
+    },
+    {
       "name": "South Yaak",
       "type": "Wildfire",
       "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
@@ -14,19 +79,6 @@
       "contained": "44"
     },
     {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-11 22:27:49",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "14,520 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "15"
-    },
-    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7th...",
@@ -38,19 +90,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "46"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
-      "state": "OREGON",
-      "updated": "2021-08-11 22:21:44",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,765 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "98"
     },
     {
       "name": "Antelope Fire",
@@ -77,32 +116,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "45"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 22:07:44",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "11,372 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "21"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-11 22:07:06",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "2,033 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "30"
     },
     {
       "name": "Boulder 2700 Fire ",
@@ -935,19 +948,6 @@
       "url": "/incident/7614/",
       "id": "7614",
       "contained": "85"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 07:46:07",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,643 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "59"
     },
     {
       "name": "Goat Fire",
