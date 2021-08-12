@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 14:11:55",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "11,725 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
+      "state": "OREGON",
+      "updated": "2021-08-12 14:11:38",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "6,259 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "2"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-12 14:11:36",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "7,150 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "0"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 14:09:15",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "48,709 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "5"
+    },
+    {
+      "name": "Richard Spring",
+      "type": "Wildfire",
+      "summary": "The Richard Spring Fire was identified on August 8, 2021 about 10...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 14:07:46",
+      "lat": "45.809",
+      "lng": "-106.764",
+      "size": "165,424 Acres",
+      "url": "/incident/7794/",
+      "id": "7794",
+      "contained": "0"
+    },
+    {
       "name": "Balsinger Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Balsinger Fire started burning about 5 miles...",
@@ -24,19 +89,6 @@
       "size": "0 Acres",
       "url": "/incident/7617/",
       "id": "7617",
-      "contained": "0"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 13:49:00",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "7,150 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
       "contained": "0"
     },
     {
@@ -131,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
-      "state": "OREGON",
-      "updated": "2021-08-12 13:21:58",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "6,259 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "2"
-    },
-    {
       "name": "Spur Fire",
       "type": "Wildfire",
       "summary": "The Spur Creek fire started on August 5, 2021. It is located...",
@@ -155,19 +194,6 @@
       "url": "/incident/7789/",
       "id": "7789",
       "contained": "0"
-    },
-    {
-      "name": "Richard Spring",
-      "type": "Wildfire",
-      "summary": "The Richard Spring Fire was identified on August 8, 2021 about 10...",
-      "state": "MONTANA",
-      "updated": "2021-08-12 13:21:56",
-      "lat": "45.809",
-      "lng": "-106.764",
-      "size": "149,453 Acres",
-      "url": "/incident/7794/",
-      "id": "7794",
-      "contained": "15"
     },
     {
       "name": "Chickadee Creek",
@@ -430,19 +456,6 @@
       "contained": "35"
     },
     {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-12 12:04:02",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "11,725 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
@@ -493,19 +506,6 @@
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "0"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-12 11:54:50",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "48,709 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "5"
     },
     {
       "name": "Character Complex",
