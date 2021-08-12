@@ -1,6 +1,123 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 08:30:31",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "48,524 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "5"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 08:27:20",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "10,498 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "44"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "  Progression Map  |     Daily IR Map   |     Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 08:22:26",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "67,190 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "3"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-12 08:21:34",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,583 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "46"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 08:20:03",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "510,227 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "30"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-12 08:14:26",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "1,326 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "0"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 08:13:27",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "23,010 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "On the evening of August 7, eight (8) firefighters were flown out to...",
+      "state": "IDAHO",
+      "updated": "2021-08-12 08:11:57",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "292 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "60"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
+      "state": "OREGON",
+      "updated": "2021-08-12 08:05:38",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "4,650 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "5"
+    },
+    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "August 5, 2021: The lightning-caused American Fork Fire started on...",
@@ -12,32 +129,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "10"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-12 08:02:43",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,583 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
-      "state": "OREGON",
-      "updated": "2021-08-12 08:00:57",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "4,650 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "5"
     },
     {
       "name": "Boulder 2700 Fire ",
@@ -92,19 +183,6 @@
       "contained": "30"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "  Progression Map  |     Daily IR Map   |     Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 07:32:25",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "67,190 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "3"
-    },
-    {
       "name": "Spur Fire",
       "type": "Wildfire",
       "summary": "  WILDFIRE INFORMATION August 11, 2021...",
@@ -116,19 +194,6 @@
       "url": "/incident/7789/",
       "id": "7789",
       "contained": "0"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-12 06:16:58",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "23,010 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
     },
     {
       "name": "Granite Pass Complex",
@@ -168,19 +233,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "15"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 00:15:21",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "505,413 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "30"
     },
     {
       "name": "Middle Fork Complex",
@@ -313,19 +365,6 @@
       "contained": "15"
     },
     {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 22:28:49",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "10,388 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "44"
-    },
-    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": " August 5, 2021: The lightning-caused Balsinger Fire started burning...",
@@ -350,19 +389,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "10"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 21:47:52",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "46,691 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "3"
     },
     {
       "name": "Whitmore Fire ",
@@ -402,19 +428,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-11 21:32:21",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "1,237 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "0"
     },
     {
       "name": "McFarland Fire",
@@ -688,19 +701,6 @@
       "url": "/incident/7562/",
       "id": "7562",
       "contained": "68"
-    },
-    {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "On the evening of August 7, eight (8) firefighters were flown out to...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 16:17:52",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "292 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "60"
     },
     {
       "name": "Bull Complex (formerly Janus Complex)",
