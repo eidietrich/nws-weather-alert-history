@@ -1,6 +1,123 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "  Progression Map  |     Daily IR Map   |     Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 23:22:02",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "62,490 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "3"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 23:15:38",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "43,900 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "24"
+    },
+    {
+      "name": "Skyline Ridge Complex",
+      "type": "Wildfire",
+      "summary": " A number of fires have been reported in the South Umpqua River...",
+      "state": "OREGON",
+      "updated": "2021-08-11 23:15:15",
+      "lat": "42.901",
+      "lng": "-123.111",
+      "size": "3,087 Acres",
+      "url": "/incident/7762/",
+      "id": "7762",
+      "contained": "23"
+    },
+    {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
+      "state": "IDAHO",
+      "updated": "2021-08-11 23:09:26",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "8,353 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "42"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
+      "state": "OREGON",
+      "updated": "2021-08-11 23:04:59",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "4,650 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "5"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-11 22:59:27",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "11,372 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "21"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
+      "state": "OREGON",
+      "updated": "2021-08-11 22:59:15",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,717 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "98"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-11 22:49:25",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "2,033 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "30"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
+      "state": "IDAHO",
+      "updated": "2021-08-11 22:47:12",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "8,403 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "35"
+    },
+    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "Great Basin Team 7 took command of the Mud Lick Fire on Tuesday,...",
@@ -14,32 +131,6 @@
       "contained": "64"
     },
     {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-11 22:45:35",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "2,033 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "30"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 22:42:51",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "11,372 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "21"
-    },
-    {
       "name": "Black Butte Fire",
       "type": "Wildfire",
       "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
@@ -51,19 +142,6 @@
       "url": "/incident/7770/",
       "id": "7770",
       "contained": "15"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
-      "state": "OREGON",
-      "updated": "2021-08-11 22:36:43",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,717 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "98"
     },
     {
       "name": "South Yaak",
@@ -90,19 +168,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "46"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 22:13:40",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "43,900 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "24"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -155,19 +220,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "10"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 21:55:50",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "8,178 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "35"
     },
     {
       "name": "Woods Creek Fire",
@@ -233,19 +285,6 @@
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Progression Map  |     Daily IR Map   |     Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 21:25:24",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "62,490 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "3"
     },
     {
       "name": "McFarland Fire",
@@ -716,19 +755,6 @@
       "contained": "70"
     },
     {
-      "name": "Skyline Ridge Complex",
-      "type": "Wildfire",
-      "summary": " A number of fires have been reported in the South Umpqua River...",
-      "state": "OREGON",
-      "updated": "2021-08-11 13:06:00",
-      "lat": "42.901",
-      "lng": "-123.111",
-      "size": "3,087 Acres",
-      "url": "/incident/7762/",
-      "id": "7762",
-      "contained": "23"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
@@ -807,19 +833,6 @@
       "contained": "90"
     },
     {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
-      "state": "OREGON",
-      "updated": "2021-08-11 11:36:55",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "4,651 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "5"
-    },
-    {
       "name": "Darlene",
       "type": "Wildfire",
       "summary": "The Darlene Fire was reported on private lands on July 13, 2021 at...",
@@ -831,19 +844,6 @@
       "url": "/incident/7665/",
       "id": "7665",
       "contained": "100"
-    },
-    {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
-      "state": "IDAHO",
-      "updated": "2021-08-11 11:13:40",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "8,353 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "42"
     },
     {
       "name": "Rough Patch Complex",
