@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
+      "state": "OREGON",
+      "updated": "2021-08-11 21:48:31",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,765 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "98"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
+      "state": "MONTANA",
+      "updated": "2021-08-11 21:47:52",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "46,691 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "3"
+    },
+    {
+      "name": "Whitmore Fire ",
+      "type": "Wildfire",
+      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 21:47:13",
+      "lat": "48.15",
+      "lng": "-119.134",
+      "size": "57,460 Acres",
+      "url": "/incident/7776/",
+      "id": "7776",
+      "contained": "30"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 21:41:02",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "62,489 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "54"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 21:33:06",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "1,769 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-11 21:32:21",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "1,237 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "0"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Progression Map  |     Daily IR Map   |     Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-11 21:25:24",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "62,490 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "3"
+    },
+    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "McFarland Fire Update August 11, 2021 This morning, the McFarland...",
@@ -14,32 +105,6 @@
       "contained": "51"
     },
     {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-11 21:22:37",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "1,237 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Progression Map  |     Daily IR Map   |     Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 21:21:09",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "62,490 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "3"
-    },
-    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed under Unified Command by...",
@@ -51,19 +116,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "2"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 21:15:30",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "1,769 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Hay Creek",
@@ -129,19 +181,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "10"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
-      "state": "OREGON",
-      "updated": "2021-08-11 20:48:41",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,765 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "98"
     },
     {
       "name": "Summit Trail",
@@ -285,19 +324,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "Whitmore Fire ",
-      "type": "Wildfire",
-      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-11 19:17:58",
-      "lat": "48.15",
-      "lng": "-119.134",
-      "size": "56,454 Acres",
-      "url": "/incident/7776/",
-      "id": "7776",
-      "contained": "25"
     },
     {
       "name": "West Lolo Complex",
@@ -508,19 +534,6 @@
       "contained": "60"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "August 4, 2021: The Woods Creek Fire was discovered on Saturday, July...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 15:18:16",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "46,691 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "3"
-    },
-    {
       "name": "Bull Complex (formerly Janus Complex)",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
@@ -571,19 +584,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "30"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-11 13:24:37",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "62,489 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "54"
     },
     {
       "name": "Muddy Slide Fire",
