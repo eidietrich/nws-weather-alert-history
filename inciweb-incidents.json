@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-12 15:45:55",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,019 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "3"
+    },
+    {
+      "name": "Bedrock Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2021-08-12 15:40:05",
+      "lat": "46.531",
+      "lng": "-116.6",
+      "size": "6,000 Acres",
+      "url": "/incident/7796/",
+      "id": "7796",
+      "contained": "0"
+    },
+    {
+      "name": "Skyline Ridge Complex",
+      "type": "Wildfire",
+      "summary": " A number of fires have been reported in the South Umpqua River...",
+      "state": "OREGON",
+      "updated": "2021-08-12 15:35:08",
+      "lat": "42.901",
+      "lng": "-123.111",
+      "size": "3,546 Acres",
+      "url": "/incident/7762/",
+      "id": "7762",
+      "contained": "23"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
@@ -12,19 +51,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "30"
-    },
-    {
-      "name": "Bedrock Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2021-08-12 15:27:29",
-      "lat": "46.531",
-      "lng": "-116.6",
-      "size": "6,000 Acres",
-      "url": "/incident/7796/",
-      "id": "7796",
-      "contained": "0"
     },
     {
       "name": "Schneider Springs",
@@ -324,19 +350,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "30"
-    },
-    {
-      "name": "Skyline Ridge Complex",
-      "type": "Wildfire",
-      "summary": " A number of fires have been reported in the South Umpqua River...",
-      "state": "OREGON",
-      "updated": "2021-08-12 13:10:38",
-      "lat": "42.901",
-      "lng": "-123.111",
-      "size": "3,546 Acres",
-      "url": "/incident/7762/",
-      "id": "7762",
-      "contained": "23"
     },
     {
       "name": "West Lolo Complex",
@@ -740,19 +753,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "53"
-    },
-    {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-12 10:40:02",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,019 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
     },
     {
       "name": "South Yaak",
