@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 15:30:09",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "510,227 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "30"
+    },
+    {
+      "name": "Bedrock Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2021-08-12 15:27:29",
+      "lat": "46.531",
+      "lng": "-116.6",
+      "size": "6,000 Acres",
+      "url": "/incident/7796/",
+      "id": "7796",
+      "contained": "0"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": "Lightning passed through the Naches Ranger District the evening of...",
       "state": "WASHINGTON",
-      "updated": "2021-08-12 15:16:03",
+      "updated": "2021-08-12 15:26:39",
       "lat": "46.84",
       "lng": "-121.146",
       "size": "7,150 Acres",
@@ -14,11 +40,24 @@
       "contained": "0"
     },
     {
+      "name": "Spur Fire",
+      "type": "Wildfire",
+      "summary": "The Spur Creek fire started on August 5, 2021. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-12 15:24:21",
+      "lat": "48.815",
+      "lng": "-119.079",
+      "size": "5,249 Acres",
+      "url": "/incident/7789/",
+      "id": "7789",
+      "contained": "0"
+    },
+    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
       "state": "MONTANA",
-      "updated": "2021-08-12 15:14:23",
+      "updated": "2021-08-12 15:16:41",
       "lat": "48.34",
       "lng": "-115.968",
       "size": "3,583 Acres",
@@ -37,19 +76,6 @@
       "size": "0 Acres",
       "url": "/incident/7692/",
       "id": "7692",
-      "contained": "0"
-    },
-    {
-      "name": "Bedrock Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2021-08-12 15:04:51",
-      "lat": "46.531",
-      "lng": "-116.6",
-      "size": "0 Acres",
-      "url": "/incident/7796/",
-      "id": "7796",
       "contained": "0"
     },
     {
@@ -258,19 +284,6 @@
       "size": "560 Acres",
       "url": "/incident/7790/",
       "id": "7790",
-      "contained": "0"
-    },
-    {
-      "name": "Spur Fire",
-      "type": "Wildfire",
-      "summary": "The Spur Creek fire started on August 5, 2021. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 13:21:58",
-      "lat": "48.815",
-      "lng": "-119.079",
-      "size": "5,249 Acres",
-      "url": "/incident/7789/",
-      "id": "7789",
       "contained": "0"
     },
     {
@@ -532,19 +545,6 @@
       "url": "/incident/7770/",
       "id": "7770",
       "contained": "15"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 11:57:54",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "510,227 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "30"
     },
     {
       "name": "Character Complex",
