@@ -1,30 +1,108 @@
 {
   "markers": [
     {
-      "name": "McCash Fire",
+      "name": "Monument Fire",
       "type": "Wildfire",
-      "summary": "Heavy smoke from nearby wildfires continues to impact the area,...",
+      "summary": "    Daily IR Map   |     Daily Public info Map    ...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-13 16:30:01",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "2,116 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
+      "updated": "2021-08-13 16:46:07",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "74,759 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "5"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 16:45:38",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "66,885 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "54"
+    },
+    {
+      "name": "Whitetail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The fire has transitioned from the local Type-3 Team to the local...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 16:39:48",
+      "lat": "47.811",
+      "lng": "-113.883",
+      "size": "340 Acres",
+      "url": "/incident/7767/",
+      "id": "7767",
+      "contained": "30"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
+      "state": "OREGON",
+      "updated": "2021-08-13 16:39:23",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "6,944 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "2"
+    },
+    {
+      "name": "Patton Meadow Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-13 16:35:01",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "7,000 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "0"
     },
     {
       "name": "Goose Fire",
       "type": "Wildfire",
       "summary": "The Goose Fire is currently 7,522 acres and 90% contained as of...",
       "state": "MONTANA",
-      "updated": "2021-08-13 16:29:45",
+      "updated": "2021-08-13 16:33:06",
       "lat": "44.733",
       "lng": "-111.6",
       "size": "7,522 Acres",
       "url": "/incident/7618/",
       "id": "7618",
       "contained": "90"
+    },
+    {
+      "name": "Pincer Creek Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 16:31:35",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "250 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
+      "contained": "0"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "Heavy smoke from nearby wildfires continues to impact the area,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 16:30:29",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "2,116 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
     },
     {
       "name": "Muckamuck",
@@ -40,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Patton Meadow Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-13 16:27:28",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "7,000 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "0"
-    },
-    {
       "name": "Nez Perce-Clearwater Lightning Fires",
       "type": "Wildfire",
       "summary": "On June 30th, a succession of thunderstorm systems moved through...",
@@ -64,32 +129,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "Whitetail Creek Fire",
-      "type": "Wildfire",
-      "summary": " Heavy equipment continues constructing Fireline around most of the...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 16:25:06",
-      "lat": "47.811",
-      "lng": "-113.883",
-      "size": "340 Acres",
-      "url": "/incident/7767/",
-      "id": "7767",
-      "contained": "30"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "    Daily IR Map   |     Daily Public info Map    ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 15:56:09",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "74,759 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "5"
     },
     {
       "name": "Richard Spring",
@@ -235,19 +274,6 @@
       "contained": "98"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 14:27:59",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "66,885 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "54"
-    },
-    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
@@ -272,19 +298,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "31"
-    },
-    {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 14:24:37",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "153 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
     },
     {
       "name": "Lick Creek Fire",
@@ -506,19 +519,6 @@
       "url": "/incident/7790/",
       "id": "7790",
       "contained": "15"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
-      "state": "OREGON",
-      "updated": "2021-08-13 12:32:34",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "6,944 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "2"
     },
     {
       "name": "Storm Theatre Complex",
