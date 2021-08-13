@@ -1,6 +1,136 @@
 {
   "markers": [
     {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "This morning, the McFarland Fire is 40,684 acres and is 57%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 09:45:39",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "40,684 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "57"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 09:44:21",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "23,734 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Bedrock Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2021-08-13 09:42:09",
+      "lat": "46.531",
+      "lng": "-116.6",
+      "size": "6,000 Acres",
+      "url": "/incident/7796/",
+      "id": "7796",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 09:41:34",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "515,756 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Due to the multiple small fire starts over the last two days, which...",
+      "state": "OREGON",
+      "updated": "2021-08-13 09:37:37",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,527 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "53"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "Yesterday, fire activity was moderate.  The fire was flanking,...",
+      "state": "IDAHO",
+      "updated": "2021-08-13 09:34:26",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "307 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "70"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 09:31:48",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "2,072 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "46"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Red Flag Warning in Effect for McCash Fire Today   A heat advisory,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 09:30:23",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "2,116 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Pincer Creek Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 09:29:14",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "153 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
+      "contained": "0"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 09:28:30",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "31,592 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "53"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
@@ -14,32 +144,6 @@
       "contained": "98"
     },
     {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 09:27:31",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "2,072 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "46"
-    },
-    {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 09:27:23",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "153 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
-    },
-    {
       "name": "Storm Theatre Complex",
       "type": "Wildfire",
       "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
@@ -51,19 +155,6 @@
       "url": "/incident/7724/",
       "id": "7724",
       "contained": "3"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Red Flag Warning in Effect for McCash Fire Today   A heat advisory,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 09:24:09",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "2,116 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Boundary Fire",
@@ -90,19 +181,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "24"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 09:16:43",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "31,592 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "53"
     },
     {
       "name": "Devil's Knob Complex",
@@ -194,32 +272,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "5"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 08:48:53",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "23,734 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "This evening, the McFarland Fire is 38,498 acres and is 57%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 08:47:41",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "40,684 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "57"
     },
     {
       "name": "Nez Perce-Clearwater Lightning Fires",
@@ -363,19 +415,6 @@
       "url": "/incident/7790/",
       "id": "7790",
       "contained": "15"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 23:25:40",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "515,756 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
     },
     {
       "name": "Trestle Creek Complex",
@@ -729,19 +768,6 @@
       "contained": "0"
     },
     {
-      "name": "Bedrock Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2021-08-12 16:05:41",
-      "lat": "46.531",
-      "lng": "-116.6",
-      "size": "6,000 Acres",
-      "url": "/incident/7796/",
-      "id": "7796",
-      "contained": "0"
-    },
-    {
       "name": "West Zone Superior Fires",
       "type": "Wildfire",
       "summary": " The West Zone of the Superior National Forest, consisting of the...",
@@ -870,32 +896,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "3"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Due to the multiple small fire starts over the last two days, which...",
-      "state": "OREGON",
-      "updated": "2021-08-12 10:42:05",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,386 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
-    },
-    {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "Yesterday, fire activity was moderate with the isolated torching. ...",
-      "state": "IDAHO",
-      "updated": "2021-08-12 09:08:52",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "307 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "70"
     },
     {
       "name": "Tamarack Fire",
