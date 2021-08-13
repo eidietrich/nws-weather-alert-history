@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 15:28:56",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "48,806 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "38"
+    },
+    {
       "name": "Richard Spring",
       "type": "Wildfire",
       "summary": "At 6:00 am on August 12, Northern Rockies Team 3 took command of both...",
       "state": "MONTANA",
-      "updated": "2021-08-13 15:15:13",
+      "updated": "2021-08-13 15:27:28",
       "lat": "45.809",
       "lng": "-106.764",
       "size": "170,303 Acres",
       "url": "/incident/7794/",
       "id": "7794",
       "contained": "0"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "August 12th 9PM-Heavy equipment will be moving down Stormy Peak road...",
+      "state": "IDAHO",
+      "updated": "2021-08-13 15:23:29",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,643 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "64"
     },
     {
       "name": "Bull Complex (formerly Janus Complex)",
@@ -404,19 +430,6 @@
       "contained": "10"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 13:03:20",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "48,806 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "38"
-    },
-    {
       "name": "Whitetail Creek Fire",
       "type": "Wildfire",
       "summary": " Heavy equipment continues constructing Fireline around most of the...",
@@ -454,19 +467,6 @@
       "url": "/incident/7625/",
       "id": "7625",
       "contained": "80"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "August 12th 9PM-Heavy equipment will be moving down Stormy Peak road...",
-      "state": "IDAHO",
-      "updated": "2021-08-13 12:46:08",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,643 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "64"
     },
     {
       "name": "Knoll Fire",
