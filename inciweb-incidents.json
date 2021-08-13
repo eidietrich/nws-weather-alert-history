@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "Heavy smoke from nearby wildfires continues to impact the area,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 16:30:01",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "2,116 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Goose Fire",
+      "type": "Wildfire",
+      "summary": "The Goose Fire is currently 7,522 acres and 90% contained as of...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 16:29:45",
+      "lat": "44.733",
+      "lng": "-111.6",
+      "size": "7,522 Acres",
+      "url": "/incident/7618/",
+      "id": "7618",
+      "contained": "90"
+    },
+    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
       "state": "WASHINGTON",
-      "updated": "2021-08-13 16:07:29",
+      "updated": "2021-08-13 16:29:18",
       "lat": "48.576",
       "lng": "-119.832",
       "size": "1,648 Acres",
@@ -14,17 +40,43 @@
       "contained": "0"
     },
     {
-      "name": "McCash Fire",
+      "name": "Patton Meadow Fire",
       "type": "Wildfire",
-      "summary": "Heavy smoke from nearby wildfires continues to impact the area,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 16:06:53",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "2,116 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-13 16:27:28",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "7,000 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "0"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
+      "state": "IDAHO",
+      "updated": "2021-08-13 16:25:13",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Whitetail Creek Fire",
+      "type": "Wildfire",
+      "summary": " Heavy equipment continues constructing Fireline around most of the...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 16:25:06",
+      "lat": "47.811",
+      "lng": "-113.883",
+      "size": "340 Acres",
+      "url": "/incident/7767/",
+      "id": "7767",
+      "contained": "30"
     },
     {
       "name": "Monument Fire",
@@ -155,19 +207,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "10"
-    },
-    {
-      "name": "Patton Meadow Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-13 14:48:03",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "7,000 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "0"
     },
     {
       "name": "Robertson Draw",
@@ -391,19 +430,6 @@
       "contained": "64"
     },
     {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
-      "state": "IDAHO",
-      "updated": "2021-08-13 13:32:54",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
@@ -441,19 +467,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "10"
-    },
-    {
-      "name": "Whitetail Creek Fire",
-      "type": "Wildfire",
-      "summary": " Heavy equipment continues constructing Fireline around most of the...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 12:58:15",
-      "lat": "47.811",
-      "lng": "-113.883",
-      "size": "340 Acres",
-      "url": "/incident/7767/",
-      "id": "7767",
-      "contained": "30"
     },
     {
       "name": "Nine Mine Fire",
@@ -987,19 +1000,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "98"
-    },
-    {
-      "name": "Goose Fire",
-      "type": "Wildfire",
-      "summary": "The Goose Fire is currently 7,522 acres and 80% contained as of...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 17:09:14",
-      "lat": "44.733",
-      "lng": "-111.6",
-      "size": "7,522 Acres",
-      "url": "/incident/7618/",
-      "id": "7618",
-      "contained": "90"
     },
     {
       "name": "Bruler Fire",
