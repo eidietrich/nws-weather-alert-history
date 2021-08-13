@@ -1,6 +1,136 @@
 {
   "markers": [
     {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
+      "state": "IDAHO",
+      "updated": "2021-08-13 17:46:03",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
+      "state": "OREGON",
+      "updated": "2021-08-13 17:42:05",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "5,794 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "5"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 17:41:20",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "1,648 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "0"
+    },
+    {
+      "name": "Knoll Fire",
+      "type": "Wildfire",
+      "summary": "The Knoll Fire is being managed by Pacific Northwest Team 3....",
+      "state": "OREGON",
+      "updated": "2021-08-13 17:41:15",
+      "lat": "44.246",
+      "lng": "-122.055",
+      "size": "540 Acres",
+      "url": "/incident/7790/",
+      "id": "7790",
+      "contained": "15"
+    },
+    {
+      "name": "Bedrock Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2021-08-13 17:39:59",
+      "lat": "46.531",
+      "lng": "-116.6",
+      "size": "8,000 Acres",
+      "url": "/incident/7796/",
+      "id": "7796",
+      "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 17:39:07",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "66,885 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "54"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 17:38:51",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "53,442 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "41"
+    },
+    {
+      "name": "Patton Meadow Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-13 17:35:33",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "7,000 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "0"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 17:35:19",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "19,602 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 17:33:01",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,614 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "45"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "Please see the News and Announcements tabs for the latest updates on...",
@@ -12,58 +142,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "24"
-    },
-    {
-      "name": "Patton Meadow Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-13 17:26:00",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "7,000 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "0"
-    },
-    {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
-      "state": "IDAHO",
-      "updated": "2021-08-13 17:25:59",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 17:14:23",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "53,442 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "41"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 17:13:03",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,614 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "45"
     },
     {
       "name": "Woods Creek Fire",
@@ -118,19 +196,6 @@
       "contained": "2"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 16:53:59",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "66,885 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "54"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "    Daily IR Map   |     Daily Public info Map    ...",
@@ -180,19 +245,6 @@
       "size": "250 Acres",
       "url": "/incident/7797/",
       "id": "7797",
-      "contained": "0"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 16:29:18",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "1,648 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
       "contained": "0"
     },
     {
@@ -246,19 +298,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "35"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
-      "state": "OREGON",
-      "updated": "2021-08-13 15:01:59",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "5,794 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "5"
     },
     {
       "name": "Prescribed Fire Projects 2021",
@@ -469,19 +508,6 @@
       "contained": "15"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 13:05:12",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "19,602 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
       "name": "Nine Mine Fire",
       "type": "Wildfire",
       "summary": "Orient, WA - The Nine Mine Fire is located 4.5 miles south /...",
@@ -506,19 +532,6 @@
       "url": "/incident/7625/",
       "id": "7625",
       "contained": "80"
-    },
-    {
-      "name": "Knoll Fire",
-      "type": "Wildfire",
-      "summary": "The Knoll Fire is being managed by Pacific Northwest Team 3....",
-      "state": "OREGON",
-      "updated": "2021-08-13 12:33:10",
-      "lat": "44.246",
-      "lng": "-122.055",
-      "size": "540 Acres",
-      "url": "/incident/7790/",
-      "id": "7790",
-      "contained": "15"
     },
     {
       "name": "Storm Theatre Complex",
@@ -753,19 +766,6 @@
       "url": "/incident/7785/",
       "id": "7785",
       "contained": "5"
-    },
-    {
-      "name": "Bedrock Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2021-08-13 09:42:09",
-      "lat": "46.531",
-      "lng": "-116.6",
-      "size": "6,000 Acres",
-      "url": "/incident/7796/",
-      "id": "7796",
-      "contained": "0"
     },
     {
       "name": "Scarface Fire",
