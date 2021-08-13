@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Red Flag Warning in Effect for McCash Fire Today   A heat advisory,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 10:49:46",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "2,116 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Cougar Rock Complex",
+      "type": "Wildfire",
+      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
+      "state": "IDAHO",
+      "updated": "2021-08-13 10:49:16",
+      "lat": "46.893",
+      "lng": "-115.846",
+      "size": "8,353 Acres",
+      "url": "/incident/7640/",
+      "id": "7640",
+      "contained": "53"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "Daily Updates |Daily Map   | ...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 10:48:49",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,894 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "30"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 10:47:27",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "53,442 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "41"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 10:47:09",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "36,954 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 10:41:23",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "48,806 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "38"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 10:38:09",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "19,602 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": " As of 6:00 a.m. today, Northwest Incident Management Team 10...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 10:36:34",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,797 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "35"
+    },
+    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Balsinger Fire started burning about 5 miles...",
@@ -66,19 +170,6 @@
       "contained": "31"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 10:32:40",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,797 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "35"
-    },
-    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
@@ -103,32 +194,6 @@
       "url": "/incident/7608/",
       "id": "7608",
       "contained": "60"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 10:20:19",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "48,806 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "38"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 10:19:55",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "19,602 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
     },
     {
       "name": "Antelope Fire",
@@ -287,19 +352,6 @@
       "contained": "46"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Red Flag Warning in Effect for McCash Fire Today   A heat advisory,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 09:30:23",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "2,116 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
-    },
-    {
       "name": "Pincer Creek Fire",
       "type": "Wildfire",
       "summary": "",
@@ -352,19 +404,6 @@
       "contained": "47"
     },
     {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "Daily Updates |Daily Map   | ...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 09:11:49",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,894 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "30"
-    },
-    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
@@ -415,19 +454,6 @@
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 08:24:06",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "53,442 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "41"
     },
     {
       "name": "Mud Lick Fire",
@@ -610,32 +636,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "21"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 21:33:07",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "32,649 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
-    },
-    {
-      "name": "Cougar Rock Complex",
-      "type": "Wildfire",
-      "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
-      "state": "IDAHO",
-      "updated": "2021-08-12 21:32:06",
-      "lat": "46.893",
-      "lng": "-115.846",
-      "size": "8,353 Acres",
-      "url": "/incident/7640/",
-      "id": "7640",
-      "contained": "53"
     },
     {
       "name": "Schneider Springs",
