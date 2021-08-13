@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Nason Fire",
+      "type": "Wildfire",
+      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 13:51:06",
+      "lat": "47.828",
+      "lng": "-120.96",
+      "size": "103 Acres",
+      "url": "/incident/7799/",
+      "id": "7799",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 13:49:45",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "517,945 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-08-13 13:48:25",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,637 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "82"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 13:45:23",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "13,665 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "0"
+    },
+    {
+      "name": "Richard Spring",
+      "type": "Wildfire",
+      "summary": "The Richard Spring Fire was identified on August 8, 2021 about 10...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 13:42:05",
+      "lat": "45.809",
+      "lng": "-106.764",
+      "size": "170,303 Acres",
+      "url": "/incident/7794/",
+      "id": "7794",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 13:41:59",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "53,442 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "41"
+    },
+    {
       "name": "Windy Pass",
       "type": "Wildfire",
       "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
@@ -27,32 +105,6 @@
       "contained": "10"
     },
     {
-      "name": "Richard Spring",
-      "type": "Wildfire",
-      "summary": "The Richard Spring Fire was identified on August 8, 2021 about 10...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 13:40:10",
-      "lat": "45.809",
-      "lng": "-106.764",
-      "size": "170,303 Acres",
-      "url": "/incident/7794/",
-      "id": "7794",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 13:39:57",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "517,945 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
-    },
-    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
@@ -64,19 +116,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "54"
-    },
-    {
-      "name": "Nason Fire",
-      "type": "Wildfire",
-      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 13:39:14",
-      "lat": "47.828",
-      "lng": "-120.96",
-      "size": "103 Acres",
-      "url": "/incident/7799/",
-      "id": "7799",
-      "contained": "0"
     },
     {
       "name": "Patton Meadow Fire",
@@ -274,19 +313,6 @@
       "contained": "64"
     },
     {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-08-13 12:39:30",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,637 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "82"
-    },
-    {
       "name": "Knoll Fire",
       "type": "Wildfire",
       "summary": "The Knoll Fire is being managed by Pacific Northwest Team 3....",
@@ -480,32 +506,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "40"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 11:55:40",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "53,442 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "41"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 11:50:38",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "13,665 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "0"
     },
     {
       "name": "Muckamuck",
