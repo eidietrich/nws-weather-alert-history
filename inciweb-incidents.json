@@ -1,11 +1,128 @@
 {
   "markers": [
     {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "This evening, the McFarland Fire is 38,498 acres and is 57%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 20:52:36",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "38,498 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "57"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-12 20:46:49",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,019 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "3"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "Daily Updates |Daily Map   | ...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 20:44:36",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,894 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "30"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-12 20:20:07",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "11,372 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "21"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-08-12 20:19:33",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "7,505 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "24"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Red Flag Warning in Effect for McCash Fire Today   A heat advisory,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 20:19:09",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "1,961 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 20:15:17",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,614 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "45"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 20:01:38",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "44,839 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "24"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
+      "state": "IDAHO",
+      "updated": "2021-08-12 19:59:01",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "8,566 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "35"
+    },
+    {
       "name": "Bulldog Mountain",
       "type": "Wildfire",
       "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
       "state": "WASHINGTON",
-      "updated": "2021-08-12 19:55:38",
+      "updated": "2021-08-12 19:56:25",
       "lat": "48.791",
       "lng": "-118.271",
       "size": "2,000 Acres",
@@ -38,19 +155,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "10"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex is comprised of two fires: The Deceitful and...",
-      "state": "IDAHO",
-      "updated": "2021-08-12 19:43:16",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "8,566 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "35"
     },
     {
       "name": "Woods Creek Fire",
@@ -116,19 +220,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "30"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-12 19:18:32",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,614 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "45"
     },
     {
       "name": "Skyline Ridge Complex",
@@ -391,19 +482,6 @@
       "contained": "0"
     },
     {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-12 15:45:55",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,019 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
@@ -493,19 +571,6 @@
       "url": "/incident/7672/",
       "id": "7672",
       "contained": "95"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 13:32:23",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "44,839 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "24"
     },
     {
       "name": "Walker Creek Fire",
@@ -690,19 +755,6 @@
       "contained": "70"
     },
     {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-12 11:48:45",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "11,372 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "21"
-    },
-    {
       "name": "Goat Fire",
       "type": "Wildfire",
       "summary": "This will be the final update for the Goat Fire unless significant...",
@@ -727,58 +779,6 @@
       "url": "/incident/7740/",
       "id": "7740",
       "contained": "0"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Red Flag Warning in Effect for McCash Fire Today   A heat advisory,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 11:37:15",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "1,961 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "This morning, the McFarland Fire is 37,779 acres and is 51%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 11:07:18",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "37,779 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "51"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "Daily Updates |Daily Map   | ...",
-      "state": "MONTANA",
-      "updated": "2021-08-12 11:05:14",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,894 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "30"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-08-12 11:01:31",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "7,505 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "24"
     },
     {
       "name": "Rough Patch Complex",
