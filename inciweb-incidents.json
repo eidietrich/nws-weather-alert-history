@@ -1,6 +1,123 @@
 {
   "markers": [
     {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-12 21:25:12",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,019 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "3"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-12 21:23:22",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,730 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "36"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "  Progression Map  |     Daily IR Map   |     Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 21:23:18",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "71,865 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "5"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 21:19:21",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "515,756 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-12 21:10:09",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "2,072 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "46"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-12 21:09:15",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "7,150 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "0"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Red Flag Warning in Effect for McCash Fire Today   A heat advisory,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-12 21:04:07",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "1,961 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-12 21:03:14",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,230 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "60"
+    },
+    {
+      "name": "Windy Pass",
+      "type": "Wildfire",
+      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-12 21:02:36",
+      "lat": "47.112",
+      "lng": "-121.141",
+      "size": "82 Acres",
+      "url": "/incident/7779/",
+      "id": "7779",
+      "contained": "64"
+    },
+    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "This evening, the McFarland Fire is 38,498 acres and is 57%...",
@@ -12,19 +129,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "57"
-    },
-    {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-12 20:46:49",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,019 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
     },
     {
       "name": "Hay Creek",
@@ -64,19 +168,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "24"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Red Flag Warning in Effect for McCash Fire Today   A heat advisory,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 20:19:09",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "1,961 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -233,19 +324,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "23"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 18:57:23",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "7,150 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "0"
     },
     {
       "name": "Devil's Knob Complex",
@@ -482,32 +560,6 @@
       "contained": "0"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 15:30:09",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "510,227 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "30"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-12 15:16:41",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,583 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "46"
-    },
-    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
@@ -532,19 +584,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "64"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-12 14:21:03",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,225 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "60"
     },
     {
       "name": "West Zone Superior Fires",
@@ -677,19 +716,6 @@
       "contained": "40"
     },
     {
-      "name": "Windy Pass",
-      "type": "Wildfire",
-      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 12:23:43",
-      "lat": "47.112",
-      "lng": "-121.141",
-      "size": "82 Acres",
-      "url": "/incident/7779/",
-      "id": "7779",
-      "contained": "64"
-    },
-    {
       "name": "Cougar Rock Complex",
       "type": "Wildfire",
       "summary": "The Cougar Rock Complex is made up of several wildfires that were...",
@@ -701,19 +727,6 @@
       "url": "/incident/7640/",
       "id": "7640",
       "contained": "42"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "  Progression Map  |     Daily IR Map   |     Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 12:15:52",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "67,190 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "3"
     },
     {
       "name": "Summit Trail",
@@ -857,19 +870,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "70"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-12 08:57:36",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "2,072 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "36"
     },
     {
       "name": "Tango Fire",
