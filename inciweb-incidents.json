@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
+      "state": "OREGON",
+      "updated": "2021-08-13 14:25:44",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,717 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "98"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
+      "state": "OREGON",
+      "updated": "2021-08-13 14:25:41",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "5,794 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "5"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 14:24:48",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "66,885 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "54"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 14:24:46",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "517,945 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "Pincer Creek Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 14:24:37",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "153 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 14:24:34",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "53,442 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "41"
+    },
+    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
       "state": "WASHINGTON",
-      "updated": "2021-08-13 14:11:13",
+      "updated": "2021-08-13 14:22:44",
       "lat": "48.576",
       "lng": "-119.832",
       "size": "1,648 Acres",
@@ -14,11 +92,50 @@
       "contained": "0"
     },
     {
+      "name": "Bull Complex (formerly Janus Complex)",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-13 14:17:32",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "858 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Lick Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-13 14:17:13",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "96"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 14:16:32",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "47,762 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "24"
+    },
+    {
       "name": "Nason Fire",
       "type": "Wildfire",
       "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
       "state": "WASHINGTON",
-      "updated": "2021-08-13 14:09:06",
+      "updated": "2021-08-13 14:15:35",
       "lat": "47.828",
       "lng": "-120.96",
       "size": "103 Acres",
@@ -27,17 +144,17 @@
       "contained": "0"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Green Ridge Fire",
       "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 14:07:15",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "517,945 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-13 14:15:12",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "29,759 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "15"
     },
     {
       "name": "Alder Creek Fire",
@@ -64,19 +181,6 @@
       "url": "/incident/7691/",
       "id": "7691",
       "contained": "75"
-    },
-    {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 14:05:34",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "153 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
     },
     {
       "name": "Christensen Fire ",
@@ -157,19 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 13:41:59",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "53,442 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "41"
-    },
-    {
       "name": "Windy Pass",
       "type": "Wildfire",
       "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
@@ -181,19 +272,6 @@
       "url": "/incident/7779/",
       "id": "7779",
       "contained": "64"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 13:39:52",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "66,885 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "54"
     },
     {
       "name": "Patton Meadow Fire",
@@ -326,19 +404,6 @@
       "contained": "42"
     },
     {
-      "name": "Bull Complex (formerly Janus Complex)",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-13 12:54:01",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "858 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
       "name": "Divide Complex-Ellis Fire",
       "type": "Wildfire",
       "summary": "Notice: the incident management team has put the Ellis Fire in patrol...",
@@ -391,19 +456,6 @@
       "contained": "2"
     },
     {
-      "name": "Lick Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-13 12:32:02",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "96"
-    },
-    {
       "name": "Storm Theatre Complex",
       "type": "Wildfire",
       "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
@@ -430,19 +482,6 @@
       "contained": "35"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 12:28:01",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "47,762 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "24"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
@@ -454,19 +493,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "21"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-13 12:26:56",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "29,759 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "15"
     },
     {
       "name": "Whitmore Fire ",
@@ -547,19 +573,6 @@
       "contained": "40"
     },
     {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
-      "state": "OREGON",
-      "updated": "2021-08-13 11:41:11",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,717 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "98"
-    },
-    {
       "name": "Granite Pass Complex",
       "type": "Wildfire",
       "summary": "The Granite Pass Complex consists of four wildfires in the vicinity...",
@@ -571,19 +584,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "15"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
-      "state": "OREGON",
-      "updated": "2021-08-13 11:04:39",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "5,794 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "5"
     },
     {
       "name": "McCash Fire",
