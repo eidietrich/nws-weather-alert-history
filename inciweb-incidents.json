@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 18:11:38",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "48,806 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "38"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-13 18:10:10",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "19,602 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "10"
+    },
+    {
+      "name": "Upper Lime Creek",
+      "type": "Wildfire",
+      "summary": "The Upper Lime Creek Fire was started by lightning on August 4th and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 18:04:35",
+      "lat": "48.156",
+      "lng": "-118.717",
+      "size": "382 Acres",
+      "url": "/incident/7791/",
+      "id": "7791",
+      "contained": "45"
+    },
+    {
+      "name": "Red Apple BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 17:57:36",
+      "lat": "47.529",
+      "lng": "-120.359",
+      "size": "0 Acres",
+      "url": "/incident/7740/",
+      "id": "7740",
+      "contained": "0"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 17:56:19",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "1,648 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "0"
+    },
+    {
       "name": "Nez Perce-Clearwater Lightning Fires",
       "type": "Wildfire",
       "summary": "On June 30th, a succession of thunderstorm systems moved through...",
       "state": "IDAHO",
-      "updated": "2021-08-13 17:46:03",
+      "updated": "2021-08-13 17:52:07",
       "lat": "46.245",
       "lng": "-116.033",
       "size": "0 Acres",
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
+    },
+    {
+      "name": "Knoll Fire",
+      "type": "Wildfire",
+      "summary": "The Knoll Fire is being managed by Pacific Northwest Team 3....",
+      "state": "OREGON",
+      "updated": "2021-08-13 17:50:31",
+      "lat": "44.246",
+      "lng": "-122.055",
+      "size": "540 Acres",
+      "url": "/incident/7790/",
+      "id": "7790",
+      "contained": "15"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": " As of 6:00 a.m. today, Northwest Incident Management Team 10...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 17:49:38",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,797 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "35"
+    },
+    {
+      "name": "Chuweah Creek",
+      "type": "Wildfire",
+      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 17:48:34",
+      "lat": "48.229",
+      "lng": "-119.017",
+      "size": "36,752 Acres",
+      "url": "/incident/7664/",
+      "id": "7664",
+      "contained": "98"
     },
     {
       "name": "Devil's Knob Complex",
@@ -25,32 +129,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "5"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 17:41:20",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "1,648 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "0"
-    },
-    {
-      "name": "Knoll Fire",
-      "type": "Wildfire",
-      "summary": "The Knoll Fire is being managed by Pacific Northwest Team 3....",
-      "state": "OREGON",
-      "updated": "2021-08-13 17:41:15",
-      "lat": "44.246",
-      "lng": "-122.055",
-      "size": "540 Acres",
-      "url": "/incident/7790/",
-      "id": "7790",
-      "contained": "15"
     },
     {
       "name": "Bedrock Fire",
@@ -105,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 17:35:19",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "19,602 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "10"
-    },
-    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Balsinger Fire started burning about 5 miles...",
@@ -142,19 +207,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "24"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 17:11:21",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "48,806 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "38"
     },
     {
       "name": "Trail Creek Fire",
@@ -285,19 +337,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "0"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": " As of 6:00 a.m. today, Northwest Incident Management Team 10...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 15:06:28",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,797 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "35"
     },
     {
       "name": "Prescribed Fire Projects 2021",
@@ -859,19 +898,6 @@
       "contained": "0"
     },
     {
-      "name": "Upper Lime Creek",
-      "type": "Wildfire",
-      "summary": "The Upper Lime Creek Fire was started by lightning on August 4th and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 22:37:48",
-      "lat": "48.156",
-      "lng": "-118.717",
-      "size": "382 Acres",
-      "url": "/incident/7791/",
-      "id": "7791",
-      "contained": "45"
-    },
-    {
       "name": "Morgan Creek Fire",
       "type": "Wildfire",
       "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
@@ -974,32 +1000,6 @@
       "url": "/incident/7694/",
       "id": "7694",
       "contained": "75"
-    },
-    {
-      "name": "Red Apple BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-12 11:43:16",
-      "lat": "47.529",
-      "lng": "-120.359",
-      "size": "0 Acres",
-      "url": "/incident/7740/",
-      "id": "7740",
-      "contained": "0"
-    },
-    {
-      "name": "Chuweah Creek",
-      "type": "Wildfire",
-      "summary": " The Chuweah Creek Fire started on July 12 outside of Nespelem,",
-      "state": "WASHINGTON",
-      "updated": "2021-08-11 21:02:25",
-      "lat": "48.229",
-      "lng": "-119.017",
-      "size": "36,752 Acres",
-      "url": "/incident/7664/",
-      "id": "7664",
-      "contained": "98"
     },
     {
       "name": "Bruler Fire",
