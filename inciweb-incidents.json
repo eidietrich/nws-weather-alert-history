@@ -1,24 +1,50 @@
 {
   "markers": [
     {
-      "name": "West Lolo Complex",
+      "name": "Middle Fork Complex",
       "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-14 12:02:24",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "24,630 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
+      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
+      "state": "OREGON",
+      "updated": "2021-08-14 12:22:12",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "8,424 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "2"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-14 12:22:01",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "540,581 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "Windy Pass",
+      "type": "Wildfire",
+      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 12:21:24",
+      "lat": "47.112",
+      "lng": "-121.141",
+      "size": "82 Acres",
+      "url": "/incident/7779/",
+      "id": "7779",
+      "contained": "64"
     },
     {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
       "state": "WYOMING",
-      "updated": "2021-08-14 12:01:54",
+      "updated": "2021-08-14 12:20:18",
       "lat": "44.947",
       "lng": "-107.771",
       "size": "2,427 Acres",
@@ -31,13 +57,104 @@
       "type": "Wildfire",
       "summary": "Lightning passed through the Naches Ranger District the evening of...",
       "state": "WASHINGTON",
-      "updated": "2021-08-14 12:00:47",
+      "updated": "2021-08-14 12:19:13",
       "lat": "46.84",
       "lng": "-121.146",
       "size": "15,042 Acres",
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "0"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
+      "state": "IDAHO",
+      "updated": "2021-08-14 12:15:41",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "11,377 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "21"
+    },
+    {
+      "name": "Whitmore Fire ",
+      "type": "Wildfire",
+      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 12:13:28",
+      "lat": "48.15",
+      "lng": "-119.134",
+      "size": "58,087 Acres",
+      "url": "/incident/7776/",
+      "id": "7776",
+      "contained": "40"
+    },
+    {
+      "name": "Skyline Ridge Complex",
+      "type": "Wildfire",
+      "summary": " A number of fires have been reported in the South Umpqua River...",
+      "state": "OREGON",
+      "updated": "2021-08-14 12:13:10",
+      "lat": "42.901",
+      "lng": "-123.111",
+      "size": "4,828 Acres",
+      "url": "/incident/7762/",
+      "id": "7762",
+      "contained": "33"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-14 12:09:54",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "17,569 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "30"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "    Daily IR Map   |     Daily Public info Map    ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-14 12:09:40",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "74,759 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "5"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "The Granite Pass Complex consists of four wildfires in the vicinity...",
+      "state": "MONTANA",
+      "updated": "2021-08-14 12:05:39",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "5,902 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "15"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-14 12:02:24",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "24,630 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
     },
     {
       "name": "Lick Creek Fire",
@@ -53,19 +170,6 @@
       "contained": "96"
     },
     {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "The Granite Pass Complex consists of four wildfires in the vicinity...",
-      "state": "MONTANA",
-      "updated": "2021-08-14 11:59:47",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "5,902 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "15"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -77,19 +181,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "15"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-14 11:57:23",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "540,581 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
     },
     {
       "name": "Trail Creek Fire",
@@ -313,19 +404,6 @@
       "contained": "5"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
-      "state": "OREGON",
-      "updated": "2021-08-14 11:18:26",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "8,424 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "2"
-    },
-    {
       "name": "Nine Mine Fire",
       "type": "Wildfire",
       "summary": " Orient, WA - The Nine Mine Fire is located 4.5 miles south /...",
@@ -415,32 +493,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "40"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
-      "state": "IDAHO",
-      "updated": "2021-08-14 10:56:37",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "11,377 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "21"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-14 10:47:35",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "16,609 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "30"
     },
     {
       "name": "Cougar Rock Complex",
@@ -638,19 +690,6 @@
       "contained": "36"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "    Daily IR Map   |     Daily Public info Map    ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-14 08:42:05",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "74,759 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "5"
-    },
-    {
       "name": "Crooked Creek",
       "type": "Wildfire",
       "summary": "THIS FIRE IS NO LONGER BEING UPDATED.The Crooked Creek Fire is...",
@@ -703,19 +742,6 @@
       "contained": "0"
     },
     {
-      "name": "Skyline Ridge Complex",
-      "type": "Wildfire",
-      "summary": " A number of fires have been reported in the South Umpqua River...",
-      "state": "OREGON",
-      "updated": "2021-08-14 00:36:50",
-      "lat": "42.901",
-      "lng": "-123.111",
-      "size": "4,828 Acres",
-      "url": "/incident/7762/",
-      "id": "7762",
-      "contained": "33"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": " As of 6:00 a.m. today, Northwest Incident Management Team 10...",
@@ -727,19 +753,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "35"
-    },
-    {
-      "name": "Whitmore Fire ",
-      "type": "Wildfire",
-      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 23:15:43",
-      "lat": "48.15",
-      "lng": "-119.134",
-      "size": "58,087 Acres",
-      "url": "/incident/7776/",
-      "id": "7776",
-      "contained": "40"
     },
     {
       "name": "Upper Lime Creek",
@@ -922,19 +935,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "90"
-    },
-    {
-      "name": "Windy Pass",
-      "type": "Wildfire",
-      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 13:40:15",
-      "lat": "47.112",
-      "lng": "-121.141",
-      "size": "82 Acres",
-      "url": "/incident/7779/",
-      "id": "7779",
-      "contained": "64"
     },
     {
       "name": "Divide Complex-Ellis Fire",
