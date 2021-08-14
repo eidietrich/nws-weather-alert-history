@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "    Daily IR Map   |     Daily Public info Map    ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-14 08:42:05",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "74,759 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "5"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-14 08:40:53",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "48,806 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "40"
+    },
+    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "August 13th- Logging trucks and fire personal will continue to be...",
       "state": "IDAHO",
-      "updated": "2021-08-14 08:32:04",
+      "updated": "2021-08-14 08:38:12",
       "lat": "45.183",
       "lng": "-114.421",
       "size": "20,677 Acres",
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "68"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "This morning, the McFarland Fire is 41,055 acres and is 63%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-14 08:36:19",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "42,710 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "63"
+    },
+    {
+      "name": "Pincer Creek Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 08:36:02",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "400 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
+      "contained": "0"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-14 08:33:43",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "16,609 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "30"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -222,19 +287,6 @@
       "contained": "33"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "    Daily IR Map   |     Daily Public info Map    ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 23:49:08",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "74,759 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "5"
-    },
-    {
       "name": "Knoll Fire",
       "type": "Wildfire",
       "summary": "The Knoll Fire is being managed by Pacific Northwest Team 3....",
@@ -300,32 +352,6 @@
       "contained": "60"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "This morning, the McFarland Fire is 41,055 acres and is 63%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 22:57:50",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "41,055 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "63"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-13 22:41:32",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "16,609 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "30"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
@@ -363,19 +389,6 @@
       "url": "/incident/7640/",
       "id": "7640",
       "contained": "53"
-    },
-    {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 22:07:48",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "250 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
     },
     {
       "name": "Tamarack Fire",
@@ -506,19 +519,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "30"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-13 20:17:10",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "48,806 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "38"
     },
     {
       "name": "Storm Theatre Complex",
