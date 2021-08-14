@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 21:47:32",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "53,215 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "50"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Due to the multiple small fire starts over the last two days, which...",
+      "state": "OREGON",
+      "updated": "2021-08-13 21:46:03",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,527 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "53"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 21:45:29",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "36,954 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "This morning, the McFarland Fire is 40,684 acres and is 57%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 21:41:17",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "40,684 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "57"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 21:39:04",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "50,098 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "25"
+    },
+    {
       "name": "South Yaak",
       "type": "Wildfire",
       "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
       "state": "MONTANA",
-      "updated": "2021-08-13 21:25:47",
+      "updated": "2021-08-13 21:32:23",
       "lat": "48.551",
       "lng": "-115.93",
       "size": "10,500 Acres",
@@ -51,19 +116,6 @@
       "url": "/incident/7794/",
       "id": "7794",
       "contained": "53"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 21:13:52",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "53,215 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "50"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
@@ -287,19 +339,6 @@
       "contained": "45"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Due to the multiple small fire starts over the last two days, which...",
-      "state": "OREGON",
-      "updated": "2021-08-13 18:44:48",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,527 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
-    },
-    {
       "name": "Peak Fire",
       "type": "Wildfire",
       "summary": "This fire is now 100% contained, as of August 11, 2021. Peak Fire has...",
@@ -482,19 +521,6 @@
       "contained": "45"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 17:29:15",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "54,025 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "24"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
@@ -571,19 +597,6 @@
       "url": "/incident/7426/",
       "id": "7426",
       "contained": "0"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 14:50:23",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "36,954 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
     },
     {
       "name": "Robertson Draw",
@@ -805,19 +818,6 @@
       "url": "/incident/7789/",
       "id": "7789",
       "contained": "0"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "This morning, the McFarland Fire is 40,684 acres and is 57%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 11:59:15",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "40,684 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "57"
     },
     {
       "name": "Chickadee Creek",
