@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "2021 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2021-08-14 08:19:01",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/7304/",
+      "id": "7304",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-14 08:10:46",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "537,776 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 08:07:24",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "1,924 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "5"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 08:05:34",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "53,698 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "50"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
+      "state": "OREGON",
+      "updated": "2021-08-14 08:05:15",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "6,606 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "12"
+    },
+    {
       "name": "Bootleg Fire",
       "type": "Wildfire",
       "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
       "state": "OREGON",
-      "updated": "2021-08-14 08:02:19",
+      "updated": "2021-08-14 08:04:49",
       "lat": "42.616",
       "lng": "-121.421",
       "size": "413,717 Acres",
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "98"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 08:03:00",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "67,458 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "55"
     },
     {
       "name": "Patton Meadow Fire",
@@ -25,19 +103,6 @@
       "url": "/incident/7798/",
       "id": "7798",
       "contained": "0"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
-      "state": "OREGON",
-      "updated": "2021-08-14 07:32:11",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "6,606 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "12"
     },
     {
       "name": "Boulder 2700 Fire ",
@@ -103,32 +168,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "33"
-    },
-    {
-      "name": "2021 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2021-08-14 00:06:16",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/7304/",
-      "id": "7304",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 23:51:46",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "537,776 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
     },
     {
       "name": "Monument Fire",
@@ -235,32 +274,6 @@
       "contained": "30"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 22:39:55",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "53,215 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "50"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 22:16:51",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "1,648 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "5"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "On August 2, 2021, the Northern Rockies Incident Management Team 2...",
@@ -311,19 +324,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 22:02:36",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "66,883 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "55"
     },
     {
       "name": "Tamarack Fire",
