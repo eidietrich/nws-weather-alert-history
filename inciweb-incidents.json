@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "August 13th- Logging trucks and fire personal will continue to be...",
+      "state": "IDAHO",
+      "updated": "2021-08-14 08:32:04",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,677 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "68"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 08:31:22",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "67,458 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "55"
+    },
+    {
+      "name": "French Fire",
+      "type": "Wildfire",
+      "summary": "Please note the mapping function in Inciweb is not showing the French...",
+      "state": "IDAHO",
+      "updated": "2021-08-14 08:29:52",
+      "lat": "45.707",
+      "lng": "-116.033",
+      "size": "200 Acres",
+      "url": "/incident/7800/",
+      "id": "7800",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 08:29:29",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "53,698 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "50"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-14 08:29:12",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "3,730 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "36"
+    },
+    {
+      "name": "Crooked Creek",
+      "type": "Wildfire",
+      "summary": "THIS FIRE IS NO LONGER BEING UPDATED.The Crooked Creek Fire is...",
+      "state": "MONTANA",
+      "updated": "2021-08-14 08:27:54",
+      "lat": "45.184",
+      "lng": "-108.42",
+      "size": "4,141 Acres",
+      "url": "/incident/7542/",
+      "id": "7542",
+      "contained": "85"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 08:27:19",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "1,924 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "5"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
+      "state": "IDAHO",
+      "updated": "2021-08-14 08:25:24",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "4,116 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "0"
+    },
+    {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
       "type": "Wildfire",
       "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
@@ -27,32 +131,6 @@
       "contained": "31"
     },
     {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-14 08:07:24",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "1,924 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "5"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "Multiple fires were started by lightning on July 8, 2021 in the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-14 08:05:34",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "53,698 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "50"
-    },
-    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
@@ -77,19 +155,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "98"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Cub Creek 2 Fire started on July 16, 2021, at 1:27 PM. It's...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-14 08:03:00",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "67,458 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "55"
     },
     {
       "name": "Patton Meadow Fire",
@@ -129,19 +194,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "15"
-    },
-    {
-      "name": "French Fire",
-      "type": "Wildfire",
-      "summary": "Please note the mapping function in Inciweb is not showing the French...",
-      "state": "IDAHO",
-      "updated": "2021-08-14 00:45:57",
-      "lat": "45.707",
-      "lng": "-116.012",
-      "size": "200 Acres",
-      "url": "/incident/7800/",
-      "id": "7800",
-      "contained": "0"
     },
     {
       "name": "Lick Creek Fire",
@@ -454,32 +506,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "30"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-13 20:26:13",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "3,730 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "36"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "August 13th- Logging trucks and fire personal will continue to be...",
-      "state": "IDAHO",
-      "updated": "2021-08-13 20:25:52",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,651 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "68"
     },
     {
       "name": "Woods Creek Fire",
@@ -937,19 +963,6 @@
       "contained": "60"
     },
     {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
-      "state": "IDAHO",
-      "updated": "2021-08-12 23:18:01",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "4,116 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "0"
-    },
-    {
       "name": "Morgan Creek Fire",
       "type": "Wildfire",
       "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
@@ -1091,19 +1104,6 @@
       "url": "/incident/7566/",
       "id": "7566",
       "contained": "70"
-    },
-    {
-      "name": "Crooked Creek",
-      "type": "Wildfire",
-      "summary": "THIS FIRE IS NO LONGER BEING UPDATED.The Crooked Creek Fire is...",
-      "state": "MONTANA",
-      "updated": "2021-08-11 11:54:29",
-      "lat": "45.184",
-      "lng": "-108.42",
-      "size": "4,141 Acres",
-      "url": "/incident/7542/",
-      "id": "7542",
-      "contained": "85"
     },
     {
       "name": "Darlene",
