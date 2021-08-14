@@ -1,6 +1,123 @@
 {
   "markers": [
     {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 09:46:28",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "1,924 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "5"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
+      "state": "NEVADA",
+      "updated": "2021-08-14 09:46:22",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,637 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "82"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
+      "state": "MONTANA",
+      "updated": "2021-08-14 09:45:21",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "31,594 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "53"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-14 09:43:55",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "24,630 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-14 09:33:44",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "39,335 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-14 09:33:43",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,293 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "60"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "  The Walker Creek fire started on August  3, 2021. It is located...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 09:32:46",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "1,246 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "10"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-14 09:32:06",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "2,072 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "46"
+    },
+    {
+      "name": "Pincer Creek Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2021-08-14 09:29:05",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "400 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
+      "contained": "0"
+    },
+    {
       "name": "Spur Fire",
       "type": "Wildfire",
       "summary": "The Spur Creek fire started on August 5, 2021. It is located...",
@@ -14,45 +131,6 @@
       "contained": "0"
     },
     {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2021-08-14 09:25:59",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "400 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-14 09:25:57",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "2,072 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "46"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": "The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-14 09:25:34",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,293 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "60"
-    },
-    {
       "name": "Nason Fire",
       "type": "Wildfire",
       "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
@@ -64,19 +142,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "0"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire started as a lightning strike in the Mokelumne...",
-      "state": "NEVADA",
-      "updated": "2021-08-14 09:24:22",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,637 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "82"
     },
     {
       "name": "Chickadee Creek",
@@ -103,19 +168,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "12"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
-      "state": "MONTANA",
-      "updated": "2021-08-14 09:20:37",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "31,594 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "53"
     },
     {
       "name": "South Yaak",
@@ -155,32 +207,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "36"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-14 09:00:52",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "24,630 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-14 08:57:20",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "39,335 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
     },
     {
       "name": "American Fork Fire",
@@ -324,19 +350,6 @@
       "url": "/incident/7542/",
       "id": "7542",
       "contained": "85"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "The Muckamuck Fire started on August 4, 2021. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-14 08:27:19",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "1,924 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "5"
     },
     {
       "name": "Trestle Creek Complex",
@@ -883,19 +896,6 @@
       "url": "/incident/7625/",
       "id": "7625",
       "contained": "80"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "  The Walker Creek fire started on August  3, 2021. It is located...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 12:02:44",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "1,091 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "10"
     },
     {
       "name": "Hay Creek",
