@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "    Daily IR Map   |     Daily Public info Map    ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 23:43:06",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "74,759 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "5"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-13 23:40:54",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "537,776 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "Knoll Fire",
+      "type": "Wildfire",
+      "summary": "The Knoll Fire is being managed by Pacific Northwest Team 3....",
+      "state": "OREGON",
+      "updated": "2021-08-13 23:37:06",
+      "lat": "44.246",
+      "lng": "-122.055",
+      "size": "544 Acres",
+      "url": "/incident/7790/",
+      "id": "7790",
+      "contained": "30"
+    },
+    {
       "name": "Patton Meadow Fire",
       "type": "Wildfire",
       "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
       "state": "OREGON",
-      "updated": "2021-08-13 23:22:22",
+      "updated": "2021-08-13 23:33:44",
       "lat": "42.21",
       "lng": "-120.599",
       "size": "7,000 Acres",
       "url": "/incident/7798/",
       "id": "7798",
       "contained": "0"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": " As of 6:00 a.m. today, Northwest Incident Management Team 10...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-13 23:31:54",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "28,797 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "35"
     },
     {
       "name": "Middle Fork Complex",
@@ -51,19 +103,6 @@
       "url": "/incident/7791/",
       "id": "7791",
       "contained": "60"
-    },
-    {
-      "name": "Knoll Fire",
-      "type": "Wildfire",
-      "summary": "The Knoll Fire is being managed by Pacific Northwest Team 3....",
-      "state": "OREGON",
-      "updated": "2021-08-13 23:05:04",
-      "lat": "44.246",
-      "lng": "-122.055",
-      "size": "540 Acres",
-      "url": "/incident/7790/",
-      "id": "7790",
-      "contained": "15"
     },
     {
       "name": "Devil's Knob Complex",
@@ -443,19 +482,6 @@
       "contained": "37"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "    Daily IR Map   |     Daily Public info Map    ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 19:59:15",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "74,759 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "5"
-    },
-    {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
       "type": "Wildfire",
       "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
@@ -467,19 +493,6 @@
       "url": "/incident/7304/",
       "id": "7304",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-13 19:30:21",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "517,945 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
     },
     {
       "name": "Nason Fire",
@@ -571,19 +584,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": " As of 6:00 a.m. today, Northwest Incident Management Team 10...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-13 17:49:38",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "28,797 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "35"
     },
     {
       "name": "Chuweah Creek",
