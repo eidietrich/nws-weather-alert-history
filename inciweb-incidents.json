@@ -1,17 +1,160 @@
 {
   "markers": [
     {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "August 15, 2021:      |     Maps    ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-15 09:25:34",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "67,458 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "55"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-15 09:24:35",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "530 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "85"
+    },
+    {
+      "name": "County Line",
+      "type": "Wildfire",
+      "summary": "The County Line Fire, located south of the Tioga Road near the White...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-15 09:24:26",
+      "lat": "37.835",
+      "lng": "-119.619",
+      "size": "224 Acres",
+      "url": "/incident/7613/",
+      "id": "7613",
+      "contained": "100"
+    },
+    {
+      "name": "Tiltill",
+      "type": "Wildfire",
+      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-15 09:24:15",
+      "lat": "37.969",
+      "lng": "-119.723",
+      "size": "1,927 Acres",
+      "url": "/incident/7761/",
+      "id": "7761",
+      "contained": "73"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-15 09:18:46",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "52,566 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "25"
+    },
+    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "August 15, 2021:      |     Maps    ...",
       "state": "WASHINGTON",
-      "updated": "2021-08-15 09:13:13",
+      "updated": "2021-08-15 09:18:02",
       "lat": "48.595",
       "lng": "-120.537",
       "size": "53,475 Acres",
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "50"
+    },
+    {
+      "name": "Bedrock Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2021-08-15 09:17:19",
+      "lat": "46.531",
+      "lng": "-116.6",
+      "size": "10,424 Acres",
+      "url": "/incident/7796/",
+      "id": "7796",
+      "contained": "0"
+    },
+    {
+      "name": "Tango Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Tango Fire was reported the evening of July...",
+      "state": "IDAHO",
+      "updated": "2021-08-15 09:16:48",
+      "lat": "44.483",
+      "lng": "-114.873",
+      "size": "103 Acres",
+      "url": "/incident/7706/",
+      "id": "7706",
+      "contained": "60"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-15 09:16:08",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "2,900 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "5"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "Yesterday, the fire was active.  The fire is burning in heavy dead...",
+      "state": "IDAHO",
+      "updated": "2021-08-15 09:14:42",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "381 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "60"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "  WILDFIRE INFORMATION August 14, 2021...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-15 09:14:07",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "13,940 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "0"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
+      "state": "OREGON",
+      "updated": "2021-08-15 09:13:50",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "7,706 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "13"
     },
     {
       "name": "West Lolo Complex",
@@ -25,45 +168,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "15"
-    },
-    {
-      "name": "Tango Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Tango Fire was reported the evening of July...",
-      "state": "IDAHO",
-      "updated": "2021-08-15 09:08:59",
-      "lat": "44.483",
-      "lng": "-114.873",
-      "size": "103 Acres",
-      "url": "/incident/7706/",
-      "id": "7706",
-      "contained": "60"
-    },
-    {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "Yesterday, the fire was active.  The fire is burning in heavy dead...",
-      "state": "IDAHO",
-      "updated": "2021-08-15 09:08:31",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "315 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "60"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "  WILDFIRE INFORMATION August 14, 2021...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-15 09:08:00",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "13,940 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "0"
     },
     {
       "name": "Spur Fire",
@@ -105,19 +209,6 @@
       "contained": "30"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 15, 2021:      |     Maps    ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-15 08:51:54",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "67,458 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "55"
-    },
-    {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "July 7, lightning came through the area starting 7 fires.  Two fires...",
@@ -155,19 +246,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "7"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
-      "state": "OREGON",
-      "updated": "2021-08-15 07:43:20",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "7,026 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "13"
     },
     {
       "name": "Harris Mountain",
@@ -311,19 +389,6 @@
       "url": "/incident/7776/",
       "id": "7776",
       "contained": "45"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-14 22:48:55",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "51,482 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "25"
     },
     {
       "name": "Cougar Rock Complex",
@@ -794,19 +859,6 @@
       "contained": "45"
     },
     {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-14 10:03:50",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "2,900 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "5"
-    },
-    {
       "name": "Nason Fire",
       "type": "Wildfire",
       "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
@@ -898,19 +950,6 @@
       "contained": "98"
     },
     {
-      "name": "Bedrock Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2021-08-13 17:39:59",
-      "lat": "46.531",
-      "lng": "-116.6",
-      "size": "8,000 Acres",
-      "url": "/incident/7796/",
-      "id": "7796",
-      "contained": "0"
-    },
-    {
       "name": "Whitetail Creek Fire",
       "type": "Wildfire",
       "summary": " The fire has transitioned from the local Type-3 Team to the local...",
@@ -987,32 +1026,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "24"
-    },
-    {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 18:19:20",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "530 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "85"
-    },
-    {
-      "name": "Tiltill",
-      "type": "Wildfire",
-      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-12 18:19:13",
-      "lat": "37.969",
-      "lng": "-119.723",
-      "size": "1,705 Acres",
-      "url": "/incident/7761/",
-      "id": "7761",
-      "contained": "73"
     },
     {
       "name": "West Zone Superior Fires",
@@ -1116,19 +1129,6 @@
       "size": "686 Acres",
       "url": "/incident/7665/",
       "id": "7665",
-      "contained": "100"
-    },
-    {
-      "name": "County Line",
-      "type": "Wildfire",
-      "summary": "The County Line Fire, located south of the Tioga Road near the White...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-11 09:08:37",
-      "lat": "37.835",
-      "lng": "-119.619",
-      "size": "224 Acres",
-      "url": "/incident/7613/",
-      "id": "7613",
       "contained": "100"
     },
     {
