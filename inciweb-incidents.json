@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Lewis Rock",
+      "type": "Wildfire",
+      "summary": " Fire is burning on Oregon Department of Forestry protected lands...",
+      "state": "OREGON",
+      "updated": "2021-08-16 14:13:21",
+      "lat": "44.506",
+      "lng": "-120.128",
+      "size": "368 Acres",
+      "url": "/incident/7604/",
+      "id": "7604",
+      "contained": "100"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 16th near Greenwood Lake...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-16 14:11:16",
+      "lat": "47.55",
+      "lng": "-91.646",
+      "size": "1,500 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire is currently mapped at 51,909 acres and is 68%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-16 14:04:22",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "51,909 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "68"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-16 14:03:22",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "3,427 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
       "state": "MONTANA",
-      "updated": "2021-08-16 13:50:20",
+      "updated": "2021-08-16 14:02:10",
       "lat": "45.79",
       "lng": "-113.101",
       "size": "13,011 Acres",
@@ -18,7 +70,7 @@
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
       "state": "MONTANA",
-      "updated": "2021-08-16 13:48:11",
+      "updated": "2021-08-16 14:01:14",
       "lat": "45.185",
       "lng": "-113.474",
       "size": "1,042 Acres",
@@ -27,30 +79,69 @@
       "contained": "75"
     },
     {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-16 14:00:11",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "10,196 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "10"
+    },
+    {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": " A complex of 19 fires north of Glide,",
+      "state": "OREGON",
+      "updated": "2021-08-16 13:59:53",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "12,956 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "3"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-16 13:59:04",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "37,412 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "26"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-16 13:56:59",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "19,390 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "30"
+    },
+    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "Yesterday, the fire was active with group tree torching and short...",
       "state": "IDAHO",
-      "updated": "2021-08-16 13:48:04",
+      "updated": "2021-08-16 13:52:22",
       "lat": "44.532",
       "lng": "-115.329",
       "size": "245 Acres",
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "30"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 16th near Greenwood Lake...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-16 13:48:02",
-      "lat": "47.55",
-      "lng": "-91.646",
-      "size": "1,500 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "Parleys Canyon",
@@ -105,19 +196,6 @@
       "contained": "10"
     },
     {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": " A complex of 19 fires north of Glide,",
-      "state": "OREGON",
-      "updated": "2021-08-16 13:34:03",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "12,956 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "3"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
@@ -129,19 +207,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "31"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 51,909 acres and is 68%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-16 13:29:10",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "51,909 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "68"
     },
     {
       "name": "French Fire",
@@ -168,19 +233,6 @@
       "url": "/incident/7806/",
       "id": "7806",
       "contained": "0"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-16 13:27:11",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "19,390 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "30"
     },
     {
       "name": "Bulldog Mountain",
@@ -311,32 +363,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "0"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 13:12:39",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "10,196 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "10"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 13:08:04",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "37,412 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "26"
     },
     {
       "name": "Stateline Complex",
@@ -856,19 +882,6 @@
       "size": "3,242 Acres",
       "url": "/incident/7660/",
       "id": "7660",
-      "contained": "0"
-    },
-    {
-      "name": "Bull Complex (formerly Janus Complex)",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-16 10:29:36",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "3,427 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
       "contained": "0"
     },
     {
@@ -1819,19 +1832,6 @@
       "url": "/incident/7585/",
       "id": "7585",
       "contained": "100"
-    },
-    {
-      "name": "Lewis Rock",
-      "type": "Wildfire",
-      "summary": " Fire is burning on Oregon Department of Forestry protected lands...",
-      "state": "OREGON",
-      "updated": "2021-07-11 23:12:20",
-      "lat": "44.506",
-      "lng": "-120.128",
-      "size": "368 Acres",
-      "url": "/incident/7604/",
-      "id": "7604",
-      "contained": "95"
     },
     {
       "name": "Rafael Fire ",
