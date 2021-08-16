@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-16 16:11:02",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "29,205 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "35"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-16 16:04:51",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "25,930 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-16 15:45:32",
+      "updated": "2021-08-16 16:00:48",
       "lat": "41.143",
       "lng": "-123.018",
       "size": "44,117 Acres",
@@ -14,17 +40,30 @@
       "contained": "10"
     },
     {
-      "name": "West Lolo Complex",
+      "name": "Parleys Canyon",
       "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 15:44:24",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "25,930 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
+      "summary": "The human caused Parleys Canyon Fire ignited on August 14 and is...",
+      "state": "UTAH",
+      "updated": "2021-08-16 15:56:40",
+      "lat": "40.744",
+      "lng": "-111.654",
+      "size": "539 Acres",
+      "url": "/incident/7802/",
+      "id": "7802",
+      "contained": "10"
+    },
+    {
+      "name": "Walkers Fire",
+      "type": "Wildfire",
+      "summary": "The Walkers Fire was discovered Sunday, August 15, burning in the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-16 15:48:32",
+      "lat": "36.268",
+      "lng": "-118.55",
+      "size": "100 Acres",
+      "url": "/incident/7807/",
+      "id": "7807",
+      "contained": "0"
     },
     {
       "name": "Ford Corkscrew Fire",
@@ -37,19 +76,6 @@
       "size": "5,000 Acres",
       "url": "/incident/7803/",
       "id": "7803",
-      "contained": "0"
-    },
-    {
-      "name": "Walkers Fire",
-      "type": "Wildfire",
-      "summary": "The Walkers Fire was discovered Sunday, August 15, burning in the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-16 15:33:02",
-      "lat": "36.268",
-      "lng": "-118.55",
-      "size": "100 Acres",
-      "url": "/incident/7807/",
-      "id": "7807",
       "contained": "0"
     },
     {
@@ -105,19 +131,6 @@
       "contained": "65"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-16 14:46:53",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "29,205 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "35"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "Due to the multiple small fire starts over the last two days, which...",
@@ -168,19 +181,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "35"
-    },
-    {
-      "name": "Parleys Canyon",
-      "type": "Wildfire",
-      "summary": "The human caused Parleys Canyon Fire ignited on August 14 and is...",
-      "state": "UTAH",
-      "updated": "2021-08-16 14:16:03",
-      "lat": "40.744",
-      "lng": "-111.654",
-      "size": "539 Acres",
-      "url": "/incident/7802/",
-      "id": "7802",
-      "contained": "10"
     },
     {
       "name": "Lewis Rock",
