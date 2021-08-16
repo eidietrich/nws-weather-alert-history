@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Fox Complex",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-16 15:10:46",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "6,230 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "18"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-16 15:03:28",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "54,742 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "27"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-16 14:57:05",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "4,000 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "0"
+    },
+    {
+      "name": "Upper Lime Creek",
+      "type": "Wildfire",
+      "summary": "The Upper Lime Creek Fire was started by lightning on August 4th and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-16 14:48:05",
+      "lat": "48.156",
+      "lng": "-118.717",
+      "size": "376 Acres",
+      "url": "/incident/7791/",
+      "id": "7791",
+      "contained": "65"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-16 14:46:53",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "29,205 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "35"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "Due to the multiple small fire starts over the last two days, which...",
@@ -404,19 +469,6 @@
       "contained": "10"
     },
     {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-16 13:17:40",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "4,000 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "0"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
@@ -545,19 +597,6 @@
       "url": "/incident/7426/",
       "id": "7426",
       "contained": "0"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-16 12:26:11",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "54,742 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "27"
     },
     {
       "name": "Nine Mine Fire",
@@ -755,19 +794,6 @@
       "contained": "63"
     },
     {
-      "name": "Fox Complex",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-16 11:27:11",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "6,230 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "18"
-    },
-    {
       "name": "Bedrock Fire",
       "type": "Wildfire",
       "summary": "The Bedrock Fire was reported on August 11, and grew rapidly due to...",
@@ -961,32 +987,6 @@
       "url": "/incident/7754/",
       "id": "7754",
       "contained": "46"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-15 23:34:15",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "29,205 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "35"
-    },
-    {
-      "name": "Upper Lime Creek",
-      "type": "Wildfire",
-      "summary": "The Upper Lime Creek Fire was started by lightning on August 4th and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-15 23:11:56",
-      "lat": "48.156",
-      "lng": "-118.717",
-      "size": "376 Acres",
-      "url": "/incident/7791/",
-      "id": "7791",
-      "contained": "65"
     },
     {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
@@ -2313,19 +2313,6 @@
       "url": "/incident/7492/",
       "id": "7492",
       "contained": "40"
-    },
-    {
-      "name": "McDonald Tank Fire",
-      "type": "Wildfire",
-      "summary": "The McDonald Tank fire is burning south of Tonto Lake near the Black...",
-      "state": "ARIZONA",
-      "updated": "2021-06-04 12:26:33",
-      "lat": "33.623",
-      "lng": "-109.571",
-      "size": "3,550 Acres",
-      "url": "/incident/7501/",
-      "id": "7501",
-      "contained": "95"
     },
     {
       "name": "Warsaw Fire",
