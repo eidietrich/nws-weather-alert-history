@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-16 13:50:20",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "13,011 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-08-16 13:48:11",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,042 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "75"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "Yesterday, the fire was active with group tree torching and short...",
+      "state": "IDAHO",
+      "updated": "2021-08-16 13:48:04",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "245 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "30"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 16th near Greenwood Lake...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-16 13:48:02",
+      "lat": "47.55",
+      "lng": "-91.646",
+      "size": "1,500 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "Parleys Canyon",
+      "type": "Wildfire",
+      "summary": "The human caused Parleys Canyon Fire ignited on August 14 and is...",
+      "state": "UTAH",
+      "updated": "2021-08-16 13:42:09",
+      "lat": "40.744",
+      "lng": "-111.654",
+      "size": "539 Acres",
+      "url": "/incident/7802/",
+      "id": "7802",
+      "contained": "10"
+    },
+    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex was originally comprised of two fires: The...",
       "state": "IDAHO",
-      "updated": "2021-08-16 13:38:07",
+      "updated": "2021-08-16 13:42:02",
       "lat": "47.645",
       "lng": "-116.019",
       "size": "8,362 Acres",
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "37"
+    },
+    {
+      "name": "West Zone Superior Fires",
+      "type": "Wildfire",
+      "summary": " The West Zone of the Superior National Forest, consisting of the...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-16 13:41:57",
+      "lat": "47.907",
+      "lng": "-91.831",
+      "size": "0 Acres",
+      "url": "/incident/7617/",
+      "id": "7617",
+      "contained": "0"
     },
     {
       "name": "Monument Fire",
@@ -116,19 +194,6 @@
       "url": "/incident/7785/",
       "id": "7785",
       "contained": "5"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "Yesterday, the fire was active with group tree torching and short...",
-      "state": "IDAHO",
-      "updated": "2021-08-16 13:25:50",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "245 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "30"
     },
     {
       "name": "Walker Creek Fire",
@@ -378,19 +443,6 @@
       "contained": "68"
     },
     {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 12:38:59",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,042 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "75"
-    },
-    {
       "name": "Tango Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Tango Fire was reported the evening of July...",
@@ -428,19 +480,6 @@
       "url": "/incident/7426/",
       "id": "7426",
       "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 12:29:43",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "13,011 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
     },
     {
       "name": "West Lolo Complex",
@@ -519,19 +558,6 @@
       "url": "/incident/7790/",
       "id": "7790",
       "contained": "50"
-    },
-    {
-      "name": "Parleys Canyon",
-      "type": "Wildfire",
-      "summary": "The human caused Parleys Canyon Fire ignited on August 14 and is...",
-      "state": "UTAH",
-      "updated": "2021-08-16 11:58:59",
-      "lat": "40.744",
-      "lng": "-111.654",
-      "size": "539 Acres",
-      "url": "/incident/7802/",
-      "id": "7802",
-      "contained": "10"
     },
     {
       "name": "Pincer Creek Fire",
@@ -768,19 +794,6 @@
       "contained": "0"
     },
     {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 16th near Greenwood Lake...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-16 11:06:32",
-      "lat": "47.55",
-      "lng": "-91.646",
-      "size": "0 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
-    },
-    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
@@ -987,19 +1000,6 @@
       "url": "/incident/7767/",
       "id": "7767",
       "contained": "50"
-    },
-    {
-      "name": "West Zone Superior Fires",
-      "type": "Wildfire",
-      "summary": " The West Zone of the Superior National Forest, consisting of the...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-15 13:03:18",
-      "lat": "47.907",
-      "lng": "-91.831",
-      "size": "0 Acres",
-      "url": "/incident/7617/",
-      "id": "7617",
-      "contained": "0"
     },
     {
       "name": "Larkins Complex",
