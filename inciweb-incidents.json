@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-16 21:25:38",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "25,930 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-16 21:21:44",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "13,462 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-16 21:20:28",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "8,362 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "37"
+    },
+    {
+      "name": "Lick Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-16 21:20:26",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "97"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-16 21:16:59",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "36,328 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "19"
+    },
+    {
+      "name": "Nine Mine Fire",
+      "type": "Wildfire",
+      "summary": "August 16, 2021 Please Note: Final Nine Mine Fire update will be...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-16 21:14:16",
+      "lat": "48.942",
+      "lng": "-118.207",
+      "size": "164 Acres",
+      "url": "/incident/7783/",
+      "id": "7783",
+      "contained": "80"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-16 21:01:14",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "754 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-16 21:00:31",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,319 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "3"
+    },
+    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -40,19 +144,6 @@
       "contained": "65"
     },
     {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-16 20:50:29",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,319 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
-    },
-    {
       "name": "Windy Pass",
       "type": "Wildfire",
       "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
@@ -79,19 +170,6 @@
       "contained": "5"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-16 20:46:22",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "754 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "0"
-    },
-    {
       "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
       "summary": " The Dixie and Jumbo fires are located approximately 40 miles...",
@@ -103,19 +181,6 @@
       "url": "/incident/7608/",
       "id": "7608",
       "contained": "63"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-16 20:41:27",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "8,362 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "37"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -155,19 +220,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "0"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 20:28:22",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "25,930 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
     },
     {
       "name": "Monument Fire",
@@ -573,19 +625,6 @@
       "contained": "0"
     },
     {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 14:02:10",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "13,011 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
@@ -792,45 +831,6 @@
       "url": "/incident/7426/",
       "id": "7426",
       "contained": "0"
-    },
-    {
-      "name": "Nine Mine Fire",
-      "type": "Wildfire",
-      "summary": "August 16, 2021 Please Note: Final Nine Mine Fire update will be...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-16 12:24:12",
-      "lat": "48.942",
-      "lng": "-118.207",
-      "size": "157 Acres",
-      "url": "/incident/7783/",
-      "id": "7783",
-      "contained": "70"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-16 12:18:28",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "34,644 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "19"
-    },
-    {
-      "name": "Lick Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-16 12:15:54",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "97"
     },
     {
       "name": "Knoll Fire",
