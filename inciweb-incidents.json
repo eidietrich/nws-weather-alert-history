@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021, at approximately 5:00pm and is...",
-      "state": "OREGON",
-      "updated": "2021-08-16 22:16:24",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,664 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "51"
-    },
-    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "The McFarland Fire is currently mapped at 51,909 acres and is 68%...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-16 22:08:45",
+      "updated": "2021-08-16 22:32:12",
       "lat": "40.35",
       "lng": "-123.034",
       "size": "51,909 Acres",
@@ -27,11 +14,76 @@
       "contained": "68"
     },
     {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": " A complex of 19 fires north of Glide,",
+      "state": "OREGON",
+      "updated": "2021-08-16 22:31:24",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "12,991 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "3"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-16 22:30:38",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "8,362 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "37"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-16 22:30:20",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "10,846 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "10"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021, at approximately 5:00pm and is...",
+      "state": "OREGON",
+      "updated": "2021-08-16 22:27:34",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,664 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-16 22:20:26",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,066 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "29"
+    },
+    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
       "state": "OREGON",
-      "updated": "2021-08-16 22:07:57",
+      "updated": "2021-08-16 22:18:23",
       "lat": "42.874",
       "lng": "-122.87",
       "size": "8,238 Acres",
@@ -181,19 +233,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "15"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-16 21:20:28",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "8,362 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "37"
     },
     {
       "name": "Lick Creek Fire",
@@ -664,19 +703,6 @@
       "contained": "0"
     },
     {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-16 14:23:04",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,666 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "35"
-    },
-    {
       "name": "Lewis Rock",
       "type": "Wildfire",
       "summary": " Fire is burning on Oregon Department of Forestry protected lands...",
@@ -701,32 +727,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "0"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 14:00:11",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "10,196 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "10"
-    },
-    {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": " A complex of 19 fires north of Glide,",
-      "state": "OREGON",
-      "updated": "2021-08-16 13:59:53",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "12,956 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "3"
     },
     {
       "name": "Boundary Fire",
