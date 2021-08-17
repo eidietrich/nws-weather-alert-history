@@ -1,16 +1,198 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 12:45:37",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,476 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "47"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 12:45:36",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,319 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "3"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-17 12:45:01",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "5,120 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
+      "state": "OREGON",
+      "updated": "2021-08-17 12:44:23",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "12,664 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "7"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 12:42:13",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "6,500 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 12:40:23",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "10,879 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "0"
+    },
+    {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": " A complex of 19 fires north of Glide,",
+      "state": "OREGON",
+      "updated": "2021-08-17 12:38:49",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "14,951 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "3"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021, at approximately 5:00pm and is...",
+      "state": "OREGON",
+      "updated": "2021-08-17 12:38:37",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,691 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 16th near Greenwood Lake...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-17 12:36:55",
+      "lat": "47.55",
+      "lng": "-91.646",
+      "size": "2,000 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire is currently mapped at 97,403 acres and is 53%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 12:31:55",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "97,407 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "53"
+    },
+    {
+      "name": "Boulder 2700 Fire ",
+      "type": "Wildfire",
+      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 12:31:17",
+      "lat": "47.765",
+      "lng": "-114.009",
+      "size": "2,100 Acres",
+      "url": "/incident/7754/",
+      "id": "7754",
+      "contained": "46"
+    },
+    {
+      "name": "Crooks Fire",
+      "type": "Wildfire",
+      "summary": " The Crooks Fire was active today. The majority of the growth was...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 12:29:50",
+      "lat": "47.175",
+      "lng": "-113.869",
+      "size": "2,600 Acres",
+      "url": "/incident/7759/",
+      "id": "7759",
+      "contained": "0"
+    },
+    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
       "state": "WASHINGTON",
-      "updated": "2021-08-17 12:23:44",
+      "updated": "2021-08-17 12:29:25",
       "lat": "47.973",
       "lng": "-120.304",
-      "size": "4,000 Acres",
+      "size": "4,262 Acres",
       "url": "/incident/7804/",
       "id": "7804",
+      "contained": "0"
+    },
+    {
+      "name": "Bedrock Fire",
+      "type": "Wildfire",
+      "summary": "The Bedrock Fire was reported on August 11, and grew rapidly due to...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 12:29:01",
+      "lat": "46.531",
+      "lng": "-116.6",
+      "size": "11,251 Acres",
+      "url": "/incident/7796/",
+      "id": "7796",
+      "contained": "51"
+    },
+    {
+      "name": "Pincer Creek Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 12:28:18",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "840 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
       "contained": "0"
     },
     {
@@ -90,19 +272,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "19"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 16th near Greenwood Lake...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-17 12:08:08",
-      "lat": "47.55",
-      "lng": "-91.646",
-      "size": "2,000 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "Stateline Complex",
@@ -207,19 +376,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "31"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 68,815 acres and is 51%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 11:32:21",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "68,815 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "51"
     },
     {
       "name": "Antelope Fire",
@@ -404,32 +560,6 @@
       "contained": "1"
     },
     {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-17 10:43:01",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "5,120 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 10:42:42",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "6,500 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "0"
-    },
-    {
       "name": "Tango Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Tango Fire was reported the evening of July...",
@@ -443,19 +573,6 @@
       "contained": "60"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
-      "state": "OREGON",
-      "updated": "2021-08-17 10:38:34",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "12,664 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "7"
-    },
-    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
@@ -467,19 +584,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "29"
-    },
-    {
-      "name": "Bedrock Fire",
-      "type": "Wildfire",
-      "summary": "The Bedrock Fire was reported on August 11, and grew rapidly due to...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 10:36:30",
-      "lat": "46.531",
-      "lng": "-116.6",
-      "size": "11,251 Acres",
-      "url": "/incident/7796/",
-      "id": "7796",
-      "contained": "51"
     },
     {
       "name": "Monument Fire",
@@ -599,58 +703,6 @@
       "contained": "90"
     },
     {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": " A complex of 19 fires north of Glide,",
-      "state": "OREGON",
-      "updated": "2021-08-17 09:51:54",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "14,951 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "3"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021, at approximately 5:00pm and is...",
-      "state": "OREGON",
-      "updated": "2021-08-17 09:48:53",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,691 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "51"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 09:48:08",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,476 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "47"
-    },
-    {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 09:33:06",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "840 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -729,19 +781,6 @@
       "contained": "35"
     },
     {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 00:28:12",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,319 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
-    },
-    {
       "name": "Knoll Fire",
       "type": "Wildfire",
       "summary": "",
@@ -792,32 +831,6 @@
       "url": "/incident/7640/",
       "id": "7640",
       "contained": "53"
-    },
-    {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": " The Crooks Fire was active today. The majority of the growth was...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 22:39:20",
-      "lat": "47.175",
-      "lng": "-113.869",
-      "size": "1,130 Acres",
-      "url": "/incident/7759/",
-      "id": "7759",
-      "contained": "0"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-16 22:30:38",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "8,362 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "37"
     },
     {
       "name": "Christensen Fire ",
@@ -1039,19 +1052,6 @@
       "url": "/incident/7660/",
       "id": "7660",
       "contained": "0"
-    },
-    {
-      "name": "Boulder 2700 Fire ",
-      "type": "Wildfire",
-      "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 10:02:25",
-      "lat": "47.765",
-      "lng": "-114.009",
-      "size": "2,072 Acres",
-      "url": "/incident/7754/",
-      "id": "7754",
-      "contained": "46"
     },
     {
       "name": "Whitetail Creek Fire",
