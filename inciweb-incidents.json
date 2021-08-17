@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 17:45:44",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "604,511 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "Walkers Fire",
+      "type": "Wildfire",
+      "summary": "The Walkers Fire was discovered Sunday, August 15, burning in the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 17:44:51",
+      "lat": "36.268",
+      "lng": "-118.55",
+      "size": "535 Acres",
+      "url": "/incident/7807/",
+      "id": "7807",
+      "contained": "0"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-17 17:44:50",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "20,750 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "30"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 17:44:07",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "4,625 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "5"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "August 17, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 17:43:00",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "10,867 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "5"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 17:42:45",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "6,051 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "5"
+    },
+    {
+      "name": "Parleys Canyon",
+      "type": "Wildfire",
+      "summary": "The human caused Parleys Canyon Fire ignited on August 14 and is...",
+      "state": "UTAH",
+      "updated": "2021-08-17 17:36:14",
+      "lat": "40.744",
+      "lng": "-111.654",
+      "size": "541 Acres",
+      "url": "/incident/7802/",
+      "id": "7802",
+      "contained": "21"
+    },
+    {
       "name": "Prescribed Fire Projects 2021",
       "type": "Prescribed Fire",
       "summary": "Please take a moment to at the links section of this page to see...",
@@ -25,19 +116,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 17:26:34",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "604,511 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
     },
     {
       "name": "Richard Spring",
@@ -196,19 +274,6 @@
       "contained": "26"
     },
     {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 16:29:16",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "4,625 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "5"
-    },
-    {
       "name": "Mannix Park",
       "type": "Wildfire",
       "summary": "The Mannix Park Fire was discovered on 8/16/21 at 2:53 p.m. and is...",
@@ -365,19 +430,6 @@
       "contained": "0"
     },
     {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 15:19:52",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "6,051 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "5"
-    },
-    {
       "name": "Robertson Draw",
       "type": "Wildfire",
       "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
@@ -415,19 +467,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "0"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "August 17, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 14:26:08",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "10,867 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "5"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -807,19 +846,6 @@
       "contained": "60"
     },
     {
-      "name": "Parleys Canyon",
-      "type": "Wildfire",
-      "summary": "The human caused Parleys Canyon Fire ignited on August 14 and is...",
-      "state": "UTAH",
-      "updated": "2021-08-17 11:29:14",
-      "lat": "40.744",
-      "lng": "-111.654",
-      "size": "541 Acres",
-      "url": "/incident/7802/",
-      "id": "7802",
-      "contained": "21"
-    },
-    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
@@ -857,19 +883,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "62"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-17 11:24:56",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "20,750 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "30"
     },
     {
       "name": "Nason Fire",
@@ -1052,19 +1065,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "98"
-    },
-    {
-      "name": "Walkers Fire",
-      "type": "Wildfire",
-      "summary": "The Walkers Fire was discovered Sunday, August 15, burning in the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-16 15:48:32",
-      "lat": "36.268",
-      "lng": "-118.55",
-      "size": "100 Acres",
-      "url": "/incident/7807/",
-      "id": "7807",
-      "contained": "0"
     },
     {
       "name": "Lewis Rock",
