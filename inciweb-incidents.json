@@ -1,17 +1,134 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 10:46:49",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "604,511 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Smoke filled the canyons and communities along the HWY 96 corridor...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 10:45:33",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "2,599 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 10:44:51",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "56,753 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "27"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-17 10:43:01",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "5,120 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 10:42:42",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "6,500 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "Richard Spring",
+      "type": "Wildfire",
+      "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 10:42:10",
+      "lat": "45.809",
+      "lng": "-106.764",
+      "size": "170,848 Acres",
+      "url": "/incident/7794/",
+      "id": "7794",
+      "contained": "65"
+    },
+    {
+      "name": "Nine Mine Fire",
+      "type": "Wildfire",
+      "summary": "Final News Release August 17, 2021 Orient, WA - The Nine Mine Fire...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 10:41:40",
+      "lat": "48.942",
+      "lng": "-118.207",
+      "size": "164 Acres",
+      "url": "/incident/7783/",
+      "id": "7783",
+      "contained": "100"
+    },
+    {
+      "name": "Tango Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Tango Fire was reported the evening of July...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 10:39:10",
+      "lat": "44.483",
+      "lng": "-114.873",
+      "size": "103 Acres",
+      "url": "/incident/7706/",
+      "id": "7706",
+      "contained": "60"
+    },
+    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed under Unified Command by...",
       "state": "OREGON",
-      "updated": "2021-08-17 10:37:53",
+      "updated": "2021-08-17 10:38:34",
       "lat": "43.869",
       "lng": "-122.409",
       "size": "12,664 Acres",
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "7"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-17 10:38:00",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,066 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "29"
     },
     {
       "name": "Bedrock Fire",
@@ -25,32 +142,6 @@
       "url": "/incident/7796/",
       "id": "7796",
       "contained": "51"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 10:35:41",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "6,500 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "0"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-17 10:35:38",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,066 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "29"
     },
     {
       "name": "Monument Fire",
@@ -77,19 +168,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "44"
-    },
-    {
-      "name": "Nine Mine Fire",
-      "type": "Wildfire",
-      "summary": "Final News Release August 17, 2021 Orient, WA - The Nine Mine Fire...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 10:30:33",
-      "lat": "48.942",
-      "lng": "-118.207",
-      "size": "164 Acres",
-      "url": "/incident/7783/",
-      "id": "7783",
-      "contained": "100"
     },
     {
       "name": "Mud Lick Fire",
@@ -157,32 +235,6 @@
       "contained": "15"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 10:22:02",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "604,511 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-17 10:22:00",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "5,120 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
       "name": "Bulldog Mountain",
       "type": "Wildfire",
       "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
@@ -207,19 +259,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "15"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Smoke filled the canyons and communities along the HWY 96 corridor...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 10:07:10",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "2,599 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Granite Pass Complex",
@@ -298,19 +337,6 @@
       "url": "/incident/7798/",
       "id": "7798",
       "contained": "20"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 09:37:11",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "55,472 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "27"
     },
     {
       "name": "Pincer Creek Fire",
@@ -428,19 +454,6 @@
       "url": "/incident/7719/",
       "id": "7719",
       "contained": "53"
-    },
-    {
-      "name": "Richard Spring",
-      "type": "Wildfire",
-      "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 09:10:52",
-      "lat": "45.809",
-      "lng": "-106.764",
-      "size": "170,848 Acres",
-      "url": "/incident/7794/",
-      "id": "7794",
-      "contained": "65"
     },
     {
       "name": "French Fire",
@@ -935,19 +948,6 @@
       "url": "/incident/7808/",
       "id": "7808",
       "contained": "0"
-    },
-    {
-      "name": "Tango Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Tango Fire was reported the evening of July...",
-      "state": "IDAHO",
-      "updated": "2021-08-16 12:38:12",
-      "lat": "44.483",
-      "lng": "-114.873",
-      "size": "103 Acres",
-      "url": "/incident/7706/",
-      "id": "7706",
-      "contained": "60"
     },
     {
       "name": "Scarface Fire",
