@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 13:41:39",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "25,930 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 13:39:44",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "40,608 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "35"
+    },
+    {
+      "name": "Evans",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 13:38:48",
+      "lat": "40.174",
+      "lng": "-120.83",
+      "size": "85 Acres",
+      "url": "/incident/7741/",
+      "id": "7741",
+      "contained": "0"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 13:36:39",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,319 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "3"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 13:35:28",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "12,759 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "15"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 13:29:55",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "56,753 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "27"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": " The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 13:29:35",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,344 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "63"
+    },
+    {
       "name": "Willow Fire",
       "type": "Wildfire",
-      "summary": "The Forest Service, Los Padres National Forest completed its...",
+      "summary": "Los Padres National Forest completed its post-fire assessment for...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-17 13:21:23",
+      "updated": "2021-08-17 13:27:16",
       "lat": "36.207",
       "lng": "-121.56",
       "size": "2,877 Acres",
       "url": "/incident/7549/",
       "id": "7549",
       "contained": "100"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 13:22:13",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "44,117 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
     },
     {
       "name": "Nez Perce-Clearwater Lightning Fires",
@@ -40,19 +144,6 @@
       "contained": "53"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 13:14:51",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "44,117 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
-    },
-    {
       "name": "Boulder 2700 Fire ",
       "type": "Wildfire",
       "summary": "Confederated Salish and Kootenai Tribes discovered the Boulder 2700...",
@@ -77,32 +168,6 @@
       "url": "/incident/7759/",
       "id": "7759",
       "contained": "0"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 13:12:09",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "25,930 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
-    },
-    {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 13:08:45",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,319 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
     },
     {
       "name": "Woods Creek Fire",
@@ -365,19 +430,6 @@
       "contained": "19"
     },
     {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 12:05:21",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "12,759 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "15"
-    },
-    {
       "name": "West Zone Superior Fires",
       "type": "Wildfire",
       "summary": " The West Zone of the Superior National Forest, consisting of the...",
@@ -467,19 +519,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "31"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 11:30:42",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "56,753 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "27"
     },
     {
       "name": "Crater Ridge",
@@ -820,19 +859,6 @@
       "contained": "58"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 08:24:09",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "40,608 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "35"
-    },
-    {
       "name": "Knoll Fire",
       "type": "Wildfire",
       "summary": "",
@@ -935,19 +961,6 @@
       "url": "/incident/7779/",
       "id": "7779",
       "contained": "70"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": " The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-16 20:42:35",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,344 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "63"
     },
     {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
@@ -1587,19 +1600,6 @@
       "contained": "0"
     },
     {
-      "name": "Evans",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-30 17:39:50",
-      "lat": "40.174",
-      "lng": "-120.83",
-      "size": "85 Acres",
-      "url": "/incident/7741/",
-      "id": "7741",
-      "contained": "0"
-    },
-    {
       "name": "McDougal Fire",
       "type": "Wildfire",
       "summary": " The McDougal fire is currently assessed at 16.5 acres. Type 1 and...",
@@ -1897,19 +1897,6 @@
       "url": "/incident/7569/",
       "id": "7569",
       "contained": "99"
-    },
-    {
-      "name": "Mescal Fire",
-      "type": "Wildfire",
-      "summary": " 6/18:  Crews will continue to hold and monitor containment lines,...",
-      "state": "ARIZONA",
-      "updated": "2021-07-06 14:11:55",
-      "lat": "33.166",
-      "lng": "-110.664",
-      "size": "72,250 Acres",
-      "url": "/incident/7507/",
-      "id": "7507",
-      "contained": "100"
     },
     {
       "name": "Sunset Valley Fire",
