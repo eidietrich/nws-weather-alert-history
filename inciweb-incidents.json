@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 18:15:21",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,476 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "47"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire is currently mapped at 97,403 acres and is 53%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 18:12:37",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "97,407 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "53"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "August 17, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 18:00:42",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "10,867 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "5"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-17 17:54:56",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "3,200 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-17 17:45:44",
+      "updated": "2021-08-17 17:51:01",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "604,511 Acres",
@@ -14,11 +66,37 @@
       "contained": "31"
     },
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "  Daily IR Map   |     Daily Public info Map     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 17:50:13",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "119,280 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 17:47:10",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "4,625 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "5"
+    },
+    {
       "name": "Walkers Fire",
       "type": "Wildfire",
       "summary": "The Walkers Fire was discovered Sunday, August 15, burning in the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-17 17:44:51",
+      "updated": "2021-08-17 17:46:02",
       "lat": "36.268",
       "lng": "-118.55",
       "size": "535 Acres",
@@ -31,39 +109,13 @@
       "type": "Wildfire",
       "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
       "state": "OREGON",
-      "updated": "2021-08-17 17:44:50",
+      "updated": "2021-08-17 17:45:59",
       "lat": "44.093",
       "lng": "-118.326",
       "size": "20,750 Acres",
       "url": "/incident/7770/",
       "id": "7770",
       "contained": "30"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 17:44:07",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "4,625 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "5"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "August 17, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 17:43:00",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "10,867 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "5"
     },
     {
       "name": "Trestle Creek Complex",
@@ -378,19 +430,6 @@
       "contained": "20"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "  Daily IR Map   |     Daily Public info Map     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 15:24:59",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "119,280 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
-    },
-    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "August 16, 2021A Community Open House for the Walker and Chickadee...",
@@ -441,19 +480,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "90"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-17 15:01:07",
-      "lat": "47.55",
-      "lng": "-91.646",
-      "size": "2,000 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "Character Complex",
@@ -638,19 +664,6 @@
       "contained": "0"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 12:58:40",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,476 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "47"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -701,19 +714,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "51"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 97,403 acres and is 53%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 12:31:55",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "97,407 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "53"
     },
     {
       "name": "Twentyfive Mile",
