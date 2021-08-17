@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Smoke filled the canyons and communities along the HWY 96 corridor...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 16:29:19",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "2,599 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 16:29:16",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "4,625 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "5"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 16:28:15",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "604,511 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "Richard Spring",
+      "type": "Wildfire",
+      "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 16:28:04",
+      "lat": "45.809",
+      "lng": "-106.764",
+      "size": "170,848 Acres",
+      "url": "/incident/7794/",
+      "id": "7794",
+      "contained": "65"
+    },
+    {
       "name": "Mannix Park",
       "type": "Wildfire",
       "summary": "The Mannix Park Fire was discovered on 8/16/21 at 2:53 p.m. and is...",
       "state": "MONTANA",
-      "updated": "2021-08-17 16:12:18",
+      "updated": "2021-08-17 16:20:31",
       "lat": "46.69",
       "lng": "-112.767",
       "size": "50 Acres",
       "url": "/incident/7809/",
       "id": "7809",
       "contained": "0"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 16:18:41",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,041 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "75"
     },
     {
       "name": "Antelope Fire",
@@ -116,19 +181,6 @@
       "url": "/incident/7617/",
       "id": "7617",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 15:41:57",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "604,511 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
     },
     {
       "name": "Middle Fork Complex",
@@ -807,32 +859,6 @@
       "contained": "60"
     },
     {
-      "name": "Richard Spring",
-      "type": "Wildfire",
-      "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 10:51:12",
-      "lat": "45.809",
-      "lng": "-106.764",
-      "size": "170,848 Acres",
-      "url": "/incident/7794/",
-      "id": "7794",
-      "contained": "65"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Smoke filled the canyons and communities along the HWY 96 corridor...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 10:45:33",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "2,599 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
-    },
-    {
       "name": "Tango Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Tango Fire was reported the evening of July...",
@@ -883,19 +909,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "68"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 10:15:02",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "4,625 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "5"
     },
     {
       "name": "Granite Pass Complex",
@@ -974,19 +987,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "26"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 21:43:58",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,041 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "75"
     },
     {
       "name": "Windy Pass",
