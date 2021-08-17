@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Mannix Park",
+      "type": "Wildfire",
+      "summary": "The Mannix Park Fire was discovered on 8/16/21 at 2:53 p.m. and is...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 16:12:18",
+      "lat": "46.69",
+      "lng": "-112.767",
+      "size": "50 Acres",
+      "url": "/incident/7809/",
+      "id": "7809",
+      "contained": "0"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 16:09:37",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "56,753 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "27"
+    },
+    {
+      "name": "Tamarack Fire",
+      "type": "Wildfire",
+      "summary": "There is a RED FLAG warning for the Tamarack Fire burn area as well...",
+      "state": "NEVADA",
+      "updated": "2021-08-17 16:08:37",
+      "lat": "38.628",
+      "lng": "-119.857",
+      "size": "68,637 Acres",
+      "url": "/incident/7674/",
+      "id": "7674",
+      "contained": "82"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 16:06:27",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "13,462 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 16:03:16",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "12,759 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "15"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-17 16:02:24",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "36,328 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "19"
+    },
+    {
+      "name": "Pincer Creek Fire",
+      "type": "Wildfire",
+      "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 15:46:08",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "840 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
+      "contained": "0"
+    },
+    {
       "name": "Morgan Creek Fire",
       "type": "Wildfire",
       "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
@@ -12,19 +103,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "24"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 15:43:10",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "12,759 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "15"
     },
     {
       "name": "West Zone Superior Fires",
@@ -90,32 +168,6 @@
       "url": "/incident/7798/",
       "id": "7798",
       "contained": "20"
-    },
-    {
-      "name": "Tamarack Fire",
-      "type": "Wildfire",
-      "summary": "The Tamarack Fire transitioned command from the Rocky Mountain...",
-      "state": "NEVADA",
-      "updated": "2021-08-17 15:36:11",
-      "lat": "38.628",
-      "lng": "-119.857",
-      "size": "68,637 Acres",
-      "url": "/incident/7674/",
-      "id": "7674",
-      "contained": "82"
-    },
-    {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 15:35:35",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "840 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
     },
     {
       "name": "Schneider Springs",
@@ -207,19 +259,6 @@
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "5"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-17 15:11:20",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "36,328 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "19"
     },
     {
       "name": "Robertson Draw",
@@ -363,19 +402,6 @@
       "url": "/incident/7724/",
       "id": "7724",
       "contained": "3"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 13:29:55",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "56,753 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "27"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
@@ -961,19 +987,6 @@
       "url": "/incident/7691/",
       "id": "7691",
       "contained": "75"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 21:29:18",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "13,462 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
     },
     {
       "name": "Windy Pass",
