@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021, at approximately 5:00pm and is...",
+      "state": "OREGON",
+      "updated": "2021-08-16 22:16:24",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,664 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire is currently mapped at 51,909 acres and is 68%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-16 22:08:45",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "51,909 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "68"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
+      "state": "OREGON",
+      "updated": "2021-08-16 22:07:57",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "8,238 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "15"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-16 21:55:04",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "37,412 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "26"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-16 21:53:30",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "754 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-16 21:48:57",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "578,897 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
       "name": "Whitmore Fire ",
       "type": "Wildfire",
       "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
@@ -12,19 +90,6 @@
       "url": "/incident/7776/",
       "id": "7776",
       "contained": "60"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-16 21:46:36",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "578,897 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
     },
     {
       "name": "Black Mountain",
@@ -168,19 +233,6 @@
       "url": "/incident/7783/",
       "id": "7783",
       "contained": "80"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-16 21:01:14",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "754 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "0"
     },
     {
       "name": "Storm Theatre Complex",
@@ -350,19 +402,6 @@
       "url": "/incident/7304/",
       "id": "7304",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021, at approximately 5:00pm and is...",
-      "state": "OREGON",
-      "updated": "2021-08-16 20:09:20",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,647 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "54"
     },
     {
       "name": "Parleys Canyon",
@@ -651,19 +690,6 @@
       "contained": "100"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 51,909 acres and is 68%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-16 14:04:22",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "51,909 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "68"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
@@ -701,19 +727,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "3"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 13:59:04",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "37,412 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "26"
     },
     {
       "name": "Boundary Fire",
@@ -935,19 +948,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "49"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
-      "state": "OREGON",
-      "updated": "2021-08-16 10:52:25",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "8,238 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "15"
     },
     {
       "name": "Hay Creek",
