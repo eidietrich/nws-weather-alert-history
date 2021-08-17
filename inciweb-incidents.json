@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "Richard Spring",
+      "type": "Wildfire",
+      "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 16:45:45",
+      "lat": "45.809",
+      "lng": "-106.764",
+      "size": "170,848 Acres",
+      "url": "/incident/7794/",
+      "id": "7794",
+      "contained": "65"
+    },
+    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": " Smoke filled the canyons and communities along the HWY 96 corridor...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-17 16:29:19",
+      "updated": "2021-08-17 16:45:00",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "2,599 Acres",
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 16:44:46",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "13,462 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "10"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 16:44:23",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,041 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "75"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 16:44:02",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "604,511 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "31"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 16:43:31",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "10,846 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "10"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 16:42:41",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "37,412 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "26"
+    },
+    {
+      "name": "Lick Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-17 16:36:34",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "97"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-17 16:36:21",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "36,328 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "19"
     },
     {
       "name": "Bulldog Mountain",
@@ -27,32 +131,6 @@
       "contained": "5"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 16:28:15",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "604,511 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "31"
-    },
-    {
-      "name": "Richard Spring",
-      "type": "Wildfire",
-      "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 16:28:04",
-      "lat": "45.809",
-      "lng": "-106.764",
-      "size": "170,848 Acres",
-      "url": "/incident/7794/",
-      "id": "7794",
-      "contained": "65"
-    },
-    {
       "name": "Mannix Park",
       "type": "Wildfire",
       "summary": "The Mannix Park Fire was discovered on 8/16/21 at 2:53 p.m. and is...",
@@ -64,19 +142,6 @@
       "url": "/incident/7809/",
       "id": "7809",
       "contained": "0"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 16:18:41",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,041 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "75"
     },
     {
       "name": "Antelope Fire",
@@ -105,19 +170,6 @@
       "contained": "82"
     },
     {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 16:06:27",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "13,462 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "10"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
@@ -129,19 +181,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "15"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-17 16:02:24",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "36,328 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "19"
     },
     {
       "name": "Pincer Creek Fire",
@@ -285,19 +324,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "0"
-    },
-    {
-      "name": "Lick Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-17 15:20:04",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "97"
     },
     {
       "name": "Trestle Creek Complex",
@@ -961,32 +987,6 @@
       "url": "/incident/7790/",
       "id": "7790",
       "contained": "50"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 22:30:20",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "10,846 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "10"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 21:55:04",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "37,412 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "26"
     },
     {
       "name": "Windy Pass",
