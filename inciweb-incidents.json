@@ -1,11 +1,115 @@
 {
   "markers": [
     {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "August 16, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-16 19:51:14",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "67,458 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "55"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-16 19:49:06",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "8,362 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "37"
+    },
+    {
+      "name": "Parleys Canyon",
+      "type": "Wildfire",
+      "summary": "The human caused Parleys Canyon Fire ignited on August 14 and is...",
+      "state": "UTAH",
+      "updated": "2021-08-16 19:49:04",
+      "lat": "40.744",
+      "lng": "-111.654",
+      "size": "539 Acres",
+      "url": "/incident/7802/",
+      "id": "7802",
+      "contained": "21"
+    },
+    {
+      "name": "Granite Pass Complex",
+      "type": "Wildfire",
+      "summary": "The Granite Pass Complex consists of four wildfires in the vicinity...",
+      "state": "MONTANA",
+      "updated": "2021-08-16 19:24:22",
+      "lat": "46.652",
+      "lng": "-114.591",
+      "size": "5,911 Acres",
+      "url": "/incident/7653/",
+      "id": "7653",
+      "contained": "15"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-16 19:05:29",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "25,930 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-16 19:02:17",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "19,390 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "30"
+    },
+    {
+      "name": "Fox Complex",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-16 18:58:07",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "6,230 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "18"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-16 18:54:38",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "3,357 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "30"
+    },
+    {
       "name": "Nez Perce-Clearwater Lightning Fires",
       "type": "Wildfire",
       "summary": "On June 30th, a succession of thunderstorm systems moved through...",
       "state": "IDAHO",
-      "updated": "2021-08-16 18:45:45",
+      "updated": "2021-08-16 18:51:18",
       "lat": "46.245",
       "lng": "-116.033",
       "size": "0 Acres",
@@ -14,17 +118,17 @@
       "contained": "0"
     },
     {
-      "name": "Black Butte Fire",
+      "name": "French Fire",
       "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-16 18:40:23",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "19,390 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "30"
+      "summary": "The French Fire is located along the Main Salmon River at the mouth...",
+      "state": "IDAHO",
+      "updated": "2021-08-16 18:50:52",
+      "lat": "45.424",
+      "lng": "-116.045",
+      "size": "1,447 Acres",
+      "url": "/incident/7800/",
+      "id": "7800",
+      "contained": "58"
     },
     {
       "name": "Ford Corkscrew Fire",
@@ -92,19 +196,6 @@
       "contained": "5"
     },
     {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 18:01:47",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "25,930 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
-    },
-    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "August 16, 2021:      |     Maps     |   ...",
@@ -116,32 +207,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "50"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-16 17:48:05",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "2,785 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "30"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 16, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-16 17:44:17",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "67,458 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "55"
     },
     {
       "name": "Summit Trail",
@@ -181,32 +246,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "31"
-    },
-    {
-      "name": "Fox Complex",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-16 17:15:40",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "6,230 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "18"
-    },
-    {
-      "name": "Parleys Canyon",
-      "type": "Wildfire",
-      "summary": "The human caused Parleys Canyon Fire ignited on August 14 and is...",
-      "state": "UTAH",
-      "updated": "2021-08-16 17:11:12",
-      "lat": "40.744",
-      "lng": "-111.654",
-      "size": "539 Acres",
-      "url": "/incident/7802/",
-      "id": "7802",
-      "contained": "10"
     },
     {
       "name": "Storm Theatre Complex",
@@ -482,19 +521,6 @@
       "contained": "30"
     },
     {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-16 13:42:02",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "8,362 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "37"
-    },
-    {
       "name": "West Zone Superior Fires",
       "type": "Wildfire",
       "summary": " The West Zone of the Superior National Forest, consisting of the...",
@@ -519,19 +545,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "10"
-    },
-    {
-      "name": "French Fire",
-      "type": "Wildfire",
-      "summary": " The French Fire is located along the Main Salmon River at the mouth...",
-      "state": "IDAHO",
-      "updated": "2021-08-16 13:27:54",
-      "lat": "45.424",
-      "lng": "-116.045",
-      "size": "1,447 Acres",
-      "url": "/incident/7800/",
-      "id": "7800",
-      "contained": "30"
     },
     {
       "name": "Bulldog Mountain",
@@ -935,19 +948,6 @@
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "30"
-    },
-    {
-      "name": "Granite Pass Complex",
-      "type": "Wildfire",
-      "summary": "The Granite Pass Complex consists of four wildfires in the vicinity...",
-      "state": "MONTANA",
-      "updated": "2021-08-16 10:41:57",
-      "lat": "46.652",
-      "lng": "-114.591",
-      "size": "5,911 Acres",
-      "url": "/incident/7653/",
-      "id": "7653",
-      "contained": "15"
     },
     {
       "name": "Bootleg Fire",
