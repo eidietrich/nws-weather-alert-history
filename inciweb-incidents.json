@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 15:15:16",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "635,728 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "33"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-18 15:10:43",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "38,410 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "26"
+    },
+    {
+      "name": "Lick Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-18 15:10:03",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "97"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 15:07:29",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "11,404 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "10"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 15:02:55",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "128,613 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
@@ -12,19 +77,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "35"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 14:40:22",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "128,613 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
     },
     {
       "name": "Ford Corkscrew Fire",
@@ -105,19 +157,6 @@
       "contained": "15"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 14:03:42",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "635,728 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "33"
-    },
-    {
       "name": "Richard Spring",
       "type": "Wildfire",
       "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
@@ -142,19 +181,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-18 13:44:07",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "11,404 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "10"
     },
     {
       "name": "Boundary Fire",
@@ -547,19 +573,6 @@
       "contained": "0"
     },
     {
-      "name": "Lick Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-18 11:49:27",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "97"
-    },
-    {
       "name": "Nason Fire",
       "type": "Wildfire",
       "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
@@ -571,19 +584,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "0"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-18 11:47:21",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "38,410 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "26"
     },
     {
       "name": "Antelope Fire",
@@ -1715,19 +1715,6 @@
       "url": "/incident/7668/",
       "id": "7668",
       "contained": "100"
-    },
-    {
-      "name": "Graham Ridge Fire",
-      "type": "Wildfire",
-      "summary": "Overnight and into the morning of 7/7/21, a thunderstorm system moved...",
-      "state": "IDAHO",
-      "updated": "2021-07-25 17:41:03",
-      "lat": "47.618",
-      "lng": "-116.141",
-      "size": "15 Acres",
-      "url": "/incident/7630/",
-      "id": "7630",
-      "contained": "0"
     },
     {
       "name": "Brewster Fire",
