@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 13:50:19",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "38,688 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "   Daily IR Map   |     Daily Public info Map     |   ...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-18 13:50:03",
+      "updated": "2021-08-18 14:10:54",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "128,613 Acres",
@@ -31,13 +18,78 @@
       "type": "Wildfire",
       "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-18 13:48:56",
+      "updated": "2021-08-18 14:08:59",
       "lat": "41.143",
       "lng": "-123.018",
       "size": "48,214 Acres",
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "10"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 14:08:07",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "38,688 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire is currently mapped at 107,102 acres and is 51%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 14:07:34",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "107,102 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "51"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 14:03:42",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "635,728 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "33"
+    },
+    {
+      "name": "Richard Spring",
+      "type": "Wildfire",
+      "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 13:55:45",
+      "lat": "45.809",
+      "lng": "-106.764",
+      "size": "170,848 Acres",
+      "url": "/incident/7794/",
+      "id": "7794",
+      "contained": "75"
+    },
+    {
+      "name": "Pincer Creek Fire",
+      "type": "Wildfire",
+      "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 13:53:11",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "840 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
+      "contained": "0"
     },
     {
       "name": "Character Complex",
@@ -90,19 +142,6 @@
       "url": "/incident/7812/",
       "id": "7812",
       "contained": "7"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 107,102 acres and is 51%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 13:32:06",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "107,102 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "51"
     },
     {
       "name": "Schneider Springs",
@@ -181,19 +220,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "50"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 13:16:47",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "635,728 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "33"
     },
     {
       "name": "Trail Creek Fire",
@@ -599,19 +625,6 @@
       "contained": "30"
     },
     {
-      "name": "Richard Spring",
-      "type": "Wildfire",
-      "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 11:17:56",
-      "lat": "45.809",
-      "lng": "-106.764",
-      "size": "170,848 Acres",
-      "url": "/incident/7794/",
-      "id": "7794",
-      "contained": "75"
-    },
-    {
       "name": "Bedrock Fire",
       "type": "Wildfire",
       "summary": "The Bedrock Fire was reported on August 11, and grew rapidly due to...",
@@ -1013,19 +1026,6 @@
       "url": "/incident/7566/",
       "id": "7566",
       "contained": "70"
-    },
-    {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 15:46:08",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "840 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
     },
     {
       "name": "Johnson Fire",
@@ -1860,19 +1860,6 @@
       "contained": "0"
     },
     {
-      "name": "Pack Creek",
-      "type": "Wildfire",
-      "summary": "The Pack Creek Fire is 100% contained. Even though the fire is...",
-      "state": "UTAH",
-      "updated": "2021-07-12 10:42:54",
-      "lat": "38.433",
-      "lng": "-109.343",
-      "size": "8,952 Acres",
-      "url": "/incident/7529/",
-      "id": "7529",
-      "contained": "100"
-    },
-    {
       "name": "Blue Fire",
       "type": "Wildfire",
       "summary": "The Blue Fire reported around 4:25 this 6/29/2021, with USFS and CAL...",
@@ -2066,19 +2053,6 @@
       "url": "/incident/7530/",
       "id": "7530",
       "contained": "93"
-    },
-    {
-      "name": "Bennion Creek",
-      "type": "Wildfire",
-      "summary": "As of Monday, June 28, 2021, there are no area and no road closures...",
-      "state": "UTAH",
-      "updated": "2021-06-28 09:26:31",
-      "lat": "39.869",
-      "lng": "-111.228",
-      "size": "8,313 Acres",
-      "url": "/incident/7518/",
-      "id": "7518",
-      "contained": "94"
     },
     {
       "name": "Alamo Fire ",
