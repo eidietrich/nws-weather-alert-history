@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "Daily Updates |Daily Map   | ...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 09:45:37",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,894 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "30"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "Monday, Aug 16, was a day of transition as Nevada Type 3 Incident...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 09:45:07",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,856 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "68"
+    },
+    {
+      "name": "Tango Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Tango Fire was reported the evening of July...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 09:42:07",
+      "lat": "44.483",
+      "lng": "-114.873",
+      "size": "103 Acres",
+      "url": "/incident/7706/",
+      "id": "7706",
+      "contained": "60"
+    },
+    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
-      "summary": "The Devil's Knob Complex includes approximately 45-50 new fire starts...",
+      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
       "state": "OREGON",
-      "updated": "2021-08-18 09:27:35",
+      "updated": "2021-08-18 09:41:33",
       "lat": "42.874",
       "lng": "-122.87",
       "size": "15,694 Acres",
@@ -14,11 +53,63 @@
       "contained": "15"
     },
     {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Please see the News and Announcements tabs for the latest updates on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 09:40:31",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "59,127 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "27"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
+      "state": "OREGON",
+      "updated": "2021-08-18 09:38:51",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "13,452 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "7"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 09:38:04",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "38,845 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "26"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 09:37:21",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "4,625 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "5"
+    },
+    {
       "name": "Scarface Fire",
       "type": "Wildfire",
-      "summary": "Yesterday, the fire continued to creep and smolder. Aircraft...",
+      "summary": "Yesterday, the fire continued to creep and smolder. An infrared...",
       "state": "IDAHO",
-      "updated": "2021-08-18 09:23:32",
+      "updated": "2021-08-18 09:35:16",
       "lat": "44.683",
       "lng": "-114.993",
       "size": "408 Acres",
@@ -27,30 +118,30 @@
       "contained": "60"
     },
     {
-      "name": "Middle Fork Complex",
+      "name": "Black Butte Fire",
       "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
       "state": "OREGON",
-      "updated": "2021-08-18 09:22:45",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "13,286 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "7"
+      "updated": "2021-08-18 09:33:50",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "21,237 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "30"
     },
     {
-      "name": "Hay Creek",
+      "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
-      "summary": "Daily Updates |Daily Map   | ...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 09:21:59",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,894 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "30"
+      "summary": "August 17, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 09:33:05",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "69,678 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "65"
     },
     {
       "name": "South Yaak",
@@ -64,32 +155,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "45"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 17, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 09:20:32",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "69,678 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "65"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 09:20:18",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "37,412 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "26"
     },
     {
       "name": "Christensen Fire ",
@@ -469,19 +534,6 @@
       "contained": "65"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Please see the News and Announcements tabs for the latest updates on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 22:31:46",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "57,664 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "27"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
@@ -610,19 +662,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "97"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-17 20:43:07",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "20,747 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "30"
     },
     {
       "name": "County Line",
@@ -766,19 +805,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "53"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 17:47:10",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "4,625 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "5"
     },
     {
       "name": "Walkers Fire",
@@ -1065,32 +1091,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "100"
-    },
-    {
-      "name": "Tango Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Tango Fire was reported the evening of July...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 10:39:10",
-      "lat": "44.483",
-      "lng": "-114.873",
-      "size": "103 Acres",
-      "url": "/incident/7706/",
-      "id": "7706",
-      "contained": "60"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "Monday, Aug 16, was a day of transition as Nevada Type 3 Incident...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 10:30:00",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,856 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "68"
     },
     {
       "name": "Granite Pass Complex",
