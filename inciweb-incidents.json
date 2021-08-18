@@ -1,6 +1,123 @@
 {
   "markers": [
     {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire is currently mapped at 107,102 acres and is 51%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 16:10:38",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "107,102 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "51"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " Schneider Springs Fire Update 300PM 8/17/2021 Level 3 GO NOW!...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 16:05:48",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "31,868 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "0"
+    },
+    {
+      "name": "Parleys Canyon",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "UTAH",
+      "updated": "2021-08-18 16:05:19",
+      "lat": "40.744",
+      "lng": "-111.654",
+      "size": "541 Acres",
+      "url": "/incident/7802/",
+      "id": "7802",
+      "contained": "40"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Firefighters saw an increase in fire behavior starting this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 16:05:12",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "3,936 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 16:04:13",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "31,603 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "53"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-18 16:01:32",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "21,237 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "30"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 15:59:23",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "635,728 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "33"
+    },
+    {
+      "name": "French Fire",
+      "type": "Wildfire",
+      "summary": "The French Fire is located along the Main Salmon River at the mouth...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 15:53:31",
+      "lat": "45.424",
+      "lng": "-116.045",
+      "size": "1,447 Acres",
+      "url": "/incident/7800/",
+      "id": "7800",
+      "contained": "58"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 15:51:51",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "128,613 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
       "name": "Granite Pass Complex",
       "type": "Wildfire",
       "summary": "The Granite Pass Complex consists of four wildfires in the vicinity...",
@@ -12,32 +129,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "15"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 15:44:26",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "635,728 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "33"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 15:39:32",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "128,613 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
     },
     {
       "name": "Woods Creek Fire",
@@ -118,19 +209,6 @@
       "contained": "0"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Firefighters saw an increase in fire behavior starting this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 14:25:38",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "3,936 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
-    },
-    {
       "name": "Skyline Ridge Complex",
       "type": "Wildfire",
       "summary": " A number of fires have been reported in the South Umpqua River...",
@@ -155,19 +233,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "10"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 107,102 acres and is 51%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 14:15:06",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "107,102 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "51"
     },
     {
       "name": "West Lolo Complex",
@@ -246,19 +311,6 @@
       "url": "/incident/7812/",
       "id": "7812",
       "contained": "7"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " Schneider Springs Fire Update 300PM 8/17/2021 Level 3 GO NOW!...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 13:31:23",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "31,868 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "0"
     },
     {
       "name": "Morgan Creek Fire",
@@ -389,19 +441,6 @@
       "url": "/incident/7759/",
       "id": "7759",
       "contained": "0"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-18 12:59:19",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "21,237 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "30"
     },
     {
       "name": "Middle Fork Complex",
@@ -716,19 +755,6 @@
       "contained": "82"
     },
     {
-      "name": "Parleys Canyon",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "UTAH",
-      "updated": "2021-08-18 10:14:46",
-      "lat": "40.744",
-      "lng": "-111.654",
-      "size": "541 Acres",
-      "url": "/incident/7802/",
-      "id": "7802",
-      "contained": "40"
-    },
-    {
       "name": "Hay Creek",
       "type": "Wildfire",
       "summary": "Daily Updates |Daily Map   | ...",
@@ -831,32 +857,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "29"
-    },
-    {
-      "name": "French Fire",
-      "type": "Wildfire",
-      "summary": "The French Fire is located along the Main Salmon River at the mouth...",
-      "state": "IDAHO",
-      "updated": "2021-08-18 09:08:59",
-      "lat": "45.424",
-      "lng": "-116.045",
-      "size": "1,447 Acres",
-      "url": "/incident/7800/",
-      "id": "7800",
-      "contained": "58"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 07:42:42",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "31,603 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "53"
     },
     {
       "name": "Mannix Park",
