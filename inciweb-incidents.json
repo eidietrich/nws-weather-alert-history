@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "  Daily IR Map   |     Daily Public info Map     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 22:47:32",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "119,364 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
+      "name": "Mannix Park",
+      "type": "Wildfire",
+      "summary": "The Mannix Park Fire was discovered on 8/16/21 at 2:53 p.m. and is...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 22:47:15",
+      "lat": "46.69",
+      "lng": "-112.767",
+      "size": "50 Acres",
+      "url": "/incident/7809/",
+      "id": "7809",
+      "contained": "0"
+    },
+    {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": " On July 30th multiple storm cells passed over the Umpqua National...",
+      "state": "OREGON",
+      "updated": "2021-08-17 22:44:12",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "14,587 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "3"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 22:42:32",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "31,603 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "53"
+    },
+    {
       "name": "Dixie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-17 22:33:23",
+      "updated": "2021-08-17 22:41:26",
       "lat": "40.241",
       "lng": "-120.897",
       "size": "0 Acres",
       "url": "/incident/7811/",
       "id": "7811",
       "contained": "0"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Smoke filled the canyons and communities along the HWY 96 corridor...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 22:39:04",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "3,233 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Whitmore Fire ",
+      "type": "Wildfire",
+      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 22:37:34",
+      "lat": "48.15",
+      "lng": "-119.134",
+      "size": "58,280 Acres",
+      "url": "/incident/7776/",
+      "id": "7776",
+      "contained": "65"
     },
     {
       "name": "Antelope Fire",
@@ -25,32 +103,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "27"
-    },
-    {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": " On July 30th multiple storm cells passed over the Umpqua National...",
-      "state": "OREGON",
-      "updated": "2021-08-17 22:31:45",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "14,587 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "3"
-    },
-    {
-      "name": "Mannix Park",
-      "type": "Wildfire",
-      "summary": "The Mannix Park Fire was discovered on 8/16/21 at 2:53 p.m. and is...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 22:30:08",
-      "lat": "46.69",
-      "lng": "-112.767",
-      "size": "50 Acres",
-      "url": "/incident/7809/",
-      "id": "7809",
-      "contained": "0"
     },
     {
       "name": "Devil's Knob Complex",
@@ -103,19 +155,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "50"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 22:11:15",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "31,603 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "53"
     },
     {
       "name": "Crater Ridge",
@@ -586,19 +625,6 @@
       "contained": "53"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "  Daily IR Map   |     Daily Public info Map     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 17:50:13",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "119,280 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
-    },
-    {
       "name": "Bulldog Mountain",
       "type": "Wildfire",
       "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
@@ -688,19 +714,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "10"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Smoke filled the canyons and communities along the HWY 96 corridor...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 16:46:47",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "2,599 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Black Mountain",
@@ -961,19 +974,6 @@
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "30"
-    },
-    {
-      "name": "Whitmore Fire ",
-      "type": "Wildfire",
-      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 11:30:00",
-      "lat": "48.15",
-      "lng": "-119.134",
-      "size": "58,276 Acres",
-      "url": "/incident/7776/",
-      "id": "7776",
-      "contained": "60"
     },
     {
       "name": "Boundary Fire",
