@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Mannix Park",
+      "type": "Wildfire",
+      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
+      "state": "MONTANA",
+      "updated": "2021-08-18 18:04:32",
+      "lat": "46.69",
+      "lng": "-112.767",
+      "size": "50 Acres",
+      "url": "/incident/7809/",
+      "id": "7809",
+      "contained": "0"
+    },
+    {
+      "name": "Morgan Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
+      "state": "COLORADO",
+      "updated": "2021-08-18 17:58:40",
+      "lat": "40.718",
+      "lng": "-106.829",
+      "size": "7,505 Acres",
+      "url": "/incident/7635/",
+      "id": "7635",
+      "contained": "24"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-18 17:45:08",
+      "updated": "2021-08-18 17:57:05",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "128,613 Acres",
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "10"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 17:51:59",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "635,728 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "33"
+    },
+    {
+      "name": "Parleys Canyon",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "UTAH",
+      "updated": "2021-08-18 17:51:47",
+      "lat": "40.744",
+      "lng": "-111.654",
+      "size": "541 Acres",
+      "url": "/incident/7802/",
+      "id": "7802",
+      "contained": "40"
     },
     {
       "name": "Hay Creek",
@@ -25,32 +77,6 @@
       "url": "/incident/7712/",
       "id": "7712",
       "contained": "30"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 17:40:54",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "635,728 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "33"
-    },
-    {
-      "name": "Mannix Park",
-      "type": "Wildfire",
-      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
-      "state": "MONTANA",
-      "updated": "2021-08-18 17:40:49",
-      "lat": "46.69",
-      "lng": "-112.767",
-      "size": "50 Acres",
-      "url": "/incident/7809/",
-      "id": "7809",
-      "contained": "0"
     },
     {
       "name": "Twentyfive Mile",
@@ -194,19 +220,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "51"
-    },
-    {
-      "name": "Parleys Canyon",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "UTAH",
-      "updated": "2021-08-18 16:05:19",
-      "lat": "40.744",
-      "lng": "-111.654",
-      "size": "541 Acres",
-      "url": "/incident/7802/",
-      "id": "7802",
-      "contained": "40"
     },
     {
       "name": "Black Butte Fire",
@@ -415,19 +428,6 @@
       "url": "/incident/7812/",
       "id": "7812",
       "contained": "7"
-    },
-    {
-      "name": "Morgan Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
-      "state": "COLORADO",
-      "updated": "2021-08-18 13:22:46",
-      "lat": "40.718",
-      "lng": "-106.829",
-      "size": "7,505 Acres",
-      "url": "/incident/7635/",
-      "id": "7635",
-      "contained": "24"
     },
     {
       "name": "Fox Complex",
