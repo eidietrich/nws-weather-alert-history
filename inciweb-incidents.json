@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Firefighters saw an increase in fire behavior starting this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 17:15:54",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "3,936 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
       "name": "Dixie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-18 16:45:04",
+      "updated": "2021-08-18 17:14:31",
       "lat": "40.241",
       "lng": "-120.897",
       "size": "0 Acres",
@@ -14,17 +27,69 @@
       "contained": "0"
     },
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 17:03:14",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "635,728 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "33"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 16:54:27",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "7,072 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "0"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
-      "summary": " Schneider Springs Fire Update 300PM 8/17/2021 Level 3 GO NOW!...",
+      "summary": "A Level 3 GO NOW! evacuation was issued on Tuesday, August 17th for...",
       "state": "WASHINGTON",
-      "updated": "2021-08-18 16:43:53",
+      "updated": "2021-08-18 16:54:19",
       "lat": "46.84",
       "lng": "-121.146",
       "size": "31,868 Acres",
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "0"
+    },
+    {
+      "name": "Pincer Creek Fire",
+      "type": "Wildfire",
+      "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 16:49:33",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "840 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
+      "contained": "0"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
+      "state": "OREGON",
+      "updated": "2021-08-18 16:49:02",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,717 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "100"
     },
     {
       "name": "Trestle Creek Complex",
@@ -38,19 +103,6 @@
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "5"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 16:41:08",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "635,728 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "33"
     },
     {
       "name": "Tennant Post-Fire BAER",
@@ -90,19 +142,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "0"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Firefighters saw an increase in fire behavior starting this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 16:19:24",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "3,936 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "McFarland Fire",
@@ -313,19 +352,6 @@
       "contained": "75"
     },
     {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 13:53:11",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "840 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
-    },
-    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
@@ -532,19 +558,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "3"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 12:44:53",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "7,072 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "0"
     },
     {
       "name": "Devil's Knob Complex",
@@ -1142,19 +1155,6 @@
       "size": "164 Acres",
       "url": "/incident/7783/",
       "id": "7783",
-      "contained": "100"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
-      "state": "OREGON",
-      "updated": "2021-08-17 10:57:50",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,717 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
       "contained": "100"
     },
     {
