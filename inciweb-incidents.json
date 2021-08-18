@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 16:27:45",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "635,728 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "33"
+    },
+    {
+      "name": "Harris Mountain",
+      "type": "Wildfire",
+      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 16:26:22",
+      "lat": "47.127",
+      "lng": "-111.75",
+      "size": "31,603 Acres",
+      "url": "/incident/7719/",
+      "id": "7719",
+      "contained": "74"
+    },
+    {
+      "name": "Walkers Fire",
+      "type": "Wildfire",
+      "summary": "The Walkers Fire was discovered Sunday August 15, burning in the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 16:25:58",
+      "lat": "36.268",
+      "lng": "-118.55",
+      "size": "1,969 Acres",
+      "url": "/incident/7807/",
+      "id": "7807",
+      "contained": "0"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 16:23:30",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "6,051 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "5"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Firefighters saw an increase in fire behavior starting this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 16:19:24",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "3,936 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " Schneider Springs Fire Update 300PM 8/17/2021 Level 3 GO NOW!...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 16:17:24",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "31,868 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "0"
+    },
+    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "The McFarland Fire is currently mapped at 107,102 acres and is 51%...",
@@ -12,19 +90,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "51"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " Schneider Springs Fire Update 300PM 8/17/2021 Level 3 GO NOW!...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 16:05:48",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "31,868 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "0"
     },
     {
       "name": "Parleys Canyon",
@@ -40,32 +105,6 @@
       "contained": "40"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Firefighters saw an increase in fire behavior starting this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 16:05:12",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "3,936 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
-    },
-    {
-      "name": "Harris Mountain",
-      "type": "Wildfire",
-      "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 16:04:13",
-      "lat": "47.127",
-      "lng": "-111.75",
-      "size": "31,603 Acres",
-      "url": "/incident/7719/",
-      "id": "7719",
-      "contained": "53"
-    },
-    {
       "name": "Black Butte Fire",
       "type": "Wildfire",
       "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
@@ -77,19 +116,6 @@
       "url": "/incident/7770/",
       "id": "7770",
       "contained": "30"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 15:59:23",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "635,728 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "33"
     },
     {
       "name": "French Fire",
@@ -987,32 +1013,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "0"
-    },
-    {
-      "name": "Walkers Fire",
-      "type": "Wildfire",
-      "summary": "The Walkers Fire was discovered Sunday, August 15, burning in the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 17:46:02",
-      "lat": "36.268",
-      "lng": "-118.55",
-      "size": "535 Acres",
-      "url": "/incident/7807/",
-      "id": "7807",
-      "contained": "0"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 17:42:45",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "6,051 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "5"
     },
     {
       "name": "Prescribed Fire Projects 2021",
