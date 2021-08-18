@@ -1,24 +1,102 @@
 {
   "markers": [
     {
-      "name": "Storm Theatre Complex",
+      "name": "Woods Creek Fire",
       "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 12:45:16",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,843 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "49"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 12:44:53",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "7,072 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "0"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "WILDFIRE INFORMATION August 16, 2021   A Community Open House for...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 12:44:10",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "1,453 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "11"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
       "state": "IDAHO",
-      "updated": "2021-08-18 12:35:16",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,319 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
+      "updated": "2021-08-18 12:43:20",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "11,404 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "10"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-18 12:42:46",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "21,237 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "30"
+    },
+    {
+      "name": "Skyline Ridge Complex",
+      "type": "Wildfire",
+      "summary": " A number of fires have been reported in the South Umpqua River...",
+      "state": "OREGON",
+      "updated": "2021-08-18 12:42:37",
+      "lat": "42.901",
+      "lng": "-123.111",
+      "size": "5,760 Acres",
+      "url": "/incident/7762/",
+      "id": "7762",
+      "contained": "81"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
+      "state": "OREGON",
+      "updated": "2021-08-18 12:42:13",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "15,694 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "15"
     },
     {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-18 12:34:51",
+      "updated": "2021-08-18 12:42:09",
       "lat": "41.143",
       "lng": "-123.018",
       "size": "48,214 Acres",
@@ -27,11 +105,37 @@
       "contained": "10"
     },
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-18 12:41:05",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,692 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "Paul Rosse’s Northern Rockies Type 2 Incident Management Team 6...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 12:40:28",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "22,577 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "3"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-18 12:34:30",
+      "updated": "2021-08-18 12:39:23",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "626,751 Acres",
@@ -40,16 +144,16 @@
       "contained": "31"
     },
     {
-      "name": "Walker Creek Fire",
+      "name": "Storm Theatre Complex",
       "type": "Wildfire",
-      "summary": "Paul Rosse’s Northern Rockies Type 2 Incident Management Team 6...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 12:34:24",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "22,577 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 12:36:55",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,319 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
       "contained": "3"
     },
     {
@@ -89,19 +193,6 @@
       "size": "15 Acres",
       "url": "/incident/7806/",
       "id": "7806",
-      "contained": "0"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-18 12:13:06",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "11,404 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
       "contained": "0"
     },
     {
@@ -222,19 +313,6 @@
       "contained": "0"
     },
     {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "WILDFIRE INFORMATION August 16, 2021   A Community Open House for...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 11:47:25",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "1,453 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "11"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -311,19 +389,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "90"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 11:24:19",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "7,072 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "0"
     },
     {
       "name": "McFarland Fire",
@@ -430,19 +495,6 @@
       "contained": "0"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 10:56:38",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,843 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "49"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -495,32 +547,6 @@
       "contained": "82"
     },
     {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-18 10:44:51",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "21,237 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "30"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
-      "state": "OREGON",
-      "updated": "2021-08-18 10:16:27",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "15,694 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "15"
-    },
-    {
       "name": "Parleys Canyon",
       "type": "Wildfire",
       "summary": "",
@@ -558,19 +584,6 @@
       "url": "/incident/7776/",
       "id": "7776",
       "contained": "65"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-18 09:51:08",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,692 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "51"
     },
     {
       "name": "Mud Lick Fire",
@@ -753,19 +766,6 @@
       "url": "/incident/7719/",
       "id": "7719",
       "contained": "53"
-    },
-    {
-      "name": "Skyline Ridge Complex",
-      "type": "Wildfire",
-      "summary": " A number of fires have been reported in the South Umpqua River...",
-      "state": "OREGON",
-      "updated": "2021-08-17 23:19:27",
-      "lat": "42.901",
-      "lng": "-123.111",
-      "size": "5,760 Acres",
-      "url": "/incident/7762/",
-      "id": "7762",
-      "contained": "81"
     },
     {
       "name": "Mannix Park",
