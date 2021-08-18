@@ -1,11 +1,180 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 10:17:54",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "53,772 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
+      "state": "OREGON",
+      "updated": "2021-08-18 10:17:35",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "13,452 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "7"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 10:17:00",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,876 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "57"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire is currently mapped at 97,403 acres and is 53%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 10:16:57",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "107,102 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "51"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "August 17, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 10:16:53",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "54,261 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "50"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
+      "state": "OREGON",
+      "updated": "2021-08-18 10:16:27",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "15,694 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "15"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "August 18, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 10:15:03",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "69,678 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "65"
+    },
+    {
+      "name": "Parleys Canyon",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "UTAH",
+      "updated": "2021-08-18 10:14:46",
+      "lat": "40.744",
+      "lng": "-111.654",
+      "size": "541 Acres",
+      "url": "/incident/7802/",
+      "id": "7802",
+      "contained": "40"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-18 10:13:22",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "21,237 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "30"
+    },
+    {
+      "name": "Nason Fire",
+      "type": "Wildfire",
+      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 10:06:14",
+      "lat": "47.828",
+      "lng": "-120.96",
+      "size": "150 Acres",
+      "url": "/incident/7799/",
+      "id": "7799",
+      "contained": "0"
+    },
+    {
+      "name": "Fox Complex",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-18 10:04:56",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "7,229 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "30"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 10:01:52",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,843 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "49"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 10:00:52",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,614 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "70"
+    },
+    {
       "name": "Hay Creek",
       "type": "Wildfire",
       "summary": "Daily Updates |Daily Map   | ...",
       "state": "MONTANA",
-      "updated": "2021-08-18 09:45:37",
+      "updated": "2021-08-18 09:55:24",
       "lat": "48.778",
       "lng": "-114.431",
       "size": "2,894 Acres",
@@ -14,11 +183,50 @@
       "contained": "30"
     },
     {
+      "name": "Whitmore Fire ",
+      "type": "Wildfire",
+      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 09:52:29",
+      "lat": "48.15",
+      "lng": "-119.134",
+      "size": "58,280 Acres",
+      "url": "/incident/7776/",
+      "id": "7776",
+      "contained": "65"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-18 09:51:08",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,692 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 09:47:12",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
-      "summary": "Monday, Aug 16, was a day of transition as Nevada Type 3 Incident...",
+      "summary": "Crews will continue to monitor and patrol Panther Creek Road, Big...",
       "state": "IDAHO",
-      "updated": "2021-08-18 09:45:07",
+      "updated": "2021-08-18 09:46:28",
       "lat": "45.183",
       "lng": "-114.421",
       "size": "20,856 Acres",
@@ -40,19 +248,6 @@
       "contained": "60"
     },
     {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
-      "state": "OREGON",
-      "updated": "2021-08-18 09:41:33",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "15,694 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "15"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "Please see the News and Announcements tabs for the latest updates on...",
@@ -64,19 +259,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "27"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed under Unified Command by...",
-      "state": "OREGON",
-      "updated": "2021-08-18 09:38:51",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "13,452 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "7"
     },
     {
       "name": "Trail Creek Fire",
@@ -118,32 +300,6 @@
       "contained": "60"
     },
     {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-18 09:33:50",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "21,237 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "30"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 17, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 09:33:05",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "69,678 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "65"
-    },
-    {
       "name": "South Yaak",
       "type": "Wildfire",
       "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
@@ -168,32 +324,6 @@
       "url": "/incident/7702/",
       "id": "7702",
       "contained": "10"
-    },
-    {
-      "name": "Parleys Canyon",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "UTAH",
-      "updated": "2021-08-18 09:12:58",
-      "lat": "40.744",
-      "lng": "-111.654",
-      "size": "541 Acres",
-      "url": "/incident/7802/",
-      "id": "7802",
-      "contained": "40"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-18 09:12:26",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,692 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "51"
     },
     {
       "name": "Burnt Peak Fire",
@@ -261,19 +391,6 @@
       "contained": "5"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "August 17, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 09:05:24",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "54,261 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "50"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -300,19 +417,6 @@
       "contained": "30"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 08:55:25",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,614 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "70"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "   Daily IR Map   |     Daily Public info Map     |   ...",
@@ -337,32 +441,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "0"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 08:30:38",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,876 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "57"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 08:29:37",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,843 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "49"
     },
     {
       "name": "Greenwood Fire",
@@ -417,19 +495,6 @@
       "contained": "53"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 02:30:03",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "22,919 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "0"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
@@ -454,19 +519,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
-    },
-    {
-      "name": "Fox Complex",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-17 23:23:44",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "7,229 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "30"
     },
     {
       "name": "Skyline Ridge Complex",
@@ -519,19 +571,6 @@
       "url": "/incident/7811/",
       "id": "7811",
       "contained": "0"
-    },
-    {
-      "name": "Whitmore Fire ",
-      "type": "Wildfire",
-      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 22:37:34",
-      "lat": "48.15",
-      "lng": "-119.134",
-      "size": "58,280 Acres",
-      "url": "/incident/7776/",
-      "id": "7776",
-      "contained": "65"
     },
     {
       "name": "Stateline Complex",
@@ -729,19 +768,6 @@
       "contained": "63"
     },
     {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 20:00:29",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex was originally comprised of two fires: The...",
@@ -792,19 +818,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "0"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 97,403 acres and is 53%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 18:12:37",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "97,407 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "53"
     },
     {
       "name": "Walkers Fire",
@@ -1065,19 +1078,6 @@
       "url": "/incident/7783/",
       "id": "7783",
       "contained": "100"
-    },
-    {
-      "name": "Nason Fire",
-      "type": "Wildfire",
-      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 11:15:52",
-      "lat": "47.828",
-      "lng": "-120.96",
-      "size": "150 Acres",
-      "url": "/incident/7799/",
-      "id": "7799",
-      "contained": "0"
     },
     {
       "name": "Bootleg Fire",
