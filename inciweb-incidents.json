@@ -1,24 +1,219 @@
 {
   "markers": [
     {
-      "name": "River Complex 2021",
+      "name": "Cold",
       "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "summary": "The Cold Fire  is one of several fires burning in Yosemite National...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-17 18:37:53",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "44,117 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
+      "updated": "2021-08-17 19:55:30",
+      "lat": "37.951",
+      "lng": "-119.409",
+      "size": "2 Acres",
+      "url": "/incident/7810/",
+      "id": "7810",
+      "contained": "0"
+    },
+    {
+      "name": "Parleys Canyon",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "UTAH",
+      "updated": "2021-08-17 19:55:27",
+      "lat": "40.744",
+      "lng": "-111.654",
+      "size": "541 Acres",
+      "url": "/incident/7802/",
+      "id": "7802",
+      "contained": "40"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 19:54:48",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "10,879 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "0"
+    },
+    {
+      "name": "Whelp Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire,...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-17 19:53:30",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "15 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
+    },
+    {
+      "name": "John Elk Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Elk Fire started...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-17 19:51:54",
+      "lat": "47.981",
+      "lng": "-91.016",
+      "size": "2 Acres",
+      "url": "/incident/7808/",
+      "id": "7808",
+      "contained": "0"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 19:49:23",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,319 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "3"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-17 19:48:12",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "3,200 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 19:44:19",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,843 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "49"
+    },
+    {
+      "name": "Tiltill",
+      "type": "Wildfire",
+      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 19:40:58",
+      "lat": "37.969",
+      "lng": "-119.723",
+      "size": "1,927 Acres",
+      "url": "/incident/7761/",
+      "id": "7761",
+      "contained": "90"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 19:40:46",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "867 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "85"
+    },
+    {
+      "name": "West Zone Superior Fires",
+      "type": "Wildfire",
+      "summary": "Superior NF Facebook  |  Superior NF WebpageThe West Zone of the...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-17 19:39:20",
+      "lat": "47.907",
+      "lng": "-91.831",
+      "size": "0 Acres",
+      "url": "/incident/7617/",
+      "id": "7617",
+      "contained": "0"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 19:31:01",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,614 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "70"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 19:26:15",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "11,585 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "44"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "August 16, 2021A Community Open House for the Walker and Chickadee...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 19:13:11",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "22,577 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "0"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "On 31JUL21, the Dillon Interagency Dispatch received a report of a...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 19:03:00",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "150 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "0"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "August 17, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-17 18:57:15",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "10,867 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "5"
     },
     {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "August 17, 2021:      |     Maps     |   ...",
       "state": "WASHINGTON",
-      "updated": "2021-08-17 18:34:57",
+      "updated": "2021-08-17 18:56:47",
       "lat": "48.595",
       "lng": "-120.537",
       "size": "54,261 Acres",
@@ -27,30 +222,17 @@
       "contained": "50"
     },
     {
-      "name": "Woods Creek Fire",
+      "name": "River Complex 2021",
       "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 18:34:24",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,476 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "47"
-    },
-    {
-      "name": "Parleys Canyon",
-      "type": "Wildfire",
-      "summary": "The human caused Parleys Canyon Fire ignited on August 14 and is...",
-      "state": "UTAH",
-      "updated": "2021-08-17 18:34:05",
-      "lat": "40.744",
-      "lng": "-111.654",
-      "size": "541 Acres",
-      "url": "/incident/7802/",
-      "id": "7802",
-      "contained": "21"
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 18:50:24",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "44,117 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
     },
     {
       "name": "McFarland Fire",
@@ -64,32 +246,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "53"
-    },
-    {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "August 17, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 18:00:42",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "10,867 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "5"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-17 17:54:56",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "3,200 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -417,19 +573,6 @@
       "contained": "24"
     },
     {
-      "name": "West Zone Superior Fires",
-      "type": "Wildfire",
-      "summary": "Superior NF Facebook  |  Superior NF WebpageThe West Zone of the...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-17 15:42:35",
-      "lat": "47.907",
-      "lng": "-91.831",
-      "size": "0 Acres",
-      "url": "/incident/7617/",
-      "id": "7617",
-      "contained": "0"
-    },
-    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed under Unified Command by...",
@@ -454,19 +597,6 @@
       "url": "/incident/7798/",
       "id": "7798",
       "contained": "20"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "August 16, 2021A Community Open House for the Walker and Chickadee...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-17 15:24:10",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "22,577 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "0"
     },
     {
       "name": "Johnson Fire",
@@ -506,19 +636,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "90"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 14:52:06",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "10,879 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "0"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -571,19 +688,6 @@
       "url": "/incident/7741/",
       "id": "7741",
       "contained": "0"
-    },
-    {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 13:36:39",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,319 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
@@ -677,19 +781,6 @@
       "contained": "57"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 12:58:09",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,614 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "52"
-    },
-    {
       "name": "Rough Patch Complex",
       "type": "Wildfire",
       "summary": " A complex of 19 fires north of Glide,",
@@ -765,32 +856,6 @@
       "size": "13,000 Acres",
       "url": "/incident/7803/",
       "id": "7803",
-      "contained": "0"
-    },
-    {
-      "name": "John Elk Fire",
-      "type": "Wildfire",
-      "summary": " John Elk Fire started with a lightning strike and is in a remote...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-17 12:02:00",
-      "lat": "47.981",
-      "lng": "-91.016",
-      "size": "2 Acres",
-      "url": "/incident/7808/",
-      "id": "7808",
-      "contained": "0"
-    },
-    {
-      "name": "Whelp Fire",
-      "type": "Wildfire",
-      "summary": " The Whelp Fire, another lightning-caused fire, is 4 miles...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-17 12:01:21",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "15 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
       "contained": "0"
     },
     {
@@ -948,19 +1013,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "29"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 10:31:49",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "11,585 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "44"
     },
     {
       "name": "Mud Lick Fire",
@@ -1145,19 +1197,6 @@
       "contained": "0"
     },
     {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-15 09:24:35",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "530 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "85"
-    },
-    {
       "name": "County Line",
       "type": "Wildfire",
       "summary": "The County Line Fire, located south of the Tioga Road near the White...",
@@ -1169,19 +1208,6 @@
       "url": "/incident/7613/",
       "id": "7613",
       "contained": "100"
-    },
-    {
-      "name": "Tiltill",
-      "type": "Wildfire",
-      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-15 09:24:15",
-      "lat": "37.969",
-      "lng": "-119.723",
-      "size": "1,927 Acres",
-      "url": "/incident/7761/",
-      "id": "7761",
-      "contained": "73"
     },
     {
       "name": "Spur Fire",
@@ -1457,19 +1483,6 @@
       "contained": "0"
     },
     {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "On 31JUL21, the Dillon Interagency Dispatch received a report of a...",
-      "state": "MONTANA",
-      "updated": "2021-08-07 19:21:22",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "1 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "0"
-    },
-    {
       "name": "Evalyn",
       "type": "Wildfire",
       "summary": " On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
@@ -1623,19 +1636,6 @@
       "size": "0 Acres",
       "url": "/incident/7693/",
       "id": "7693",
-      "contained": "0"
-    },
-    {
-      "name": "McDougal Fire",
-      "type": "Wildfire",
-      "summary": " The McDougal fire is currently assessed at 16.5 acres. Type 1 and...",
-      "state": "MONTANA",
-      "updated": "2021-07-29 13:10:13",
-      "lat": "46.119",
-      "lng": "-113.451",
-      "size": "17 Acres",
-      "url": "/incident/7695/",
-      "id": "7695",
       "contained": "0"
     },
     {
