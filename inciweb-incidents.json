@@ -1,24 +1,50 @@
 {
   "markers": [
     {
-      "name": "Dixie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 21:25:15",
-      "lat": "40.258",
-      "lng": "-120.914",
-      "size": "0 Acres",
-      "url": "/incident/7811/",
-      "id": "7811",
-      "contained": "0"
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-17 21:44:44",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "4,093 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "30"
+    },
+    {
+      "name": "Richard Spring",
+      "type": "Wildfire",
+      "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 21:42:40",
+      "lat": "45.809",
+      "lng": "-106.764",
+      "size": "170,848 Acres",
+      "url": "/incident/7794/",
+      "id": "7794",
+      "contained": "75"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-17 21:38:20",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "38,688 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
     },
     {
       "name": "Rough Patch Complex",
       "type": "Wildfire",
       "summary": " On July 30th multiple storm cells passed over the Umpqua National...",
       "state": "OREGON",
-      "updated": "2021-08-17 21:24:14",
+      "updated": "2021-08-17 21:35:21",
       "lat": "43.511",
       "lng": "-122.676",
       "size": "14,951 Acres",
@@ -27,17 +53,56 @@
       "contained": "3"
     },
     {
-      "name": "West Lolo Complex",
+      "name": "Jack Fire",
       "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "summary": "The Jack Fire started on July 5, 2021, at approximately 5:00pm and is...",
+      "state": "OREGON",
+      "updated": "2021-08-17 21:34:58",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,691 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
+      "name": "Dixie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-17 21:33:33",
+      "lat": "40.241",
+      "lng": "-120.897",
+      "size": "0 Acres",
+      "url": "/incident/7811/",
+      "id": "7811",
+      "contained": "0"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
       "state": "MONTANA",
-      "updated": "2021-08-17 21:17:35",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "38,688 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
+      "updated": "2021-08-17 21:32:54",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "11,585 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "45"
+    },
+    {
+      "name": "Bedrock Fire",
+      "type": "Wildfire",
+      "summary": "The Bedrock Fire was reported on August 11, and grew rapidly due to...",
+      "state": "IDAHO",
+      "updated": "2021-08-17 21:28:20",
+      "lat": "46.525",
+      "lng": "-116.594",
+      "size": "11,205 Acres",
+      "url": "/incident/7796/",
+      "id": "7796",
+      "contained": "83"
     },
     {
       "name": "Muckamuck",
@@ -417,19 +482,6 @@
       "contained": "0"
     },
     {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 19:26:15",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "11,585 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "44"
-    },
-    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "August 16, 2021A Community Open House for the Walker and Chickadee...",
@@ -558,19 +610,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "0"
-    },
-    {
-      "name": "Richard Spring",
-      "type": "Wildfire",
-      "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
-      "state": "MONTANA",
-      "updated": "2021-08-17 17:22:41",
-      "lat": "45.809",
-      "lng": "-106.764",
-      "size": "170,848 Acres",
-      "url": "/incident/7794/",
-      "id": "7794",
-      "contained": "65"
     },
     {
       "name": "Stateline Complex",
@@ -859,32 +898,6 @@
       "contained": "0"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021, at approximately 5:00pm and is...",
-      "state": "OREGON",
-      "updated": "2021-08-17 12:38:37",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,691 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "51"
-    },
-    {
-      "name": "Bedrock Fire",
-      "type": "Wildfire",
-      "summary": "The Bedrock Fire was reported on August 11, and grew rapidly due to...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 12:29:01",
-      "lat": "46.531",
-      "lng": "-116.6",
-      "size": "11,251 Acres",
-      "url": "/incident/7796/",
-      "id": "7796",
-      "contained": "51"
-    },
-    {
       "name": "Chickadee Creek",
       "type": "Wildfire",
       "summary": "WILDFIRE INFORMATION August 16, 2021   A Community Open House for...",
@@ -934,19 +947,6 @@
       "size": "2,894 Acres",
       "url": "/incident/7712/",
       "id": "7712",
-      "contained": "30"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-17 11:30:40",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "3,357 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
       "contained": "30"
     },
     {
