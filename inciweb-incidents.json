@@ -1,6 +1,149 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 09:28:07",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "678,369 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 09:27:25",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "53,071 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "Mannix Park",
+      "type": "Wildfire",
+      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
+      "state": "MONTANA",
+      "updated": "2021-08-19 09:26:16",
+      "lat": "46.69",
+      "lng": "-112.767",
+      "size": "32 Acres",
+      "url": "/incident/7809/",
+      "id": "7809",
+      "contained": "0"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
+      "state": "IDAHO",
+      "updated": "2021-08-19 09:20:07",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "Tiltill",
+      "type": "Wildfire",
+      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 09:19:36",
+      "lat": "37.969",
+      "lng": "-119.723",
+      "size": "1,960 Acres",
+      "url": "/incident/7761/",
+      "id": "7761",
+      "contained": "90"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 09:19:28",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "867 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "85"
+    },
+    {
+      "name": "County Line",
+      "type": "Wildfire",
+      "summary": "The County Line Fire, located south of the Tioga Road near the White...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 09:19:21",
+      "lat": "37.835",
+      "lng": "-119.619",
+      "size": "224 Acres",
+      "url": "/incident/7613/",
+      "id": "7613",
+      "contained": "100"
+    },
+    {
+      "name": "Cold",
+      "type": "Wildfire",
+      "summary": "The Cold Fire was discovered on 8.14.2021 and is one of several fires...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 09:19:13",
+      "lat": "37.951",
+      "lng": "-119.409",
+      "size": "6 Acres",
+      "url": "/incident/7810/",
+      "id": "7810",
+      "contained": "0"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-19 09:18:51",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,728 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
+      "name": "Ford Corkscrew Fire",
+      "type": "Wildfire",
+      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-19 09:17:10",
+      "lat": "47.897",
+      "lng": "-117.81",
+      "size": "14,000 Acres",
+      "url": "/incident/7803/",
+      "id": "7803",
+      "contained": "14"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-19 09:17:04",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "38,845 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "26"
+    },
+    {
       "name": "Rough Patch Complex",
       "type": "Wildfire",
       "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
@@ -14,32 +157,6 @@
       "contained": "3"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-19 09:14:38",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "38,845 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "26"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 09:14:35",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "662,647 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -51,19 +168,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "15"
-    },
-    {
-      "name": "Mannix Park",
-      "type": "Wildfire",
-      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
-      "state": "MONTANA",
-      "updated": "2021-08-19 09:08:15",
-      "lat": "46.69",
-      "lng": "-112.767",
-      "size": "32 Acres",
-      "url": "/incident/7809/",
-      "id": "7809",
-      "contained": "0"
     },
     {
       "name": "South Yaak",
@@ -90,19 +194,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "30"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-19 09:01:13",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,728 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "51"
     },
     {
       "name": "Caldor Fire",
@@ -378,19 +469,6 @@
       "contained": "0"
     },
     {
-      "name": "Ford Corkscrew Fire",
-      "type": "Wildfire",
-      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 22:34:26",
-      "lat": "47.897",
-      "lng": "-117.81",
-      "size": "14,000 Acres",
-      "url": "/incident/7803/",
-      "id": "7803",
-      "contained": "14"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
@@ -508,19 +586,6 @@
       "contained": "93"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 21:12:32",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "53,071 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
-    },
-    {
       "name": "Pine Grove",
       "type": "Wildfire",
       "summary": " Pine Grove Fire started Aug. 16th three miles northeast of Hays,...",
@@ -610,32 +675,6 @@
       "url": "/incident/7791/",
       "id": "7791",
       "contained": "75"
-    },
-    {
-      "name": "Cold",
-      "type": "Wildfire",
-      "summary": "The Cold Fire was discovered on 8.14.2021 and is one of several fires...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 20:05:50",
-      "lat": "37.951",
-      "lng": "-119.409",
-      "size": "6 Acres",
-      "url": "/incident/7810/",
-      "id": "7810",
-      "contained": "0"
-    },
-    {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
-      "state": "IDAHO",
-      "updated": "2021-08-18 20:05:00",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
     },
     {
       "name": "Tamarack Fire",
@@ -1000,45 +1039,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "60"
-    },
-    {
-      "name": "County Line",
-      "type": "Wildfire",
-      "summary": "The County Line Fire, located south of the Tioga Road near the White...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 20:29:35",
-      "lat": "37.835",
-      "lng": "-119.619",
-      "size": "224 Acres",
-      "url": "/incident/7613/",
-      "id": "7613",
-      "contained": "100"
-    },
-    {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 20:29:10",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "867 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "85"
-    },
-    {
-      "name": "Tiltill",
-      "type": "Wildfire",
-      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-17 20:28:53",
-      "lat": "37.969",
-      "lng": "-119.723",
-      "size": "1,960 Acres",
-      "url": "/incident/7761/",
-      "id": "7761",
-      "contained": "90"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
