@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
+      "state": "IDAHO",
+      "updated": "2021-08-19 14:25:08",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "330 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "30"
+    },
+    {
+      "name": "Walkers Fire",
+      "type": "Wildfire",
+      "summary": "Overnight, an infrared equipped aircraft estimated the Walkers Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 14:23:12",
+      "lat": "36.268",
+      "lng": "-118.55",
+      "size": "1,890 Acres",
+      "url": "/incident/7807/",
+      "id": "7807",
+      "contained": "10"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 3,223 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 14:21:38",
+      "lat": "35.685",
+      "lng": "-118.55",
+      "size": "3,223 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "0"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-19 14:12:52",
+      "updated": "2021-08-19 14:14:44",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "678,369 Acres",
@@ -157,19 +196,6 @@
       "contained": "51"
     },
     {
-      "name": "Walkers Fire",
-      "type": "Wildfire",
-      "summary": "Overnight, aircraft estimated the Walkers Fire had reached 1,890...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 13:08:45",
-      "lat": "36.268",
-      "lng": "-118.55",
-      "size": "1,890 Acres",
-      "url": "/incident/7807/",
-      "id": "7807",
-      "contained": "10"
-    },
-    {
       "name": "Ford Corkscrew Fire",
       "type": "Wildfire",
       "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
@@ -259,19 +285,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "9"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 3,223 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 12:23:22",
-      "lat": "35.685",
-      "lng": "-118.55",
-      "size": "3,223 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "0"
     },
     {
       "name": "Stateline Complex",
@@ -974,19 +987,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "10"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
-      "state": "IDAHO",
-      "updated": "2021-08-18 13:40:01",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "320 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "30"
     },
     {
       "name": "Crooks Fire",
