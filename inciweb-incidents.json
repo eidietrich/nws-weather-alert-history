@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Mannix Park",
+      "type": "Wildfire",
+      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
+      "state": "MONTANA",
+      "updated": "2021-08-18 22:45:48",
+      "lat": "46.69",
+      "lng": "-112.767",
+      "size": "32 Acres",
+      "url": "/incident/7809/",
+      "id": "7809",
+      "contained": "0"
+    },
+    {
+      "name": "Whitmore Fire ",
+      "type": "Wildfire",
+      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 22:42:23",
+      "lat": "48.15",
+      "lng": "-119.134",
+      "size": "58,280 Acres",
+      "url": "/incident/7776/",
+      "id": "7776",
+      "contained": "75"
+    },
+    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": " Firefighters saw an increase in fire behavior starting this...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-18 22:33:04",
+      "updated": "2021-08-18 22:37:03",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "6,788 Acres",
       "url": "/incident/7757/",
       "id": "7757",
-      "contained": "1"
+      "contained": "0"
+    },
+    {
+      "name": "Ford Corkscrew Fire",
+      "type": "Wildfire",
+      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 22:34:26",
+      "lat": "47.897",
+      "lng": "-117.81",
+      "size": "14,000 Acres",
+      "url": "/incident/7803/",
+      "id": "7803",
+      "contained": "14"
     },
     {
       "name": "Summit Trail",
@@ -53,19 +92,6 @@
       "contained": "0"
     },
     {
-      "name": "Mannix Park",
-      "type": "Wildfire",
-      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
-      "state": "MONTANA",
-      "updated": "2021-08-18 22:30:15",
-      "lat": "46.69",
-      "lng": "-112.767",
-      "size": "50 Acres",
-      "url": "/incident/7809/",
-      "id": "7809",
-      "contained": "0"
-    },
-    {
       "name": "Rough Patch Complex",
       "type": "Wildfire",
       "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
@@ -77,19 +103,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "3"
-    },
-    {
-      "name": "Whitmore Fire ",
-      "type": "Wildfire",
-      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 22:25:45",
-      "lat": "48.15",
-      "lng": "-119.134",
-      "size": "58,280 Acres",
-      "url": "/incident/7776/",
-      "id": "7776",
-      "contained": "75"
     },
     {
       "name": "French Fire (CA)",
@@ -714,19 +727,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "10"
-    },
-    {
-      "name": "Ford Corkscrew Fire",
-      "type": "Wildfire",
-      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 14:33:52",
-      "lat": "47.897",
-      "lng": "-117.81",
-      "size": "14,000 Acres",
-      "url": "/incident/7803/",
-      "id": "7803",
-      "contained": "0"
     },
     {
       "name": "Boundary Fire",
