@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 13:44:44",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "678,369 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
+      "state": "OREGON",
+      "updated": "2021-08-19 13:43:19",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,717 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "100"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-19 13:42:02",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "7,072 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-19 13:41:07",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,878 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "35"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 13:41:03",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "135,714 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
       "name": "Harris Mountain",
       "type": "Wildfire",
       "summary": "Incident Overview The Harris Mountain Fire started on July 23rd...",
       "state": "MONTANA",
-      "updated": "2021-08-19 13:36:44",
+      "updated": "2021-08-19 13:37:34",
       "lat": "47.127",
       "lng": "-111.75",
       "size": "31,603 Acres",
@@ -27,19 +92,6 @@
       "contained": "39"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 13:19:50",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "678,369 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
-    },
-    {
       "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
       "summary": " The Dixie and Jumbo fires are located approximately 40 miles...",
@@ -51,19 +103,6 @@
       "url": "/incident/7608/",
       "id": "7608",
       "contained": "63"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 13:13:39",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "135,714 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
     },
     {
       "name": "McFarland Fire",
@@ -259,19 +298,6 @@
       "url": "/incident/7706/",
       "id": "7706",
       "contained": "60"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-19 12:08:25",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "7,072 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "0"
     },
     {
       "name": "Christensen Fire ",
@@ -820,19 +846,6 @@
       "contained": "58"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 22:32:12",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,878 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "35"
-    },
-    {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
       "type": "Wildfire",
       "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
@@ -909,19 +922,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "82"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
-      "state": "OREGON",
-      "updated": "2021-08-18 18:40:43",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,717 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "100"
     },
     {
       "name": "Morgan Creek Fire",
