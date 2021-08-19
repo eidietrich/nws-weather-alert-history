@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 13:19:50",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "678,369 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Dixie-Jumbo Fires (ID)",
+      "type": "Wildfire",
+      "summary": " The Dixie and Jumbo fires are located approximately 40 miles...",
+      "state": "IDAHO",
+      "updated": "2021-08-19 13:14:14",
+      "lat": "45.586",
+      "lng": "-115.444",
+      "size": "43,344 Acres",
+      "url": "/incident/7608/",
+      "id": "7608",
+      "contained": "63"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-19 12:45:02",
+      "updated": "2021-08-19 13:13:39",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "135,714 Acres",
@@ -14,17 +40,69 @@
       "contained": "10"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "McFarland Fire",
       "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "summary": "The McFarland Fire is currently mapped at 110,132 acres and is 51%...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-19 12:44:50",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "678,369 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
+      "updated": "2021-08-19 13:11:04",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "110,132 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "51"
+    },
+    {
+      "name": "Walkers Fire",
+      "type": "Wildfire",
+      "summary": "Overnight, aircraft estimated the Walkers Fire had reached 1,890...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 13:08:45",
+      "lat": "36.268",
+      "lng": "-118.55",
+      "size": "1,890 Acres",
+      "url": "/incident/7807/",
+      "id": "7807",
+      "contained": "10"
+    },
+    {
+      "name": "Ford Corkscrew Fire",
+      "type": "Wildfire",
+      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-19 13:02:52",
+      "lat": "47.897",
+      "lng": "-117.81",
+      "size": "15,019 Acres",
+      "url": "/incident/7803/",
+      "id": "7803",
+      "contained": "14"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "Daily Updates |Daily Map   | ...",
+      "state": "MONTANA",
+      "updated": "2021-08-19 13:01:06",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,894 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "50"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
+      "state": "IDAHO",
+      "updated": "2021-08-19 12:59:27",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
     },
     {
       "name": "Schneider Springs",
@@ -64,19 +142,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "15"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "Daily Updates |Daily Map   | ...",
-      "state": "MONTANA",
-      "updated": "2021-08-19 12:40:02",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,894 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "50"
     },
     {
       "name": "Greenwood Fire",
@@ -248,19 +313,6 @@
       "contained": "19"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 110,132 acres and is 51%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 11:46:47",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "110,132 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "51"
-    },
-    {
       "name": "John Elk Fire",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Elk Fire started...",
@@ -272,19 +324,6 @@
       "url": "/incident/7808/",
       "id": "7808",
       "contained": "0"
-    },
-    {
-      "name": "Ford Corkscrew Fire",
-      "type": "Wildfire",
-      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-19 11:42:42",
-      "lat": "47.897",
-      "lng": "-117.81",
-      "size": "15,019 Acres",
-      "url": "/incident/7803/",
-      "id": "7803",
-      "contained": "14"
     },
     {
       "name": "Nason Fire",
@@ -664,19 +703,6 @@
       "contained": "0"
     },
     {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "On June 30th, a succession of thunderstorm systems moved through...",
-      "state": "IDAHO",
-      "updated": "2021-08-19 09:20:07",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
@@ -937,19 +963,6 @@
       "contained": "0"
     },
     {
-      "name": "Walkers Fire",
-      "type": "Wildfire",
-      "summary": "The Walkers Fire was discovered Sunday August 15, burning in the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 16:25:58",
-      "lat": "36.268",
-      "lng": "-118.55",
-      "size": "1,969 Acres",
-      "url": "/incident/7807/",
-      "id": "7807",
-      "contained": "0"
-    },
-    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex was originally comprised of two fires: The...",
@@ -1052,19 +1065,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "60"
-    },
-    {
-      "name": "Dixie-Jumbo Fires (ID)",
-      "type": "Wildfire",
-      "summary": " The Dixie and Jumbo fires are located approximately 40 miles...",
-      "state": "IDAHO",
-      "updated": "2021-08-17 20:02:29",
-      "lat": "45.586",
-      "lng": "-115.444",
-      "size": "43,344 Acres",
-      "url": "/incident/7608/",
-      "id": "7608",
-      "contained": "63"
     },
     {
       "name": "Haystack Fire",
