@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Firefighters saw an increase in fire behavior starting this...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 22:33:04",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "6,788 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 22:32:12",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,878 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "35"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-08-18 22:32:08",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "12,757 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "15"
+    },
+    {
+      "name": "Nason Fire",
+      "type": "Wildfire",
+      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 22:30:48",
+      "lat": "47.828",
+      "lng": "-120.96",
+      "size": "150 Acres",
+      "url": "/incident/7799/",
+      "id": "7799",
+      "contained": "0"
+    },
+    {
+      "name": "Mannix Park",
+      "type": "Wildfire",
+      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
+      "state": "MONTANA",
+      "updated": "2021-08-18 22:30:15",
+      "lat": "46.69",
+      "lng": "-112.767",
+      "size": "50 Acres",
+      "url": "/incident/7809/",
+      "id": "7809",
+      "contained": "0"
+    },
+    {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
+      "state": "OREGON",
+      "updated": "2021-08-18 22:28:09",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "14,587 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "3"
+    },
+    {
+      "name": "Whitmore Fire ",
+      "type": "Wildfire",
+      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-18 22:25:45",
+      "lat": "48.15",
+      "lng": "-119.134",
+      "size": "58,280 Acres",
+      "url": "/incident/7776/",
+      "id": "7776",
+      "contained": "75"
+    },
+    {
       "name": "French Fire (CA)",
       "type": "Wildfire",
       "summary": "Information is still being gathered on the French Fire. The Bureau of...",
@@ -12,19 +103,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "0"
-    },
-    {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
-      "state": "OREGON",
-      "updated": "2021-08-18 22:17:49",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "14,587 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "3"
     },
     {
       "name": "Antelope Fire",
@@ -116,19 +194,6 @@
       "url": "/incident/7794/",
       "id": "7794",
       "contained": "82"
-    },
-    {
-      "name": "Whitmore Fire ",
-      "type": "Wildfire",
-      "summary": " The Whitmore Fire was started by lightning on August 3rd. It is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 21:33:43",
-      "lat": "48.15",
-      "lng": "-119.134",
-      "size": "58,280 Acres",
-      "url": "/incident/7776/",
-      "id": "7776",
-      "contained": "75"
     },
     {
       "name": "Monument Fire",
@@ -443,19 +508,6 @@
       "contained": "0"
     },
     {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-08-18 19:13:17",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "12,759 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "14"
-    },
-    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
@@ -521,19 +573,6 @@
       "contained": "100"
     },
     {
-      "name": "Mannix Park",
-      "type": "Wildfire",
-      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16th, 2021....",
-      "state": "MONTANA",
-      "updated": "2021-08-18 18:34:25",
-      "lat": "46.69",
-      "lng": "-112.767",
-      "size": "50 Acres",
-      "url": "/incident/7809/",
-      "id": "7809",
-      "contained": "0"
-    },
-    {
       "name": "Morgan Creek Fire",
       "type": "Wildfire",
       "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
@@ -558,19 +597,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "0"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Firefighters saw an increase in fire behavior starting this...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 17:18:47",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "3,936 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Dixie Post-Fire BAER",
@@ -688,19 +714,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "10"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 14:42:22",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "42,670 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "35"
     },
     {
       "name": "Ford Corkscrew Fire",
@@ -895,19 +908,6 @@
       "size": "3,633 Acres",
       "url": "/incident/7660/",
       "id": "7660",
-      "contained": "0"
-    },
-    {
-      "name": "Nason Fire",
-      "type": "Wildfire",
-      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-18 11:48:52",
-      "lat": "47.828",
-      "lng": "-120.96",
-      "size": "150 Acres",
-      "url": "/incident/7799/",
-      "id": "7799",
       "contained": "0"
     },
     {
