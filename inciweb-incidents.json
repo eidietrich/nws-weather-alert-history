@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 14:44:37",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "135,714 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-19 14:44:24",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,878 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "35"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 14:41:45",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "64,277 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 14:40:29",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "678,369 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
+      "state": "OREGON",
+      "updated": "2021-08-19 14:34:57",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,717 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "100"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-19 14:33:21",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "5,761 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
@@ -40,58 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 14:14:44",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "678,369 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-19 14:09:23",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "5,761 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
-      "state": "OREGON",
-      "updated": "2021-08-19 14:04:06",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,717 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "100"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire was started by lightning on July 12th and is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-19 14:00:37",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,878 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "35"
-    },
-    {
       "name": "Fox Complex",
       "type": "Wildfire",
       "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
@@ -129,19 +155,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 13:41:03",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "135,714 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
     },
     {
       "name": "Harris Mountain",
@@ -298,19 +311,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "15"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 12:20:21",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "64,277 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
     },
     {
       "name": "Tango Fire",
