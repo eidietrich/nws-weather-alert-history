@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Information is still being gathered on the French Fire. The Bureau...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 21:22:53",
+      "lat": "35.666",
+      "lng": "-118.514",
+      "size": "0 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "0"
+    },
+    {
+      "name": "Skyline Ridge Complex",
+      "type": "Wildfire",
+      "summary": " A number of fires have been reported in the South Umpqua River...",
+      "state": "OREGON",
+      "updated": "2021-08-18 21:17:28",
+      "lat": "42.901",
+      "lng": "-123.111",
+      "size": "5,760 Acres",
+      "url": "/incident/7762/",
+      "id": "7762",
+      "contained": "93"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-18 21:17:07",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,066 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "29"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire is currently mapped at 107,102 acres and is 51%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 21:15:51",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "107,102 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "51"
+    },
+    {
       "name": "South Yaak",
       "type": "Wildfire",
       "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
       "state": "MONTANA",
-      "updated": "2021-08-18 20:48:17",
+      "updated": "2021-08-18 21:15:47",
       "lat": "48.551",
       "lng": "-115.93",
       "size": "11,585 Acres",
@@ -14,11 +66,63 @@
       "contained": "45"
     },
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 21:12:32",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "53,071 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-18 21:04:51",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "128,613 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
+      "name": "Pine Grove",
+      "type": "Wildfire",
+      "summary": " Pine Grove Fire started Aug. 16th three miles northeast of Hays,...",
+      "state": "MONTANA",
+      "updated": "2021-08-18 21:00:34",
+      "lat": "48.019",
+      "lng": "-108.651",
+      "size": "17,325 Acres",
+      "url": "/incident/7812/",
+      "id": "7812",
+      "contained": "19"
+    },
+    {
+      "name": "2021 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2021-08-18 20:59:01",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/7304/",
+      "id": "7304",
+      "contained": "0"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-18 20:44:49",
+      "updated": "2021-08-18 20:53:46",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "662,647 Acres",
@@ -64,19 +168,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "30"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-18 20:35:19",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,066 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "29"
     },
     {
       "name": "Muckamuck",
@@ -220,19 +311,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "82"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 19:54:21",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "128,613 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
     },
     {
       "name": "Walker Creek Fire",
@@ -521,19 +599,6 @@
       "contained": "0"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 107,102 acres and is 51%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 16:10:38",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "107,102 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "51"
-    },
-    {
       "name": "French Fire",
       "type": "Wildfire",
       "summary": "The French Fire is located along the Main Salmon River at the mouth...",
@@ -599,32 +664,6 @@
       "contained": "0"
     },
     {
-      "name": "Skyline Ridge Complex",
-      "type": "Wildfire",
-      "summary": " A number of fires have been reported in the South Umpqua River...",
-      "state": "OREGON",
-      "updated": "2021-08-18 14:18:43",
-      "lat": "42.901",
-      "lng": "-123.111",
-      "size": "5,760 Acres",
-      "url": "/incident/7762/",
-      "id": "7762",
-      "contained": "81"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-18 14:17:00",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "48,214 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
-    },
-    {
       "name": "Richard Spring",
       "type": "Wildfire",
       "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
@@ -649,19 +688,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "30"
-    },
-    {
-      "name": "Pine Grove",
-      "type": "Wildfire",
-      "summary": " Pine Grove Fire started Aug. 16th three miles northeast of Hays,...",
-      "state": "MONTANA",
-      "updated": "2021-08-18 13:34:00",
-      "lat": "48.019",
-      "lng": "-108.651",
-      "size": "17,325 Acres",
-      "url": "/incident/7812/",
-      "id": "7812",
-      "contained": "7"
     },
     {
       "name": "Fox Complex",
@@ -961,19 +987,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "60"
-    },
-    {
-      "name": "2021 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": "For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2021-08-17 20:47:09",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/7304/",
-      "id": "7304",
-      "contained": "0"
     },
     {
       "name": "County Line",
