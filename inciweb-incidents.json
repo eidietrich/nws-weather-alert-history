@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 00:01:59",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "699,666 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "Michael Hayden's Rocky Mountain Area Type 2 Blue Team will assume...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-19 23:59:37",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "4,861 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "11"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-19 23:59:11",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "136,379 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "Michael Hayden's Rocky Mountain Area Type 2 Blue Team will assume...",
@@ -12,32 +51,6 @@
       "url": "/incident/7774/",
       "id": "7774",
       "contained": "3"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 23:54:30",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "136,379 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
-    },
-    {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "Michael Hayden's Rocky Mountain Area Type 2 Blue Team will assume...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-19 23:34:15",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "4,861 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "11"
     },
     {
       "name": "Summit Trail",
@@ -285,19 +298,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 21:11:20",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "678,369 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
     },
     {
       "name": "South Yaak",
