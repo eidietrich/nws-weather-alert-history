@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 18:44:13",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "73,415 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-20 18:43:14",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "4,343 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "30"
+    },
+    {
+      "name": "Sylvan Fire",
+      "type": "Wildfire",
+      "summary": "People visiting Sylvan Lake State Park and other open areas near the...",
+      "state": "COLORADO",
+      "updated": "2021-08-20 18:31:14",
+      "lat": "39.465",
+      "lng": "-106.768",
+      "size": "3,792 Acres",
+      "url": "/incident/7562/",
+      "id": "7562",
+      "contained": "90"
+    },
+    {
       "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
       "summary": " The Dixie and Jumbo fires are located approximately 40 miles...",
@@ -38,32 +77,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "Sylvan Fire",
-      "type": "Wildfire",
-      "summary": "People visiting Sylvan Lake State Park and other open areas near the...",
-      "state": "COLORADO",
-      "updated": "2021-08-20 18:26:37",
-      "lat": "39.465",
-      "lng": "-106.768",
-      "size": "3,792 Acres",
-      "url": "/incident/7562/",
-      "id": "7562",
-      "contained": "90"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-20 18:24:57",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "4,343 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "30"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -298,19 +311,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "95"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 15:49:15",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "73,415 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "0"
     },
     {
       "name": "Bull Complex ",
