@@ -1,24 +1,76 @@
 {
   "markers": [
     {
-      "name": "Jack Fire",
+      "name": "River Complex 2021",
       "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-20 08:29:35",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,728 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 08:45:05",
+      "lat": "41.143",
+      "lng": "-123.018",
+      "size": "64,314 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 08:44:06",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "699,666 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire is currently mapped at 113,328 acres and is 51%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 08:43:52",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "113,328 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
       "contained": "51"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-20 08:43:02",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "39,169 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "26"
+    },
+    {
+      "name": "Ford Corkscrew Fire",
+      "type": "Wildfire",
+      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-20 08:42:55",
+      "lat": "47.897",
+      "lng": "-117.81",
+      "size": "15,019 Acres",
+      "url": "/incident/7803/",
+      "id": "7803",
+      "contained": "14"
     },
     {
       "name": "Rough Patch Complex",
       "type": "Wildfire",
       "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
       "state": "OREGON",
-      "updated": "2021-08-20 08:28:58",
+      "updated": "2021-08-20 08:40:28",
       "lat": "43.511",
       "lng": "-122.676",
       "size": "17,443 Acres",
@@ -27,11 +79,37 @@
       "contained": "3"
     },
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-20 08:40:20",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,728 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-20 08:37:49",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "11,012 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "15"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update  | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-20 08:28:17",
+      "updated": "2021-08-20 08:35:03",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "136,379 Acres",
@@ -116,19 +194,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 00:01:59",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "699,666 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
     },
     {
       "name": "Chickadee Creek",
@@ -274,19 +339,6 @@
       "contained": "30"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 21:50:15",
-      "lat": "41.143",
-      "lng": "-123.018",
-      "size": "64,314 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
-    },
-    {
       "name": "Pine Grove",
       "type": "Wildfire",
       "summary": "The Department of Natural Resources and Conservation County Assist...",
@@ -389,19 +441,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "55"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 113,328 acres and is 51%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 20:46:49",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "113,328 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "51"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -612,32 +651,6 @@
       "contained": "53"
     },
     {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-19 17:01:13",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "11,012 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "15"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-19 16:54:45",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "38,845 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "26"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
@@ -753,19 +766,6 @@
       "url": "/incident/7719/",
       "id": "7719",
       "contained": "74"
-    },
-    {
-      "name": "Ford Corkscrew Fire",
-      "type": "Wildfire",
-      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-19 13:02:52",
-      "lat": "47.897",
-      "lng": "-117.81",
-      "size": "15,019 Acres",
-      "url": "/incident/7803/",
-      "id": "7803",
-      "contained": "14"
     },
     {
       "name": "Stateline Complex",
