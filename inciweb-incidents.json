@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Mack Mountain",
+      "type": "Wildfire",
+      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-20 16:25:18",
+      "lat": "48.69",
+      "lng": "-118.359",
+      "size": "0 Acres",
+      "url": "/incident/7814/",
+      "id": "7814",
+      "contained": "0"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 16:23:03",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "142,250 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-20 16:23:01",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "4,734 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
       "state": "WYOMING",
-      "updated": "2021-08-20 16:15:07",
+      "updated": "2021-08-20 16:21:41",
       "lat": "44.947",
       "lng": "-107.771",
       "size": "4,343 Acres",
@@ -14,17 +53,17 @@
       "contained": "30"
     },
     {
-      "name": "Monument Fire",
+      "name": "Boundary Fire",
       "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 16:14:30",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "142,250 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
+      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
+      "state": "IDAHO",
+      "updated": "2021-08-20 16:19:55",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "550 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "30"
     },
     {
       "name": "West Zone Superior Fires",
@@ -38,32 +77,6 @@
       "url": "/incident/7617/",
       "id": "7617",
       "contained": "0"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-20 16:06:33",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "4,734 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
-      "state": "IDAHO",
-      "updated": "2021-08-20 16:04:17",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "550 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "30"
     },
     {
       "name": "Skyline Ridge Complex",
