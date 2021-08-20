@@ -1,11 +1,128 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 3,223 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 12:44:19",
+      "lat": "35.685",
+      "lng": "-118.55",
+      "size": "4,272 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "5"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-20 12:42:25",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "6,264 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-20 12:42:11",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "13,984 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "15"
+    },
+    {
+      "name": "Bedrock Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2021-08-20 12:40:33",
+      "lat": "46.525",
+      "lng": "-116.594",
+      "size": "11,205 Acres",
+      "url": "/incident/7796/",
+      "id": "7796",
+      "contained": "95"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 12:40:06",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "73,415 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "TwentyFive Mile",
+      "type": "Wildfire",
+      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-20 12:39:06",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "10,000 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "5"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 12:38:30",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "142,250 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 20 at 9:30amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 12:37:38",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "700,630 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Windy Pass",
+      "type": "Wildfire",
+      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-20 12:37:00",
+      "lat": "47.112",
+      "lng": "-121.141",
+      "size": "82 Acres",
+      "url": "/incident/7779/",
+      "id": "7779",
+      "contained": "90"
+    },
+    {
       "name": "Pine Grove",
       "type": "Wildfire",
       "summary": "The Department of Natural Resources and Conservation County Assist...",
       "state": "MONTANA",
-      "updated": "2021-08-20 12:25:17",
+      "updated": "2021-08-20 12:32:31",
       "lat": "48.019",
       "lng": "-108.651",
       "size": "17,325 Acres",
@@ -14,17 +131,17 @@
       "contained": "19"
     },
     {
-      "name": "Monument Fire",
+      "name": "McCash Fire",
       "type": "Wildfire",
-      "summary": "Daily IR Map | Daily Public info Map | Daily Update | Vicinity...",
+      "summary": "Heavy fuels, continued drought conditions and warm weather continue...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-20 12:25:16",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "142,250 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
+      "updated": "2021-08-20 12:25:34",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "11,171 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "0"
     },
     {
       "name": "Hay Creek",
@@ -40,32 +157,6 @@
       "contained": "60"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "Heavy fuels, continued drought conditions and warm weather continue...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 12:24:05",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "11,171 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "0"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-20 12:21:58",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "6,264 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
       "name": "Walkers Fire",
       "type": "Wildfire",
       "summary": "The Walkers Fire is advancing primarily to the north/northwest deeper...",
@@ -79,19 +170,6 @@
       "contained": "15"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 20 at 9:30amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 12:13:09",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "700,630 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
-    },
-    {
       "name": "Mannix Park",
       "type": "Wildfire",
       "summary": "The Mannix Park Fire was detected around 3:00PM on August 16, 2021....",
@@ -103,19 +181,6 @@
       "url": "/incident/7809/",
       "id": "7809",
       "contained": "15"
-    },
-    {
-      "name": "TwentyFive Mile",
-      "type": "Wildfire",
-      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-20 12:08:35",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "10,000 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "5"
     },
     {
       "name": "River Complex 2021",
@@ -142,19 +207,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "15"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 11:56:22",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "73,415 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "0"
     },
     {
       "name": "Black Butte Fire",
@@ -324,19 +376,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "0"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 3,223 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 11:25:25",
-      "lat": "35.685",
-      "lng": "-118.55",
-      "size": "4,272 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "5"
     },
     {
       "name": "Antelope Fire",
@@ -677,19 +716,6 @@
       "contained": "15"
     },
     {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-20 09:04:10",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "13,984 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "15"
-    },
-    {
       "name": "Black Mountain",
       "type": "Wildfire",
       "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
@@ -779,19 +805,6 @@
       "url": "/incident/7810/",
       "id": "7810",
       "contained": "10"
-    },
-    {
-      "name": "Bedrock Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2021-08-19 19:14:36",
-      "lat": "46.525",
-      "lng": "-116.594",
-      "size": "11,205 Acres",
-      "url": "/incident/7796/",
-      "id": "7796",
-      "contained": "90"
     },
     {
       "name": "Granite Pass Complex",
@@ -1208,19 +1221,6 @@
       "url": "/incident/7790/",
       "id": "7790",
       "contained": "50"
-    },
-    {
-      "name": "Windy Pass",
-      "type": "Wildfire",
-      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-16 20:50:25",
-      "lat": "47.112",
-      "lng": "-121.141",
-      "size": "82 Acres",
-      "url": "/incident/7779/",
-      "id": "7779",
-      "contained": "70"
     },
     {
       "name": "Beckwourth  Complex",
