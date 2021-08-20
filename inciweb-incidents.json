@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Skyline Ridge Complex",
+      "type": "Wildfire",
+      "summary": " A number of fires have been reported in the South Umpqua River...",
+      "state": "OREGON",
+      "updated": "2021-08-20 15:45:15",
+      "lat": "42.901",
+      "lng": "-123.111",
+      "size": "5,760 Acres",
+      "url": "/incident/7762/",
+      "id": "7762",
+      "contained": "95"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 20 at 9:30amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 15:44:48",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "700,630 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "35"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
+      "state": "IDAHO",
+      "updated": "2021-08-20 15:43:26",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "550 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "30"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
+      "state": "OREGON",
+      "updated": "2021-08-20 15:42:40",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "6,264 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 15:42:29",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "73,415 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 4,272 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 15:40:14",
+      "lat": "35.685",
+      "lng": "-118.55",
+      "size": "4,272 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "5"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 15:34:26",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "142,250 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
+      "name": "TwentyFive Mile",
+      "type": "Wildfire",
+      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-20 15:34:04",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "10,000 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "5"
+    },
+    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex was originally comprised of two fires: The...",
@@ -25,58 +129,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "55"
-    },
-    {
-      "name": "TwentyFive Mile",
-      "type": "Wildfire",
-      "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-20 15:29:56",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "10,000 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "5"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 4,272 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 15:27:00",
-      "lat": "35.685",
-      "lng": "-118.55",
-      "size": "4,272 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "5"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 15:19:05",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "142,250 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 20 at 9:30amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 15:18:56",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "700,630 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "35"
     },
     {
       "name": "Gatlin Gulch Fire",
@@ -167,19 +219,6 @@
       "size": "64,484 Acres",
       "url": "/incident/7775/",
       "id": "7775",
-      "contained": "0"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 14:18:58",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "73,415 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
       "contained": "0"
     },
     {
@@ -376,19 +415,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "26"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
-      "state": "OREGON",
-      "updated": "2021-08-20 12:51:32",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "6,264 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
     },
     {
       "name": "Bedrock Fire",
@@ -651,19 +677,6 @@
       "contained": "60"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
-      "state": "IDAHO",
-      "updated": "2021-08-20 11:00:01",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "330 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "30"
-    },
-    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "The McFarland Fire is currently mapped at 115,996 acres and is 52%...",
@@ -844,19 +857,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "29"
-    },
-    {
-      "name": "Skyline Ridge Complex",
-      "type": "Wildfire",
-      "summary": " A number of fires have been reported in the South Umpqua River...",
-      "state": "OREGON",
-      "updated": "2021-08-19 23:15:03",
-      "lat": "42.901",
-      "lng": "-123.111",
-      "size": "5,760 Acres",
-      "url": "/incident/7762/",
-      "id": "7762",
-      "contained": "95"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
