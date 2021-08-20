@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-20 16:15:07",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "4,343 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "30"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 16:14:30",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "142,250 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "10"
+    },
+    {
+      "name": "West Zone Superior Fires",
+      "type": "Wildfire",
+      "summary": "Superior NF Facebook  |  Superior NF WebpageThe West Zone of the...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-20 16:13:10",
+      "lat": "47.907",
+      "lng": "-91.831",
+      "size": "0 Acres",
+      "url": "/incident/7617/",
+      "id": "7617",
+      "contained": "0"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-20 16:06:33",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "4,734 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
+      "state": "IDAHO",
+      "updated": "2021-08-20 16:04:17",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "550 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "30"
+    },
+    {
       "name": "Skyline Ridge Complex",
       "type": "Wildfire",
       "summary": " A number of fires have been reported in the South Umpqua River...",
       "state": "OREGON",
-      "updated": "2021-08-20 15:45:15",
+      "updated": "2021-08-20 15:55:04",
       "lat": "42.901",
       "lng": "-123.111",
       "size": "5,760 Acres",
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "95"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 4,272 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 15:54:53",
+      "lat": "35.685",
+      "lng": "-118.55",
+      "size": "4,272 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "5"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 15:49:15",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "73,415 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-20 15:45:29",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "12,259 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "10"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -27,19 +131,6 @@
       "contained": "35"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
-      "state": "IDAHO",
-      "updated": "2021-08-20 15:43:26",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "550 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "30"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
@@ -53,45 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 15:42:29",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "73,415 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "0"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 4,272 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 15:40:14",
-      "lat": "35.685",
-      "lng": "-118.55",
-      "size": "4,272 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "5"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map  |  Daily Public info Map  |  Daily Update ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 15:34:26",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "142,250 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "10"
-    },
-    {
       "name": "TwentyFive Mile",
       "type": "Wildfire",
       "summary": "On Sunday afternoon a wildfire started 2 miles southwest of...",
@@ -103,19 +155,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "5"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-20 15:30:25",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "12,259 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "10"
     },
     {
       "name": "Scarface Fire",
@@ -220,19 +259,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "0"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-20 14:12:11",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "4,343 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "30"
     },
     {
       "name": "Nez Perce-Clearwater Lightning Fires",
@@ -612,19 +638,6 @@
       "contained": "82"
     },
     {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-20 11:25:54",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "4,734 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
-    },
-    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
@@ -1000,19 +1013,6 @@
       "url": "/incident/7776/",
       "id": "7776",
       "contained": "75"
-    },
-    {
-      "name": "West Zone Superior Fires",
-      "type": "Wildfire",
-      "summary": "Superior NF Facebook  |  Superior NF WebpageThe West Zone of the...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-19 11:13:46",
-      "lat": "47.907",
-      "lng": "-91.831",
-      "size": "0 Acres",
-      "url": "/incident/7617/",
-      "id": "7617",
-      "contained": "0"
     },
     {
       "name": "County Line",
