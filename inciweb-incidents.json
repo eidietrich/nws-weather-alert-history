@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-21 07:58:44",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,876 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "57"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-21 07:57:52",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,614 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "77"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-21 07:56:05",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,834 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "52"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-21 07:46:05",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "9,067 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
@@ -77,19 +129,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "3"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-20 23:04:28",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "8,215 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "Fox Complex",
@@ -300,32 +339,6 @@
       "contained": "10"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-20 21:21:51",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,834 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "52"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-20 21:16:20",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,614 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "77"
-    },
-    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "The McFarland Fire is currently mapped at 115,996 acres and is 52%...",
@@ -337,19 +350,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "52"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-20 21:06:53",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,876 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "57"
     },
     {
       "name": "Richard Spring",
