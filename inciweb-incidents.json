@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 21:26:43",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "75,845 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-20 21:21:51",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,834 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "52"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-20 21:16:20",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,614 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "77"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire is currently mapped at 115,996 acres and is 52%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-20 21:15:48",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "115,996 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "52"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-20 21:15:19",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "8,215 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-20 20:54:20",
+      "updated": "2021-08-20 21:09:26",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "80,400 Acres",
@@ -14,17 +79,17 @@
       "contained": "10"
     },
     {
-      "name": "Caldor Fire",
+      "name": "American Fork Fire",
       "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 20:53:58",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "75,845 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "0"
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-20 21:06:53",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,876 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "57"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -90,19 +155,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "55"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Superior National Forest  |  Lake County Emergency Management  | ...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-20 20:25:14",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "8,215 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "Monument Fire",
@@ -363,19 +415,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "15"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-20 17:26:39",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,834 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "49"
     },
     {
       "name": "Cougar Rock Complex",
@@ -729,32 +768,6 @@
       "contained": "49"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-20 11:41:56",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,614 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "77"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-20 11:41:02",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,876 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "57"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -818,19 +831,6 @@
       "url": "/incident/7706/",
       "id": "7706",
       "contained": "60"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 115,996 acres and is 52%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-20 10:40:23",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "115,996 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "52"
     },
     {
       "name": "Chickadee Creek",
