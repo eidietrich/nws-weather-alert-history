@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-21 14:10:38",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "5,087 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "5"
+    },
+    {
+      "name": "Mack Mountain",
+      "type": "Wildfire",
+      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-21 14:10:29",
+      "lat": "48.69",
+      "lng": "-118.359",
+      "size": "1,210 Acres",
+      "url": "/incident/7814/",
+      "id": "7814",
+      "contained": "0"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-21 14:10:11",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,320 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "3"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
+      "state": "IDAHO",
+      "updated": "2021-08-21 14:09:46",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "873 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "30"
+    },
+    {
+      "name": "John Elk Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF Webpage John Elk Fire: The...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-21 14:06:31",
+      "lat": "47.981",
+      "lng": "-91.016",
+      "size": "1,500 Acres",
+      "url": "/incident/7808/",
+      "id": "7808",
+      "contained": "0"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-21 14:04:45",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 21 at 9:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 14:01:40",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "714,219 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "36"
+    },
+    {
+      "name": "Fox Complex",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-21 13:52:16",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "8,304 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "41"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": "Lightning passed through the Naches Ranger District the evening of...",
@@ -40,19 +144,6 @@
       "contained": "16"
     },
     {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 13:24:17",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
-    },
-    {
       "name": "French Fire (CA)",
       "type": "Wildfire",
       "summary": "The French Fire has burned 11,295 acres of grass, brush and timber...",
@@ -63,32 +154,6 @@
       "size": "11,295 Acres",
       "url": "/incident/7813/",
       "id": "7813",
-      "contained": "5"
-    },
-    {
-      "name": "Mack Mountain",
-      "type": "Wildfire",
-      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 13:22:08",
-      "lat": "48.69",
-      "lng": "-118.359",
-      "size": "1,210 Acres",
-      "url": "/incident/7814/",
-      "id": "7814",
-      "contained": "0"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": " The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 13:19:25",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "5,087 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
       "contained": "5"
     },
     {
@@ -103,19 +168,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "10"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
-      "state": "IDAHO",
-      "updated": "2021-08-21 13:16:02",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "873 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "30"
     },
     {
       "name": "Antelope Fire",
@@ -222,19 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 21 at 9:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 12:19:04",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "714,219 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "36"
-    },
-    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "August 21, 2021  Firefighters and equipment continue to improve...",
@@ -285,19 +324,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "35"
-    },
-    {
-      "name": "Fox Complex",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-21 12:01:54",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "8,304 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "41"
     },
     {
       "name": "Greenwood Fire",
@@ -781,19 +807,6 @@
       "contained": "63"
     },
     {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-20 18:18:58",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,320 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
-    },
-    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex was originally comprised of two fires: The...",
@@ -896,19 +909,6 @@
       "url": "/incident/7618/",
       "id": "7618",
       "contained": "90"
-    },
-    {
-      "name": "John Elk Fire",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF Webpage John Elk Fire: The...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-20 13:26:34",
-      "lat": "47.981",
-      "lng": "-91.016",
-      "size": "3 Acres",
-      "url": "/incident/7808/",
-      "id": "7808",
-      "contained": "0"
     },
     {
       "name": "Whelp Fire",
