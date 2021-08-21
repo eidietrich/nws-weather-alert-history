@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 11,295 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 15:24:30",
+      "lat": "35.684",
+      "lng": "-118.55",
+      "size": "11,295 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "5"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 21 at 9:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 15:19:42",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "714,219 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "36"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-21 15:17:35",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "12,259 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "24"
+    },
+    {
       "name": "John Elk Fire",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF Webpage John Elk Fire:  The...",
       "state": "MINNESOTA",
-      "updated": "2021-08-21 15:14:55",
+      "updated": "2021-08-21 15:15:40",
       "lat": "47.981",
       "lng": "-91.016",
       "size": "1,500 Acres",
@@ -25,32 +64,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "30"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-21 15:13:11",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "12,259 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "24"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 11,295 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 15:12:12",
-      "lat": "35.684",
-      "lng": "-118.55",
-      "size": "11,295 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "5"
     },
     {
       "name": "Mud Lick Fire",
@@ -77,19 +90,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "10"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 21 at 9:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 14:34:53",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "714,219 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "36"
     },
     {
       "name": "Whelp Fire",
