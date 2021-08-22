@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-08-22 12:35:40",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,856 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "68"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-22 12:32:36",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "14,056 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "15"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Public Information Map | Progression Map | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-22 12:23:01",
+      "updated": "2021-08-22 12:29:55",
       "lat": "41.5",
       "lng": "-121.929",
       "size": "66,021 Acres",
@@ -14,17 +40,43 @@
       "contained": "30"
     },
     {
-      "name": "Alder Creek Fire",
+      "name": "Boundary Fire",
       "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-22 12:22:36",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "14,056 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "15"
+      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
+      "state": "IDAHO",
+      "updated": "2021-08-22 12:28:37",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "873 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "30"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "The Scarface Fire is 35 miles west of Challis in the Frank Church...",
+      "state": "IDAHO",
+      "updated": "2021-08-22 12:27:14",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "498 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "55"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Washington National Guard (WNG) is now mobilizing several hand...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-22 12:26:54",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,461 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "40"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -38,32 +90,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "37"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
-      "state": "IDAHO",
-      "updated": "2021-08-22 12:16:47",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "873 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "30"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "Today on the Summit Trail Fire, precipitation should drive fire...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-22 12:16:33",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,461 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "40"
     },
     {
       "name": "Chickadee Creek",
@@ -298,19 +324,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "10"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-08-22 11:31:48",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,856 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "68"
     },
     {
       "name": "McCash Fire",
@@ -820,19 +833,6 @@
       "contained": "30"
     },
     {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "The Scarface Fire is 35 miles west of Challis in the Frank Church...",
-      "state": "IDAHO",
-      "updated": "2021-08-21 12:39:59",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "498 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "55"
-    },
-    {
       "name": "Beckwourth  Complex",
       "type": "Wildfire",
       "summary": "",
@@ -844,19 +844,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "98"
-    },
-    {
-      "name": "Tango Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Tango Fire was reported the evening of July...",
-      "state": "IDAHO",
-      "updated": "2021-08-21 10:27:28",
-      "lat": "44.483",
-      "lng": "-114.873",
-      "size": "103 Acres",
-      "url": "/incident/7706/",
-      "id": "7706",
-      "contained": "60"
     },
     {
       "name": "Trestle Creek Complex",
