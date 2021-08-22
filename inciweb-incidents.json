@@ -1,6 +1,188 @@
 {
   "markers": [
     {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-21 19:53:24",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,123 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "30"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-21 19:49:38",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "9,067 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 19:48:49",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "145,357 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "16"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-21 19:47:33",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,319 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "3"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-21 19:46:25",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,066 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "29"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-21 19:45:07",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,522 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "51"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-21 19:35:01",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,184 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "3"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-21 19:34:40",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "4,861 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "11"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-21 19:33:18",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "15"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-21 19:21:48",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,614 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "77"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-21 19:20:49",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,882 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "52"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-08-21 19:14:14",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "15,081 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "9"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Progression Map | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 19:12:22",
+      "lat": "41.521",
+      "lng": "-121.919",
+      "size": "64,950 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "30"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-21 19:05:10",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,876 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "57"
+    },
+    {
       "name": "Pincer Creek Fire",
       "type": "Wildfire",
       "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
@@ -11,19 +193,6 @@
       "size": "850 Acres",
       "url": "/incident/7797/",
       "id": "7797",
-      "contained": "0"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video | Closure Area...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-21 18:32:20",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "9,067 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
       "contained": "0"
     },
     {
@@ -40,32 +209,6 @@
       "contained": "0"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-08-21 18:10:48",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "15,081 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "9"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Progression Map | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 17:57:45",
-      "lat": "41.521",
-      "lng": "-121.919",
-      "size": "64,950 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "30"
-    },
-    {
       "name": "Richard Spring",
       "type": "Wildfire",
       "summary": " At 6:00 am on August 12, Northern Rockies Team 3 took command of...",
@@ -77,32 +220,6 @@
       "url": "/incident/7794/",
       "id": "7794",
       "contained": "100"
-    },
-    {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 17:40:14",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "4,861 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "11"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 17:39:30",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,184 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "3"
     },
     {
       "name": "Mack Mountain",
@@ -209,19 +326,6 @@
       "contained": "5"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 16:27:27",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "145,357 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "16"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "Today on the Summit Trail Fire, precipitation should drive fire...",
@@ -300,19 +404,6 @@
       "contained": "10"
     },
     {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-21 14:29:39",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,320 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
-    },
-    {
       "name": "Fox Complex",
       "type": "Wildfire",
       "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
@@ -365,19 +456,6 @@
       "contained": "30"
     },
     {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 14:04:45",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "15"
-    },
-    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": "Lightning passed through the Naches Ranger District the evening of...",
@@ -415,32 +493,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "15"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 12:49:29",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,522 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "51"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-21 12:45:25",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,066 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "29"
     },
     {
       "name": "Scarface Fire",
@@ -545,45 +597,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "82"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 11:41:58",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,834 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "52"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 11:39:46",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,876 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "57"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 11:39:09",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,614 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "77"
     },
     {
       "name": "Walkers Fire",
@@ -818,19 +831,6 @@
       "url": "/incident/7691/",
       "id": "7691",
       "contained": "90"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-21 09:02:44",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "4,343 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "30"
     },
     {
       "name": "Sylvan Fire",
