@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-22 00:13:26",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,331 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "9"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-22 00:11:12",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "4,861 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "11"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
+      "state": "OREGON",
+      "updated": "2021-08-21 23:58:41",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "20,374 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "25"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Updated August 22 at 9:30pmThe Dixie Fire started on July 13th. The...",
@@ -38,19 +77,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "35"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
-      "state": "OREGON",
-      "updated": "2021-08-21 23:05:41",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "20,373 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "25"
     },
     {
       "name": "Middle Fork Complex",
@@ -467,32 +493,6 @@
       "url": "/incident/7724/",
       "id": "7724",
       "contained": "3"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 19:35:01",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,184 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "3"
-    },
-    {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 19:34:40",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "4,861 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "11"
     },
     {
       "name": "West Lolo Complex",
