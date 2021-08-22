@@ -1,6 +1,136 @@
 {
   "markers": [
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-22 08:45:23",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "85,257 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "August 21, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-22 08:44:15",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "55,137 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "70"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "August 21, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-22 08:41:07",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "13,004 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "30"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-22 08:37:58",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "22,244 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "76"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-22 08:34:28",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,882 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "52"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-22 08:32:19",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,876 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "57"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-22 08:30:24",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "64,484 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "3"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 22 at 9:30pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-22 08:29:55",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "721,298 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "37"
+    },
+    {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
+      "state": "OREGON",
+      "updated": "2021-08-22 08:28:36",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "22,212 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "3"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-22 08:27:36",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,768 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -14,19 +144,6 @@
       "contained": "15"
     },
     {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-22 08:19:41",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,882 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "52"
-    },
-    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
@@ -38,19 +155,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "77"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 22 at 9:30pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-22 08:11:10",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "717,308 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "36"
     },
     {
       "name": "West Lolo Complex",
@@ -183,32 +287,6 @@
       "contained": "5"
     },
     {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
-      "state": "OREGON",
-      "updated": "2021-08-21 22:56:06",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "20,785 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "3"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-21 22:55:57",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,764 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "51"
-    },
-    {
       "name": "Mack Mountain",
       "type": "Wildfire",
       "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
@@ -261,19 +339,6 @@
       "contained": "7"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 22:06:28",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "83,161 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
-    },
-    {
       "name": "Dixie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
@@ -285,19 +350,6 @@
       "url": "/incident/7811/",
       "id": "7811",
       "contained": "0"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-21 21:45:53",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "22,179 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "76"
     },
     {
       "name": "Pine Grove",
@@ -430,19 +482,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "August 21, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 20:53:43",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "55,137 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "70"
-    },
-    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "August 21, 2021:      |     Maps     |   ...",
@@ -495,19 +534,6 @@
       "contained": "100"
     },
     {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "August 21, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 20:11:53",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "13,004 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "30"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -545,19 +571,6 @@
       "url": "/incident/7724/",
       "id": "7724",
       "contained": "3"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 19:05:10",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,876 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "57"
     },
     {
       "name": "Pincer Creek Fire",
@@ -623,19 +636,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "30"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 13:39:41",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "64,484 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "0"
     },
     {
       "name": "Mannix Park",
