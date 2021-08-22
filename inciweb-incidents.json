@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-21 21:45:53",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "22,179 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "76"
+    },
+    {
+      "name": "Pine Grove",
+      "type": "Wildfire",
+      "summary": "The Department of Natural Resources and Conservation County Assist...",
+      "state": "MONTANA",
+      "updated": "2021-08-21 21:45:34",
+      "lat": "48.019",
+      "lng": "-108.651",
+      "size": "16,004 Acres",
+      "url": "/incident/7812/",
+      "id": "7812",
+      "contained": "28"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 11,295 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 21:44:57",
+      "lat": "35.684",
+      "lng": "-118.55",
+      "size": "12,037 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "5"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire is currently mapped at 116,423 acres and is 64%...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 21:39:47",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "116,423 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "64"
+    },
+    {
+      "name": "Dixie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 21:39:47",
+      "lat": "40.241",
+      "lng": "-120.897",
+      "size": "0 Acres",
+      "url": "/incident/7811/",
+      "id": "7811",
+      "contained": "0"
+    },
+    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "August 21, 2021  Firefighters and equipment continue to improve...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-21 21:24:44",
+      "updated": "2021-08-21 21:30:27",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "13,623 Acres",
@@ -404,19 +469,6 @@
       "contained": "74"
     },
     {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 11,295 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 16:34:55",
-      "lat": "35.684",
-      "lng": "-118.55",
-      "size": "11,295 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "5"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "Today on the Summit Trail Fire, precipitation should drive fire...",
@@ -560,19 +612,6 @@
       "contained": "55"
     },
     {
-      "name": "Dixie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 12:19:50",
-      "lat": "40.241",
-      "lng": "-120.897",
-      "size": "0 Acres",
-      "url": "/incident/7811/",
-      "id": "7811",
-      "contained": "0"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2nd, four...",
@@ -651,32 +690,6 @@
       "contained": "25"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire is currently mapped at 116,423 acres and is 64%...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 11:24:59",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "116,423 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "64"
-    },
-    {
-      "name": "Pine Grove",
-      "type": "Wildfire",
-      "summary": "The Department of Natural Resources and Conservation County Assist...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 11:21:49",
-      "lat": "48.019",
-      "lng": "-108.651",
-      "size": "17,325 Acres",
-      "url": "/incident/7812/",
-      "id": "7812",
-      "contained": "19"
-    },
-    {
       "name": "Bedrock Fire",
       "type": "Wildfire",
       "summary": "",
@@ -740,19 +753,6 @@
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "5"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-21 10:12:49",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "22,179 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "59"
     },
     {
       "name": "Windy Pass",
