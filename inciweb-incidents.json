@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "River Complex 2021",
+      "name": "Cold",
       "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "summary": "The Cold Fire was discovered on 8.14.2021 and is one of several fires...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-22 08:45:23",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "85,257 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
+      "updated": "2021-08-22 09:13:36",
+      "lat": "37.951",
+      "lng": "-119.409",
+      "size": "6 Acres",
+      "url": "/incident/7810/",
+      "id": "7810",
+      "contained": "10"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 12,037 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-22 09:11:53",
+      "lat": "35.684",
+      "lng": "-118.55",
+      "size": "13,341 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
       "contained": "10"
     },
     {
       "name": "Cedar Creek",
       "type": "Wildfire",
-      "summary": "August 21, 2021:      |     Maps     |   ...",
+      "summary": "August 22, 2021:      |     Maps     |   ...",
       "state": "WASHINGTON",
-      "updated": "2021-08-22 08:44:15",
+      "updated": "2021-08-22 09:10:17",
       "lat": "48.595",
       "lng": "-120.537",
       "size": "55,137 Acres",
@@ -27,17 +40,147 @@
       "contained": "70"
     },
     {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "August 22, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-22 09:10:06",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "70,154 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "70"
+    },
+    {
       "name": "Muckamuck",
       "type": "Wildfire",
-      "summary": "August 21, 2021:      |     Maps     |   ...",
+      "summary": "August 22, 2021:      |     Maps     |   ...",
       "state": "WASHINGTON",
-      "updated": "2021-08-22 08:41:07",
+      "updated": "2021-08-22 09:09:48",
       "lat": "48.576",
       "lng": "-119.832",
       "size": "13,004 Acres",
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "30"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 22 at 9:30pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-22 09:09:29",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "721,298 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "37"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-22 09:04:39",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,768 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-22 09:03:45",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,123 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "30"
+    },
+    {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
+      "state": "OREGON",
+      "updated": "2021-08-22 09:02:57",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "22,212 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "3"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
+      "state": "OREGON",
+      "updated": "2021-08-22 08:59:58",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "20,374 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "25"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-22 08:59:54",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,522 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "51"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-22 08:57:43",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "67,534 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "3"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-22 08:56:11",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "98,149 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "0"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-22 08:51:15",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "85,257 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
     },
     {
       "name": "Black Butte Fire",
@@ -77,58 +220,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "57"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-22 08:30:24",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "64,484 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "3"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 22 at 9:30pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-22 08:29:55",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "721,298 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "37"
-    },
-    {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
-      "state": "OREGON",
-      "updated": "2021-08-22 08:28:36",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "22,212 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "3"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-22 08:27:36",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,768 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "51"
     },
     {
       "name": "Alder Creek Fire",
@@ -222,19 +313,6 @@
       "contained": "11"
     },
     {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
-      "state": "OREGON",
-      "updated": "2021-08-21 23:58:41",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "20,374 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "25"
-    },
-    {
       "name": "Lick Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
@@ -272,19 +350,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "10"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 12,037 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 22:57:57",
-      "lat": "35.684",
-      "lng": "-118.55",
-      "size": "12,037 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "5"
     },
     {
       "name": "Mack Mountain",
@@ -391,19 +456,6 @@
       "contained": "0"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 21:23:05",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "90,107 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "0"
-    },
-    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex was originally comprised of two fires: The...",
@@ -443,19 +495,6 @@
       "contained": "82"
     },
     {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 21:02:42",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,522 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "51"
-    },
-    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
@@ -480,19 +519,6 @@
       "url": "/incident/7808/",
       "id": "7808",
       "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 21, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-21 20:46:50",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "70,154 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "70"
     },
     {
       "name": "Richard Spring",
@@ -532,19 +558,6 @@
       "url": "/incident/7483/",
       "id": "7483",
       "contained": "100"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-21 19:53:24",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,123 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "30"
     },
     {
       "name": "Greenwood Fire",
@@ -987,19 +1000,6 @@
       "url": "/incident/7660/",
       "id": "7660",
       "contained": "0"
-    },
-    {
-      "name": "Cold",
-      "type": "Wildfire",
-      "summary": "The Cold Fire was discovered on 8.14.2021 and is one of several fires...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-19 19:36:13",
-      "lat": "37.951",
-      "lng": "-119.409",
-      "size": "6 Acres",
-      "url": "/incident/7810/",
-      "id": "7810",
-      "contained": "10"
     },
     {
       "name": "Snake River Complex",
