@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-22 08:21:35",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "14,056 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "15"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-22 08:19:41",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,882 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "52"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-22 08:18:47",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,614 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "77"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Updated August 22 at 9:30pmThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-22 07:57:09",
+      "updated": "2021-08-22 08:11:10",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "717,308 Acres",
@@ -508,32 +547,6 @@
       "contained": "3"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 19:21:48",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,614 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "77"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 19:20:49",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,882 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "52"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -792,19 +805,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "26"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-21 09:59:42",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "14,056 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "15"
     },
     {
       "name": "French Fire",
