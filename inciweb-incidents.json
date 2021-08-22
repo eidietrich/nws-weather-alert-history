@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-21 23:21:17",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,235 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
+      "state": "OREGON",
+      "updated": "2021-08-21 23:05:41",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "20,373 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "25"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-08-21 23:00:11",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "15,169 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
+    },
+    {
       "name": "Lick Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
       "state": "OREGON",
-      "updated": "2021-08-21 22:46:16",
+      "updated": "2021-08-21 22:58:13",
       "lat": "46.262",
       "lng": "-117.416",
       "size": "80,421 Acres",
@@ -14,11 +53,50 @@
       "contained": "97"
     },
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 12,037 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-21 22:57:57",
+      "lat": "35.684",
+      "lng": "-118.55",
+      "size": "12,037 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "5"
+    },
+    {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
+      "state": "OREGON",
+      "updated": "2021-08-21 22:56:06",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "20,785 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "3"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-21 22:55:57",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,764 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-21 22:41:33",
+      "updated": "2021-08-21 22:51:24",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "145,357 Acres",
@@ -38,45 +116,6 @@
       "url": "/incident/7814/",
       "id": "7814",
       "contained": "0"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
-      "state": "OREGON",
-      "updated": "2021-08-21 22:41:14",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "20,242 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "25"
-    },
-    {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
-      "state": "OREGON",
-      "updated": "2021-08-21 22:40:51",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "20,785 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "3"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-21 22:35:53",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,764 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "51"
     },
     {
       "name": "Bulldog Mountain",
@@ -142,19 +181,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "10"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 12,037 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-21 21:50:15",
-      "lat": "35.684",
-      "lng": "-118.55",
-      "size": "12,037 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "5"
     },
     {
       "name": "Dixie Post-Fire BAER",
@@ -508,19 +534,6 @@
       "contained": "52"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-08-21 19:14:14",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "15,081 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "9"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -662,19 +675,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "0"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-21 12:08:49",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,235 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
     },
     {
       "name": "Walkers Fire",
