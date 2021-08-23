@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-22 23:30:51",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "148,213 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "16"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 13,816 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-22 23:30:22",
+      "lat": "35.684",
+      "lng": "-118.55",
+      "size": "13,816 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "10"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-22 23:16:42",
+      "updated": "2021-08-22 23:22:53",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "85,257 Acres",
@@ -40,19 +66,6 @@
       "contained": "41"
     },
     {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 13,816 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-22 23:05:22",
-      "lat": "35.684",
-      "lng": "-118.55",
-      "size": "13,816 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "10"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Updated August 22 at 7:30amThe Dixie Fire started on July 13th. The...",
@@ -64,19 +77,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "38"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-22 22:51:36",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "148,213 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "16"
     },
     {
       "name": "Fox Complex",
