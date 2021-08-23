@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-23 13:21:05",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,319 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "3"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "The Scarface Fire is 35 miles west of Challis in the Frank Church...",
+      "state": "IDAHO",
+      "updated": "2021-08-23 13:20:01",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "498 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "55"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 13:18:29",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "725,822 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "40"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-23 13:18:03",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,584 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "77"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Progression Map | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 13:15:09",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "66,912 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "30"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-23 13:12:38",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,882 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "54"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-23 13:05:57",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "22,348 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "85"
+    },
+    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": " Effective August 22, 2021, at 11:59 p.m. Forest Order No. 21-04...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-23 12:43:45",
+      "updated": "2021-08-23 13:03:41",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "18,143 Acres",
@@ -14,30 +105,69 @@
       "contained": "0"
     },
     {
+      "name": "Whelp Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-23 13:00:38",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "50 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
+    },
+    {
+      "name": "John Ek Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Elk Fire:  The...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-23 12:55:58",
+      "lat": "47.981",
+      "lng": "-91.016",
+      "size": "757 Acres",
+      "url": "/incident/7808/",
+      "id": "7808",
+      "contained": "0"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-23 12:52:10",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "5,173 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "25"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-23 12:47:47",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,351 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
       "state": "OREGON",
-      "updated": "2021-08-23 12:43:37",
+      "updated": "2021-08-23 12:47:47",
       "lat": "44.879",
       "lng": "-122.009",
       "size": "6,672 Acres",
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 12:39:16",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "725,822 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "40"
     },
     {
       "name": "West Lolo Complex",
@@ -79,19 +209,6 @@
       "contained": "5"
     },
     {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-23 12:33:30",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "5,173 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "25"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
@@ -103,32 +220,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "58"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Progression Map | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 12:25:54",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "66,912 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "30"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-23 12:25:14",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "22,348 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "85"
     },
     {
       "name": "Ford Corkscrew Fire",
@@ -220,19 +311,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "97"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-23 11:57:25",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,351 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
     },
     {
       "name": "Schneider Springs",
@@ -430,32 +508,6 @@
       "contained": "38"
     },
     {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-23 11:13:11",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,584 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "77"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-23 11:11:44",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,882 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "54"
-    },
-    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
@@ -480,19 +532,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "51"
-    },
-    {
-      "name": "John Ek Fire",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Elk Fire:  The...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-23 10:54:19",
-      "lat": "47.981",
-      "lng": "-91.016",
-      "size": "757 Acres",
-      "url": "/incident/7808/",
-      "id": "7808",
-      "contained": "0"
     },
     {
       "name": "Rough Patch Complex",
@@ -716,19 +755,6 @@
       "contained": "34"
     },
     {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-22 20:20:24",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,319 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "3"
-    },
-    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": " Sierra Front Incident Management Team 1 will be transferring...",
@@ -768,19 +794,6 @@
       "contained": "80"
     },
     {
-      "name": "Whelp Fire",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF Webpage This fire continues...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-22 13:01:31",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "50 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
-    },
-    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
@@ -792,19 +805,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "30"
-    },
-    {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "The Scarface Fire is 35 miles west of Challis in the Frank Church...",
-      "state": "IDAHO",
-      "updated": "2021-08-22 12:27:14",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "498 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "55"
     },
     {
       "name": "Bedrock Fire",
