@@ -1,6 +1,123 @@
 {
   "markers": [
     {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-23 12:33:30",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "5,173 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "25"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "Today’s objectives include reinforcement of the fire lines and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-23 12:33:15",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,461 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "41"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-23 12:32:47",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "6,672 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-08-23 12:31:39",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,856 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "58"
+    },
+    {
+      "name": "Mack Mountain",
+      "type": "Wildfire",
+      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-23 12:29:35",
+      "lat": "48.69",
+      "lng": "-118.359",
+      "size": "1,233 Acres",
+      "url": "/incident/7814/",
+      "id": "7814",
+      "contained": "5"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-23 12:26:38",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "80"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Progression Map | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 12:25:54",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "66,912 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "30"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-23 12:25:14",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "22,348 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "85"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 12:23:20",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "725,822 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "40"
+    },
+    {
       "name": "Ford Corkscrew Fire",
       "type": "Wildfire",
       "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
@@ -53,19 +170,6 @@
       "contained": "68"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Progression Map | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 12:10:26",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "66,912 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "30"
-    },
-    {
       "name": "French Fire (CA)",
       "type": "Wildfire",
       "summary": "The French Fire has burned 13,816 acres of grass, brush and timber...",
@@ -90,19 +194,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "15"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 12:06:21",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "725,822 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "40"
     },
     {
       "name": "Lick Creek Fire",
@@ -144,19 +235,6 @@
       "contained": "3"
     },
     {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-23 11:54:39",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "80"
-    },
-    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": " Effective August 22, 2021, at 11:59 p.m. Forest Order No. 21-04...",
@@ -181,19 +259,6 @@
       "url": "/incident/7809/",
       "id": "7809",
       "contained": "60"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-08-23 11:51:57",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,856 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "68"
     },
     {
       "name": "Dry Cabin",
@@ -547,19 +612,6 @@
       "contained": "15"
     },
     {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-23 09:35:29",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "6,672 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "",
@@ -625,32 +677,6 @@
       "contained": "29"
     },
     {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-23 07:47:55",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "22,348 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "85"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Washington National Guard (WNG) is now mobilizing several hand...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-22 23:06:25",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,461 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "41"
-    },
-    {
       "name": "Fox Complex",
       "type": "Wildfire",
       "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
@@ -688,32 +714,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "34"
-    },
-    {
-      "name": "Mack Mountain",
-      "type": "Wildfire",
-      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-22 21:23:30",
-      "lat": "48.69",
-      "lng": "-118.359",
-      "size": "1,210 Acres",
-      "url": "/incident/7814/",
-      "id": "7814",
-      "contained": "5"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-22 21:17:43",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "5,173 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "25"
     },
     {
       "name": "Storm Theatre Complex",
