@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": " Effective August 22, 2021, at 11:59 p.m. Forest Order No. 21-04...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 12:43:45",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "18,143 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "0"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-23 12:43:37",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "6,672 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 12:39:16",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "725,822 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "40"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-23 12:37:38",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "80"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "Today’s objectives include reinforcement of the fire lines and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-23 12:36:57",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,461 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "41"
+    },
+    {
+      "name": "Mack Mountain",
+      "type": "Wildfire",
+      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-23 12:34:38",
+      "lat": "48.69",
+      "lng": "-118.359",
+      "size": "1,233 Acres",
+      "url": "/incident/7814/",
+      "id": "7814",
+      "contained": "5"
+    },
+    {
       "name": "Bulldog Mountain",
       "type": "Wildfire",
       "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
@@ -14,32 +92,6 @@
       "contained": "25"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "Today’s objectives include reinforcement of the fire lines and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-23 12:33:15",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,461 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "41"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-23 12:32:47",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "6,672 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
@@ -51,32 +103,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "58"
-    },
-    {
-      "name": "Mack Mountain",
-      "type": "Wildfire",
-      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-23 12:29:35",
-      "lat": "48.69",
-      "lng": "-118.359",
-      "size": "1,233 Acres",
-      "url": "/incident/7814/",
-      "id": "7814",
-      "contained": "5"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-23 12:26:38",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "80"
     },
     {
       "name": "Antelope Fire",
@@ -103,19 +129,6 @@
       "url": "/incident/7770/",
       "id": "7770",
       "contained": "85"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 12:23:20",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "725,822 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "40"
     },
     {
       "name": "Ford Corkscrew Fire",
@@ -233,19 +246,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "3"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": " Effective August 22, 2021, at 11:59 p.m. Forest Order No. 21-04...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 11:53:57",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "18,143 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "0"
     },
     {
       "name": "Mannix Park",
