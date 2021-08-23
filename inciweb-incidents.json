@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
+      "state": "OREGON",
+      "updated": "2021-08-22 22:15:56",
+      "lat": "42.874",
+      "lng": "-122.87",
+      "size": "20,374 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "25"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-22 22:05:44",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,767 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-08-22 22:04:21",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "12,757 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "15"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "August 22, 2021:      |     Maps     |    ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-22 22:04:00",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "55,137 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "75"
+    },
+    {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
+      "state": "OREGON",
+      "updated": "2021-08-22 22:01:13",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "22,268 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "3"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 22 at 7:30amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-22 21:59:03",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "724,110 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "38"
+    },
+    {
+      "name": "Pine Grove",
+      "type": "Wildfire",
+      "summary": "The Department of Natural Resources and Conservation County Assist...",
+      "state": "MONTANA",
+      "updated": "2021-08-22 21:58:20",
+      "lat": "48.019",
+      "lng": "-108.651",
+      "size": "16,004 Acres",
+      "url": "/incident/7812/",
+      "id": "7812",
+      "contained": "58"
+    },
+    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "The McFarland Fire is currently mapped at 117,985 acres and is 66%...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-22 21:46:40",
+      "updated": "2021-08-22 21:49:41",
       "lat": "40.35",
       "lng": "-123.034",
       "size": "117,985 Acres",
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "66"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-22 21:47:43",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "12,259 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "34"
     },
     {
       "name": "Bull Complex ",
@@ -25,19 +129,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "0"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-22 21:45:35",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "12,259 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "34"
     },
     {
       "name": "Antelope Fire",
@@ -157,19 +248,6 @@
       "contained": "25"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 22 at 7:30amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-22 20:51:46",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "724,110 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "38"
-    },
-    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
@@ -285,19 +363,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "76"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "August 22, 2021:      |     Maps     |    ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-22 19:57:50",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "55,137 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "75"
     },
     {
       "name": "South Yaak",
@@ -625,45 +690,6 @@
       "contained": "38"
     },
     {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-08-22 11:06:36",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "12,757 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "15"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
-      "state": "OREGON",
-      "updated": "2021-08-22 11:04:37",
-      "lat": "42.874",
-      "lng": "-122.87",
-      "size": "20,374 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "25"
-    },
-    {
-      "name": "Pine Grove",
-      "type": "Wildfire",
-      "summary": "The Department of Natural Resources and Conservation County Assist...",
-      "state": "MONTANA",
-      "updated": "2021-08-22 10:53:38",
-      "lat": "48.019",
-      "lng": "-108.651",
-      "size": "16,004 Acres",
-      "url": "/incident/7812/",
-      "id": "7812",
-      "contained": "28"
-    },
-    {
       "name": "Black Butte Fire",
       "type": "Wildfire",
       "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
@@ -701,19 +727,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "Rough Patch Complex",
-      "type": "Wildfire",
-      "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
-      "state": "OREGON",
-      "updated": "2021-08-22 10:18:14",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "22,212 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "3"
     },
     {
       "name": "Nason Fire",
@@ -779,19 +792,6 @@
       "url": "/incident/7810/",
       "id": "7810",
       "contained": "10"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-22 09:04:39",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,768 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "51"
     },
     {
       "name": "Dixie Post-Fire BAER",
