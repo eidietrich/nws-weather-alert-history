@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning on July 29th near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 15:17:26",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "118,090 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "68"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 15:16:18",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "725,822 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "40"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-23 15:15:51",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "80"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": "Lightning passed through the Naches Ranger District the evening of...",
       "state": "WASHINGTON",
-      "updated": "2021-08-23 14:44:03",
+      "updated": "2021-08-23 15:11:21",
       "lat": "46.84",
       "lng": "-121.146",
       "size": "68,193 Acres",
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "3"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 15:08:51",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "19,707 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "0"
+    },
+    {
+      "name": "Mannix Park",
+      "type": "Wildfire",
+      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16, 2021....",
+      "state": "MONTANA",
+      "updated": "2021-08-23 15:00:17",
+      "lat": "46.69",
+      "lng": "-112.767",
+      "size": "35 Acres",
+      "url": "/incident/7809/",
+      "id": "7809",
+      "contained": "60"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-23 15:00:06",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "12,259 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "34"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
+      "state": "MONTANA",
+      "updated": "2021-08-23 14:52:16",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,882 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "54"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 14:51:44",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "150,011 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
     },
     {
       "name": "Jack Fire",
@@ -27,19 +131,6 @@
       "contained": "51"
     },
     {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-23 14:39:11",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "12,259 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "34"
-    },
-    {
       "name": "Pine Grove",
       "type": "Wildfire",
       "summary": "Monday Fire Update - 10:00 AM Today, firefighters will cold trail the...",
@@ -51,19 +142,6 @@
       "url": "/incident/7812/",
       "id": "7812",
       "contained": "58"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 14:29:14",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "19,707 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "0"
     },
     {
       "name": "Pincer Creek Fire",
@@ -79,45 +157,6 @@
       "contained": "0"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 14:16:59",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "150,011 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 14:13:58",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "725,822 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "40"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-23 14:08:15",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "80"
-    },
-    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "",
@@ -129,19 +168,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "5"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning on July 29th near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 14:03:32",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "118,090 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "68"
     },
     {
       "name": "Ford Corkscrew Fire",
@@ -259,19 +285,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "30"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-08-23 13:12:38",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,882 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "54"
     },
     {
       "name": "Black Butte Fire",
@@ -428,19 +441,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "97"
-    },
-    {
-      "name": "Mannix Park",
-      "type": "Wildfire",
-      "summary": "The Mannix Park Fire was detected around 3:00PM on August 16, 2021....",
-      "state": "MONTANA",
-      "updated": "2021-08-23 11:52:08",
-      "lat": "46.69",
-      "lng": "-112.767",
-      "size": "35 Acres",
-      "url": "/incident/7809/",
-      "id": "7809",
-      "contained": "60"
     },
     {
       "name": "Dry Cabin",
