@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 21:23:18",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "727,896 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "40"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 21:22:42",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "114,166 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "9"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-23 21:20:34",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "6,672 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning on July 29th near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 21:19:12",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "118,090 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "68"
+    },
+    {
+      "name": "Ford Corkscrew Fire",
+      "type": "Wildfire",
+      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-23 21:12:41",
+      "lat": "47.897",
+      "lng": "-117.81",
+      "size": "15,787 Acres",
+      "url": "/incident/7803/",
+      "id": "7803",
+      "contained": "56"
+    },
+    {
+      "name": "Lick Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-23 20:58:57",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "97"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 20:55:16",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "19,707 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "0"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
@@ -14,45 +105,6 @@
       "contained": "10"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 20:52:40",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "19,707 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 23 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 20:52:36",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "725,822 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "40"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 20:51:42",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "114,166 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "9"
-    },
-    {
       "name": "West Lolo Complex",
       "type": "Wildfire",
       "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
@@ -64,19 +116,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "80"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-23 20:48:05",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "6,672 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
     },
     {
       "name": "Christensen Fire ",
@@ -261,19 +300,6 @@
       "contained": "15"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning on July 29th near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 19:46:46",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "118,090 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "68"
-    },
-    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
@@ -456,19 +482,6 @@
       "contained": "29"
     },
     {
-      "name": "Lick Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-23 17:47:37",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "97"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -480,19 +493,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "35"
-    },
-    {
-      "name": "Ford Corkscrew Fire",
-      "type": "Wildfire",
-      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-23 17:31:26",
-      "lat": "47.897",
-      "lng": "-117.81",
-      "size": "15,787 Acres",
-      "url": "/incident/7803/",
-      "id": "7803",
-      "contained": "44"
     },
     {
       "name": "Nason Fire",
