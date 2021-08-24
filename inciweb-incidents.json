@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-24 15:31:51",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,802 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "51"
+    },
+    {
       "name": "Rough Patch Complex",
       "type": "Wildfire",
       "summary": "The Rough Patch Complex and Jack Fire are being managed under a full...",
       "state": "OREGON",
-      "updated": "2021-08-24 15:17:40",
+      "updated": "2021-08-24 15:30:01",
       "lat": "43.511",
       "lng": "-122.676",
       "size": "24,670 Acres",
@@ -14,11 +27,63 @@
       "contained": "3"
     },
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 15:29:30",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "152,125 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-24 15:24:20",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "22,434 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "85"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-24 15:22:30",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "12,259 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "40"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-08-24 15:20:33",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,041 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "90"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Updated August 24 at 8:00amThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-24 15:17:37",
+      "updated": "2021-08-24 15:19:33",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "731,310 Acres",
@@ -38,19 +103,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "37"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-24 15:16:42",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,041 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "90"
     },
     {
       "name": "Rice Bay",
@@ -77,19 +129,6 @@
       "url": "/incident/7806/",
       "id": "7806",
       "contained": "0"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-24 15:05:35",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "12,259 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "40"
     },
     {
       "name": "Boundary Fire",
@@ -339,19 +378,6 @@
       "contained": "0"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 12:42:52",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "152,125 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
-    },
-    {
       "name": "Steep Fire ",
       "type": "Wildfire",
       "summary": " The Steep Fire was detected on August 20 and is located within the...",
@@ -495,19 +521,6 @@
       "contained": "10"
     },
     {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-24 11:27:36",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "22,434 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "85"
-    },
-    {
       "name": "Chickadee Creek",
       "type": "Wildfire",
       "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
@@ -532,19 +545,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "3"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-24 11:09:39",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,802 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "51"
     },
     {
       "name": "Fox Complex",
