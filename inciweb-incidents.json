@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 24 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 13:32:59",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "731,310 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "41"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-24 13:31:41",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "5,173 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "33"
+    },
+    {
+      "name": "Storm Theatre Complex",
+      "type": "Wildfire",
+      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2021-08-24 13:30:24",
+      "lat": "46.555",
+      "lng": "-115.097",
+      "size": "22,319 Acres",
+      "url": "/incident/7724/",
+      "id": "7724",
+      "contained": "2"
+    },
+    {
+      "name": "Lick Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-24 13:26:23",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "97"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-24 13:24:26",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,422 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-08-24 13:21:33",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "16,030 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
+    },
+    {
       "name": "Mannix Park",
       "type": "Wildfire",
       "summary": "The Mannix Park Fire was detected around 3:00PM on August 16, 2021....",
@@ -25,19 +103,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "77"
-    },
-    {
-      "name": "Lick Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-24 13:12:50",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "97"
     },
     {
       "name": "Woods Creek Fire",
@@ -66,19 +131,6 @@
       "contained": "3"
     },
     {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-24 13:10:20",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,422 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
-    },
-    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex was originally comprised of two fires: The...",
@@ -90,19 +142,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "40"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 24 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 13:01:39",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "731,310 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "41"
     },
     {
       "name": "Petit Fire",
@@ -155,19 +194,6 @@
       "url": "/incident/7808/",
       "id": "7808",
       "contained": "0"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-08-24 12:48:55",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "16,030 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
     },
     {
       "name": "Monument Fire",
@@ -272,19 +298,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "80"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-24 12:02:13",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "5,173 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "33"
     },
     {
       "name": "McCash Fire",
@@ -740,19 +753,6 @@
       "url": "/incident/7749/",
       "id": "7749",
       "contained": "70"
-    },
-    {
-      "name": "Storm Theatre Complex",
-      "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2021-08-23 19:09:00",
-      "lat": "46.555",
-      "lng": "-115.097",
-      "size": "22,319 Acres",
-      "url": "/incident/7724/",
-      "id": "7724",
-      "contained": "2"
     },
     {
       "name": "Nez Perce-Clearwater Lightning Fires",
