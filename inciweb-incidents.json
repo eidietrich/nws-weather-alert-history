@@ -1,30 +1,69 @@
 {
   "markers": [
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 16:43:52",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "152,125 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Updated August 24 at 8:00amThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-24 16:37:44",
+      "updated": "2021-08-24 17:13:43",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "731,310 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "41"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-24 17:11:37",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "5,160 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "0"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-24 17:09:59",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,371 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "72"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
+      "state": "IDAHO",
+      "updated": "2021-08-24 17:03:05",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "6,180 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "15"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 17:00:00",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "152,125 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
     },
     {
       "name": "Character Complex",
@@ -38,19 +77,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "40"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
-      "state": "IDAHO",
-      "updated": "2021-08-24 16:32:37",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "6,180 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "15"
     },
     {
       "name": "Schneider Springs",
@@ -547,19 +573,6 @@
       "contained": "10"
     },
     {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-24 11:21:52",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "5,160 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "0"
-    },
-    {
       "name": "Fox Complex",
       "type": "Wildfire",
       "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
@@ -740,19 +753,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "28"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-24 09:52:30",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,371 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "72"
     },
     {
       "name": "American Fork Fire",
