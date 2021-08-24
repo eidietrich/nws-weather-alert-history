@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 15,173 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 22:43:10",
+      "lat": "35.684",
+      "lng": "-118.55",
+      "size": "15,173 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "15"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-23 22:42:20",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "6,672 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-08-23 22:41:21",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "22,368 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "85"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "August 23, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-23 22:32:50",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "13,119 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "40"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-23 22:32:03",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "86,529 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
@@ -53,32 +118,6 @@
       "contained": "41"
     },
     {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 15,173 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 22:18:37",
-      "lat": "35.684",
-      "lng": "-118.55",
-      "size": "15,173 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "15"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-23 22:11:10",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "6,672 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Updated August 23 at 8:00pmThe Dixie Fire started on July 13th. The...",
@@ -129,19 +168,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "35"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 21:45:03",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "86,529 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
     },
     {
       "name": "Haystack Fire",
@@ -456,19 +482,6 @@
       "contained": "70"
     },
     {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "August 23, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-23 20:17:58",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "13,119 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "40"
-    },
-    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
@@ -675,19 +688,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "55"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-08-23 13:05:57",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "22,348 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "85"
     },
     {
       "name": "Whelp Fire",
