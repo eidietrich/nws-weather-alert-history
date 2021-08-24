@@ -1,37 +1,63 @@
 {
   "markers": [
     {
-      "name": "Alder Creek Fire",
+      "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-24 17:45:41",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "14,066 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "15"
+      "summary": " Updated August 24 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 18:15:38",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "731,310 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "41"
     },
     {
-      "name": "Christensen Fire ",
+      "name": "West Lolo Complex",
       "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
       "state": "MONTANA",
-      "updated": "2021-08-24 17:44:33",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "11,089 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "15"
+      "updated": "2021-08-24 18:10:24",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "80"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-24 18:05:20",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "6,969 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-24 18:00:34",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "68,193 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "3"
     },
     {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
       "state": "MONTANA",
-      "updated": "2021-08-24 17:42:54",
+      "updated": "2021-08-24 17:49:55",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "39,243 Acres",
@@ -40,17 +66,56 @@
       "contained": "26"
     },
     {
-      "name": "Bull Complex ",
+      "name": "Christensen Fire ",
       "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-24 17:41:18",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "6,969 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-24 17:49:18",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "11,089 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "15"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-24 17:48:30",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "14,066 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "15"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-24 17:47:58",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "29"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "Members of the Washington National Guard will be integrating into...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-24 17:47:23",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,554 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "42"
     },
     {
       "name": "Monument Fire",
@@ -64,19 +129,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "20"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-24 17:34:39",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "68,193 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "3"
     },
     {
       "name": "Devil's Knob Complex",
@@ -103,19 +155,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 24 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 17:13:43",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "731,310 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "41"
     },
     {
       "name": "South Yaak",
@@ -521,19 +560,6 @@
       "contained": "0"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "Members of the Washington National Guard will be integrating into...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-24 12:25:09",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,554 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "42"
-    },
-    {
       "name": "Fourtown Lake ",
       "type": "Wildfire",
       "summary": "The Fourtown Lake Fire was first detected on July 25 approximately 12...",
@@ -558,19 +584,6 @@
       "url": "/incident/7815/",
       "id": "7815",
       "contained": "0"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-24 12:10:03",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "80"
     },
     {
       "name": "McCash Fire",
@@ -740,19 +753,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "90"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-24 09:56:52",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,123 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "28"
     },
     {
       "name": "American Fork Fire",
