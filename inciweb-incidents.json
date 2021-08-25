@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 17:32:43",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "152,125 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
       "state": "OREGON",
-      "updated": "2021-08-25 17:32:38",
+      "updated": "2021-08-25 17:35:36",
       "lat": "44.879",
       "lng": "-122.009",
       "size": "7,464 Acres",
@@ -31,13 +18,26 @@
       "type": "Wildfire",
       "summary": " Updated August 25 at 7:00amThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-25 17:32:28",
+      "updated": "2021-08-25 17:33:36",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "735,064 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "45"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-25 17:32:43",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "152,125 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
     },
     {
       "name": "Hay Creek",
@@ -2352,19 +2352,6 @@
       "url": "/incident/7489/",
       "id": "7489",
       "contained": "100"
-    },
-    {
-      "name": "Cuervito Fire",
-      "type": "Wildfire",
-      "summary": "Quiet Day on Cuervito Fire on SFNF SANTA FE, NM – May 19, 2021 –...",
-      "state": "NEW MEXICO",
-      "updated": "2021-05-27 17:34:34",
-      "lat": "35.534",
-      "lng": "-105.501",
-      "size": "1,621 Acres",
-      "url": "/incident/7478/",
-      "id": "7478",
-      "contained": "0"
     }
   ]
 }
