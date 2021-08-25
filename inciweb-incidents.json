@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-25 15:15:46",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "7,464 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 25 at 7:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-25 15:08:43",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "735,064 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "45"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-25 14:58:38",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "14,108 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "15"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-25 14:54:15",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "11,109 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "15"
+    },
+    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
@@ -40,32 +92,6 @@
       "contained": "0"
     },
     {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-25 14:35:12",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "7,464 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 25 at 7:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 14:30:59",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "735,064 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "45"
-    },
-    {
       "name": "Storm Theatre Complex",
       "type": "Wildfire",
       "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
@@ -77,19 +103,6 @@
       "url": "/incident/7724/",
       "id": "7724",
       "contained": "2"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-25 14:25:43",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "14,108 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "15"
     },
     {
       "name": "Second Creek ",
@@ -779,19 +792,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "24"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-25 09:03:28",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "11,109 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "15"
     },
     {
       "name": "Granite Pass Complex",
