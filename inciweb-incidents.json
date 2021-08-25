@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-25 08:45:40",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "14,066 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "15"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-25 08:42:23",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,066 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "29"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-25 08:41:51",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "7,464 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 19,502 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-25 08:39:13",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "20,678 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "19"
+    },
+    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
       "state": "IDAHO",
-      "updated": "2021-08-25 08:24:03",
+      "updated": "2021-08-25 08:38:32",
       "lat": "47.128",
       "lng": "-115.354",
       "size": "12,757 Acres",
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "40"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-25 08:37:51",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "5,199 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "12"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-25 08:36:48",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,412 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "18"
     },
     {
       "name": "Dry Cabin",
@@ -103,19 +181,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "97"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-24 23:11:27",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "6,969 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
     },
     {
       "name": "Middle Fork Complex",
@@ -287,19 +352,6 @@
       "contained": "3"
     },
     {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-24 21:40:16",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,066 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "29"
-    },
-    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
@@ -311,19 +363,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "0"
-    },
-    {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-24 21:30:40",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "5,160 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "12"
     },
     {
       "name": "South Yaak",
@@ -363,19 +402,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "11"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-24 21:19:39",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,423 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "18"
     },
     {
       "name": "McFarland Fire",
@@ -428,19 +454,6 @@
       "url": "/incident/7808/",
       "id": "7808",
       "contained": "0"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 19,502 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 20:51:43",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "19,502 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "19"
     },
     {
       "name": "Cedar Creek",
@@ -570,19 +583,6 @@
       "size": "11,089 Acres",
       "url": "/incident/7702/",
       "id": "7702",
-      "contained": "15"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-24 17:48:30",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "14,066 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
       "contained": "15"
     },
     {
