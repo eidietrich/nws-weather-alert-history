@@ -1,11 +1,154 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Updated August 24 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 21:25:36",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "733,475 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "43"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 21:24:48",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "87,803 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "10"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 21:22:01",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "122,980 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "11"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-24 21:20:18",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,371 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "72"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-24 21:19:39",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,423 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "18"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning on July 29th near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-24 21:17:58",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "118,624 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "71"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-24 21:12:53",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,876 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "58"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-24 21:10:51",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,066 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "29"
+    },
+    {
+      "name": "Whelp Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-24 21:10:30",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "50 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
+      "state": "OREGON",
+      "updated": "2021-08-24 21:09:09",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "25,136 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "25"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-08-24 21:03:00",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "16,030 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
+    },
+    {
       "name": "John Ek Fire",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Ek Fire:  The...",
       "state": "MINNESOTA",
-      "updated": "2021-08-24 20:55:54",
+      "updated": "2021-08-24 20:59:50",
       "lat": "47.981",
       "lng": "-91.016",
       "size": "1,563 Acres",
@@ -25,19 +168,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "8"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 20:52:38",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "87,803 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "10"
     },
     {
       "name": "French Fire (CA)",
@@ -66,19 +196,6 @@
       "contained": "80"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Updated August 24 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 20:39:30",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "731,310 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "41"
-    },
-    {
       "name": "Black Butte Fire",
       "type": "Wildfire",
       "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
@@ -103,32 +220,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "20"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-24 20:20:15",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,423 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "10"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 20:13:39",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "122,980 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "11"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -209,19 +300,6 @@
       "contained": "40"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-24 19:28:05",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,876 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "58"
-    },
-    {
       "name": "French Fire",
       "type": "Wildfire",
       "summary": "This will be the last update on Inciweb for the French Fire unless...",
@@ -233,19 +311,6 @@
       "url": "/incident/7800/",
       "id": "7800",
       "contained": "100"
-    },
-    {
-      "name": "Whelp Fire",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-24 18:46:25",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "50 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
     },
     {
       "name": "Storm Theatre Complex",
@@ -365,19 +430,6 @@
       "contained": "42"
     },
     {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex is a group of lightning-caused fires with...",
-      "state": "OREGON",
-      "updated": "2021-08-24 17:34:20",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "24,662 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "25"
-    },
-    {
       "name": "Chickadee Creek",
       "type": "Wildfire",
       "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
@@ -389,19 +441,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "0"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-24 17:09:59",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,371 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "72"
     },
     {
       "name": "Trestle Creek Complex",
@@ -612,19 +651,6 @@
       "contained": "35"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-08-24 13:21:33",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "16,030 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
-    },
-    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
@@ -755,19 +781,6 @@
       "contained": "40"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning on July 29th near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-24 10:09:42",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "118,624 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "71"
-    },
-    {
       "name": "Robertson Draw",
       "type": "Wildfire",
       "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
@@ -779,19 +792,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "90"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-24 09:05:14",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,066 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "29"
     },
     {
       "name": "Stateline Complex",
