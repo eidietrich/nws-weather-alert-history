@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Gabi Fire",
+      "type": "Wildfire",
+      "summary": "The Gabi Fire is located west of Gabimichigami Lake within the...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-25 17:12:10",
+      "lat": "48.056",
+      "lng": "-91.055",
+      "size": "1 Acres",
+      "url": "/incident/7818/",
+      "id": "7818",
+      "contained": "0"
+    },
+    {
+      "name": "Petit Fire",
+      "type": "Wildfire",
+      "summary": " The Petit Fire is located 1 mile north of Crescent Lake within the...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-25 17:07:51",
+      "lat": "47.854",
+      "lng": "-90.777",
+      "size": "1 Acres",
+      "url": "/incident/7817/",
+      "id": "7817",
+      "contained": "0"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "Daily Updates |Daily Map   | ...",
+      "state": "MONTANA",
+      "updated": "2021-08-25 17:05:40",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,894 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "60"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-25 16:55:04",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "88,721 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "19"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Updated August 25 at 7:00amThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-25 16:43:06",
+      "updated": "2021-08-25 16:54:24",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "735,064 Acres",
@@ -14,17 +66,17 @@
       "contained": "45"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 16:22:15",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "88,721 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "19"
+      "name": "Animas City Mountain Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
+      "state": "COLORADO",
+      "updated": "2021-08-25 16:46:07",
+      "lat": "37.323",
+      "lng": "-107.872",
+      "size": "0 Acres",
+      "url": "/incident/7688/",
+      "id": "7688",
+      "contained": "0"
     },
     {
       "name": "Devil's Knob Complex",
@@ -324,32 +376,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "61"
-    },
-    {
-      "name": "Gabi Fire",
-      "type": "Wildfire",
-      "summary": "The Gabi Fire is located west of Gabimichigami Lake within the...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-25 12:43:07",
-      "lat": "48.056",
-      "lng": "-91.055",
-      "size": "1 Acres",
-      "url": "/incident/7818/",
-      "id": "7818",
-      "contained": "0"
-    },
-    {
-      "name": "Petit Fire",
-      "type": "Wildfire",
-      "summary": " The Petit Fire is located 1 mile north of Crescent Lake within the...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-25 12:41:00",
-      "lat": "47.854",
-      "lng": "-90.777",
-      "size": "1 Acres",
-      "url": "/incident/7817/",
-      "id": "7817",
-      "contained": "0"
     },
     {
       "name": "Fox Complex",
@@ -1210,19 +1236,6 @@
       "contained": "90"
     },
     {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "Daily Updates |Daily Map   | ...",
-      "state": "MONTANA",
-      "updated": "2021-08-20 12:25:15",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,894 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "60"
-    },
-    {
       "name": "Snake River Complex",
       "type": "Wildfire",
       "summary": "This is the final update for the Snake River Complex.The Snake River...",
@@ -1793,19 +1806,6 @@
       "url": "/incident/7639/",
       "id": "7639",
       "contained": "100"
-    },
-    {
-      "name": "Animas City Mountain Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
-      "state": "COLORADO",
-      "updated": "2021-07-26 17:03:24",
-      "lat": "37.323",
-      "lng": "-107.872",
-      "size": "0 Acres",
-      "url": "/incident/7688/",
-      "id": "7688",
-      "contained": "0"
     },
     {
       "name": "Glacier Fire",
