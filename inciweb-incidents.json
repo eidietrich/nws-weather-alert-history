@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": " Current Situation: The South Fire started at approximately 1:36...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-25 22:44:51",
+      "lat": "34.176",
+      "lng": "-117.448",
+      "size": "500 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "0"
+    },
+    {
+      "name": "Mack Mountain",
+      "type": "Wildfire",
+      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-25 22:41:36",
+      "lat": "48.69",
+      "lng": "-118.359",
+      "size": "1,233 Acres",
+      "url": "/incident/7814/",
+      "id": "7814",
+      "contained": "18"
+    },
+    {
+      "name": "Bulldog Mountain",
+      "type": "Wildfire",
+      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-25 22:36:47",
+      "lat": "48.791",
+      "lng": "-118.271",
+      "size": "5,173 Acres",
+      "url": "/incident/7785/",
+      "id": "7785",
+      "contained": "40"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
@@ -116,19 +155,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "61"
-    },
-    {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": " Current Situation: The South Fire started at approximately 1:36...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 21:49:22",
-      "lat": "34.176",
-      "lng": "-117.448",
-      "size": "500 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
-      "contained": "0"
     },
     {
       "name": "Chickadee Creek",
@@ -571,32 +597,6 @@
       "url": "/incident/7816/",
       "id": "7816",
       "contained": "0"
-    },
-    {
-      "name": "Mack Mountain",
-      "type": "Wildfire",
-      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-25 13:50:15",
-      "lat": "48.69",
-      "lng": "-118.359",
-      "size": "1,233 Acres",
-      "url": "/incident/7814/",
-      "id": "7814",
-      "contained": "15"
-    },
-    {
-      "name": "Bulldog Mountain",
-      "type": "Wildfire",
-      "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-25 13:40:39",
-      "lat": "48.791",
-      "lng": "-118.271",
-      "size": "5,173 Acres",
-      "url": "/incident/7785/",
-      "id": "7785",
-      "contained": "36"
     },
     {
       "name": "Rice Bay",
