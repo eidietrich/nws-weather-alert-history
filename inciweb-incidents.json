@@ -1,24 +1,24 @@
 {
   "markers": [
     {
-      "name": "Rough Patch Complex",
+      "name": "Pincer Creek Fire",
       "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-26 10:16:57",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "25,741 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "8"
+      "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 10:33:59",
+      "lat": "48.458",
+      "lng": "-121.127",
+      "size": "865 Acres",
+      "url": "/incident/7797/",
+      "id": "7797",
+      "contained": "0"
     },
     {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
       "state": "MONTANA",
-      "updated": "2021-08-26 10:15:33",
+      "updated": "2021-08-26 10:33:52",
       "lat": "46.165",
       "lng": "-110.248",
       "size": "21,876 Acres",
@@ -27,17 +27,134 @@
       "contained": "64"
     },
     {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 10:33:33",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,554 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "44"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 10:33:14",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "70,897 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "41"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-26 10:32:06",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "25,991 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 26 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 10:30:53",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "747,091 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "45"
+    },
+    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
       "state": "MONTANA",
-      "updated": "2021-08-26 10:15:32",
+      "updated": "2021-08-26 10:30:25",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "39,264 Acres",
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "58"
+    },
+    {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 10:30:07",
+      "lat": "34.176",
+      "lng": "-117.448",
+      "size": "700 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "0"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-26 10:28:46",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "14,108 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "24"
+    },
+    {
+      "name": "Rough Patch Complex",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-26 10:27:44",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "25,741 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "8"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 10:24:58",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "73,403 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 10:24:07",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "23,360 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "0"
     },
     {
       "name": "Christensen Fire ",
@@ -66,19 +183,6 @@
       "contained": "53"
     },
     {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-26 10:14:27",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "14,108 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "24"
-    },
-    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Boundary Fire 24 miles NW of Stanley was...",
@@ -105,19 +209,6 @@
       "contained": "55"
     },
     {
-      "name": "Pincer Creek Fire",
-      "type": "Wildfire",
-      "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 10:12:52",
-      "lat": "48.458",
-      "lng": "-121.127",
-      "size": "865 Acres",
-      "url": "/incident/7797/",
-      "id": "7797",
-      "contained": "0"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
@@ -142,19 +233,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "68"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 26 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 10:10:11",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "747,091 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "45"
     },
     {
       "name": "Burnt Peak Fire",
@@ -207,19 +285,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "25"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 10:00:45",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "73,403 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
     },
     {
       "name": "Caldor Fire",
@@ -313,19 +378,6 @@
       "contained": "80"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 09:37:07",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "70,897 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "41"
-    },
-    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "The McFarland Fire was started by lightning on July 29th near...",
@@ -404,19 +456,6 @@
       "contained": "80"
     },
     {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-26 09:17:08",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "21,720 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
-    },
-    {
       "name": "TwentyFive Mile",
       "type": "Wildfire",
       "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
@@ -482,19 +521,6 @@
       "contained": "0"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 08:22:22",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "23,360 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "0"
-    },
-    {
       "name": "Lick Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
@@ -519,19 +545,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "35"
-    },
-    {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 00:22:06",
-      "lat": "34.176",
-      "lng": "-117.448",
-      "size": "500 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
-      "contained": "0"
     },
     {
       "name": "Fox Complex",
@@ -844,19 +857,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "40"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "Northwest Incident Management Team 7 will take command of the Summit...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-25 12:57:13",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,554 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "43"
     },
     {
       "name": "Tamarack Fire",
