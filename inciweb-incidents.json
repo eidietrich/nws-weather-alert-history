@@ -1,11 +1,154 @@
 {
   "markers": [
     {
+      "name": "Vinegar Fire",
+      "type": "Wildfire",
+      "summary": "The Vinegar Fire started approximately 2 miles north of the Cabin...",
+      "state": "IDAHO",
+      "updated": "2021-08-26 12:35:00",
+      "lat": "45.179",
+      "lng": "-114.905",
+      "size": "2,997 Acres",
+      "url": "/incident/7709/",
+      "id": "7709",
+      "contained": "0"
+    },
+    {
+      "name": "Club Fire",
+      "type": "Wildfire",
+      "summary": "The Club Fire started 3 miles southwest of Root Ranch. Crews have...",
+      "state": "IDAHO",
+      "updated": "2021-08-26 12:34:09",
+      "lat": "45.28",
+      "lng": "-115.055",
+      "size": "375 Acres",
+      "url": "/incident/7704/",
+      "id": "7704",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 26 at 8:00amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 12:32:15",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "747,091 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "45"
+    },
+    {
+      "name": "Walkers Fire",
+      "type": "Wildfire",
+      "summary": "The Walkers Fire grew northeast into the Camelback Ridge area in the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 12:27:31",
+      "lat": "36.268",
+      "lng": "-118.55",
+      "size": "4,984 Acres",
+      "url": "/incident/7807/",
+      "id": "7807",
+      "contained": "40"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 12:24:53",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "157,287 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
+    },
+    {
+      "name": "2021 Payette Wilderness Fires",
+      "type": "Wildfire",
+      "summary": "Four fires are burning in the Frank Church River of No Return...",
+      "state": "IDAHO",
+      "updated": "2021-08-26 12:22:48",
+      "lat": "45",
+      "lng": "-115",
+      "size": "0 Acres",
+      "url": "/incident/7700/",
+      "id": "7700",
+      "contained": "0"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 12:21:38",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "70,897 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "41"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 12:13:48",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "136,643 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "12"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "August 26, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 12:12:36",
+      "lat": "48.595",
+      "lng": "-120.537",
+      "size": "55,187 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "80"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "August 26, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 12:12:00",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "70,186 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "70"
+    },
+    {
+      "name": "Hay Creek",
+      "type": "Wildfire",
+      "summary": "August 26, 2021 Update: This page will not be updated further unless...",
+      "state": "MONTANA",
+      "updated": "2021-08-26 12:07:31",
+      "lat": "48.778",
+      "lng": "-114.431",
+      "size": "2,894 Acres",
+      "url": "/incident/7712/",
+      "id": "7712",
+      "contained": "60"
+    },
+    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
       "state": "IDAHO",
-      "updated": "2021-08-26 12:03:42",
+      "updated": "2021-08-26 12:04:08",
       "lat": "44.532",
       "lng": "-115.329",
       "size": "989 Acres",
@@ -53,32 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 26 at 8:00amThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 11:59:14",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "747,091 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "45"
-    },
-    {
-      "name": "Hay Creek",
-      "type": "Wildfire",
-      "summary": "August 26, 2021 Update: This page will not be updated further unless...",
-      "state": "MONTANA",
-      "updated": "2021-08-26 11:58:05",
-      "lat": "48.778",
-      "lng": "-114.431",
-      "size": "2,894 Acres",
-      "url": "/incident/7712/",
-      "id": "7712",
-      "contained": "60"
-    },
-    {
       "name": "South Fire",
       "type": "Wildfire",
       "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
@@ -90,19 +207,6 @@
       "url": "/incident/7822/",
       "id": "7822",
       "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 25, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 11:54:21",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "70,186 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "70"
     },
     {
       "name": "Black Butte Fire",
@@ -194,19 +298,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "61"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "August 25, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 11:42:36",
-      "lat": "48.595",
-      "lng": "-120.537",
-      "size": "55,187 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "80"
     },
     {
       "name": "Schneider Springs",
@@ -365,19 +456,6 @@
       "contained": "58"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 10:46:15",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "70,897 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "41"
-    },
-    {
       "name": "Fox Complex",
       "type": "Wildfire",
       "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
@@ -389,19 +467,6 @@
       "url": "/incident/7798/",
       "id": "7798",
       "contained": "80"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 10:44:10",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "157,287 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
     },
     {
       "name": "Greenwood Fire",
@@ -519,19 +584,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "0"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 09:59:46",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "136,643 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "12"
     },
     {
       "name": "County Line",
@@ -859,19 +911,6 @@
       "contained": "0"
     },
     {
-      "name": "Walkers Fire",
-      "type": "Wildfire",
-      "summary": "Winds from the south pushed the Walkers Fire northeast into the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 13:08:03",
-      "lat": "36.268",
-      "lng": "-118.55",
-      "size": "4,448 Acres",
-      "url": "/incident/7807/",
-      "id": "7807",
-      "contained": "40"
-    },
-    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": " Sierra Front Incident Management Team 1 will be transferring...",
@@ -1052,45 +1091,6 @@
       "url": "/incident/7749/",
       "id": "7749",
       "contained": "70"
-    },
-    {
-      "name": "2021 Payette Wilderness Fires",
-      "type": "Wildfire",
-      "summary": "Four fires are burning in the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2021-08-23 11:25:37",
-      "lat": "45",
-      "lng": "-115",
-      "size": "0 Acres",
-      "url": "/incident/7700/",
-      "id": "7700",
-      "contained": "0"
-    },
-    {
-      "name": "Club Fire",
-      "type": "Wildfire",
-      "summary": "The Club Fire started 3 miles southwest of Root Ranch. Crews have...",
-      "state": "IDAHO",
-      "updated": "2021-08-23 11:24:24",
-      "lat": "45.28",
-      "lng": "-115.055",
-      "size": "395 Acres",
-      "url": "/incident/7704/",
-      "id": "7704",
-      "contained": "0"
-    },
-    {
-      "name": "Vinegar Fire",
-      "type": "Wildfire",
-      "summary": "The Vinegar Fire started approximately 2 miles north of the Cabin...",
-      "state": "IDAHO",
-      "updated": "2021-08-23 11:23:22",
-      "lat": "45.179",
-      "lng": "-114.905",
-      "size": "2,462 Acres",
-      "url": "/incident/7709/",
-      "id": "7709",
-      "contained": "0"
     },
     {
       "name": "Beckwourth  Complex",
