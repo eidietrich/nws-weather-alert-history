@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": " Current Situation: The South Fire started at...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-25 21:46:55",
+      "lat": "34.176",
+      "lng": "-117.448",
+      "size": "500 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "0"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": " Updated August 25 at 7:00amThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-25 21:23:49",
+      "updated": "2021-08-25 21:41:13",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "742,724 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "45"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-25 21:33:31",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "5,199 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "12"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-25 21:30:28",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,876 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "64"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-25 21:27:05",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "153,344 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
+    },
+    {
+      "name": "West Lolo Complex",
+      "type": "Wildfire",
+      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
+      "state": "MONTANA",
+      "updated": "2021-08-25 21:26:17",
+      "lat": "47.667",
+      "lng": "-115.298",
+      "size": "39,053 Acres",
+      "url": "/incident/7620/",
+      "id": "7620",
+      "contained": "80"
     },
     {
       "name": "Walker Creek Fire",
@@ -38,19 +103,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 21:19:22",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "153,344 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
     },
     {
       "name": "Caldor Fire",
@@ -103,19 +155,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "19"
-    },
-    {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": " Current Situation: The South Fire started at...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-25 21:04:47",
-      "lat": "34.176",
-      "lng": "-117.448",
-      "size": "500 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
-      "contained": "0"
     },
     {
       "name": "Cedar Creek",
@@ -194,19 +233,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "West Lolo Complex",
-      "type": "Wildfire",
-      "summary": "Thunderstorms on July 7, 2021, started multiple wildfires across the...",
-      "state": "MONTANA",
-      "updated": "2021-08-25 20:30:44",
-      "lat": "47.667",
-      "lng": "-115.298",
-      "size": "39,053 Acres",
-      "url": "/incident/7620/",
-      "id": "7620",
-      "contained": "80"
     },
     {
       "name": "Greenwood Fire",
@@ -612,19 +638,6 @@
       "contained": "55"
     },
     {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-25 12:12:25",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,876 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "58"
-    },
-    {
       "name": "Sentinel",
       "type": "Wildfire",
       "summary": "On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
@@ -662,19 +675,6 @@
       "url": "/incident/7808/",
       "id": "7808",
       "contained": "0"
-    },
-    {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-25 11:43:19",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "5,199 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "12"
     },
     {
       "name": "Green Ridge Fire",
