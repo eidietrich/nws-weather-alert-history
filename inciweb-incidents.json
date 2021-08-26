@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 18:12:17",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "73,403 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 18:05:19",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "157,287 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "20"
+    },
+    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
       "state": "MONTANA",
-      "updated": "2021-08-26 17:45:46",
+      "updated": "2021-08-26 18:04:53",
       "lat": "46.165",
       "lng": "-110.248",
-      "size": "21,876 Acres",
+      "size": "21,892 Acres",
       "url": "/incident/7681/",
       "id": "7681",
-      "contained": "64"
+      "contained": "68"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-26 18:02:06",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "11,109 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "20"
+    },
+    {
+      "name": "Beckwourth  Complex",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 17:58:26",
+      "lat": "39.875",
+      "lng": "-120.368",
+      "size": "105,670 Acres",
+      "url": "/incident/7601/",
+      "id": "7601",
+      "contained": "98"
+    },
+    {
+      "name": "Windy Pass",
+      "type": "Wildfire",
+      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 17:57:56",
+      "lat": "47.112",
+      "lng": "-121.141",
+      "size": "82 Acres",
+      "url": "/incident/7779/",
+      "id": "7779",
+      "contained": "95"
+    },
+    {
+      "name": "Nason Fire",
+      "type": "Wildfire",
+      "summary": "Fire growth continues to be minimal, averaging about 10 acres a day....",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 17:52:25",
+      "lat": "47.828",
+      "lng": "-120.96",
+      "size": "314 Acres",
+      "url": "/incident/7799/",
+      "id": "7799",
+      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -79,19 +157,6 @@
       "contained": "58"
     },
     {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-26 16:41:45",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "11,109 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "20"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -103,19 +168,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "24"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 16:40:41",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "157,287 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "20"
     },
     {
       "name": "Skyline Ridge Complex",
@@ -170,19 +222,6 @@
       "contained": "50"
     },
     {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 16:31:13",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "73,403 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
-    },
-    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "August 26, 2021:      |     Maps     |   ...",
@@ -220,19 +259,6 @@
       "url": "/incident/7806/",
       "id": "7806",
       "contained": "0"
-    },
-    {
-      "name": "Windy Pass",
-      "type": "Wildfire",
-      "summary": "On August 3, lightning passed through the Cle Elum Ranger District...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 16:16:09",
-      "lat": "47.112",
-      "lng": "-121.141",
-      "size": "82 Acres",
-      "url": "/incident/7779/",
-      "id": "7779",
-      "contained": "95"
     },
     {
       "name": "John Ek Fire",
@@ -755,19 +781,6 @@
       "contained": "32"
     },
     {
-      "name": "Nason Fire",
-      "type": "Wildfire",
-      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 10:01:18",
-      "lat": "47.828",
-      "lng": "-120.96",
-      "size": "314 Acres",
-      "url": "/incident/7799/",
-      "id": "7799",
-      "contained": "0"
-    },
-    {
       "name": "County Line",
       "type": "Wildfire",
       "summary": "The County Line Fire, located south of the Tioga Road near the White...",
@@ -1143,19 +1156,6 @@
       "url": "/incident/7749/",
       "id": "7749",
       "contained": "70"
-    },
-    {
-      "name": "Beckwourth  Complex",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-23 11:18:26",
-      "lat": "39.875",
-      "lng": "-120.368",
-      "size": "105,670 Acres",
-      "url": "/incident/7601/",
-      "id": "7601",
-      "contained": "98"
     },
     {
       "name": "Bedrock Fire",
