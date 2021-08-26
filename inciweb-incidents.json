@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-26 14:11:04",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "25,991 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
-    },
-    {
       "name": "Lick Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
       "state": "OREGON",
-      "updated": "2021-08-26 14:10:56",
+      "updated": "2021-08-26 14:19:47",
       "lat": "46.262",
       "lng": "-117.416",
       "size": "80,421 Acres",
@@ -27,16 +14,68 @@
       "contained": "97"
     },
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 14:18:56",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "136,643 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "12"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-26 14:17:12",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,490 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
+    },
+    {
+      "name": "Petit Fire",
+      "type": "Wildfire",
+      "summary": "The Petit Fire was detected on August 23 and is located 1 mile north...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-26 14:15:42",
+      "lat": "47.854",
+      "lng": "-90.777",
+      "size": "1 Acres",
+      "url": "/incident/7817/",
+      "id": "7817",
+      "contained": "0"
+    },
+    {
       "name": "Gabi Fire",
       "type": "Wildfire",
       "summary": "The Gabi Fire was detected on August 23 and is located west of...",
       "state": "MINNESOTA",
-      "updated": "2021-08-26 14:10:04",
+      "updated": "2021-08-26 14:13:49",
       "lat": "48.056",
       "lng": "-91.055",
       "size": "1 Acres",
       "url": "/incident/7818/",
       "id": "7818",
+      "contained": "0"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-26 14:13:43",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "25,991 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
       "contained": "0"
     },
     {
@@ -64,19 +103,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "20"
-    },
-    {
-      "name": "Petit Fire",
-      "type": "Wildfire",
-      "summary": "The Petit Fire was detected on August 23 and is located 1 mile north...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-26 14:08:39",
-      "lat": "47.854",
-      "lng": "-90.777",
-      "size": "1 Acres",
-      "url": "/incident/7817/",
-      "id": "7817",
-      "contained": "0"
     },
     {
       "name": "McFarland Fire",
@@ -129,19 +155,6 @@
       "url": "/incident/7709/",
       "id": "7709",
       "contained": "0"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 13:05:23",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "136,643 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "12"
     },
     {
       "name": "Summit Trail",
@@ -755,19 +768,6 @@
       "contained": "80"
     },
     {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-26 08:15:03",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,490 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
-    },
-    {
       "name": "Chickadee Creek",
       "type": "Wildfire",
       "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
@@ -1221,19 +1221,6 @@
       "url": "/incident/7640/",
       "id": "7640",
       "contained": "59"
-    },
-    {
-      "name": "West Zone Superior Fires",
-      "type": "Wildfire",
-      "summary": "Superior NF Facebook  |  Superior NF WebpageThe West Zone of the...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-20 16:13:10",
-      "lat": "47.907",
-      "lng": "-91.831",
-      "size": "0 Acres",
-      "url": "/incident/7617/",
-      "id": "7617",
-      "contained": "0"
     },
     {
       "name": "Skyline Ridge Complex",
