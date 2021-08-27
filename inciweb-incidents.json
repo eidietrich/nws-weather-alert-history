@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-27 17:31:04",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "25,991 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "Whelp Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-27 17:23:10",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "50 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
+    },
+    {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": " SOUTH FIRE MORNING UPDATE: Friday, August 27InciWeb:...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 17:22:13",
+      "lat": "34.177",
+      "lng": "-117.448",
+      "size": "900 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "10"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-27 17:15:26",
+      "updated": "2021-08-27 17:21:12",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "160,148 Acres",
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "22"
+    },
+    {
+      "name": "John Ek Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Ek Fire:  The...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-27 17:18:35",
+      "lat": "47.981",
+      "lng": "-91.016",
+      "size": "1,563 Acres",
+      "url": "/incident/7808/",
+      "id": "7808",
+      "contained": "0"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-27 17:18:14",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,546 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -51,19 +116,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "100"
-    },
-    {
-      "name": "John Ek Fire",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Ek Fire:  The...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-27 16:56:27",
-      "lat": "47.981",
-      "lng": "-91.016",
-      "size": "1,563 Acres",
-      "url": "/incident/7808/",
-      "id": "7808",
-      "contained": "0"
     },
     {
       "name": "River Complex 2021",
@@ -170,19 +222,6 @@
       "contained": "68"
     },
     {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-27 15:42:05",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "25,991 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
@@ -194,19 +233,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "53"
-    },
-    {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": " SOUTH FIRE MORNING UPDATE: Friday, August 27InciWeb:...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 14:56:36",
-      "lat": "34.177",
-      "lng": "-117.448",
-      "size": "900 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
-      "contained": "10"
     },
     {
       "name": "Trail Creek Fire",
@@ -391,19 +417,6 @@
       "contained": "0"
     },
     {
-      "name": "Whelp Fire",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-27 12:59:35",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "50 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
-    },
-    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "The McFarland Fire was started by lightning on July 29th near...",
@@ -571,19 +584,6 @@
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "50"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-27 11:25:29",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,546 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
     },
     {
       "name": "Walkers Fire",
