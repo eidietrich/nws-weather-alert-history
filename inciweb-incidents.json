@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-27 09:25:43",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,074 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "32"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "The fire is approximately 2½ miles southeast of the Middle Fork...",
+      "state": "IDAHO",
+      "updated": "2021-08-27 09:24:01",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "501 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "55"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-08-27 09:23:26",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,856 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "68"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
+      "state": "IDAHO",
+      "updated": "2021-08-27 09:20:47",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "1,039 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "60"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-27 09:19:54",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,371 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "68"
+    },
+    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
       "state": "MINNESOTA",
-      "updated": "2021-08-27 09:15:52",
+      "updated": "2021-08-27 09:16:23",
       "lat": "47.553",
       "lng": "-91.648",
       "size": "25,991 Acres",
@@ -14,17 +79,17 @@
       "contained": "0"
     },
     {
-      "name": "South Yaak",
+      "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-27 09:15:43",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,371 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "68"
+      "summary": "Updated August 26 at 7:00pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 09:16:14",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "750,672 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "46"
     },
     {
       "name": "French Fire (CA)",
@@ -38,32 +103,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "19"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 26 at 7:00pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 09:14:08",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "750,672 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "46"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
-      "state": "IDAHO",
-      "updated": "2021-08-27 09:14:08",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "1,039 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "60"
     },
     {
       "name": "Devil's Knob Complex",
@@ -261,19 +300,6 @@
       "contained": "24"
     },
     {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-08-27 08:34:41",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,856 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "68"
-    },
-    {
       "name": "Fourtown Lake ",
       "type": "Wildfire",
       "summary": "The Fourtown Lake Fire was first detected on July 25 approximately 12...",
@@ -350,19 +376,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "10"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-26 22:53:41",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,074 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "32"
     },
     {
       "name": "Green Ridge Fire",
@@ -883,19 +896,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "The fire is approximately 2½ miles southeast of the Middle Fork...",
-      "state": "IDAHO",
-      "updated": "2021-08-26 10:13:26",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "501 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "55"
     },
     {
       "name": "County Line",
