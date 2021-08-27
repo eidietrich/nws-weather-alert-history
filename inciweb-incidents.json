@@ -1,17 +1,186 @@
 {
   "markers": [
     {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-27 09:15:52",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "25,991 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-27 09:15:43",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,371 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "68"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 22,916 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 09:15:23",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "22,916 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "19"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 26 at 7:00pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 09:14:08",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "750,672 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "46"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
+      "state": "IDAHO",
+      "updated": "2021-08-27 09:14:08",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "1,039 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "60"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
+      "state": "OREGON",
+      "updated": "2021-08-27 09:09:21",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "28,151 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "25"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-27 09:08:19",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,853 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "53"
+    },
+    {
+      "name": "Rice Bay",
+      "type": "Wildfire",
+      "summary": " The Rice Bay Fire is located west of Phantom Lake within the BWCAW....",
+      "state": "MINNESOTA",
+      "updated": "2021-08-27 09:03:33",
+      "lat": "47.904",
+      "lng": "-92.183",
+      "size": "1 Acres",
+      "url": "/incident/7820/",
+      "id": "7820",
+      "contained": "100"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": "Lightning passed through the Naches Ranger District the evening of...",
       "state": "WASHINGTON",
-      "updated": "2021-08-27 08:44:49",
+      "updated": "2021-08-27 09:03:03",
       "lat": "46.84",
       "lng": "-121.146",
       "size": "75,055 Acres",
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "8"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": " Overall Objective:  The Rough Patch Complex and Jack Fire are...",
+      "state": "OREGON",
+      "updated": "2021-08-27 09:01:55",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "28,493 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "11"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning on July 29th near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 09:01:41",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "122,653 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "93"
+    },
+    {
+      "name": "Second Creek ",
+      "type": "Wildfire",
+      "summary": " The Second Creek Fire is located northwest of Angleworm Lake within...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-27 09:00:55",
+      "lat": "48.097",
+      "lng": "-91.921",
+      "size": "1 Acres",
+      "url": "/incident/7821/",
+      "id": "7821",
+      "contained": "100"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 08:57:31",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "93,247 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "19"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 08:53:24",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "143,941 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "12"
     },
     {
       "name": "American Fork Fire",
@@ -38,32 +207,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "22"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
-      "state": "IDAHO",
-      "updated": "2021-08-27 08:41:43",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "1,039 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "60"
-    },
-    {
-      "name": "Second Creek ",
-      "type": "Wildfire",
-      "summary": " The Second Creek Fire is located northwest of Angleworm Lake within...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-27 08:39:37",
-      "lat": "48.097",
-      "lng": "-91.921",
-      "size": "1 Acres",
-      "url": "/incident/7821/",
-      "id": "7821",
-      "contained": "100"
     },
     {
       "name": "Steep Fire ",
@@ -157,32 +300,6 @@
       "contained": "42"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 26 at 7:00pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 08:23:36",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "747,091 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "45"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-27 08:20:53",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "25,991 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
-    },
-    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
@@ -233,19 +350,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "10"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-26 22:56:57",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,371 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "68"
     },
     {
       "name": "Burnt Peak Fire",
@@ -300,32 +404,6 @@
       "contained": "48"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-26 22:34:03",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,831 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2021-08-26 22:32:13",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "27,142 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "11"
-    },
-    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
@@ -365,19 +443,6 @@
       "contained": "77"
     },
     {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 22,474 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 21:59:06",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "22,474 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "19"
-    },
-    {
       "name": "Fox Complex",
       "type": "Wildfire",
       "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
@@ -389,19 +454,6 @@
       "url": "/incident/7798/",
       "id": "7798",
       "contained": "90"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 21:37:54",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "90,966 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "19"
     },
     {
       "name": "Mack Mountain",
@@ -469,32 +521,6 @@
       "contained": "35"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 21:17:59",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "139,510 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "12"
-    },
-    {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning on July 29th near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 21:04:33",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "122,598 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "84"
-    },
-    {
       "name": "Dixie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
@@ -506,19 +532,6 @@
       "url": "/incident/7811/",
       "id": "7811",
       "contained": "0"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
-      "state": "OREGON",
-      "updated": "2021-08-26 19:51:25",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "28,151 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "25"
     },
     {
       "name": "Storm Theatre Complex",
@@ -973,32 +986,6 @@
       "size": "0 Acres",
       "url": "/incident/7688/",
       "id": "7688",
-      "contained": "0"
-    },
-    {
-      "name": "Fourtown Lake ",
-      "type": "Wildfire",
-      "summary": "The Fourtown Lake Fire was first detected on July 25 approximately 12...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-25 13:51:17",
-      "lat": "48.09",
-      "lng": "-91.816",
-      "size": "265 Acres",
-      "url": "/incident/7816/",
-      "id": "7816",
-      "contained": "0"
-    },
-    {
-      "name": "Rice Bay",
-      "type": "Wildfire",
-      "summary": " The Rice Bay Fire is located west of Phantom Lake within the BWCAW....",
-      "state": "MINNESOTA",
-      "updated": "2021-08-25 13:21:11",
-      "lat": "47.904",
-      "lng": "-92.183",
-      "size": "1 Acres",
-      "url": "/incident/7820/",
-      "id": "7820",
       "contained": "0"
     },
     {
