@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 18:15:57",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "160,148 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "22"
+    },
+    {
+      "name": "Lick Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-27 18:07:32",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "100"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-27 18:05:11",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,546 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
+    },
+    {
+      "name": "Whelp Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-27 18:04:33",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "50 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
+    },
+    {
+      "name": "Animas City Mountain Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
+      "state": "COLORADO",
+      "updated": "2021-08-27 17:51:34",
+      "lat": "37.323",
+      "lng": "-107.872",
+      "size": "0 Acres",
+      "url": "/incident/7688/",
+      "id": "7688",
+      "contained": "0"
+    },
+    {
       "name": "Cougar Rock Complex",
       "type": "Wildfire",
       "summary": " All road closures in and around the Cougar Rock Complex have been...",
       "state": "IDAHO",
-      "updated": "2021-08-27 17:45:05",
+      "updated": "2021-08-27 17:50:09",
       "lat": "46.893",
       "lng": "-115.846",
       "size": "8,178 Acres",
       "url": "/incident/7640/",
       "id": "7640",
-      "contained": "59"
+      "contained": "63"
     },
     {
       "name": "Antelope Fire",
@@ -40,19 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Whelp Fire",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-27 17:23:10",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "50 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
-    },
-    {
       "name": "South Fire",
       "type": "Wildfire",
       "summary": " SOUTH FIRE MORNING UPDATE: Friday, August 27InciWeb:...",
@@ -64,19 +116,6 @@
       "url": "/incident/7822/",
       "id": "7822",
       "contained": "10"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 17:21:12",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "160,148 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "22"
     },
     {
       "name": "John Ek Fire",
@@ -92,19 +131,6 @@
       "contained": "0"
     },
     {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-27 17:18:14",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,546 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Updated August 27 at 8:30amThe Dixie Fire started on July 13th. The...",
@@ -116,19 +142,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "46"
-    },
-    {
-      "name": "Lick Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-27 17:05:16",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "100"
     },
     {
       "name": "River Complex 2021",
@@ -1038,19 +1051,6 @@
       "size": "237 Acres",
       "url": "/incident/7777/",
       "id": "7777",
-      "contained": "0"
-    },
-    {
-      "name": "Animas City Mountain Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
-      "state": "COLORADO",
-      "updated": "2021-08-25 16:46:07",
-      "lat": "37.323",
-      "lng": "-107.872",
-      "size": "0 Acres",
-      "url": "/incident/7688/",
-      "id": "7688",
       "contained": "0"
     },
     {
