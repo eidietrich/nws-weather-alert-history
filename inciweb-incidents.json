@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 22,474 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 21:46:32",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "22,474 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "19"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-26 21:44:42",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,074 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "32"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 21:43:18",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,554 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "48"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 21:37:54",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "90,966 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "19"
+    },
+    {
+      "name": "Mack Mountain",
+      "type": "Wildfire",
+      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 21:35:25",
+      "lat": "48.69",
+      "lng": "-118.359",
+      "size": "1,233 Acres",
+      "url": "/incident/7814/",
+      "id": "7814",
+      "contained": "25"
+    },
+    {
+      "name": "Ford Corkscrew Fire",
+      "type": "Wildfire",
+      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-26 21:33:01",
+      "lat": "47.897",
+      "lng": "-117.81",
+      "size": "15,768 Acres",
+      "url": "/incident/7803/",
+      "id": "7803",
+      "contained": "74"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-26 21:30:49",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "7,774 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
       "name": "Bulldog Mountain",
       "type": "Wildfire",
       "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
@@ -14,19 +105,6 @@
       "contained": "45"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 21:28:10",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "90,966 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "19"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -38,32 +116,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "35"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 22,030 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 21:23:12",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "22,474 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "19"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-26 21:19:41",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "7,774 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
     },
     {
       "name": "Caldor Fire",
@@ -129,19 +181,6 @@
       "url": "/incident/7811/",
       "id": "7811",
       "contained": "0"
-    },
-    {
-      "name": "Ford Corkscrew Fire",
-      "type": "Wildfire",
-      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 20:52:20",
-      "lat": "47.897",
-      "lng": "-117.81",
-      "size": "15,768 Acres",
-      "url": "/incident/7803/",
-      "id": "7803",
-      "contained": "74"
     },
     {
       "name": "American Fork Fire",
@@ -261,19 +300,6 @@
       "contained": "25"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 19:50:18",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,554 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "44"
-    },
-    {
       "name": "Christensen Fire ",
       "type": "Wildfire",
       "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
@@ -285,19 +311,6 @@
       "url": "/incident/7702/",
       "id": "7702",
       "contained": "20"
-    },
-    {
-      "name": "Mack Mountain",
-      "type": "Wildfire",
-      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-26 19:41:59",
-      "lat": "48.69",
-      "lng": "-118.359",
-      "size": "1,233 Acres",
-      "url": "/incident/7814/",
-      "id": "7814",
-      "contained": "18"
     },
     {
       "name": "Storm Theatre Complex",
@@ -831,19 +844,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "68"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-26 10:09:45",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,074 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "32"
     },
     {
       "name": "County Line",
