@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-26 22:17:31",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,831 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "53"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-26 22:16:35",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,584 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "77"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-08-26 22:06:18",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,074 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "32"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-26 22:01:46",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,371 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "68"
+    },
+    {
       "name": "French Fire (CA)",
       "type": "Wildfire",
       "summary": "The French Fire has burned 22,474 acres of grass, brush and timber...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-26 21:46:32",
+      "updated": "2021-08-26 21:59:06",
       "lat": "35.687",
       "lng": "-118.55",
       "size": "22,474 Acres",
@@ -14,17 +66,56 @@
       "contained": "19"
     },
     {
-      "name": "Burnt Peak Fire",
+      "name": "Green Ridge Fire",
       "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-08-26 21:44:42",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,074 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "32"
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-26 21:57:20",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,490 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
+    },
+    {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-26 21:54:07",
+      "lat": "34.177",
+      "lng": "-117.448",
+      "size": "900 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "10"
+    },
+    {
+      "name": "Lick Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-08-26 21:53:13",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "97"
+    },
+    {
+      "name": "Fox Complex",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-26 21:50:05",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "9,754 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "90"
     },
     {
       "name": "Summit Trail",
@@ -196,19 +287,6 @@
       "contained": "68"
     },
     {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-26 20:32:56",
-      "lat": "34.176",
-      "lng": "-117.448",
-      "size": "680 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
-      "contained": "0"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -233,19 +311,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "0"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-26 20:05:35",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,584 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "77"
     },
     {
       "name": "Rough Patch",
@@ -363,32 +428,6 @@
       "url": "/incident/7692/",
       "id": "7692",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-26 18:53:41",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,831 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
-    },
-    {
-      "name": "Fox Complex",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-26 18:39:12",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "9,754 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "80"
     },
     {
       "name": "Schneider Springs",
@@ -545,32 +584,6 @@
       "url": "/incident/7808/",
       "id": "7808",
       "contained": "0"
-    },
-    {
-      "name": "Lick Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-08-26 15:51:02",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "97"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-26 15:46:21",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,490 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
     },
     {
       "name": "Character Complex",
@@ -830,19 +843,6 @@
       "size": "20,856 Acres",
       "url": "/incident/7638/",
       "id": "7638",
-      "contained": "68"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021.  It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-26 10:10:28",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,371 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
       "contained": "68"
     },
     {
