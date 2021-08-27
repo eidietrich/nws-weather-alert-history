@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
+      "state": "IDAHO",
+      "updated": "2021-08-27 10:45:37",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "1,039 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "60"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-27 10:45:37",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "25,991 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
       "state": "MONTANA",
-      "updated": "2021-08-27 10:35:04",
+      "updated": "2021-08-27 10:45:19",
       "lat": "46.165",
       "lng": "-110.248",
       "size": "21,892 Acres",
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "68"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 27 at 8:30amThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 10:45:16",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "750,672 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "46"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 10:38:47",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "71,251 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "42"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 10:38:26",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "75,055 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
     },
     {
       "name": "Ford Corkscrew Fire",
@@ -27,32 +92,6 @@
       "contained": "74"
     },
     {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-27 10:32:37",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "75,055 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
-      "state": "IDAHO",
-      "updated": "2021-08-27 10:30:39",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "1,039 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "60"
-    },
-    {
       "name": "Trestle Creek Complex",
       "type": "Wildfire",
       "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
@@ -64,19 +103,6 @@
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "15"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 26 at 7:00pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 10:24:32",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "750,672 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "46"
     },
     {
       "name": "Muckamuck",
@@ -103,19 +129,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "35"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 10:13:07",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "71,251 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "42"
     },
     {
       "name": "Devil's Knob Complex",
@@ -311,19 +324,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "10"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-27 09:33:40",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "25,991 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "Scarface Fire",
