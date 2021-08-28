@@ -1,11 +1,115 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 09:14:06",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "149,684 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "19"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": " Overall Objective:  The Rough Patch Complex and Jack Fire are...",
+      "state": "OREGON",
+      "updated": "2021-08-28 09:12:52",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "29,745 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "11"
+    },
+    {
+      "name": "TwentyFive Mile",
+      "type": "Wildfire",
+      "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-28 09:12:02",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "11,167 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "31"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-28 09:05:40",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "25,991 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "0"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
+      "state": "OREGON",
+      "updated": "2021-08-28 09:05:25",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,853 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "53"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 09:03:32",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "160,148 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "22"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-28 09:02:58",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "8,548 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "0"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": "Lightning passed through the Naches Ranger District the evening of...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-28 09:00:57",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "76,764 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
+    },
+    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
       "state": "MONTANA",
-      "updated": "2021-08-28 08:43:56",
+      "updated": "2021-08-28 08:56:10",
       "lat": "46.993",
       "lng": "-110.933",
       "size": "8,584 Acres",
@@ -14,11 +118,37 @@
       "contained": "77"
     },
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 23,794 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 08:55:30",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "23,764 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "22"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning on July 29th near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 08:52:44",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "122,653 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "93"
+    },
+    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
       "state": "OREGON",
-      "updated": "2021-08-28 08:41:27",
+      "updated": "2021-08-28 08:48:17",
       "lat": "42.892",
       "lng": "-122.853",
       "size": "30,136 Acres",
@@ -66,19 +196,6 @@
       "contained": "80"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 07:20:03",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "160,148 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "22"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
@@ -116,32 +233,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "24"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": "Lightning passed through the Naches Ranger District the evening of...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-28 00:28:09",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "76,764 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 23,594 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 23:51:30",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "23,594 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "19"
     },
     {
       "name": "Summit Trail",
@@ -261,19 +352,6 @@
       "contained": "38"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning on July 29th near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 21:58:58",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "122,653 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "93"
-    },
-    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
@@ -300,45 +378,6 @@
       "contained": "45"
     },
     {
-      "name": "TwentyFive Mile",
-      "type": "Wildfire",
-      "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-27 21:30:18",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "11,167 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "31"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 21:29:20",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "145,463 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "19"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-27 21:05:31",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "8,548 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "0"
-    },
-    {
       "name": "American Fork Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
@@ -363,32 +402,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "19"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "Overall Objective:  The Rough Patch Complex and Jack Fire are being...",
-      "state": "OREGON",
-      "updated": "2021-08-27 20:46:04",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,853 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": " Overall Objective:  The Rough Patch Complex and Jack Fire are...",
-      "state": "OREGON",
-      "updated": "2021-08-27 20:43:13",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "28,493 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "11"
     },
     {
       "name": "Burnt Peak Fire",
@@ -532,19 +545,6 @@
       "url": "/incident/7640/",
       "id": "7640",
       "contained": "63"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-27 17:33:28",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "25,991 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "0"
     },
     {
       "name": "John Ek Fire",
