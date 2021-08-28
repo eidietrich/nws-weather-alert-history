@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 23:40:26",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,666 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "48"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 23:38:40",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "160,148 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "22"
+    },
+    {
       "name": "French Fire (CA)",
       "type": "Wildfire",
       "summary": "The French Fire has burned 23,594 acres of grass, brush and timber...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-27 23:20:04",
+      "updated": "2021-08-27 23:35:16",
       "lat": "35.687",
       "lng": "-118.55",
       "size": "23,594 Acres",
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "19"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 23:26:18",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "5,199 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "15"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
+      "state": "OREGON",
+      "updated": "2021-08-27 23:23:02",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "30,136 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "25"
+    },
+    {
+      "name": "Mack Mountain",
+      "type": "Wildfire",
+      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 23:21:06",
+      "lat": "48.69",
+      "lng": "-118.359",
+      "size": "1,233 Acres",
+      "url": "/incident/7814/",
+      "id": "7814",
+      "contained": "25"
     },
     {
       "name": "South Fire",
@@ -103,19 +168,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "38"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 22:03:28",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "160,148 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "22"
     },
     {
       "name": "McFarland Fire",
@@ -560,19 +612,6 @@
       "contained": "45"
     },
     {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-27 13:14:07",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "5,199 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "15"
-    },
-    {
       "name": "Black Butte Fire",
       "type": "Wildfire",
       "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
@@ -597,32 +636,6 @@
       "url": "/incident/7722/",
       "id": "7722",
       "contained": "60"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-27 12:44:54",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,581 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "48"
-    },
-    {
-      "name": "Mack Mountain",
-      "type": "Wildfire",
-      "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-27 12:43:26",
-      "lat": "48.69",
-      "lng": "-118.359",
-      "size": "1,233 Acres",
-      "url": "/incident/7814/",
-      "id": "7814",
-      "contained": "25"
     },
     {
       "name": "Knoll Fire",
@@ -688,19 +701,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "60"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
-      "state": "OREGON",
-      "updated": "2021-08-27 10:10:27",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "28,151 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "25"
     },
     {
       "name": "Petit Fire",
