@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 23,594 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-27 23:20:04",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "23,594 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "19"
+    },
+    {
       "name": "South Fire",
       "type": "Wildfire",
-      "summary": " SOUTH FIRE MORNING UPDATE: Friday, August 27InciWeb:...",
+      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-27 22:27:54",
+      "updated": "2021-08-27 23:16:42",
       "lat": "34.177",
       "lng": "-117.448",
-      "size": "900 Acres",
+      "size": "819 Acres",
       "url": "/incident/7822/",
       "id": "7822",
       "contained": "10"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-27 23:14:11",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,412 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "20"
+    },
+    {
+      "name": "Fox Complex",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-27 23:10:16",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "9,754 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "95"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-08-27 23:07:23",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "17,842 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "10"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-27 23:07:21",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,546 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "35"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -64,19 +129,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "93"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 23,594 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-27 21:52:33",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "23,594 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "19"
     },
     {
       "name": "McCash Fire",
@@ -391,19 +443,6 @@
       "contained": "100"
     },
     {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-27 18:05:11",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,546 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
-    },
-    {
       "name": "Whelp Fire",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
@@ -547,19 +586,6 @@
       "contained": "89"
     },
     {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-27 13:12:16",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,412 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "20"
-    },
-    {
       "name": "Larkins Complex",
       "type": "Wildfire",
       "summary": "The Larkins Fire Complex is located on the St. Joe River Ranger...",
@@ -597,32 +623,6 @@
       "url": "/incident/7814/",
       "id": "7814",
       "contained": "25"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-08-27 12:40:27",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "17,503 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "10"
-    },
-    {
-      "name": "Fox Complex",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-27 12:32:54",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "9,754 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "90"
     },
     {
       "name": "Knoll Fire",
