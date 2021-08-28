@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Roadside Fire",
+      "type": "Wildfire",
+      "summary": "New fire start as of 8/28/2021 at 11:25 am. Evacuation orders:All...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 14:44:00",
+      "lat": "34.251",
+      "lng": "-117.455",
+      "size": "50 Acres",
+      "url": "/incident/7823/",
+      "id": "7823",
+      "contained": "0"
+    },
+    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex was originally comprised of two fires: The...",
       "state": "IDAHO",
-      "updated": "2021-08-28 14:25:49",
+      "updated": "2021-08-28 14:40:46",
       "lat": "47.645",
       "lng": "-116.019",
       "size": "11,895 Acres",
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "62"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-08-28 14:32:26",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,866 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "53"
     },
     {
       "name": "Rough Patch",
@@ -25,19 +51,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "11"
-    },
-    {
-      "name": "Roadside Fire",
-      "type": "Wildfire",
-      "summary": "New fire start as of 8/28/2021 at 11:25 am. Evacuation orders:All...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 14:23:15",
-      "lat": "34.251",
-      "lng": "-117.455",
-      "size": "0 Acres",
-      "url": "/incident/7823/",
-      "id": "7823",
-      "contained": "0"
     },
     {
       "name": "Middle Fork Complex",
@@ -168,19 +181,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "100"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021, at approximately 5:00pm and is...",
-      "state": "OREGON",
-      "updated": "2021-08-28 12:42:38",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,866 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
     },
     {
       "name": "Monument Fire",
