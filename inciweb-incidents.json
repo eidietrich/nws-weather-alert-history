@@ -1,17 +1,160 @@
 {
   "markers": [
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 23,794 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 20:58:34",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "24,200 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "22"
+    },
+    {
+      "name": "Ford Corkscrew Fire",
+      "type": "Wildfire",
+      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-28 20:57:42",
+      "lat": "47.897",
+      "lng": "-117.81",
+      "size": "15,782 Acres",
+      "url": "/incident/7803/",
+      "id": "7803",
+      "contained": "92"
+    },
+    {
+      "name": "Roadside Fire",
+      "type": "Wildfire",
+      "summary": "New fire start as of 8/28/2021 at 11:25 am.All evacuation orders and...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 20:57:42",
+      "lat": "34.251",
+      "lng": "-117.455",
+      "size": "50 Acres",
+      "url": "/incident/7823/",
+      "id": "7823",
+      "contained": "30"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 20:57:05",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "30,012 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-08-28 20:56:15",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "29,745 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "11"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-28 20:54:45",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "25,991 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "14"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
-      "summary": "",
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-28 19:50:49",
+      "updated": "2021-08-28 20:53:21",
       "lat": "38.584",
       "lng": "-120.534",
       "size": "152,545 Acres",
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "19"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-28 20:42:02",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "8,928 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "3"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 20:21:56",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "96,525 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 20:20:42",
+      "lat": "34.177",
+      "lng": "-117.448",
+      "size": "819 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "10"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-08-28 20:19:31",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "11,895 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "62"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 20:03:47",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "161,133 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "22"
     },
     {
       "name": "Trail Creek Fire",
@@ -77,32 +220,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "48"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "The River Complex is a group of fires within the Salmon/Scott River...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 19:13:26",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "96,525 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-28 19:00:28",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "25,991 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "14"
     },
     {
       "name": "Summit Trail",
@@ -183,19 +300,6 @@
       "contained": "70"
     },
     {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-28 17:57:33",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "8,928 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "3"
-    },
-    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": "August 27, 2021:      |     Maps     |   ...",
@@ -222,19 +326,6 @@
       "contained": "80"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-08-28 17:32:37",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "29,745 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "11"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
@@ -246,19 +337,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "53"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 23,794 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 17:09:33",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "23,764 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "22"
     },
     {
       "name": "Gabi Fire",
@@ -274,19 +352,6 @@
       "contained": "0"
     },
     {
-      "name": "Roadside Fire",
-      "type": "Wildfire",
-      "summary": "New fire start as of 8/28/2021 at 11:25 am. Evacuation orders:All...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 17:00:06",
-      "lat": "34.251",
-      "lng": "-117.455",
-      "size": "50 Acres",
-      "url": "/incident/7823/",
-      "id": "7823",
-      "contained": "0"
-    },
-    {
       "name": "Petit Fire",
       "type": "Wildfire",
       "summary": "The Petit Fire was detected on August 23 and is located 1 mile north...",
@@ -298,19 +363,6 @@
       "url": "/incident/7817/",
       "id": "7817",
       "contained": "100"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-28 14:53:56",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "11,895 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "62"
     },
     {
       "name": "Middle Fork Complex",
@@ -378,19 +430,6 @@
       "contained": "100"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 12:40:51",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "160,148 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "22"
-    },
-    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -402,19 +441,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "35"
-    },
-    {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 12:36:52",
-      "lat": "34.177",
-      "lng": "-117.448",
-      "size": "819 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
-      "contained": "10"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -430,19 +456,6 @@
       "contained": "78"
     },
     {
-      "name": "Ford Corkscrew Fire",
-      "type": "Wildfire",
-      "summary": "The Southwest Area Incident Management Team 5 assumed command of the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-28 12:05:18",
-      "lat": "47.897",
-      "lng": "-117.81",
-      "size": "15,782 Acres",
-      "url": "/incident/7803/",
-      "id": "7803",
-      "contained": "91"
-    },
-    {
       "name": "TwentyFive Mile",
       "type": "Wildfire",
       "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
@@ -454,19 +467,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "31"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 11:59:05",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "27,373 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "McFarland Fire",
