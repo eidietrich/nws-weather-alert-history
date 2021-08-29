@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-08-29 12:32:28",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "18,506 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "12"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
       "state": "OREGON",
-      "updated": "2021-08-29 12:21:54",
+      "updated": "2021-08-29 12:27:34",
       "lat": "44.879",
       "lng": "-122.009",
       "size": "9,398 Acres",
@@ -16,9 +29,9 @@
     {
       "name": "Cedar Creek",
       "type": "Wildfire",
-      "summary": "August 28, 2021:      |     Maps     |   ...",
+      "summary": "August 29, 2021:      |     Maps     |   ...",
       "state": "WASHINGTON",
-      "updated": "2021-08-29 12:20:23",
+      "updated": "2021-08-29 12:23:15",
       "lat": "48.595",
       "lng": "-120.537",
       "size": "55,187 Acres",
@@ -259,19 +272,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "45"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-08-29 10:50:04",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "18,506 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "12"
     },
     {
       "name": "McFarland Fire",
@@ -2235,19 +2235,6 @@
       "url": "/incident/7492/",
       "id": "7492",
       "contained": "40"
-    },
-    {
-      "name": "Warsaw Fire",
-      "type": "Wildfire",
-      "summary": "The Warsaw Fire was reported on Sunday, May 16th at 4:30 pm.  The...",
-      "state": "ARIZONA",
-      "updated": "2021-05-31 12:34:15",
-      "lat": "31.418",
-      "lng": "-111.283",
-      "size": "950 Acres",
-      "url": "/incident/7489/",
-      "id": "7489",
-      "contained": "100"
     }
   ]
 }
