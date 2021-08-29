@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 28 at 7:30pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-29 17:24:01",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "764,135 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "48"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-08-29 17:20:26",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "31,345 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "11"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "August 29, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-29 17:19:10",
+      "lat": "48.551",
+      "lng": "-120.194",
+      "size": "70,186 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "70"
+    },
+    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
@@ -12,32 +51,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "45"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 28 at 7:30pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 17:13:38",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "764,135 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "48"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 29, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-29 17:12:24",
-      "lat": "48.551",
-      "lng": "-120.194",
-      "size": "70,186 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "70"
     },
     {
       "name": "Cedar Creek",
@@ -103,19 +116,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "60"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-08-29 16:46:04",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "31,345 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "11"
     },
     {
       "name": "Jack Fire",
