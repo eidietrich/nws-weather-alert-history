@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-29 17:36:57",
+      "lat": "34.177",
+      "lng": "-117.448",
+      "size": "819 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "30"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Updated August 28 at 7:30pmThe Dixie Fire started on July 13th. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-29 17:24:01",
+      "updated": "2021-08-29 17:34:32",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "764,135 Acres",
@@ -194,19 +207,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "50"
-    },
-    {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 14:47:09",
-      "lat": "34.177",
-      "lng": "-117.448",
-      "size": "819 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
-      "contained": "30"
     },
     {
       "name": "Caldor Fire",
