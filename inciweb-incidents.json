@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 23:39:08",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "161,133 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "23"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-28 23:35:39",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "78,937 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
+    },
+    {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 23:34:28",
+      "lat": "34.177",
+      "lng": "-117.448",
+      "size": "819 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "30"
+    },
+    {
+      "name": "Salt Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 23:31:21",
+      "lat": "40.916",
+      "lng": "-122.403",
+      "size": "0 Acres",
+      "url": "/incident/7697/",
+      "id": "7697",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 28 at 7:30pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-28 23:30:48",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "759,218 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "48"
+    },
+    {
       "name": "Chickadee Creek",
       "type": "Wildfire",
       "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
@@ -92,19 +157,6 @@
       "contained": "53"
     },
     {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 22:39:44",
-      "lat": "34.177",
-      "lng": "-117.448",
-      "size": "819 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
-      "contained": "30"
-    },
-    {
       "name": "Mack Mountain",
       "type": "Wildfire",
       "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
@@ -170,19 +222,6 @@
       "contained": "35"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 22:14:48",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "161,133 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "23"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -194,19 +233,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "52"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Updated August 28 at 7:30pmThe Dixie Fire started on July 13th. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-28 21:50:31",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "759,218 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "48"
     },
     {
       "name": "Greenwood Fire",
@@ -428,19 +454,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "75"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-28 18:19:43",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "76,764 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -1676,19 +1689,6 @@
       "url": "/incident/7595/",
       "id": "7595",
       "contained": "100"
-    },
-    {
-      "name": "Salt Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-31 12:46:50",
-      "lat": "40.916",
-      "lng": "-122.403",
-      "size": "0 Acres",
-      "url": "/incident/7697/",
-      "id": "7697",
-      "contained": "0"
     },
     {
       "name": "Lava Post-Fire BAER",
