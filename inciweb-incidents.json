@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-29 18:14:31",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "25,991 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "14"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Updated August 28 at 7:30pmThe Dixie Fire started on July 13th. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-29 18:13:05",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "764,135 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "48"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
+      "state": "IDAHO",
+      "updated": "2021-08-29 18:10:00",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "1,495 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "60"
+    },
+    {
       "name": "South Fire",
       "type": "Wildfire",
       "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-29 17:36:57",
+      "updated": "2021-08-29 17:58:39",
       "lat": "34.177",
       "lng": "-117.448",
       "size": "819 Acres",
@@ -14,17 +53,17 @@
       "contained": "30"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Caldor Fire",
       "type": "Wildfire",
-      "summary": "Updated August 28 at 7:30pmThe Dixie Fire started on July 13th. The...",
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-29 17:34:32",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "764,135 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "48"
+      "updated": "2021-08-29 17:54:44",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "156,515 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "19"
     },
     {
       "name": "Rough Patch",
@@ -118,19 +157,6 @@
       "contained": "23"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
-      "state": "IDAHO",
-      "updated": "2021-08-29 16:49:42",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "1,495 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "60"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
@@ -142,19 +168,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "53"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-29 16:12:15",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "25,991 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "14"
     },
     {
       "name": "McCash Fire",
@@ -207,19 +220,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "50"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 13:59:24",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "156,515 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "19"
     },
     {
       "name": "Bull Complex ",
