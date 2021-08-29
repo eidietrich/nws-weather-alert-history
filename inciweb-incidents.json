@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": " The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-08-29 13:17:50",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,892 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "75"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
+      "state": "IDAHO",
+      "updated": "2021-08-29 13:14:44",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "1,495 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "60"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": " The McFarland Fire was started by lightning on July 29th near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-29 13:08:26",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "122,653 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "93"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-08-29 13:05:22",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "29,760 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "11"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-08-29 13:05:13",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,866 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "53"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-29 13:01:52",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "9,398 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "3"
+    },
+    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
       "state": "MINNESOTA",
-      "updated": "2021-08-29 12:44:34",
+      "updated": "2021-08-29 12:48:25",
       "lat": "47.553",
       "lng": "-91.648",
       "size": "25,991 Acres",
@@ -38,19 +116,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "12"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-29 12:27:34",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "9,398 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "3"
     },
     {
       "name": "Cedar Creek",
@@ -157,19 +222,6 @@
       "contained": "23"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-08-29 11:53:31",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,866 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "53"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
@@ -274,19 +326,6 @@
       "contained": "45"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning on July 29th near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 10:43:22",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "122,653 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "93"
-    },
-    {
       "name": "Roadside Fire",
       "type": "Wildfire",
       "summary": "New fire start as of 8/28/2021 at 11:25 am.All evacuation orders and...",
@@ -324,19 +363,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "8"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-08-29 10:24:48",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "29,760 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "11"
     },
     {
       "name": "Ford Corkscrew Fire",
@@ -521,19 +547,6 @@
       "contained": "58"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
-      "state": "IDAHO",
-      "updated": "2021-08-29 09:27:45",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "1,495 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "60"
-    },
-    {
       "name": "Whelp Fire",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
@@ -623,19 +636,6 @@
       "url": "/incident/7734/",
       "id": "7734",
       "contained": "80"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-29 08:58:31",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,892 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "75"
     },
     {
       "name": "River Complex 2021",
