@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-08-29 18:27:57",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,371 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "73"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-29 18:27:29",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,412 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "30"
+    },
+    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
       "state": "MINNESOTA",
-      "updated": "2021-08-29 18:14:31",
+      "updated": "2021-08-29 18:27:01",
       "lat": "47.553",
       "lng": "-91.648",
       "size": "25,991 Acres",
@@ -16,15 +42,28 @@
     {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "Updated August 28 at 7:30pmThe Dixie Fire started on July 13th. The...",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-29 18:13:05",
+      "updated": "2021-08-29 18:26:17",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "764,135 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "48"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-29 18:21:13",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "156,515 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "19"
     },
     {
       "name": "Boundary Fire",
@@ -51,19 +90,6 @@
       "url": "/incident/7822/",
       "id": "7822",
       "contained": "30"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 17:54:44",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "156,515 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "19"
     },
     {
       "name": "Rough Patch",
@@ -181,19 +207,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "1"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-29 16:02:33",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,412 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "30"
     },
     {
       "name": "Beckwourth  Complex",
@@ -480,19 +493,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "32"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-08-29 09:59:13",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,371 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "73"
     },
     {
       "name": "Devil's Knob Complex",
