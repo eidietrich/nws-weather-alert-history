@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-29 23:18:47",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "163,155 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "29"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-29 23:18:24",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "168,387 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "13"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
+      "state": "OREGON",
+      "updated": "2021-08-29 23:15:41",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "32,399 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "25"
+    },
+    {
+      "name": "South Fire",
+      "type": "Wildfire",
+      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-29 23:04:11",
+      "lat": "34.177",
+      "lng": "-117.448",
+      "size": "819 Acres",
+      "url": "/incident/7822/",
+      "id": "7822",
+      "contained": "49"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-29 22:47:55",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "765,635 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "48"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-29 22:47:05",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,633 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "39"
+    },
+    {
       "name": "Chickadee Creek",
       "type": "Wildfire",
       "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
@@ -12,19 +90,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "25"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 22:41:18",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "163,155 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "29"
     },
     {
       "name": "River Complex 2021",
@@ -40,19 +105,6 @@
       "contained": "23"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 22:40:35",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "168,387 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "13"
-    },
-    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
@@ -64,19 +116,6 @@
       "url": "/incident/7774/",
       "id": "7774",
       "contained": "40"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 22:32:13",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "765,635 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "48"
     },
     {
       "name": "McFarland Fire",
@@ -378,19 +417,6 @@
       "contained": "60"
     },
     {
-      "name": "South Fire",
-      "type": "Wildfire",
-      "summary": "Current Situation: The South Fire started at approximately 1:36 PM...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 17:58:39",
-      "lat": "34.177",
-      "lng": "-117.448",
-      "size": "819 Acres",
-      "url": "/incident/7822/",
-      "id": "7822",
-      "contained": "30"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
@@ -467,19 +493,6 @@
       "url": "/incident/7681/",
       "id": "7681",
       "contained": "75"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-29 12:00:07",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,546 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "35"
     },
     {
       "name": "Summit Trail",
@@ -584,19 +597,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "76"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "Email: 2021.DevilsKnob@Firenet.gov                       ...",
-      "state": "OREGON",
-      "updated": "2021-08-29 09:59:07",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "31,224 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "25"
     },
     {
       "name": "Woods Creek Fire",
