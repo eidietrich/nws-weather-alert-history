@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 14:23:38",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "765,635 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "48"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 25,264 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 14:22:21",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "25,264 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "26"
+    },
+    {
+      "name": "Chaparral Fire",
+      "type": "Wildfire",
+      "summary": "The Chaparral Fire was detected on August 28, 2021, at 12:40 p.m.More...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 14:13:47",
+      "lat": "33.504",
+      "lng": "-117.353",
+      "size": "0 Acres",
+      "url": "/incident/7828/",
+      "id": "7828",
+      "contained": "0"
+    },
+    {
       "name": "Roadside Fire",
       "type": "Wildfire",
       "summary": "All evacuation orders and road closures were lifted as of 6:30 p.m....",
@@ -25,19 +64,6 @@
       "url": "/incident/7824/",
       "id": "7824",
       "contained": "50"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 14:03:49",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "765,635 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "48"
     },
     {
       "name": "Crater Ridge",
@@ -402,19 +428,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "14"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 25,264 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 11:43:18",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "25,264 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "26"
     },
     {
       "name": "TwentyFive Mile",
