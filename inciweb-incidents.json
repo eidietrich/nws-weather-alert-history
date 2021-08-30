@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Chaparral Fire",
+      "type": "Wildfire",
+      "summary": "The Chaparral Fire was detected on August 28, 2021, at 12:40 p.m.More...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 16:12:11",
+      "lat": "33.504",
+      "lng": "-117.353",
+      "size": "1,427 Acres",
+      "url": "/incident/7828/",
+      "id": "7828",
+      "contained": "13"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-30 16:09:33",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "10,370 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "3"
+    },
+    {
+      "name": "Beckwourth  Complex",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 16:06:13",
+      "lat": "39.875",
+      "lng": "-120.368",
+      "size": "105,670 Acres",
+      "url": "/incident/7601/",
+      "id": "7601",
+      "contained": "98"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-30 16:00:59",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "39,405 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "58"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-30 15:55:51",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "80,841 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
+    },
+    {
+      "name": "Robertson Draw",
+      "type": "Wildfire",
+      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
+      "state": "MONTANA",
+      "updated": "2021-08-30 15:55:07",
+      "lat": "45.015",
+      "lng": "-109.253",
+      "size": "29,885 Acres",
+      "url": "/incident/7537/",
+      "id": "7537",
+      "contained": "95"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 15:53:15",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "98,832 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-30 15:37:53",
+      "updated": "2021-08-30 15:51:56",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "771,183 Acres",
@@ -53,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Robertson Draw",
-      "type": "Wildfire",
-      "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
-      "state": "MONTANA",
-      "updated": "2021-08-30 15:08:57",
-      "lat": "45.015",
-      "lng": "-109.253",
-      "size": "29,885 Acres",
-      "url": "/incident/7537/",
-      "id": "7537",
-      "contained": "90"
-    },
-    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
@@ -77,19 +155,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "11"
-    },
-    {
-      "name": "Chaparral Fire",
-      "type": "Wildfire",
-      "summary": "The Chaparral Fire was detected on August 28, 2021, at 12:40 p.m.More...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 14:39:00",
-      "lat": "33.504",
-      "lng": "-117.353",
-      "size": "1,427 Acres",
-      "url": "/incident/7828/",
-      "id": "7828",
-      "contained": "13"
     },
     {
       "name": "French Fire (CA)",
@@ -142,19 +207,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "52"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 13:46:41",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "98,832 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
     },
     {
       "name": "Boundary Fire",
@@ -259,19 +311,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "25"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-30 13:02:02",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "10,370 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "3"
     },
     {
       "name": "Muddy Slide Fire",
@@ -482,19 +521,6 @@
       "contained": "32"
     },
     {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-30 11:34:20",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "80,841 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
-    },
-    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
@@ -623,19 +649,6 @@
       "url": "/incident/7624/",
       "id": "7624",
       "contained": "75"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-30 09:55:51",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "39,405 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "58"
     },
     {
       "name": "Christensen Fire ",
@@ -818,19 +831,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "80"
-    },
-    {
-      "name": "Beckwourth  Complex",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-29 15:32:54",
-      "lat": "39.875",
-      "lng": "-120.368",
-      "size": "105,670 Acres",
-      "url": "/incident/7601/",
-      "id": "7601",
-      "contained": "98"
     },
     {
       "name": "Muckamuck",
