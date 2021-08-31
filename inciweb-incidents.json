@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 18:14:35",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "170,945 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "29"
+    },
+    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "...",
       "state": "OREGON",
-      "updated": "2021-08-31 17:43:27",
+      "updated": "2021-08-31 18:14:15",
       "lat": "42.892",
       "lng": "-122.853",
       "size": "36,933 Acres",
@@ -14,17 +27,43 @@
       "contained": "25"
     },
     {
-      "name": "Monument Fire",
+      "name": "Summit Trail",
       "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 17:11:53",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "170,945 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "29"
+      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-31 18:06:25",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "46,034 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "52"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-31 17:50:11",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "52"
+    },
+    {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-08-31 17:46:16",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "393 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "0"
     },
     {
       "name": "Jack Fire",
@@ -248,32 +287,6 @@
       "contained": "0"
     },
     {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-31 13:13:22",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,232 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "52"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-31 13:01:33",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "46,034 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "52"
-    },
-    {
       "name": "Mack Mountain",
       "type": "Wildfire",
       "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
@@ -428,19 +441,6 @@
       "url": "/incident/7609/",
       "id": "7609",
       "contained": "100"
-    },
-    {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-08-31 11:56:54",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "170 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "0"
     },
     {
       "name": "Skyline Ridge Complex",
