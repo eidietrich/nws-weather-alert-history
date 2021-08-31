@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 10:48:45",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "777,741 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "48"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 25,643 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 10:46:34",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "25,643 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "40"
+    },
+    {
+      "name": "McFarland Fire",
+      "type": "Wildfire",
+      "summary": "The McFarland Fire was started by lightning on July 29th near...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 10:46:04",
+      "lat": "40.35",
+      "lng": "-123.034",
+      "size": "122,653 Acres",
+      "url": "/incident/7746/",
+      "id": "7746",
+      "contained": "95"
+    },
+    {
+      "name": "Whelp Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-31 10:43:25",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "50 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
+    },
+    {
+      "name": "John Ek Fire",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Ek Fire:  The...",
+      "state": "MINNESOTA",
+      "updated": "2021-08-31 10:42:43",
+      "lat": "47.981",
+      "lng": "-91.016",
+      "size": "1,339 Acres",
+      "url": "/incident/7808/",
+      "id": "7808",
+      "contained": "0"
+    },
+    {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "Monday mid-day, 8/30- Flight information from this morning maps the...",
+      "state": "COLORADO",
+      "updated": "2021-08-31 10:40:28",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "170 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "0"
+    },
+    {
       "name": "Walkers Fire",
       "type": "Wildfire",
-      "summary": "",
+      "summary": " On Monday, Walkers Fire operations focused on protecting structures...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-31 10:33:59",
+      "updated": "2021-08-31 10:39:16",
       "lat": "36.268",
       "lng": "-118.55",
       "size": "8,108 Acres",
@@ -18,7 +96,7 @@
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
       "state": "WASHINGTON",
-      "updated": "2021-08-31 10:32:48",
+      "updated": "2021-08-31 10:36:18",
       "lat": "46.84",
       "lng": "-121.146",
       "size": "80,841 Acres",
@@ -142,19 +220,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "70"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 10:00:01",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "777,741 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "48"
     },
     {
       "name": "Greenwood Fire",
@@ -326,19 +391,6 @@
       "contained": "29"
     },
     {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 25,643 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 09:16:20",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "25,643 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "40"
-    },
-    {
       "name": "Sentinel",
       "type": "Wildfire",
       "summary": "On July 29, 2021, Sequoia Kings Canyon National parks experienced...",
@@ -441,19 +493,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "68"
-    },
-    {
-      "name": "John Ek Fire",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageJohn Ek Fire:  The...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-31 06:30:58",
-      "lat": "47.981",
-      "lng": "-91.016",
-      "size": "1,339 Acres",
-      "url": "/incident/7808/",
-      "id": "7808",
-      "contained": "0"
     },
     {
       "name": "Chaparral Fire",
@@ -573,19 +612,6 @@
       "contained": "39"
     },
     {
-      "name": "McFarland Fire",
-      "type": "Wildfire",
-      "summary": "The McFarland Fire was started by lightning on July 29th near...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 22:48:34",
-      "lat": "40.35",
-      "lng": "-123.034",
-      "size": "122,653 Acres",
-      "url": "/incident/7746/",
-      "id": "7746",
-      "contained": "95"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
@@ -636,19 +662,6 @@
       "url": "/incident/7785/",
       "id": "7785",
       "contained": "49"
-    },
-    {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "Monday mid-day, 8/30- Flight information from this morning maps the...",
-      "state": "COLORADO",
-      "updated": "2021-08-30 22:16:27",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "170 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "0"
     },
     {
       "name": "South Fire",
@@ -818,19 +831,6 @@
       "url": "/incident/7824/",
       "id": "7824",
       "contained": "50"
-    },
-    {
-      "name": "Whelp Fire",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageThe Whelp Fire is a...",
-      "state": "MINNESOTA",
-      "updated": "2021-08-30 13:14:28",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "50 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
     },
     {
       "name": "Muddy Slide Fire",
