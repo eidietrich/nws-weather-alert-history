@@ -1,24 +1,76 @@
 {
   "markers": [
     {
-      "name": "Summit Trail",
+      "name": "Chaparral Fire",
       "type": "Wildfire",
-      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-30 20:55:35",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "45,935 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "52"
+      "summary": "Daily Update | Evacuation Map | Air Quality | The Chaparral...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 21:24:46",
+      "lat": "33.504",
+      "lng": "-117.353",
+      "size": "1,427 Acres",
+      "url": "/incident/7828/",
+      "id": "7828",
+      "contained": "50"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 21:24:12",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "166,967 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "29"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-08-30 21:24:00",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "39,633 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "39"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-30 21:20:35",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "71,447 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "60"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-30 21:19:32",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "39,405 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "58"
     },
     {
       "name": "French Fire (CA)",
       "type": "Wildfire",
-      "summary": "The French Fire has burned 25,264 acres of grass, brush and timber...",
+      "summary": "The French Fire has burned 25,411 acres of grass, brush and timber...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-30 20:51:40",
+      "updated": "2021-08-30 21:16:29",
       "lat": "35.687",
       "lng": "-118.55",
       "size": "25,411 Acres",
@@ -27,17 +79,82 @@
       "contained": "33"
     },
     {
-      "name": "Antelope Fire",
+      "name": "River Complex 2021",
       "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-30 20:49:50",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "71,447 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "60"
+      "updated": "2021-08-30 21:15:01",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "105,033 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "Monday mid-day, 8/30- Flight information from this morning maps the...",
+      "state": "COLORADO",
+      "updated": "2021-08-30 21:13:43",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "170 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "0"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-08-30 21:05:12",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "32,709 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "11"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire started July 12, 2021 and is burning 17...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-30 21:03:34",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "45,935 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "52"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-30 21:02:41",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "52"
+    },
+    {
+      "name": "Oak Grove Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Grove fire was reported at 2:48 p.m., Aug. 29 to Color...",
+      "state": "UTAH",
+      "updated": "2021-08-30 21:01:02",
+      "lat": "37.318",
+      "lng": "-113.454",
+      "size": "400 Acres",
+      "url": "/incident/7826/",
+      "id": "7826",
+      "contained": "0"
     },
     {
       "name": "Caldor Fire",
@@ -53,19 +170,6 @@
       "contained": "15"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 20:47:11",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "105,033 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
-    },
-    {
       "name": "South Fire",
       "type": "Wildfire",
       "summary": "Firefighters are continuing to make progress in improving existing...",
@@ -77,19 +181,6 @@
       "url": "/incident/7822/",
       "id": "7822",
       "contained": "65"
-    },
-    {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "Monday mid-day, 8/30- Flight information from this morning maps the...",
-      "state": "COLORADO",
-      "updated": "2021-08-30 20:43:45",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "170 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "0"
     },
     {
       "name": "Trestle Creek Complex",
@@ -116,32 +207,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "48"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-30 20:04:11",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "39,405 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "58"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 20:03:03",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "164,746 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "29"
     },
     {
       "name": "Christensen Fire ",
@@ -220,19 +285,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "32"
-    },
-    {
-      "name": "Oak Grove Fire",
-      "type": "Wildfire",
-      "summary": "  NEWS RELEASE Aug 29,...",
-      "state": "UTAH",
-      "updated": "2021-08-30 19:26:02",
-      "lat": "37.318",
-      "lng": "-113.454",
-      "size": "300 Acres",
-      "url": "/incident/7826/",
-      "id": "7826",
-      "contained": "0"
     },
     {
       "name": "Nez Perce-Clearwater Lightning Fires",
@@ -324,19 +376,6 @@
       "url": "/incident/7811/",
       "id": "7811",
       "contained": "0"
-    },
-    {
-      "name": "Chaparral Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Evacuation Map | Air Quality | The Chaparral...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 18:39:22",
-      "lat": "33.504",
-      "lng": "-117.353",
-      "size": "1,427 Acres",
-      "url": "/incident/7828/",
-      "id": "7828",
-      "contained": "13"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -482,19 +521,6 @@
       "contained": "95"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-08-30 15:07:41",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "32,709 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "11"
-    },
-    {
       "name": "Roadside Fire",
       "type": "Wildfire",
       "summary": "All evacuation orders and road closures were lifted as of 6:30 p.m....",
@@ -519,19 +545,6 @@
       "url": "/incident/7824/",
       "id": "7824",
       "contained": "50"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-30 14:03:35",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,232 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "52"
     },
     {
       "name": "Boundary Fire",
@@ -727,19 +740,6 @@
       "url": "/incident/7615/",
       "id": "7615",
       "contained": "100"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-08-30 12:04:14",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "39,633 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "39"
     },
     {
       "name": "Knob",
