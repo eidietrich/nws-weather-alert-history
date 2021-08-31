@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-08-31 08:43:43",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "52"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-31 08:42:55",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "10,716 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "3"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 08:41:44",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "71,447 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "60"
+    },
+    {
+      "name": "Divide Complex-Balsinger Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
+      "state": "MONTANA",
+      "updated": "2021-08-31 08:41:35",
+      "lat": "46.993",
+      "lng": "-110.933",
+      "size": "8,584 Acres",
+      "url": "/incident/7624/",
+      "id": "7624",
+      "contained": "75"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 08:37:29",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "106,132 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 08:36:58",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "170,945 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "29"
+    },
+    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
@@ -25,32 +103,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "58"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 08:31:45",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "170,945 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "29"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 08:31:42",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "106,132 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
     },
     {
       "name": "Christensen Fire ",
@@ -261,19 +313,6 @@
       "contained": "8"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 23:08:03",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "71,447 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "60"
-    },
-    {
       "name": "Stateline Complex",
       "type": "Wildfire",
       "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
@@ -285,19 +324,6 @@
       "url": "/incident/7627/",
       "id": "7627",
       "contained": "50"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-30 22:59:53",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "10,370 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "3"
     },
     {
       "name": "Oak Grove Fire",
@@ -456,19 +482,6 @@
       "contained": "33"
     },
     {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-08-30 21:02:41",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,232 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "52"
-    },
-    {
       "name": "South Fire",
       "type": "Wildfire",
       "summary": "Firefighters are continuing to make progress in improving existing...",
@@ -571,19 +584,6 @@
       "url": "/incident/7811/",
       "id": "7811",
       "contained": "0"
-    },
-    {
-      "name": "Divide Complex-Balsinger Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Balsinger Fire started burning about 5 miles...",
-      "state": "MONTANA",
-      "updated": "2021-08-30 18:19:12",
-      "lat": "46.993",
-      "lng": "-110.933",
-      "size": "8,584 Acres",
-      "url": "/incident/7624/",
-      "id": "7624",
-      "contained": "75"
     },
     {
       "name": "Woods Creek Fire",
