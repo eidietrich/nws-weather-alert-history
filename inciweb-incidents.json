@@ -1,17 +1,134 @@
 {
   "markers": [
     {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": " Incident started 8/29/21 2000 hrs at Friday Ridge near Willow...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 12:24:04",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "1,000 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 12:24:00",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "777,741 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "48"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-31 12:22:43",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "80,841 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
+    },
+    {
       "name": "Chaparral Fire",
       "type": "Wildfire",
       "summary": "Daily Fire Update | Daily Fire Map | Evacuation Map | Air...",
       "state": "CALIFORNIA",
-      "updated": "2021-08-31 11:57:40",
+      "updated": "2021-08-31 12:21:54",
       "lat": "33.504",
       "lng": "-117.353",
       "size": "1,427 Acres",
       "url": "/incident/7828/",
       "id": "7828",
       "contained": "50"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 12:20:11",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "106,132 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-08-31 12:17:37",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "10,716 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "3"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-08-31 12:14:43",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "38,906 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "1"
+    },
+    {
+      "name": "Fox Complex",
+      "type": "Wildfire",
+      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
+      "state": "OREGON",
+      "updated": "2021-08-31 12:04:35",
+      "lat": "42.21",
+      "lng": "-120.599",
+      "size": "9,754 Acres",
+      "url": "/incident/7798/",
+      "id": "7798",
+      "contained": "95"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "August 29, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-08-31 12:03:58",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "13,248 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "72"
+    },
+    {
+      "name": "Bootleg Fire",
+      "type": "Wildfire",
+      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
+      "state": "OREGON",
+      "updated": "2021-08-31 12:03:36",
+      "lat": "42.616",
+      "lng": "-121.421",
+      "size": "413,717 Acres",
+      "url": "/incident/7609/",
+      "id": "7609",
+      "contained": "100"
     },
     {
       "name": "Black Mountain Fire",
@@ -38,19 +155,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "87"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 11:52:34",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "38,906 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Boundary Fire",
@@ -92,19 +196,6 @@
       "contained": "30"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 11:33:13",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "777,741 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "48"
-    },
-    {
       "name": "Bulldog Mountain",
       "type": "Wildfire",
       "summary": "The Bulldog Mountain &amp; Mack Mountain Fires started August 5, 2021 and...",
@@ -118,19 +209,6 @@
       "contained": "49"
     },
     {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "August 29, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-31 11:29:52",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "13,248 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "72"
-    },
-    {
       "name": "Skyline Ridge Complex",
       "type": "Wildfire",
       "summary": " A number of fires have been reported in the South Umpqua River...",
@@ -142,19 +220,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "100"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-08-31 11:25:48",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "80,841 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
     },
     {
       "name": "American Fork Fire",
@@ -194,19 +259,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "60"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-08-31 11:17:27",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "10,716 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "3"
     },
     {
       "name": "Walkers Fire",
@@ -560,19 +612,6 @@
       "contained": "100"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 08:50:54",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "106,132 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -885,19 +924,6 @@
       "contained": "100"
     },
     {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": " Incident started 8/29/21 2000 hrs at Friday Ridge near Willow...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-30 11:49:52",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "250 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "0"
-    },
-    {
       "name": "Black Butte Fire",
       "type": "Wildfire",
       "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
@@ -974,19 +1000,6 @@
       "url": "/incident/7817/",
       "id": "7817",
       "contained": "100"
-    },
-    {
-      "name": "Fox Complex",
-      "type": "Wildfire",
-      "summary": "On Thursday, August 12, thunderstorm activity, including dry...",
-      "state": "OREGON",
-      "updated": "2021-08-27 23:10:16",
-      "lat": "42.21",
-      "lng": "-120.599",
-      "size": "9,754 Acres",
-      "url": "/incident/7798/",
-      "id": "7798",
-      "contained": "95"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
@@ -1377,19 +1390,6 @@
       "url": "/incident/7618/",
       "id": "7618",
       "contained": "90"
-    },
-    {
-      "name": "Bootleg Fire",
-      "type": "Wildfire",
-      "summary": "The Bootleg Fire started on July 6th. The fire is on the...",
-      "state": "OREGON",
-      "updated": "2021-08-19 14:34:57",
-      "lat": "42.616",
-      "lng": "-121.421",
-      "size": "413,717 Acres",
-      "url": "/incident/7609/",
-      "id": "7609",
-      "contained": "100"
     },
     {
       "name": "Whitmore Fire ",
