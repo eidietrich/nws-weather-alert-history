@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-01 08:44:40",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "39,825 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "58"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": " The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-09-01 08:43:16",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,892 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "76"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
       "state": "OREGON",
-      "updated": "2021-09-01 08:25:55",
+      "updated": "2021-09-01 08:36:32",
       "lat": "43.322",
       "lng": "-122.686",
       "size": "23,976 Acres",
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "53"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-01 08:34:57",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "33,887 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "17"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire has burned 25,710 acres of grass, brush and timber...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-01 08:34:18",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "25,782 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "43"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-01 08:32:54",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,028 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "37"
     },
     {
       "name": "Christensen Fire ",
@@ -51,19 +116,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "23"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Fire Map | Operations Video The Greenwood Fire...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-01 08:14:34",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,028 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "37"
     },
     {
       "name": "Lick Creek Fire",
@@ -116,19 +168,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "70"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-01 07:30:51",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "39,405 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "58"
     },
     {
       "name": "Monument Fire",
@@ -220,19 +259,6 @@
       "url": "/incident/7828/",
       "id": "7828",
       "contained": "50"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-08-31 23:17:31",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "33,887 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "17"
     },
     {
       "name": "Oak Grove Fire",
@@ -363,19 +389,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "87"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire has burned 25,710 acres of grass, brush and timber...",
-      "state": "CALIFORNIA",
-      "updated": "2021-08-31 21:36:20",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "25,710 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "43"
     },
     {
       "name": "Character Complex",
@@ -623,19 +636,6 @@
       "url": "/incident/7762/",
       "id": "7762",
       "contained": "100"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": " The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-08-31 11:24:20",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,892 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "75"
     },
     {
       "name": "Trestle Creek Complex",
