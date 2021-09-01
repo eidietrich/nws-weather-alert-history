@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-09-01 13:47:22",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "11,884 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "76"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-01 13:46:58",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "106,165 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "23"
+    },
+    {
+      "name": "TwentyFive Mile",
+      "type": "Wildfire",
+      "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-01 13:46:18",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "13,085 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "37"
+    },
+    {
+      "name": "Chaparral Fire",
+      "type": "Wildfire",
+      "summary": "Daily Fire Update | Daily Fire Map | Air Quality Map The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-01 13:46:04",
+      "lat": "33.504",
+      "lng": "-117.353",
+      "size": "1,427 Acres",
+      "url": "/incident/7828/",
+      "id": "7828",
+      "contained": "80"
+    },
+    {
+      "name": "Goat Fire",
+      "type": "Wildfire",
+      "summary": "This will be the final update for the Goat Fire unless significant...",
+      "state": "MONTANA",
+      "updated": "2021-09-01 13:42:05",
+      "lat": "46.379",
+      "lng": "-113.071",
+      "size": "212 Acres",
+      "url": "/incident/7694/",
+      "id": "7694",
+      "contained": "75"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-01 13:41:08",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "844,081 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "52"
+    },
+    {
+      "name": "Black Mountain",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
+      "state": "MONTANA",
+      "updated": "2021-09-01 13:37:46",
+      "lat": "45.185",
+      "lng": "-113.474",
+      "size": "1,041 Acres",
+      "url": "/incident/7691/",
+      "id": "7691",
+      "contained": "90"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -38,45 +129,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "37"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 13:20:34",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "844,081 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "52"
-    },
-    {
-      "name": "TwentyFive Mile",
-      "type": "Wildfire",
-      "summary": "Daily Update I   Daily Public Information Map I   Evacuation...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-01 13:18:14",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "13,085 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "37"
-    },
-    {
-      "name": "Chaparral Fire",
-      "type": "Wildfire",
-      "summary": "Daily Fire Update | Daily Fire Map | Air Quality Map The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 13:07:00",
-      "lat": "33.504",
-      "lng": "-117.353",
-      "size": "1,427 Acres",
-      "url": "/incident/7828/",
-      "id": "7828",
-      "contained": "80"
     },
     {
       "name": "Pincer Creek Fire",
@@ -729,19 +781,6 @@
       "contained": "76"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles  |     Mapa Diario       Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 08:19:48",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "106,165 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "23"
-    },
-    {
       "name": "Lick Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
@@ -766,19 +805,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "29"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-08-31 21:33:48",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "11,884 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "76"
     },
     {
       "name": "Stateline Complex",
@@ -1286,32 +1312,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "82"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-08-24 15:20:33",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,041 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "90"
-    },
-    {
-      "name": "Goat Fire",
-      "type": "Wildfire",
-      "summary": "This will be the final update for the Goat Fire unless significant...",
-      "state": "MONTANA",
-      "updated": "2021-08-23 21:38:21",
-      "lat": "46.379",
-      "lng": "-113.071",
-      "size": "212 Acres",
-      "url": "/incident/7694/",
-      "id": "7694",
-      "contained": "75"
     },
     {
       "name": "Gatlin Gulch Fire",
