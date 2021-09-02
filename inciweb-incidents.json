@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-09-01 21:41:35",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "40,272 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "39"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-01 21:38:47",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "847,308 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "52"
+    },
+    {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-09-01 21:33:23",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "416 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "0"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-01 21:29:08",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,985 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -51,32 +103,6 @@
       "url": "/incident/7808/",
       "id": "7808",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-01 21:04:07",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,985 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 21:01:04",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "844,081 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "52"
     },
     {
       "name": "Caldor Fire",
@@ -469,19 +495,6 @@
       "contained": "0"
     },
     {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-09-01 17:32:23",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "416 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "0"
-    },
-    {
       "name": "Robertson Draw",
       "type": "Wildfire",
       "summary": "The Robertson Draw Fire started at approximately 2:17 P.M. on Sunday...",
@@ -740,19 +753,6 @@
       "url": "/incident/7655/",
       "id": "7655",
       "contained": "87"
-    },
-    {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-09-01 11:44:17",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "40,272 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "39"
     },
     {
       "name": "Walkers Fire",
