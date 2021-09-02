@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-01 22:16:32",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "52"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-01 22:14:17",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "10,716 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "4"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Fire Information: 760-515-7922 (7am to 8pm) Inciweb:...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-01 22:14:10",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "25,854 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "43"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-01 22:10:42",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "20,982 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "21"
+    },
+    {
+      "name": "Lick Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
+      "state": "OREGON",
+      "updated": "2021-09-01 22:07:55",
+      "lat": "46.262",
+      "lng": "-117.416",
+      "size": "80,421 Acres",
+      "url": "/incident/7615/",
+      "id": "7615",
+      "contained": "100"
+    },
+    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
       "state": "OREGON",
-      "updated": "2021-09-01 21:41:35",
+      "updated": "2021-09-01 22:05:05",
       "lat": "46.135",
       "lng": "-117.736",
       "size": "40,272 Acres",
@@ -51,19 +116,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-01 21:23:08",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "10,716 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "4"
     },
     {
       "name": "River Complex 2021",
@@ -142,19 +194,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "74"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-01 20:28:10",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,232 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "52"
     },
     {
       "name": "Chickadee Creek",
@@ -430,19 +469,6 @@
       "contained": "0"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-01 17:55:42",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "20,593 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "20"
-    },
-    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
@@ -506,19 +532,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "95"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Fire Information: 760-515-7922 (7am to 8pm) Inciweb:...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 16:48:06",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "25,782 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "43"
     },
     {
       "name": "Monument Fire",
@@ -935,19 +948,6 @@
       "url": "/incident/7734/",
       "id": "7734",
       "contained": "80"
-    },
-    {
-      "name": "Lick Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
-      "state": "OREGON",
-      "updated": "2021-09-01 08:10:57",
-      "lat": "46.262",
-      "lng": "-117.416",
-      "size": "80,421 Acres",
-      "url": "/incident/7615/",
-      "id": "7615",
-      "contained": "100"
     },
     {
       "name": "Stateline Complex",
