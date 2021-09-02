@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 13:49:18",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "210,259 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "25"
+    },
+    {
+      "name": "Greenwood",
+      "type": "Wildfire",
+      "summary": "Pending",
+      "state": "MINNESOTA",
+      "updated": "2021-09-02 13:48:38",
+      "lat": "47.553",
+      "lng": "-88.353",
+      "size": "0 Acres",
+      "url": "/incident/7831/",
+      "id": "7831",
+      "contained": "0"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": "MONUMENT FIRE RESOURCES: 2,427 personnel, 38 hand crews, 170 engines,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 13:48:30",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,179 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "52"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-02 13:46:53",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "14,119 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "37"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-02 13:46:36",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "84,509 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "8"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-02 13:39:40",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "11,330 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "4"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily IR Map    |    Daily Public Info Map    |    Daily...",
@@ -14,58 +92,6 @@
       "contained": "29"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-02 13:38:05",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "210,259 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "25"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-02 13:37:38",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "11,330 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "4"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-02 13:32:24",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "14,119 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "37"
-    },
-    {
-      "name": "Greenwood",
-      "type": "Wildfire",
-      "summary": "Pending",
-      "state": "MINNESOTA",
-      "updated": "2021-09-02 13:26:28",
-      "lat": "47.553",
-      "lng": "-88.353",
-      "size": "0 Acres",
-      "url": "/incident/7831/",
-      "id": "7831",
-      "contained": "0"
-    },
-    {
       "name": "McFarland Fire",
       "type": "Wildfire",
       "summary": "The McFarland Fire was started by lightning on July 29th near...",
@@ -77,19 +103,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "98"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-02 12:45:06",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "84,509 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "8"
     },
     {
       "name": "River Complex 2021",
@@ -233,19 +246,6 @@
       "url": "/incident/7660/",
       "id": "7660",
       "contained": "0"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": "MONUMENT FIRE RESOURCES: 2,427 personnel, 38 hand crews, 170 engines,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-02 11:52:27",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,179 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "52"
     },
     {
       "name": "Rough Patch",
