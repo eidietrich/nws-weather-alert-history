@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "  Daily IR Map    |    Daily Public info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 08:44:55",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "174,759 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "29"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Fire Information: 760-515-7922 (7am to 8pm) Inciweb:...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 08:44:29",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "25,871 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "43"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles |     Mapa Diario      |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 08:41:03",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "114,359 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "14"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-02 08:39:12",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "20,982 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "21"
+    },
+    {
+      "name": "American Fork Fire",
+      "type": "Wildfire",
+      "summary": " The lightning-caused American Fork Fire started on July 17, 2021 in...",
+      "state": "MONTANA",
+      "updated": "2021-09-02 08:38:24",
+      "lat": "46.165",
+      "lng": "-110.248",
+      "size": "21,892 Acres",
+      "url": "/incident/7681/",
+      "id": "7681",
+      "contained": "76"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-02 08:32:06",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "11,380 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "4"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " Float boaters with a Middle Fork of the Salmon launch permit can...",
+      "state": "IDAHO",
+      "updated": "2021-09-02 08:27:38",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "11,876 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "70"
+    },
+    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
@@ -12,19 +103,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "19"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "For questions related to the Middle Fork of the Salmon River; boat...",
-      "state": "IDAHO",
-      "updated": "2021-09-02 08:21:02",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "11,876 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "70"
     },
     {
       "name": "Jack Fire",
@@ -142,19 +220,6 @@
       "url": "/incident/7827/",
       "id": "7827",
       "contained": "34"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "  Daily IR Map    |    Daily Public info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-02 00:43:25",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "174,759 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "29"
     },
     {
       "name": "Schneider Springs",
@@ -287,19 +352,6 @@
       "contained": "55"
     },
     {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Fire Information: 760-515-7922 (7am to 8pm) Inciweb:...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 22:37:01",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "25,854 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "43"
-    },
-    {
       "name": "Mack Mountain",
       "type": "Wildfire",
       "summary": "Mack Mountain Fire started August 5, 2021 and is burning 20 miles...",
@@ -339,32 +391,6 @@
       "contained": "52"
     },
     {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-01 22:18:49",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "10,716 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "4"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-01 22:10:42",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "20,982 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "21"
-    },
-    {
       "name": "Lick Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning ignited several fires southwest of Asotin, WA on July 7....",
@@ -402,19 +428,6 @@
       "url": "/incident/7825/",
       "id": "7825",
       "contained": "0"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles |     Mapa Diario      |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-01 21:16:31",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "112,150 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "14"
     },
     {
       "name": "Whelp Fire",
@@ -506,19 +519,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "98"
-    },
-    {
-      "name": "American Fork Fire",
-      "type": "Wildfire",
-      "summary": " The lightning-caused American Fork Fire started on July 17, 2021 in...",
-      "state": "MONTANA",
-      "updated": "2021-09-01 19:55:40",
-      "lat": "46.165",
-      "lng": "-110.248",
-      "size": "21,892 Acres",
-      "url": "/incident/7681/",
-      "id": "7681",
-      "contained": "76"
     },
     {
       "name": "South Fire",
