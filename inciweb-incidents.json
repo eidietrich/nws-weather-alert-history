@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily IR Map    |    Daily Public Info Map    |    Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-02 17:46:15",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "176,579 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "29"
+    },
+    {
+      "name": "Greenwood ",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-02 17:44:54",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,028 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "37"
+    },
+    {
       "name": "Green Ridge Fire",
       "type": "Wildfire",
       "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
@@ -12,19 +38,6 @@
       "url": "/incident/7628/",
       "id": "7628",
       "contained": "39"
-    },
-    {
-      "name": "Greenwood ",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-02 17:25:34",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,028 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "37"
     },
     {
       "name": "Bull Complex ",
@@ -64,19 +77,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "8"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily IR Map    |    Daily Public Info Map    |    Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-02 16:03:45",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "176,579 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "29"
     },
     {
       "name": "Twentyfive Mile",
@@ -1507,19 +1507,6 @@
       "url": "/incident/7664/",
       "id": "7664",
       "contained": "98"
-    },
-    {
-      "name": "Elbow Creek",
-      "type": "Wildfire",
-      "summary": "The Elbow Creek Fire, located approximately 17 miles northwest of...",
-      "state": "OREGON",
-      "updated": "2021-08-12 13:39:07",
-      "lat": "45.867",
-      "lng": "-117.619",
-      "size": "22,960 Acres",
-      "url": "/incident/7672/",
-      "id": "7672",
-      "contained": "95"
     },
     {
       "name": "Lava Fire",
