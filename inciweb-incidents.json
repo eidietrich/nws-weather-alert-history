@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-03 07:25:52",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "40,459 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "58"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " Float boaters with a Middle Fork of the Salmon launch permit can...",
+      "state": "IDAHO",
+      "updated": "2021-09-03 07:16:44",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "14,386 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "15"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-03 07:13:12",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "14,629 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "37"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
+      "state": "IDAHO",
+      "updated": "2021-09-03 07:08:28",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "1,620 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "20"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-03 07:06:02",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,856 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
+    },
+    {
       "name": "Knob",
       "type": "Wildfire",
       "summary": "MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 147 engines,...",
@@ -25,19 +90,6 @@
       "url": "/incident/7649/",
       "id": "7649",
       "contained": "90"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-02 23:25:16",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "14,119 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "37"
     },
     {
       "name": "Monument Fire",
@@ -391,19 +443,6 @@
       "contained": "90"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-02 19:31:46",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "40,122 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "58"
-    },
-    {
       "name": "Christensen Fire ",
       "type": "Wildfire",
       "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
@@ -573,19 +612,6 @@
       "contained": "50"
     },
     {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
-      "state": "IDAHO",
-      "updated": "2021-09-02 11:18:03",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "1,620 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "20"
-    },
-    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "Email:...",
@@ -623,32 +649,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "52"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " Float boaters with a Middle Fork of the Salmon launch permit can...",
-      "state": "IDAHO",
-      "updated": "2021-09-02 10:51:56",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "11,876 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "15"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-02 10:51:10",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,856 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "68"
     },
     {
       "name": "2021 Humboldt-Toiyabe Initial Attack",
