@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "MONUMENT FIRE RESOURCES: 2,477 personnel, 41 hand crews, 154 engines,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 08:45:22",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "178,069 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "35"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 08:39:43",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "885,954 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "55"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles      |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 08:35:30",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "116,515 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "15"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "August 29, 2021:      |     Maps     |   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-04 08:34:46",
+      "lat": "48.552",
+      "lng": "-120.194",
+      "size": "70,186 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "70"
+    },
+    {
+      "name": "Oak Grove Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Grove fire was reported at 2:48 p.m., Aug. 29 to Color...",
+      "state": "UTAH",
+      "updated": "2021-09-04 08:29:45",
+      "lat": "37.318",
+      "lng": "-113.454",
+      "size": "686 Acres",
+      "url": "/incident/7826/",
+      "id": "7826",
+      "contained": "40"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-04 08:27:24",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "22,179 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "21"
+    },
+    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
@@ -25,19 +103,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-04 08:20:31",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "22,179 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "21"
     },
     {
       "name": "John Ek and Whelp Fires",
@@ -118,19 +183,6 @@
       "contained": "29"
     },
     {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "August 29, 2021:      |     Maps     |   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-03 22:55:11",
-      "lat": "48.552",
-      "lng": "-120.194",
-      "size": "70,186 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "70"
-    },
-    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "August 29, 2021:      |     Maps     |   ...",
@@ -168,19 +220,6 @@
       "url": "/incident/7786/",
       "id": "7786",
       "contained": "74"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 22:25:51",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "881,086 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "55"
     },
     {
       "name": "McCash Fire",
@@ -246,19 +285,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "43"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "MONUMENT FIRE RESOURCES: 2,477 personnel, 41 hand crews, 154 engines,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 21:48:32",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "178,069 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "35"
     },
     {
       "name": "Chickadee Creek",
@@ -350,19 +376,6 @@
       "url": "/incident/7825/",
       "id": "7825",
       "contained": "21"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles      |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 21:12:08",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "116,047 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "15"
     },
     {
       "name": "South Yaak",
@@ -740,19 +753,6 @@
       "url": "/incident/7761/",
       "id": "7761",
       "contained": "90"
-    },
-    {
-      "name": "Oak Grove Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Grove fire was reported at 2:48 p.m., Aug. 29 to Color...",
-      "state": "UTAH",
-      "updated": "2021-09-03 08:24:51",
-      "lat": "37.318",
-      "lng": "-113.454",
-      "size": "686 Acres",
-      "url": "/incident/7826/",
-      "id": "7826",
-      "contained": "30"
     },
     {
       "name": "Goat Fire",
