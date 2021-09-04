@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 17:15:20",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "214,107 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "37"
+    },
+    {
       "name": "Black Mountain Fire",
       "type": "Wildfire",
       "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
       "state": "COLORADO",
-      "updated": "2021-09-04 16:42:41",
+      "updated": "2021-09-04 17:15:00",
       "lat": "40.161",
       "lng": "-106.235",
       "size": "416 Acres",
@@ -14,16 +27,68 @@
       "contained": "21"
     },
     {
-      "name": "Caldor Fire",
+      "name": "Monument Fire",
       "type": "Wildfire",
-      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "summary": " MONUMENT FIRE RESOURCES: 2,477 personnel, 41 hand crews, 154...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-04 16:32:14",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "214,107 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
+      "updated": "2021-09-04 17:13:36",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "178,793 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "35"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": " MONUMENT FIRE RESOURCES: 2,477 personnel, 41 hand crews, 154...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 17:10:06",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,798 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "82"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-04 17:07:32",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "14,629 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "37"
+    },
+    {
+      "name": "Cedar Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-04 17:07:31",
+      "lat": "48.538",
+      "lng": "-120.418",
+      "size": "0 Acres",
+      "url": "/incident/7832/",
+      "id": "7832",
+      "contained": "0"
+    },
+    {
+      "name": "Greenwood ",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-04 16:48:40",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,089 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
       "contained": "37"
     },
     {
@@ -118,19 +183,6 @@
       "contained": "43"
     },
     {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-04 13:51:37",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "14,629 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "37"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -168,32 +220,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "20"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " MONUMENT FIRE RESOURCES: 2,477 personnel, 41 hand crews, 154...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-04 12:28:28",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "178,793 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "35"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": " MONUMENT FIRE RESOURCES: 2,477 personnel, 41 hand crews, 154...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-04 12:18:37",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,798 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "82"
     },
     {
       "name": "Walkers Fire",
@@ -339,19 +365,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-04 11:09:54",
-      "lat": "48.538",
-      "lng": "-120.418",
-      "size": "0 Acres",
-      "url": "/incident/7832/",
-      "id": "7832",
-      "contained": "0"
-    },
-    {
       "name": "Muckamuck",
       "type": "Wildfire",
       "summary": "     |     Maps     |     Update   ...",
@@ -389,19 +402,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "70"
-    },
-    {
-      "name": "Greenwood ",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-04 10:43:02",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,089 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "37"
     },
     {
       "name": "Jack Fire",
