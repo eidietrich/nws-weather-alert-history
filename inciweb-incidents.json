@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "MONUMENT FIRE RESOURCES: 2,477 personnel, 41 hand crews, 154 engines,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 21:48:32",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "178,069 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "35"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-03 21:46:49",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "5,847 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "50"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 21:45:16",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "51,297 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "6"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": " MONUMENT FIRE RESOURCES: 2,477 personnel, 41 hand crews, 154...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 21:43:33",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,798 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "66"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-03 21:43:25",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,377 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "60"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-03 21:42:37",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "85,639 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "10"
+    },
+    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": " Fire Information: Daily Update I   Daily Public Information...",
       "state": "WASHINGTON",
-      "updated": "2021-09-03 21:26:19",
+      "updated": "2021-09-03 21:42:16",
       "lat": "47.973",
       "lng": "-120.304",
       "size": "14,629 Acres",
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "37"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-03 21:35:13",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "881,086 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "55"
     },
     {
       "name": "Caldor Fire",
@@ -53,19 +144,6 @@
       "contained": "41"
     },
     {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-03 21:13:50",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "85,639 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "10"
-    },
-    {
       "name": "Black Mountain Fire",
       "type": "Wildfire",
       "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
@@ -105,19 +183,6 @@
       "contained": "74"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 20:58:30",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "881,086 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "55"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -129,19 +194,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "7"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": "MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 157 engines,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 20:52:43",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,798 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "66"
     },
     {
       "name": "Greenwood ",
@@ -168,19 +220,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "67"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " MONUMENT FIRE RESOURCES: 2,477 personnel, 38 hand crews, 157...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 20:43:26",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "178,069 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "35"
     },
     {
       "name": "John Ek and Whelp Fires",
@@ -261,32 +300,6 @@
       "contained": "24"
     },
     {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-03 17:01:47",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "5,815 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "50"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-03 16:53:53",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,377 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "60"
-    },
-    {
       "name": "Cedar Creek BAER",
       "type": "Burned Area Emergency Response",
       "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
@@ -298,19 +311,6 @@
       "url": "/incident/7832/",
       "id": "7832",
       "contained": "0"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-03 14:29:33",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "51,297 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "1"
     },
     {
       "name": "Jack Fire",
