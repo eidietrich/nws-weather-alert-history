@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-09-04 17:31:55",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "416 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "21"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-04 17:15:20",
+      "updated": "2021-09-04 17:31:41",
       "lat": "38.584",
       "lng": "-120.534",
       "size": "214,107 Acres",
@@ -14,17 +27,30 @@
       "contained": "37"
     },
     {
-      "name": "Black Mountain Fire",
+      "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-09-04 17:15:00",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "416 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "21"
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 17:26:51",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "885,954 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "55"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": " MONUMENT FIRE RESOURCES: 2,477 personnel, 41 hand crews, 154...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 17:21:45",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,798 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "82"
     },
     {
       "name": "Monument Fire",
@@ -38,19 +64,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "35"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": " MONUMENT FIRE RESOURCES: 2,477 personnel, 41 hand crews, 154...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-04 17:10:06",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,798 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "82"
     },
     {
       "name": "Twentyfive Mile",
@@ -103,19 +116,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "77"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-04 16:24:47",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "885,954 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "55"
     },
     {
       "name": "River Complex 2021",
