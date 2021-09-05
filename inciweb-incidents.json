@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-05 16:26:01",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "893,852 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "56"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Monument North Zone Fire and Knob Fire Morning Update September 5,...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-05 16:11:54",
+      "updated": "2021-09-05 16:24:47",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "179,276 Acres",
@@ -18,26 +31,13 @@
       "type": "Wildfire",
       "summary": "Monument North Zone Fire and Knob Fire Morning Update September 5,...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-05 16:11:21",
+      "updated": "2021-09-05 16:13:34",
       "lat": "40.916",
       "lng": "-123.634",
       "size": "2,414 Acres",
       "url": "/incident/7827/",
       "id": "7827",
       "contained": "82"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 16:10:39",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "893,852 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "56"
     },
     {
       "name": "River Complex 2021",
@@ -2013,32 +2013,6 @@
       "size": "1,608 Acres",
       "url": "/incident/7502/",
       "id": "7502",
-      "contained": "100"
-    },
-    {
-      "name": "Warren Fire",
-      "type": "Wildfire",
-      "summary": "The Warren Fire was contained at 1,400 acres on June 7 at",
-      "state": "ARIZONA",
-      "updated": "2021-06-07 16:27:05",
-      "lat": "31.795",
-      "lng": "-109.169",
-      "size": "1,400 Acres",
-      "url": "/incident/7503/",
-      "id": "7503",
-      "contained": "100"
-    },
-    {
-      "name": "Harshaw Fire",
-      "type": "Wildfire",
-      "summary": "The Harshaw Fire was contained at 149 acres on June 3 at",
-      "state": "ARIZONA",
-      "updated": "2021-06-07 16:25:32",
-      "lat": "31.531",
-      "lng": "-110.686",
-      "size": "149 Acres",
-      "url": "/incident/7506/",
-      "id": "7506",
       "contained": "100"
     }
   ]
