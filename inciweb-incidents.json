@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-04 23:14:14",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "14,629 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "37"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "Email: 2021.DevilsKnob@Firenet.gov Information line: 541.900.6133 -...",
+      "state": "OREGON",
+      "updated": "2021-09-04 23:06:36",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "43,830 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "35"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 23:03:20",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "889,001 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "56"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-04 23:02:30",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,377 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "65"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": "September 4, 2021 EVENING UPDATE MONUMENT FIRE RESOURCES: 2,110...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 22:56:31",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,414 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "82"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-04 22:56:27",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "14,600 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "7"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
-      "summary": "September 4, 2021 EVENING UPDATEMONUMENT FIRE RESOURCES: 2,223...",
+      "summary": "September 4, 2021 EVENING UPDATEMONUMENT FIRE RESOURCES: 2,110...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-04 22:43:50",
+      "updated": "2021-09-04 22:55:45",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "179,135 Acres",
@@ -14,17 +92,17 @@
       "contained": "35"
     },
     {
-      "name": "Bull Complex ",
+      "name": "Chickadee Creek",
       "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-04 22:42:42",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "14,600 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "7"
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-04 22:51:52",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "5,847 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "55"
     },
     {
       "name": "River Complex 2021",
@@ -51,32 +129,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "67"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": "September 4, 2021 EVENING UPDATE MONUMENT FIRE RESOURCES: 2,223...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-04 22:20:31",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,798 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "82"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-04 22:02:00",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "14,629 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "37"
     },
     {
       "name": "French Fire (CA)",
@@ -287,19 +339,6 @@
       "contained": "37"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-04 20:23:31",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "889,001 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "56"
-    },
-    {
       "name": "Christensen Fire ",
       "type": "Wildfire",
       "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
@@ -365,19 +404,6 @@
       "contained": "24"
     },
     {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "Email: 2021.DevilsKnob@Firenet.gov Information line: 541.900.6133 -...",
-      "state": "OREGON",
-      "updated": "2021-09-04 18:15:56",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "43,830 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "29"
-    },
-    {
       "name": "Cedar Creek BAER",
       "type": "Burned Area Emergency Response",
       "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
@@ -441,32 +467,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-04 11:35:50",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "5,847 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "50"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-04 11:35:33",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,377 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "60"
     },
     {
       "name": "Boundary Fire",
