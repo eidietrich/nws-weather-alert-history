@@ -1,6 +1,149 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 19:48:47",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "214,107 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "37"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-04 19:42:32",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "889,001 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "56"
+    },
+    {
+      "name": "Christensen Fire ",
+      "type": "Wildfire",
+      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-04 19:40:37",
+      "lat": "45.781",
+      "lng": "-113.226",
+      "size": "11,987 Acres",
+      "url": "/incident/7702/",
+      "id": "7702",
+      "contained": "20"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-09-04 19:38:00",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,371 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "74"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-04 19:37:46",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "40,736 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "58"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-04 19:34:31",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "39,035 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "26"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-09-04 19:34:12",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,097 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "41"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-04 19:32:29",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "14,334 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "24"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-04 19:30:36",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "14,629 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "37"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-04 19:29:29",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,232 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "67"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-04 19:06:45",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "22,179 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "21"
+    },
+    {
       "name": "John Ek and Whelp Fires",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF WebpageOn the afternoon of...",
@@ -12,19 +155,6 @@
       "url": "/incident/7806/",
       "id": "7806",
       "contained": "0"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-04 18:32:26",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "214,107 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "37"
     },
     {
       "name": "Trestle Creek Complex",
@@ -53,45 +183,6 @@
       "contained": "15"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-04 18:24:27",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "40,736 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "58"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-04 18:20:37",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "885,954 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "55"
-    },
-    {
-      "name": "Christensen Fire ",
-      "type": "Wildfire",
-      "summary": "The Christensen Fire started on July 16, 2021 approximately 12 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-04 18:19:29",
-      "lat": "45.781",
-      "lng": "-113.226",
-      "size": "11,987 Acres",
-      "url": "/incident/7702/",
-      "id": "7702",
-      "contained": "20"
-    },
-    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -103,19 +194,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "10"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-04 18:17:23",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "14,334 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "24"
     },
     {
       "name": "Devil's Knob Complex",
@@ -168,19 +246,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "35"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-04 17:07:32",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "14,629 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "37"
     },
     {
       "name": "Cedar Creek BAER",
@@ -274,19 +339,6 @@
       "contained": "7"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-04 13:05:18",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "22,179 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "21"
-    },
-    {
       "name": "Scarface Fire",
       "type": "Wildfire",
       "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
@@ -311,19 +363,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "52"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-04 11:47:35",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "39,035 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "26"
     },
     {
       "name": "Summit Trail",
@@ -389,32 +428,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "15"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-09-04 11:26:10",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,097 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "41"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-09-04 11:24:22",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,371 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "74"
     },
     {
       "name": "Cub Creek 2 BAER",
@@ -558,19 +571,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-03 20:49:22",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,232 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "67"
     },
     {
       "name": "Fox Complex",
