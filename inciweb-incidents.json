@@ -1,24 +1,89 @@
 {
   "markers": [
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-06 13:17:56",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "24,930 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "20"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Fire Information: 760-515-7922 (8am to 8pm)The French Fire started...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 13:17:26",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "26,702 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "52"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-06 13:16:25",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "17,260 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "40"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
+      "state": "IDAHO",
+      "updated": "2021-09-06 13:13:02",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "3,011 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "20"
+    },
+    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": " Float boaters with a Middle Fork of the Salmon launch permit can...",
       "state": "IDAHO",
-      "updated": "2021-09-06 12:44:40",
+      "updated": "2021-09-06 13:12:18",
       "lat": "44.532",
       "lng": "-115.329",
       "size": "26,589 Acres",
       "url": "/incident/7795/",
       "id": "7795",
-      "contained": "15"
+      "contained": "20"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-09-06 13:10:25",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,452 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "77"
     },
     {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-06 12:43:10",
+      "updated": "2021-09-06 13:02:34",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "121,371 Acres",
@@ -27,17 +92,43 @@
       "contained": "21"
     },
     {
-      "name": "South Yaak",
+      "name": "Stateline Complex",
       "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-09-06 12:59:21",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "12,764 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "50"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 12:53:33",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "910,495 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "57"
+    },
+    {
+      "name": "Woods Creek Fire",
+      "type": "Wildfire",
+      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
       "state": "MONTANA",
-      "updated": "2021-09-06 12:42:13",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,452 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "77"
+      "updated": "2021-09-06 12:47:22",
+      "lat": "46.553",
+      "lng": "-111.356",
+      "size": "55,424 Acres",
+      "url": "/incident/7649/",
+      "id": "7649",
+      "contained": "90"
     },
     {
       "name": "Devil's Knob Complex",
@@ -51,19 +142,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "35"
-    },
-    {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-09-06 12:37:25",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "12,764 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "50"
     },
     {
       "name": "Burnt Peak Fire",
@@ -90,19 +168,6 @@
       "url": "/incident/7648/",
       "id": "7648",
       "contained": "60"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-06 12:17:43",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "910,495 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "57"
     },
     {
       "name": "Antelope Fire",
@@ -168,19 +233,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "7"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-06 11:30:10",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "24,930 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "20"
     },
     {
       "name": "Trail Creek Fire",
@@ -287,19 +339,6 @@
       "contained": "70"
     },
     {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-06 10:57:57",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "17,260 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "40"
-    },
-    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -311,19 +350,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "14"
-    },
-    {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
-      "state": "IDAHO",
-      "updated": "2021-09-06 10:56:59",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "3,011 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "20"
     },
     {
       "name": "Crater Ridge",
@@ -456,19 +482,6 @@
       "contained": "100"
     },
     {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Fire Information: 760-515-7922 (8am to 8pm)The French Fire started...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-06 09:35:20",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "26,702 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "52"
-    },
-    {
       "name": "Cub Creek 2 BAER",
       "type": "Burned Area Emergency Response",
       "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
@@ -597,19 +610,6 @@
       "url": "/incident/7825/",
       "id": "7825",
       "contained": "48"
-    },
-    {
-      "name": "Woods Creek Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
-      "state": "MONTANA",
-      "updated": "2021-09-05 15:43:02",
-      "lat": "46.553",
-      "lng": "-111.356",
-      "size": "55,424 Acres",
-      "url": "/incident/7649/",
-      "id": "7649",
-      "contained": "90"
     },
     {
       "name": "Chaparral Fire",
