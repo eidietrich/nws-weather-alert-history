@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-05 19:59:03",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "41,045 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "58"
+    },
+    {
+      "name": "Muckamuck",
+      "type": "Wildfire",
+      "summary": "     |     Maps     |     Update   ...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-05 19:49:30",
+      "lat": "48.576",
+      "lng": "-119.832",
+      "size": "13,314 Acres",
+      "url": "/incident/7786/",
+      "id": "7786",
+      "contained": "74"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-05 19:49:19",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "14,334 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "24"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
+      "state": "IDAHO",
+      "updated": "2021-09-05 19:49:15",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "6,641 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "60"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-05 19:23:15",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "893,852 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "56"
+    },
+    {
       "name": "John Ek and Whelp Fires",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF WebpageOn the afternoon of...",
       "state": "MINNESOTA",
-      "updated": "2021-09-05 18:40:10",
+      "updated": "2021-09-05 18:58:29",
       "lat": "47.909",
       "lng": "-90.992",
       "size": "1,357 Acres",
@@ -14,17 +79,17 @@
       "contained": "0"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Schneider Springs",
       "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 18:39:51",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "893,852 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "56"
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-05 18:53:36",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "89,885 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "14"
     },
     {
       "name": "Scarface Fire",
@@ -313,32 +378,6 @@
       "contained": "0"
     },
     {
-      "name": "Muckamuck",
-      "type": "Wildfire",
-      "summary": "     |     Maps     |     Update   ...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-05 11:24:02",
-      "lat": "48.576",
-      "lng": "-119.832",
-      "size": "13,314 Acres",
-      "url": "/incident/7786/",
-      "id": "7786",
-      "contained": "74"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-05 11:23:41",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "89,885 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "14"
-    },
-    {
       "name": "Cub Creek 2 Fire",
       "type": "Wildfire",
       "summary": "    |     Maps     |     Update    ...",
@@ -441,32 +480,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-05 10:39:44",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "14,334 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "24"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-05 10:36:13",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "40,736 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "58"
     },
     {
       "name": "McCash Fire",
@@ -596,19 +609,6 @@
       "size": "686 Acres",
       "url": "/incident/7826/",
       "id": "7826",
-      "contained": "50"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
-      "state": "IDAHO",
-      "updated": "2021-09-04 21:32:29",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "6,641 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
       "contained": "50"
     },
     {
