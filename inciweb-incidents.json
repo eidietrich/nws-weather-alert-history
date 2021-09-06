@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-05 21:50:00",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "898,951 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "56"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Monument North Zone Fire and Knob Fire Morning Update September 5,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-05 21:50:00",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "181,617 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "37"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Daily Update en español | Daily Operations Video...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-05 21:40:29",
+      "updated": "2021-09-05 21:45:34",
       "lat": "41.5",
       "lng": "-121.929",
       "size": "71,508 Acres",
@@ -14,17 +40,43 @@
       "contained": "83"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Caldor Fire",
       "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "summary": "",
       "state": "CALIFORNIA",
-      "updated": "2021-09-05 21:40:05",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "898,951 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "56"
+      "updated": "2021-09-05 21:42:54",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "215,400 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "44"
+    },
+    {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "    |     Maps     |     Update    ...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-05 21:42:02",
+      "lat": "48.552",
+      "lng": "-120.194",
+      "size": "70,186 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "70"
+    },
+    {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-09-05 21:41:08",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "416 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "48"
     },
     {
       "name": "Bull Complex ",
@@ -38,19 +90,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "7"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 21:38:35",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "215,400 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "44"
     },
     {
       "name": "Middle Fork Complex",
@@ -157,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Monument North Zone Fire and Knob Fire Morning Update September 5,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 20:37:00",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "181,617 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "37"
-    },
-    {
       "name": "French Fire (CA)",
       "type": "Wildfire",
       "summary": " Fire Information: 760-515-7922 (8am to 8pm)The French Fire started...",
@@ -207,19 +233,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "21"
-    },
-    {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-09-05 20:26:31",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "416 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "35"
     },
     {
       "name": "Knob",
@@ -467,19 +480,6 @@
       "url": "/incident/7797/",
       "id": "7797",
       "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "    |     Maps     |     Update    ...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-05 11:22:22",
-      "lat": "48.552",
-      "lng": "-120.194",
-      "size": "70,186 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "70"
     },
     {
       "name": "Cedar Creek",
