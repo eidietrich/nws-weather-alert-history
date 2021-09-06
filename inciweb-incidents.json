@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 08:32:30",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "215,400 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "44"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "Email: 2021.DevilsKnob@Firenet.govInformation line: 541.900.6133 - 8...",
+      "state": "OREGON",
+      "updated": "2021-09-06 08:31:40",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "46,596 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "35"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-06 08:29:11",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,987 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-06 08:29:08",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "41,185 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "28"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 08:28:21",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "910,495 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "57"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
+      "state": "IDAHO",
+      "updated": "2021-09-06 08:24:56",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "3,011 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "20"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 08:14:27",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "121,371 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "21"
+    },
+    {
       "name": "John Ek and Whelp Fires",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF WebpageOn the afternoon of...",
@@ -25,19 +116,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "15"
-    },
-    {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
-      "state": "IDAHO",
-      "updated": "2021-09-06 06:54:17",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "3,011 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "20"
     },
     {
       "name": "Mud Lick Fire",
@@ -77,19 +155,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "14"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 23:55:55",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "898,951 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "56"
     },
     {
       "name": "Twentyfive Mile",
@@ -142,19 +207,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "7"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "Email: 2021.DevilsKnob@Firenet.govInformation line: 541.900.6133 - 8...",
-      "state": "OREGON",
-      "updated": "2021-09-05 23:04:37",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "46,596 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "35"
     },
     {
       "name": "Walker Creek Fire",
@@ -248,32 +300,6 @@
       "contained": "64"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 22:09:15",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "215,400 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "44"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-05 22:01:21",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "40,126 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "28"
-    },
-    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "     |     Maps     |     Update    ...",
@@ -324,19 +350,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "13"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-05 21:20:58",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,987 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
     },
     {
       "name": "Trail Creek Fire",
@@ -402,19 +415,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "52"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-05 20:32:54",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "121,273 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "21"
     },
     {
       "name": "Muckamuck",
