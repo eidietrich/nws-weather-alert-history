@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-09-06 18:16:45",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,452 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "77"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-06 17:42:09",
+      "updated": "2021-09-06 18:16:25",
       "lat": "38.584",
       "lng": "-120.534",
       "size": "216,358 Acres",
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "44"
+    },
+    {
+      "name": "John Ek and Whelp Fires",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF Webpage | September 4, 2021...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-06 18:16:24",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "1,357 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
     },
     {
       "name": "Summit Trail",
@@ -142,19 +168,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "40"
-    },
-    {
-      "name": "John Ek and Whelp Fires",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageOn the afternoon of...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-06 15:45:43",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "1,357 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
     },
     {
       "name": "Chaparral Fire",
@@ -324,19 +337,6 @@
       "url": "/incident/7788/",
       "id": "7788",
       "contained": "65"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-09-06 13:23:49",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,452 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "77"
     },
     {
       "name": "Woods Creek Fire",
@@ -2001,19 +2001,6 @@
       "url": "/incident/7504/",
       "id": "7504",
       "contained": "85"
-    },
-    {
-      "name": "Wilson Creek Fire",
-      "type": "Wildfire",
-      "summary": " The 1,608-acre Wilson Creek Fire on Mt. Wilson, about 15 miles...",
-      "state": "NEVADA",
-      "updated": "2021-06-08 17:58:36",
-      "lat": "38.25",
-      "lng": "-114.381",
-      "size": "1,608 Acres",
-      "url": "/incident/7502/",
-      "id": "7502",
-      "contained": "100"
     }
   ]
 }
