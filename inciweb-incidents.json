@@ -1,24 +1,102 @@
 {
   "markers": [
     {
-      "name": "Twentyfive Mile",
+      "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 14:42:46",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "910,495 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "57"
+    },
+    {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": " Fire Information: 760-515-7922 (8am to 8pm)The French Fire started...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 14:40:11",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "26,702 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "52"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
+      "state": "IDAHO",
+      "updated": "2021-09-06 14:38:18",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "6,641 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "60"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
       "state": "WASHINGTON",
-      "updated": "2021-09-06 14:15:25",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "17,260 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "40"
+      "updated": "2021-09-06 14:38:15",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "92,775 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "14"
+    },
+    {
+      "name": "Stateline Complex",
+      "type": "Wildfire",
+      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
+      "state": "IDAHO",
+      "updated": "2021-09-06 14:37:43",
+      "lat": "47.128",
+      "lng": "-115.354",
+      "size": "12,764 Acres",
+      "url": "/incident/7627/",
+      "id": "7627",
+      "contained": "50"
+    },
+    {
+      "name": "Larkins Complex",
+      "type": "Wildfire",
+      "summary": "The Larkins Fire Complex is located on the St. Joe River Ranger...",
+      "state": "IDAHO",
+      "updated": "2021-09-06 14:36:59",
+      "lat": "46.967",
+      "lng": "-115.671",
+      "size": "4,526 Acres",
+      "url": "/incident/7722/",
+      "id": "7722",
+      "contained": "80"
+    },
+    {
+      "name": "Greenwood ",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-06 14:33:35",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,089 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "37"
     },
     {
       "name": "Knob",
       "type": "Wildfire",
       "summary": "Monument Fire and Knob Fire Morning Update Monday, September 6, 2021...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-06 14:13:23",
+      "updated": "2021-09-06 14:30:10",
       "lat": "40.916",
       "lng": "-123.634",
       "size": "2,414 Acres",
@@ -31,13 +109,26 @@
       "type": "Wildfire",
       "summary": "Monument Fire and Knob Fire Morning Update Monday, September 6, 2021...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-06 14:10:11",
+      "updated": "2021-09-06 14:29:29",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "183,371 Acres",
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "37"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-06 14:15:25",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "17,260 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "40"
     },
     {
       "name": "River Complex 2021",
@@ -64,32 +155,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "35"
-    },
-    {
-      "name": "Larkins Complex",
-      "type": "Wildfire",
-      "summary": "The Larkins Fire Complex is located on the St. Joe River Ranger...",
-      "state": "IDAHO",
-      "updated": "2021-09-06 13:48:05",
-      "lat": "46.967",
-      "lng": "-115.671",
-      "size": "4,526 Acres",
-      "url": "/incident/7722/",
-      "id": "7722",
-      "contained": "80"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": " Fire Information: 760-515-7922 (8am to 8pm)The French Fire started...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-06 13:47:24",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "26,702 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "52"
     },
     {
       "name": "Black Mountain Fire",
@@ -144,19 +209,6 @@
       "contained": "65"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-06 13:33:06",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "910,495 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "57"
-    },
-    {
       "name": "South Yaak",
       "type": "Wildfire",
       "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
@@ -196,19 +248,6 @@
       "contained": "20"
     },
     {
-      "name": "Stateline Complex",
-      "type": "Wildfire",
-      "summary": "The Stateline Fire Complex is located Southwest of St. Regis,...",
-      "state": "IDAHO",
-      "updated": "2021-09-06 12:59:21",
-      "lat": "47.128",
-      "lng": "-115.354",
-      "size": "12,764 Acres",
-      "url": "/incident/7627/",
-      "id": "7627",
-      "contained": "50"
-    },
-    {
       "name": "Woods Creek Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Woods Creek Fire was discovered on Saturday,...",
@@ -233,19 +272,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "41"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
-      "state": "IDAHO",
-      "updated": "2021-09-06 12:35:38",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "6,641 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "60"
     },
     {
       "name": "Antelope Fire",
@@ -391,19 +417,6 @@
       "contained": "70"
     },
     {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-06 10:57:09",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "92,775 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "14"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -467,19 +480,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "28"
-    },
-    {
-      "name": "Greenwood ",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-06 10:13:07",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,089 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "37"
     },
     {
       "name": "Lukens",
