@@ -1,17 +1,147 @@
 {
   "markers": [
     {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " Float boaters with a Middle Fork of the Salmon launch permit can...",
+      "state": "IDAHO",
+      "updated": "2021-09-07 10:31:25",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "26,589 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "30"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-09-07 10:30:27",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,097 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "41"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-07 10:29:02",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "23,990 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 10:28:33",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "917,579 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-07 10:27:11",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "26,031 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "20"
+    },
+    {
+      "name": "Nason Fire",
+      "type": "Wildfire",
+      "summary": " Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-07 10:27:07",
+      "lat": "47.828",
+      "lng": "-120.96",
+      "size": "610 Acres",
+      "url": "/incident/7799/",
+      "id": "7799",
+      "contained": "15"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": " The Devil's Knob Complex initially was a group of 43 fires mostly...",
+      "state": "OREGON",
+      "updated": "2021-09-07 10:24:16",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "50,920 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "35"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-07 10:23:32",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "17,201 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "7"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Monument Fire and Knob Fire Evening Update Monday, September 6, 2021...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-07 10:16:25",
+      "updated": "2021-09-07 10:23:14",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "185,505 Acres",
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "41"
+    },
+    {
+      "name": "Knob",
+      "type": "Wildfire",
+      "summary": "Monument Fire and Knob Fire Evening Update Monday, September 6, 2021...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 10:20:14",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,414 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "89"
+    },
+    {
+      "name": "Cedar Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-07 10:19:16",
+      "lat": "48.538",
+      "lng": "-120.418",
+      "size": "0 Acres",
+      "url": "/incident/7832/",
+      "id": "7832",
+      "contained": "0"
     },
     {
       "name": "West Lolo Complex (Thorne Creek)",
@@ -27,32 +157,6 @@
       "contained": "80"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 10:14:59",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "917,579 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
-    },
-    {
-      "name": "Cedar Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-07 10:11:11",
-      "lat": "48.538",
-      "lng": "-120.418",
-      "size": "0 Acres",
-      "url": "/incident/7832/",
-      "id": "7832",
-      "contained": "0"
-    },
-    {
       "name": "Cub Creek 2 BAER",
       "type": "Burned Area Emergency Response",
       "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
@@ -64,45 +168,6 @@
       "url": "/incident/7830/",
       "id": "7830",
       "contained": "0"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-09-07 10:07:46",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,097 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "41"
-    },
-    {
-      "name": "Knob",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Evening Update Monday, September 6, 2021...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 10:06:37",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,414 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "89"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": " The Devil's Knob Complex initially was a group of 43 fires mostly...",
-      "state": "OREGON",
-      "updated": "2021-09-07 10:03:19",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "50,920 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "35"
     },
     {
       "name": "McCash Fire",
@@ -129,19 +194,6 @@
       "url": "/incident/7696/",
       "id": "7696",
       "contained": "89"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-07 10:01:59",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "16,724 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "7"
     },
     {
       "name": "Rough Patch",
@@ -235,19 +287,6 @@
       "contained": "83"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-07 09:46:56",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,990 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
@@ -300,19 +339,6 @@
       "contained": "14"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-07 08:28:50",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "26,031 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "20"
-    },
-    {
       "name": "John Ek and Whelp Fires",
       "type": "Wildfire",
       "summary": " Superior NF Facebook  |  Superior NF Webpage | September 4, 2021...",
@@ -324,19 +350,6 @@
       "url": "/incident/7806/",
       "id": "7806",
       "contained": "0"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " Float boaters with a Middle Fork of the Salmon launch permit can...",
-      "state": "IDAHO",
-      "updated": "2021-09-07 07:16:43",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "26,589 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "30"
     },
     {
       "name": "Mud Lick Fire",
@@ -727,19 +740,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "98"
-    },
-    {
-      "name": "Nason Fire",
-      "type": "Wildfire",
-      "summary": " Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-03 13:02:26",
-      "lat": "47.828",
-      "lng": "-120.96",
-      "size": "388 Acres",
-      "url": "/incident/7799/",
-      "id": "7799",
-      "contained": "0"
     },
     {
       "name": "American Fork Fire",
