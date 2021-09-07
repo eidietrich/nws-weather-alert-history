@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Monument Fire and Knob Fire Evening Update Monday, September 6, 2021...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-06 22:44:17",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "184,142 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "41"
+    },
+    {
+      "name": "Chickadee Creek",
+      "type": "Wildfire",
+      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-06 22:44:10",
+      "lat": "48.763",
+      "lng": "-119.788",
+      "size": "5,854 Acres",
+      "url": "/incident/7788/",
+      "id": "7788",
+      "contained": "65"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
       "state": "OREGON",
-      "updated": "2021-09-06 22:28:19",
+      "updated": "2021-09-06 22:41:42",
       "lat": "44.879",
       "lng": "-122.009",
       "size": "16,724 Acres",
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "7"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-09-06 22:31:34",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,097 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "41"
     },
     {
       "name": "Rough Patch",
@@ -142,32 +181,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "35"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Monday, September 6, 2021...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-06 21:08:13",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "184,142 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "41"
-    },
-    {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-09-06 21:06:52",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,097 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "41"
     },
     {
       "name": "South Yaak",
@@ -402,19 +415,6 @@
       "url": "/incident/7774/",
       "id": "7774",
       "contained": "70"
-    },
-    {
-      "name": "Chickadee Creek",
-      "type": "Wildfire",
-      "summary": "The Chickadee Creek Fire was reported on August 4, 2021. The fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-06 13:37:43",
-      "lat": "48.763",
-      "lng": "-119.788",
-      "size": "5,847 Acres",
-      "url": "/incident/7788/",
-      "id": "7788",
-      "contained": "65"
     },
     {
       "name": "Woods Creek Fire",
