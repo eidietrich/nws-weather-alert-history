@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cub Creek 2 BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-08 12:24:43",
+      "lat": "48.631",
+      "lng": "-120.158",
+      "size": "0 Acres",
+      "url": "/incident/7830/",
+      "id": "7830",
+      "contained": "0"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-08 12:03:12",
+      "updated": "2021-09-08 12:24:20",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "922,192 Acres",
@@ -14,17 +27,56 @@
       "contained": "59"
     },
     {
-      "name": "Cub Creek 2 BAER",
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Monument Fire and Knob Fire Morning Update Wednesday, September 8,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 12:22:08",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "189,366 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "41"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": "Monument Fire and Knob Fire Morning Update Wednesday, September 8,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 12:18:31",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,414 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "89"
+    },
+    {
+      "name": "Cedar Creek BAER",
       "type": "Burned Area Emergency Response",
       "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
       "state": "WASHINGTON",
-      "updated": "2021-09-08 12:02:55",
-      "lat": "48.631",
-      "lng": "-120.158",
+      "updated": "2021-09-08 12:18:05",
+      "lat": "48.538",
+      "lng": "-120.418",
       "size": "0 Acres",
-      "url": "/incident/7830/",
-      "id": "7830",
+      "url": "/incident/7832/",
+      "id": "7832",
       "contained": "0"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-08 12:10:32",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "48,457 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "64"
     },
     {
       "name": "Middle Fork Complex",
@@ -40,19 +92,6 @@
       "contained": "20"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-08 12:00:55",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "48,457 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "64"
-    },
-    {
       "name": "Scarface Fire",
       "type": "Wildfire",
       "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
@@ -64,19 +103,6 @@
       "url": "/incident/7793/",
       "id": "7793",
       "contained": "20"
-    },
-    {
-      "name": "Cedar Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-08 11:57:08",
-      "lat": "48.538",
-      "lng": "-120.418",
-      "size": "0 Acres",
-      "url": "/incident/7832/",
-      "id": "7832",
-      "contained": "0"
     },
     {
       "name": "Antelope Fire",
@@ -103,19 +129,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "30"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Monument Fire and Knob Fire Evening Update Tuesday, September 7,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 11:53:52",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "189,366 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "41"
     },
     {
       "name": "Muddy Slide Fire",
@@ -246,19 +259,6 @@
       "url": "/incident/7774/",
       "id": "7774",
       "contained": "80"
-    },
-    {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Evening Update Tuesday, September 7,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 11:24:30",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,414 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "89"
     },
     {
       "name": "Rough Patch",
