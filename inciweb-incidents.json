@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Monument Fire and Knob Fire Morning Update Tuesday, September 7, 2021...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 21:24:45",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "185,919 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "42"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-07 21:24:34",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "94,206 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "14"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-07 20:56:56",
+      "updated": "2021-09-07 21:16:23",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "135,689 Acres",
@@ -14,37 +40,24 @@
       "contained": "19"
     },
     {
-      "name": "Devil's Knob Complex",
+      "name": "Knob Fire",
       "type": "Wildfire",
-      "summary": " The Devil's Knob Complex initially was a group of 43 fires mostly...",
-      "state": "OREGON",
-      "updated": "2021-09-07 20:56:56",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "50,920 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "35"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-07 20:55:57",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "14,463 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "24"
+      "summary": "Monument Fire and Knob Fire Morning Update Tuesday, September 7,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 21:16:16",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,414 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "89"
     },
     {
       "name": "Cougar Peak Fire",
       "type": "Wildfire",
-      "summary": "The Cougar Peak Fire is was discovered at 1:45 p.m. and currently...",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
       "state": "OREGON",
-      "updated": "2021-09-07 20:53:49",
+      "updated": "2021-09-07 21:15:58",
       "lat": "42.277",
       "lng": "-120.613",
       "size": "0 Acres",
@@ -53,17 +66,82 @@
       "contained": "0"
     },
     {
+      "name": "French Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The French Fire started on Wednesday, August 18, west of Lake...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 21:09:49",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "26,745 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "72"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-07 21:07:42",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,502 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "75"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 21:06:21",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "217,007 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "50"
+    },
+    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek fire Open House is scheduled for Tuesday, September...",
       "state": "MONTANA",
-      "updated": "2021-09-07 20:52:51",
+      "updated": "2021-09-07 21:02:23",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "44,254 Acres",
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "58"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-07 21:02:08",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "14,463 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "24"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": " The Devil's Knob Complex initially was a group of 43 fires mostly...",
+      "state": "OREGON",
+      "updated": "2021-09-07 20:57:34",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "50,920 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "35"
     },
     {
       "name": "Greenwood ",
@@ -77,19 +155,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "49"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 20:33:58",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "217,007 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "50"
     },
     {
       "name": "Chaparral Fire",
@@ -196,32 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Tuesday, September 7,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 18:49:53",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,414 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "89"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Tuesday, September 7, 2021...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 18:44:10",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "185,505 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "41"
-    },
-    {
       "name": "Sylvan Fire",
       "type": "Wildfire",
       "summary": "People visiting Sylvan Lake State Park and other open areas near the...",
@@ -246,19 +285,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "59"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-07 18:08:21",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,502 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "75"
     },
     {
       "name": "Middle Fork Complex",
@@ -404,19 +430,6 @@
       "contained": "40"
     },
     {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire started on Wednesday, August 18, west of Lake...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 12:57:59",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "26,745 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "65"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
@@ -506,19 +519,6 @@
       "url": "/incident/7774/",
       "id": "7774",
       "contained": "75"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-07 11:11:38",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "94,206 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "14"
     },
     {
       "name": "Nason Fire",
