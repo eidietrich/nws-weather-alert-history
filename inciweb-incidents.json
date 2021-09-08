@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-08 10:34:31",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "43,178 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "35"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-08 10:16:33",
+      "updated": "2021-09-08 10:34:20",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "922,192 Acres",
@@ -14,17 +27,56 @@
       "contained": "59"
     },
     {
-      "name": "Rough Patch",
+      "name": "French Fire (CA)",
       "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "summary": "The French Fire started on Wednesday, August 18, west of Lake...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 10:28:30",
+      "lat": "35.687",
+      "lng": "-118.55",
+      "size": "26,745 Acres",
+      "url": "/incident/7813/",
+      "id": "7813",
+      "contained": "72"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-08 10:22:18",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "97,288 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "17"
+    },
+    {
+      "name": "Jakes Gulch",
+      "type": "Wildfire",
+      "summary": " The Jake Gulch Fire was reported on Sunday, September 5, 2021. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-08 10:20:08",
+      "lat": "43.858",
+      "lng": "-114.961",
+      "size": "330 Acres",
+      "url": "/incident/7834/",
+      "id": "7834",
+      "contained": "0"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
       "state": "OREGON",
-      "updated": "2021-09-08 10:16:11",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "43,178 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "35"
+      "updated": "2021-09-08 10:19:51",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "17,962 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "7"
     },
     {
       "name": "Black Mountain Fire",
@@ -51,19 +103,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "70"
-    },
-    {
-      "name": "Jakes Gulch",
-      "type": "Wildfire",
-      "summary": " The Jake Gulch Fire was reported on Sunday, September 5, 2021. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-08 10:11:59",
-      "lat": "43.858",
-      "lng": "-114.961",
-      "size": "330 Acres",
-      "url": "/incident/7834/",
-      "id": "7834",
-      "contained": "0"
     },
     {
       "name": "Devil's Knob Complex",
@@ -157,19 +196,6 @@
       "contained": "58"
     },
     {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-08 09:54:27",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "97,288 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "17"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": " Monument Fire and Knob Fire Evening Update Tuesday, September 7,...",
@@ -194,19 +220,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "50"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-08 09:46:03",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "17,962 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "7"
     },
     {
       "name": "County Line",
@@ -337,19 +350,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "19"
-    },
-    {
-      "name": "French Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The French Fire started on Wednesday, August 18, west of Lake...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 08:59:04",
-      "lat": "35.687",
-      "lng": "-118.55",
-      "size": "26,745 Acres",
-      "url": "/incident/7813/",
-      "id": "7813",
-      "contained": "72"
     },
     {
       "name": "John Ek and Whelp Fires",
