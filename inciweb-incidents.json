@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Monument Fire and Knob Fire Morning Update Tuesday, September 7, 2021...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 23:20:16",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "185,919 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "42"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 23:19:33",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "919,300 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 23:12:41",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "135,689 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "19"
+    },
+    {
+      "name": "Burnt Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
+      "state": "MONTANA",
+      "updated": "2021-09-07 23:02:20",
+      "lat": "48.34",
+      "lng": "-115.968",
+      "size": "4,097 Acres",
+      "url": "/incident/7619/",
+      "id": "7619",
+      "contained": "41"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-07 23:02:18",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "17,864 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "40"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-09-07 23:00:14",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,452 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "89"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-07 22:59:07",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "59,049 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "15"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
       "state": "OREGON",
-      "updated": "2021-09-07 22:43:29",
+      "updated": "2021-09-07 22:56:32",
       "lat": "44.879",
       "lng": "-122.009",
       "size": "17,201 Acres",
@@ -25,19 +116,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 22:23:42",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "59,049 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "15"
     },
     {
       "name": "Rough Patch",
@@ -79,45 +157,6 @@
       "contained": "14"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 22:04:12",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "919,300 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-07 22:03:25",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "17,864 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "40"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 21:51:29",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "135,689 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "19"
-    },
-    {
       "name": "French Fire (CA)",
       "type": "Wildfire",
       "summary": "The French Fire started on Wednesday, August 18, west of Lake...",
@@ -129,19 +168,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "72"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Tuesday, September 7, 2021...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 21:25:14",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "185,919 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "42"
     },
     {
       "name": "Knob Fire",
@@ -612,19 +638,6 @@
       "contained": "0"
     },
     {
-      "name": "Burnt Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
-      "state": "MONTANA",
-      "updated": "2021-09-07 10:41:33",
-      "lat": "48.34",
-      "lng": "-115.968",
-      "size": "4,097 Acres",
-      "url": "/incident/7619/",
-      "id": "7619",
-      "contained": "41"
-    },
-    {
       "name": "Lukens",
       "type": "Wildfire",
       "summary": "The Lukens Fire is one of multiple fires burning in Yosemite National...",
@@ -675,19 +688,6 @@
       "url": "/incident/7613/",
       "id": "7613",
       "contained": "100"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-09-07 10:35:12",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,452 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "89"
     },
     {
       "name": "West Lolo Complex (Thorne Creek)",
