@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 08:25:28",
+      "lat": "38.584",
+      "lng": "-120.534",
+      "size": "217,007 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "50"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-08 08:25:21",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "17,864 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "40"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 08:23:22",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "135,689 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "19"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-08 08:21:53",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "26,031 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "20"
+    },
+    {
+      "name": "Greenwood ",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-08 08:20:54",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,112 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "49"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-08 07:58:43",
+      "updated": "2021-09-08 08:18:20",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "919,300 Acres",
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "59"
+    },
+    {
+      "name": "John Ek and Whelp Fires",
+      "type": "Wildfire",
+      "summary": " Superior NF Facebook  |  Superior NF Webpage | September 4, 2021...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-08 08:10:59",
+      "lat": "47.909",
+      "lng": "-90.992",
+      "size": "1,357 Acres",
+      "url": "/incident/7806/",
+      "id": "7806",
+      "contained": "0"
     },
     {
       "name": "Boundary Fire",
@@ -53,19 +131,6 @@
       "contained": "70"
     },
     {
-      "name": "John Ek and Whelp Fires",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF Webpage | September 4, 2021...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-08 06:30:56",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "1,357 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
-    },
-    {
       "name": "Cougar Peak Fire",
       "type": "Wildfire",
       "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
@@ -77,19 +142,6 @@
       "url": "/incident/7835/",
       "id": "7835",
       "contained": "0"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "  Para Lectores Españoles     |     Mapa Diario     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 00:14:28",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "135,689 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "19"
     },
     {
       "name": "Knob Fire",
@@ -129,19 +181,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "42"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-07 23:43:00",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "17,864 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "40"
     },
     {
       "name": "Burnt Peak Fire",
@@ -261,19 +300,6 @@
       "contained": "75"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-07 21:06:21",
-      "lat": "38.584",
-      "lng": "-120.534",
-      "size": "217,007 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "50"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek fire Open House is scheduled for Tuesday, September...",
@@ -311,19 +337,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "35"
-    },
-    {
-      "name": "Greenwood ",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-07 20:34:33",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,112 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "49"
     },
     {
       "name": "Chaparral Fire",
@@ -441,19 +454,6 @@
       "url": "/incident/7562/",
       "id": "7562",
       "contained": "90"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-07 17:38:22",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "26,031 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "20"
     },
     {
       "name": "Cub Creek 2 BAER",
