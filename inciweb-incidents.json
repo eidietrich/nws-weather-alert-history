@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-08 12:44:16",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "26,564 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "20"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "Iniweb is experiencing technical difficulties. In the meantime, this...",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-08 12:43:18",
+      "updated": "2021-09-08 13:18:55",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "922,192 Acres",
@@ -27,17 +14,69 @@
       "contained": "59"
     },
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-08 13:11:54",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "26,564 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "20"
+    },
+    {
+      "name": "Dry Cabin",
+      "type": "Wildfire",
+      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
+      "state": "MONTANA",
+      "updated": "2021-09-08 13:11:43",
+      "lat": "47.278",
+      "lng": "-112.956",
+      "size": "3,460 Acres",
+      "url": "/incident/7660/",
+      "id": "7660",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek BAER",
       "type": "Burned Area Emergency Response",
       "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
       "state": "WASHINGTON",
-      "updated": "2021-09-08 12:29:19",
+      "updated": "2021-09-08 13:05:55",
       "lat": "48.538",
       "lng": "-120.418",
       "size": "0 Acres",
       "url": "/incident/7832/",
       "id": "7832",
       "contained": "0"
+    },
+    {
+      "name": "Cub Creek 2 BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-08 13:05:42",
+      "lat": "48.631",
+      "lng": "-120.158",
+      "size": "0 Acres",
+      "url": "/incident/7830/",
+      "id": "7830",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-08 12:53:32",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "48,457 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "64"
     },
     {
       "name": "Knob Fire",
@@ -53,19 +92,6 @@
       "contained": "89"
     },
     {
-      "name": "Cub Creek 2 BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-08 12:24:43",
-      "lat": "48.631",
-      "lng": "-120.158",
-      "size": "0 Acres",
-      "url": "/incident/7830/",
-      "id": "7830",
-      "contained": "0"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Monument Fire and Knob Fire Morning Update Wednesday, September 8,...",
@@ -77,19 +103,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "41"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-08 12:10:32",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "48,457 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "64"
     },
     {
       "name": "Scarface Fire",
@@ -987,19 +1000,6 @@
       "url": "/incident/7691/",
       "id": "7691",
       "contained": "90"
-    },
-    {
-      "name": "Dry Cabin",
-      "type": "Wildfire",
-      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
-      "state": "MONTANA",
-      "updated": "2021-09-02 11:54:20",
-      "lat": "47.278",
-      "lng": "-112.956",
-      "size": "3,460 Acres",
-      "url": "/incident/7660/",
-      "id": "7660",
-      "contained": "0"
     },
     {
       "name": "Black Butte Fire",
