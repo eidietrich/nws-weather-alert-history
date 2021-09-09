@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-08 23:20:41",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "19,030 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "40"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": " Monument Fire and Knob Fire Evening Update Wednesday, September 8,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 23:19:59",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "92"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "  Monument Fire and Knob Fire Evening Update Wednesday, September...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 23:18:34",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "198,829 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "45"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-08 23:02:39",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "68,824 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "15"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-08 22:51:48",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "17,962 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "7"
+    },
+    {
+      "name": "South Yaak",
+      "type": "Wildfire",
+      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
+      "state": "MONTANA",
+      "updated": "2021-09-08 22:49:14",
+      "lat": "48.551",
+      "lng": "-115.93",
+      "size": "12,489 Acres",
+      "url": "/incident/7696/",
+      "id": "7696",
+      "contained": "89"
+    },
+    {
       "name": "Burnt Peak Fire",
       "type": "Wildfire",
       "summary": "The Burnt Peak Fire started by lightning on the morning of July 7....",
@@ -12,32 +90,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "41"
-    },
-    {
-      "name": "South Yaak",
-      "type": "Wildfire",
-      "summary": "The South Yaak Fire was detected on July 13, 2021. It is burning in...",
-      "state": "MONTANA",
-      "updated": "2021-09-08 22:46:03",
-      "lat": "48.551",
-      "lng": "-115.93",
-      "size": "12,489 Acres",
-      "url": "/incident/7696/",
-      "id": "7696",
-      "contained": "89"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-08 22:43:49",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "17,962 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "7"
     },
     {
       "name": "Jack Fire",
@@ -64,19 +116,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "59"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 22:36:30",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "68,824 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "15"
     },
     {
       "name": "Rough Patch",
@@ -129,32 +168,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "17"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-08 22:01:00",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "19,030 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "40"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Wednesday, September 8,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 21:55:38",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "198,829 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "45"
     },
     {
       "name": "Middle Fork Complex",
@@ -272,19 +285,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "24"
-    },
-    {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Wednesday, September 8,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 20:28:56",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "92"
     },
     {
       "name": "John Ek and Whelp Fires",
