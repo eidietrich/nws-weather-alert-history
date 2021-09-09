@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 18:42:52",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "927,320 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
+    },
+    {
       "name": "Cold",
       "type": "Wildfire",
       "summary": "The Cold Fire was discovered on 8.14.2021 and is one of several fires...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-09 18:28:30",
+      "updated": "2021-09-09 18:34:51",
       "lat": "37.951",
       "lng": "-119.409",
       "size": "8 Acres",
@@ -14,11 +27,50 @@
       "contained": "90"
     },
     {
+      "name": "Greenwood ",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-09 18:33:14",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "54"
+    },
+    {
+      "name": "Sand Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
+      "state": "MONTANA",
+      "updated": "2021-09-09 18:31:47",
+      "lat": "45.636",
+      "lng": "-113.236",
+      "size": "218 Acres",
+      "url": "/incident/7833/",
+      "id": "7833",
+      "contained": "0"
+    },
+    {
+      "name": "County Line",
+      "type": "Wildfire",
+      "summary": "The County Line Fire, located south of the Tioga Road near the White...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 18:30:45",
+      "lat": "37.835",
+      "lng": "-119.619",
+      "size": "224 Acres",
+      "url": "/incident/7613/",
+      "id": "7613",
+      "contained": "100"
+    },
+    {
       "name": "Tiltill",
       "type": "Wildfire",
       "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-09 18:27:36",
+      "updated": "2021-09-09 18:30:34",
       "lat": "37.969",
       "lng": "-119.723",
       "size": "2,323 Acres",
@@ -27,17 +79,17 @@
       "contained": "90"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Trail Creek Fire",
       "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-09 18:21:17",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "927,320 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-09 18:29:43",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "44,254 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "29"
     },
     {
       "name": "Caldor Fire",
@@ -430,19 +482,6 @@
       "contained": "70"
     },
     {
-      "name": "Greenwood ",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-09 11:15:03",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,112 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "49"
-    },
-    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
@@ -480,19 +519,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "35"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-09 10:52:26",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "47,472 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "25"
     },
     {
       "name": "Alder Creek Fire",
@@ -545,19 +571,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
-    },
-    {
-      "name": "Sand Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
-      "state": "MONTANA",
-      "updated": "2021-09-09 10:25:28",
-      "lat": "45.636",
-      "lng": "-113.236",
-      "size": "218 Acres",
-      "url": "/incident/7833/",
-      "id": "7833",
-      "contained": "0"
     },
     {
       "name": "Cedar Creek BAER",
@@ -727,19 +740,6 @@
       "url": "/incident/7537/",
       "id": "7537",
       "contained": "95"
-    },
-    {
-      "name": "County Line",
-      "type": "Wildfire",
-      "summary": "The County Line Fire, located south of the Tioga Road near the White...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 09:43:18",
-      "lat": "37.835",
-      "lng": "-119.619",
-      "size": "224 Acres",
-      "url": "/incident/7613/",
-      "id": "7613",
-      "contained": "100"
     },
     {
       "name": "Lukens",
