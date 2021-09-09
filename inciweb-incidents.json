@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Cold",
+      "type": "Wildfire",
+      "summary": "The Cold Fire was discovered on 8.14.2021 and is one of several fires...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 18:28:30",
+      "lat": "37.951",
+      "lng": "-119.409",
+      "size": "8 Acres",
+      "url": "/incident/7810/",
+      "id": "7810",
+      "contained": "90"
+    },
+    {
+      "name": "Tiltill",
+      "type": "Wildfire",
+      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-09 18:27:36",
+      "lat": "37.969",
+      "lng": "-119.723",
+      "size": "2,323 Acres",
+      "url": "/incident/7761/",
+      "id": "7761",
+      "contained": "90"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-09 18:14:27",
+      "updated": "2021-09-09 18:21:17",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "927,320 Acres",
@@ -714,32 +740,6 @@
       "url": "/incident/7613/",
       "id": "7613",
       "contained": "100"
-    },
-    {
-      "name": "Cold",
-      "type": "Wildfire",
-      "summary": "The Cold Fire was discovered on 8.14.2021 and is one of several fires...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 09:40:11",
-      "lat": "37.951",
-      "lng": "-119.409",
-      "size": "8 Acres",
-      "url": "/incident/7810/",
-      "id": "7810",
-      "contained": "50"
-    },
-    {
-      "name": "Tiltill",
-      "type": "Wildfire",
-      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-08 09:40:03",
-      "lat": "37.969",
-      "lng": "-119.723",
-      "size": "2,030 Acres",
-      "url": "/incident/7761/",
-      "id": "7761",
-      "contained": "90"
     },
     {
       "name": "Lukens",
