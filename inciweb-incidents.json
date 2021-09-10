@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "   Monument Fire and Knob Fire Evening Update Thursday, September...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-10 00:14:54",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "204,436 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "45"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-10 00:03:31",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "99,398 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "17"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-10 00:00:06",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "928,741 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
+    },
+    {
       "name": "Cougar Peak Fire",
       "type": "Wildfire",
       "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
@@ -25,32 +64,6 @@
       "url": "/incident/7827/",
       "id": "7827",
       "contained": "92"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "The Dixie Fire started on July 13th. The fire is burning on the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-09 23:33:43",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "928,741 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "   Monument Fire and Knob Fire Evening Update Thursday, September...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-09 23:30:19",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "204,436 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "45"
     },
     {
       "name": "Antelope Fire",
@@ -441,19 +454,6 @@
       "url": "/incident/7562/",
       "id": "7562",
       "contained": "90"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-09 14:01:52",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "99,398 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "17"
     },
     {
       "name": "Dixie Post-Fire BAER",
