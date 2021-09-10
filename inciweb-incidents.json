@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Monument Fire and Knob Fire Morning Update Friday, September 10, 2021...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-10 15:14:20",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "204,436 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "45"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-10 15:13:13",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "49,329 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "64"
+    },
+    {
+      "name": "Sand Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
+      "state": "WYOMING",
+      "updated": "2021-09-10 15:12:23",
+      "lat": "42.84",
+      "lng": "-108.998",
+      "size": "98 Acres",
+      "url": "/incident/7836/",
+      "id": "7836",
+      "contained": "0"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": " Links:    Caltrans    |    Daily Public Info Map   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-10 15:11:48",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "175,212 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "21"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-10 15:01:22",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "143,512 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "77"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-10 14:54:28",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "83,339 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "0"
+    },
+    {
       "name": "Pincer Creek Fire",
       "type": "Wildfire",
       "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
@@ -11,32 +89,6 @@
       "size": "980 Acres",
       "url": "/incident/7797/",
       "id": "7797",
-      "contained": "0"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": " Links:    Caltrans    |    Daily Public Info Map   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-10 14:37:38",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "175,212 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "21"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-10 14:24:46",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "83,339 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
       "contained": "0"
     },
     {
@@ -222,19 +274,6 @@
       "contained": "68"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Friday, September 10, 2021...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-10 13:04:11",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "204,436 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "45"
-    },
-    {
       "name": "Greenwood ",
       "type": "Wildfire",
       "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
@@ -298,19 +337,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "53"
-    },
-    {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-10 11:55:17",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "49,329 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "64"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -415,19 +441,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "13"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-10 10:57:42",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "143,512 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "77"
     },
     {
       "name": "Walker Creek Fire",
@@ -610,19 +623,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "Sand Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
-      "state": "WYOMING",
-      "updated": "2021-09-09 21:29:16",
-      "lat": "42.84",
-      "lng": "-108.998",
-      "size": "98 Acres",
-      "url": "/incident/7836/",
-      "id": "7836",
-      "contained": "0"
     },
     {
       "name": "Haystack Fire",
