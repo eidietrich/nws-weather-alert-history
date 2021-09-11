@@ -1,30 +1,43 @@
 {
   "markers": [
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-10 21:47:51",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "953,696 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "59"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
       "state": "OREGON",
-      "updated": "2021-09-10 21:46:54",
+      "updated": "2021-09-10 22:09:29",
       "lat": "44.879",
       "lng": "-122.009",
       "size": "19,349 Acres",
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "9"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": "Monument Fire and Knob Fire Morning Update Friday, September 10, 2021...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-10 22:07:14",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "95"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-10 21:57:42",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "953,696 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "59"
     },
     {
       "name": "Monument Fire",
@@ -272,19 +285,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "57"
-    },
-    {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Friday, September 10, 2021...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-10 17:46:03",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "95"
     },
     {
       "name": "West Lolo Complex (Thorne Creek)",
