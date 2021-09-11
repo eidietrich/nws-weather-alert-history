@@ -1,11 +1,37 @@
 {
   "markers": [
     {
-      "name": "Tumbledown Post-Fire",
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-11 17:44:53",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "142,484 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "66"
+    },
+    {
+      "name": "Sequoia/Kings Lightning Wildfires",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-11 17:44:08",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "0 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "Tumbledown Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "The Tumbledown Fire has been identified as requiring a BAER...",
       "state": "IDAHO",
-      "updated": "2021-09-11 17:31:11",
+      "updated": "2021-09-11 17:38:48",
       "lat": "47.184",
       "lng": "-115.452",
       "size": "0 Acres",
@@ -77,19 +103,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "12"
-    },
-    {
-      "name": "Sequoia/Kings Lightning Wildfires",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-11 16:30:03",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "0 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -168,19 +181,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "20"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-11 13:43:05",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "142,484 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "66"
     },
     {
       "name": "Green Ridge Fire",
