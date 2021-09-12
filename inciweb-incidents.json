@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Sand Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
+      "state": "WYOMING",
+      "updated": "2021-09-12 16:11:09",
+      "lat": "42.84",
+      "lng": "-108.998",
+      "size": "749 Acres",
+      "url": "/incident/7836/",
+      "id": "7836",
+      "contained": "0"
+    },
+    {
+      "name": "Character Complex",
+      "type": "Wildfire",
+      "summary": "The Character Complex was originally comprised of two fires: The...",
+      "state": "IDAHO",
+      "updated": "2021-09-12 16:09:35",
+      "lat": "47.645",
+      "lng": "-116.019",
+      "size": "12,309 Acres",
+      "url": "/incident/7654/",
+      "id": "7654",
+      "contained": "77"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-12 16:03:50",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "101,633 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "17"
+    },
+    {
+      "name": "Green Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
+      "state": "OREGON",
+      "updated": "2021-09-12 15:59:40",
+      "lat": "46.135",
+      "lng": "-117.736",
+      "size": "42,722 Acres",
+      "url": "/incident/7628/",
+      "id": "7628",
+      "contained": "40"
+    },
+    {
+      "name": "Route",
+      "type": "Wildfire",
+      "summary": "The Route Fire started on September 11th at 3:54 P.M. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 15:54:30",
+      "lat": "34.572",
+      "lng": "-118.687",
+      "size": "454 Acres",
+      "url": "/incident/7840/",
+      "id": "7840",
+      "contained": "0"
+    },
+    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
       "state": "OREGON",
-      "updated": "2021-09-12 15:45:36",
+      "updated": "2021-09-12 15:53:05",
       "lat": "42.979",
       "lng": "-122.809",
       "size": "64,940 Acres",
@@ -25,19 +90,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "43"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-12 15:42:13",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "101,633 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "17"
     },
     {
       "name": "Caldor Fire",
@@ -118,19 +170,6 @@
       "contained": "35"
     },
     {
-      "name": "Sand Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
-      "state": "WYOMING",
-      "updated": "2021-09-12 14:27:15",
-      "lat": "42.84",
-      "lng": "-108.998",
-      "size": "749 Acres",
-      "url": "/incident/7836/",
-      "id": "7836",
-      "contained": "0"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
@@ -196,19 +235,6 @@
       "contained": "0"
     },
     {
-      "name": "Green Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Turkey Tail and Green Ridge fires began from lightning strikes...",
-      "state": "OREGON",
-      "updated": "2021-09-12 12:30:59",
-      "lat": "46.135",
-      "lng": "-117.736",
-      "size": "42,722 Acres",
-      "url": "/incident/7628/",
-      "id": "7628",
-      "contained": "40"
-    },
-    {
       "name": "Knob Fire",
       "type": "Wildfire",
       "summary": " Monument Fire and Knob Fire Morning Update Sunday, September 12,...",
@@ -259,19 +285,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "15"
-    },
-    {
-      "name": "Route",
-      "type": "Wildfire",
-      "summary": "The Route Fire started on September 11th at 3:54 P.M. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 12:01:45",
-      "lat": "34.572",
-      "lng": "-118.687",
-      "size": "454 Acres",
-      "url": "/incident/7840/",
-      "id": "7840",
-      "contained": "0"
     },
     {
       "name": "Summit Trail",
@@ -584,19 +597,6 @@
       "url": "/incident/7675/",
       "id": "7675",
       "contained": "75"
-    },
-    {
-      "name": "Character Complex",
-      "type": "Wildfire",
-      "summary": "The Character Complex was originally comprised of two fires: The...",
-      "state": "IDAHO",
-      "updated": "2021-09-11 11:58:21",
-      "lat": "47.645",
-      "lng": "-116.019",
-      "size": "12,309 Acres",
-      "url": "/incident/7654/",
-      "id": "7654",
-      "contained": "77"
     },
     {
       "name": "Tiltill",
