@@ -1,37 +1,37 @@
 {
   "markers": [
     {
-      "name": "Sand Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
-      "state": "MONTANA",
-      "updated": "2021-09-12 10:15:55",
-      "lat": "45.636",
-      "lng": "-113.236",
-      "size": "228 Acres",
-      "url": "/incident/7833/",
-      "id": "7833",
-      "contained": "0"
-    },
-    {
-      "name": "Knob Fire",
+      "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "COMMUNITY MEETING: A virtual community meeting for the Monument and...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:15:11",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "98"
+      "updated": "2021-09-12 10:32:30",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "210,353 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "43"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-12 10:31:47",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,608 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "80"
     },
     {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:15:07",
+      "updated": "2021-09-12 10:31:31",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "73,107 Acres",
@@ -40,24 +40,37 @@
       "contained": "11"
     },
     {
-      "name": "Middle Fork Complex",
+      "name": "Dixie Fire (CA)",
       "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-12 10:14:58",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "28,300 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "20"
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 10:31:01",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,213 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "65"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": "COMMUNITY MEETING: A virtual community meeting for the Monument and...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 10:23:08",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "98"
     },
     {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": "   The Trail Creek Fire Open House is scheduled for Monday,...",
       "state": "MONTANA",
-      "updated": "2021-09-12 10:14:28",
+      "updated": "2021-09-12 10:18:30",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "50,386 Acres",
@@ -66,11 +79,24 @@
       "contained": "29"
     },
     {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-12 10:18:30",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "28,300 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "20"
+    },
+    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": "  The Trail Creek Fire Open House is scheduled for Monday,...",
       "state": "MONTANA",
-      "updated": "2021-09-12 10:12:58",
+      "updated": "2021-09-12 10:17:06",
       "lat": "45.79",
       "lng": "-113.101",
       "size": "35,578 Acres",
@@ -79,17 +105,17 @@
       "contained": "32"
     },
     {
-      "name": "Dixie Fire (CA)",
+      "name": "Sand Lake Fire",
       "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:12:40",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,213 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "65"
+      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
+      "state": "MONTANA",
+      "updated": "2021-09-12 10:16:18",
+      "lat": "45.636",
+      "lng": "-113.236",
+      "size": "228 Acres",
+      "url": "/incident/7833/",
+      "id": "7833",
+      "contained": "0"
     },
     {
       "name": "Scarface Fire",
@@ -183,19 +209,6 @@
       "contained": "35"
     },
     {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-12 09:54:39",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,608 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "80"
-    },
-    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
@@ -220,19 +233,6 @@
       "url": "/incident/7805/",
       "id": "7805",
       "contained": "58"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "COMMUNITY MEETING: A virtual community meeting for the Monument and...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 09:19:04",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "209,287 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "43"
     },
     {
       "name": "Cougar Peak Fire",
