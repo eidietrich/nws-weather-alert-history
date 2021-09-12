@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Club Fire",
+      "type": "Wildfire",
+      "summary": "Trail Closures are once again in effect. Trails to the west of the...",
+      "state": "IDAHO",
+      "updated": "2021-09-11 23:18:41",
+      "lat": "45.28",
+      "lng": "-115.055",
+      "size": "2,331 Acres",
+      "url": "/incident/7704/",
+      "id": "7704",
+      "contained": "0"
+    },
+    {
+      "name": "Vinegar Fire",
+      "type": "Wildfire",
+      "summary": "The Vinegar Fire has not had active fire behavior for two weeks...",
+      "state": "IDAHO",
+      "updated": "2021-09-11 23:15:32",
+      "lat": "45.179",
+      "lng": "-114.905",
+      "size": "2,998 Acres",
+      "url": "/incident/7709/",
+      "id": "7709",
+      "contained": "0"
+    },
+    {
+      "name": "Rush Creek",
+      "type": "Wildfire",
+      "summary": "The Rush Creek Fire grew to the southeast and increased in size by...",
+      "state": "IDAHO",
+      "updated": "2021-09-11 23:14:56",
+      "lat": "44.983",
+      "lng": "-114.993",
+      "size": "7,945 Acres",
+      "url": "/incident/7710/",
+      "id": "7710",
+      "contained": "0"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-11 23:14:35",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "85,901 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "0"
+    },
+    {
+      "name": "2021 Payette Wilderness Fires",
+      "type": "Wildfire",
+      "summary": "Three fires are burning in the Frank Church River of No Return...",
+      "state": "IDAHO",
+      "updated": "2021-09-11 23:09:41",
+      "lat": "45",
+      "lng": "-115",
+      "size": "0 Acres",
+      "url": "/incident/7700/",
+      "id": "7700",
+      "contained": "0"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": "Monument Fire and Knob Fire Morning Update Saturday, September 11,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-11 23:06:42",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "98"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Monument Fire and Knob Fire Morning Update Saturday, September 11,...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-11 22:45:14",
+      "updated": "2021-09-11 22:49:29",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "209,287 Acres",
@@ -25,19 +103,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "21"
-    },
-    {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": "Monument Fire and Knob Fire Morning Update Saturday, September 11,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-11 22:22:13",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "98"
     },
     {
       "name": "Caldor Fire",
@@ -193,19 +258,6 @@
       "size": "392 Acres",
       "url": "/incident/7840/",
       "id": "7840",
-      "contained": "0"
-    },
-    {
-      "name": "Club Fire",
-      "type": "Wildfire",
-      "summary": "Trail Closures are once again in effect. Trails to the west of the...",
-      "state": "IDAHO",
-      "updated": "2021-09-11 20:17:21",
-      "lat": "45.28",
-      "lng": "-115.055",
-      "size": "2,331 Acres",
-      "url": "/incident/7704/",
-      "id": "7704",
       "contained": "0"
     },
     {
@@ -415,19 +467,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "15"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-11 11:35:38",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "83,339 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "0"
     },
     {
       "name": "Jakes Gulch",
@@ -661,45 +700,6 @@
       "size": "980 Acres",
       "url": "/incident/7797/",
       "id": "7797",
-      "contained": "0"
-    },
-    {
-      "name": "Vinegar Fire",
-      "type": "Wildfire",
-      "summary": "The Vinegar Fire has not had active fire behavior for two weeks...",
-      "state": "IDAHO",
-      "updated": "2021-09-10 13:54:39",
-      "lat": "45.179",
-      "lng": "-114.905",
-      "size": "2,998 Acres",
-      "url": "/incident/7709/",
-      "id": "7709",
-      "contained": "0"
-    },
-    {
-      "name": "Rush Creek",
-      "type": "Wildfire",
-      "summary": "The Rush Creek Fire grew to the southeast and increased in size by...",
-      "state": "IDAHO",
-      "updated": "2021-09-10 13:48:13",
-      "lat": "44.983",
-      "lng": "-114.993",
-      "size": "6,859 Acres",
-      "url": "/incident/7710/",
-      "id": "7710",
-      "contained": "0"
-    },
-    {
-      "name": "2021 Payette Wilderness Fires",
-      "type": "Wildfire",
-      "summary": "Three fires are burning in the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2021-09-10 13:21:01",
-      "lat": "45",
-      "lng": "-115",
-      "size": "0 Acres",
-      "url": "/incident/7700/",
-      "id": "7700",
       "contained": "0"
     },
     {
