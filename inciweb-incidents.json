@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-12 11:24:16",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "49,329 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "64"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-12 11:22:39",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "19,252 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "9"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:47:19",
+      "updated": "2021-09-12 11:18:18",
       "lat": "38.586",
       "lng": "-120.538",
       "size": "218,950 Acres",
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "65"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
+      "state": "OREGON",
+      "updated": "2021-09-12 11:16:02",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "64,940 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "40"
+    },
+    {
+      "name": "Nason Fire",
+      "type": "Wildfire",
+      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-12 11:10:24",
+      "lat": "47.828",
+      "lng": "-120.96",
+      "size": "736 Acres",
+      "url": "/incident/7799/",
+      "id": "7799",
+      "contained": "15"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "COMMUNITY MEETING: A virtual community meeting for the Monument and...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 11:08:23",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "210,353 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "43"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": "COMMUNITY MEETING: A virtual community meeting for the Monument and...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 11:06:58",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "100"
+    },
+    {
+      "name": "Route",
+      "type": "Wildfire",
+      "summary": "The Route Fire started on September 11th at 3:54 P.M. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 11:05:24",
+      "lat": "34.572",
+      "lng": "-118.687",
+      "size": "454 Acres",
+      "url": "/incident/7840/",
+      "id": "7840",
+      "contained": "0"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-12 11:03:43",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "143,826 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "66"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -25,32 +129,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "65"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:45:01",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "143,826 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "66"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "COMMUNITY MEETING: A virtual community meeting for the Monument and...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:34:00",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "210,353 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "43"
     },
     {
       "name": "Walker Creek Fire",
@@ -77,19 +155,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "11"
-    },
-    {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": "COMMUNITY MEETING: A virtual community meeting for the Monument and...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-12 10:23:08",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "98"
     },
     {
       "name": "Trail Creek Fire",
@@ -168,32 +233,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "44"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
-      "state": "OREGON",
-      "updated": "2021-09-12 10:05:35",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "64,940 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "40"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-12 10:05:11",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "19,252 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "9"
     },
     {
       "name": "Jack Fire",
@@ -391,19 +430,6 @@
       "contained": "41"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-11 21:32:14",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "49,329 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "64"
-    },
-    {
       "name": "Black Mountain Fire",
       "type": "Wildfire",
       "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
@@ -441,19 +467,6 @@
       "url": "/incident/7813/",
       "id": "7813",
       "contained": "98"
-    },
-    {
-      "name": "Route",
-      "type": "Wildfire",
-      "summary": "The Route Fire started on September 11th at 3:54 P.M. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-11 20:34:24",
-      "lat": "34.572",
-      "lng": "-118.687",
-      "size": "392 Acres",
-      "url": "/incident/7840/",
-      "id": "7840",
-      "contained": "0"
     },
     {
       "name": "Sequoia/Kings Lightning Wildfires",
@@ -571,19 +584,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "77"
-    },
-    {
-      "name": "Nason Fire",
-      "type": "Wildfire",
-      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-11 11:37:01",
-      "lat": "47.828",
-      "lng": "-120.96",
-      "size": "736 Acres",
-      "url": "/incident/7799/",
-      "id": "7799",
-      "contained": "15"
     },
     {
       "name": "Tiltill",
