@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-13 16:41:10",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "86,282 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "6"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 16:40:32",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,335 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "75"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "A significant lightning event on September 9 ignited multiple...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 16:33:12",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "1,037 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
@@ -25,32 +64,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-13 16:00:39",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "86,282 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "6"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "A significant lightning event on September 9 ignited multiple...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 16:00:27",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "1,037 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Devil's Knob Complex",
@@ -168,19 +181,6 @@
       "url": "/incident/7843/",
       "id": "7843",
       "contained": "15"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 14:29:18",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,335 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "75"
     },
     {
       "name": "Knob Fire",
@@ -753,19 +753,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "80"
-    },
-    {
-      "name": "Cove Fire",
-      "type": "Wildfire",
-      "summary": " Cove Fire Started due to a lightning strike on Sunday September 5th...",
-      "state": "TEXAS",
-      "updated": "2021-09-10 15:33:32",
-      "lat": "32.299",
-      "lng": "-99.691",
-      "size": "77 Acres",
-      "url": "/incident/7837/",
-      "id": "7837",
-      "contained": "100"
     },
     {
       "name": "Pincer Creek Fire",
