@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 12:32:30",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,335 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "75"
+    },
+    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": " Fire Information: Daily Update I   Daily Public Information...",
       "state": "WASHINGTON",
-      "updated": "2021-09-13 12:20:22",
+      "updated": "2021-09-13 12:29:44",
       "lat": "47.973",
       "lng": "-120.304",
       "size": "21,373 Acres",
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "50"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-13 12:28:34",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "185,951 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "30"
+    },
+    {
+      "name": "Summit Trail",
+      "type": "Wildfire",
+      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-13 12:26:38",
+      "lat": "48.285",
+      "lng": "-118.531",
+      "size": "49,551 Acres",
+      "url": "/incident/7677/",
+      "id": "7677",
+      "contained": "69"
+    },
+    {
+      "name": "Scarface Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
+      "state": "IDAHO",
+      "updated": "2021-09-13 12:26:19",
+      "lat": "44.683",
+      "lng": "-114.993",
+      "size": "7,806 Acres",
+      "url": "/incident/7793/",
+      "id": "7793",
+      "contained": "20"
+    },
+    {
+      "name": "Jakes Gulch",
+      "type": "Wildfire",
+      "summary": "Low RH and increased winds contributed to the fire kicking up a...",
+      "state": "IDAHO",
+      "updated": "2021-09-13 12:24:06",
+      "lat": "43.858",
+      "lng": "-114.961",
+      "size": "499 Acres",
+      "url": "/incident/7834/",
+      "id": "7834",
+      "contained": "5"
     },
     {
       "name": "Caldor Fire",
@@ -25,19 +90,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "67"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 12:17:28",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,335 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "75"
     },
     {
       "name": "Middle Fork Complex",
@@ -64,19 +116,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "17"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-13 12:05:38",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "185,951 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "30"
     },
     {
       "name": "Antelope Fire",
@@ -131,19 +170,6 @@
       "contained": "74"
     },
     {
-      "name": "Summit Trail",
-      "type": "Wildfire",
-      "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-13 11:45:33",
-      "lat": "48.285",
-      "lng": "-118.531",
-      "size": "49,551 Acres",
-      "url": "/incident/7677/",
-      "id": "7677",
-      "contained": "69"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -155,19 +181,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "14"
-    },
-    {
-      "name": "Scarface Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire detected on August 7 is approximately 2½ miles...",
-      "state": "IDAHO",
-      "updated": "2021-09-13 11:29:07",
-      "lat": "44.683",
-      "lng": "-114.993",
-      "size": "7,806 Acres",
-      "url": "/incident/7793/",
-      "id": "7793",
-      "contained": "20"
     },
     {
       "name": "Mud Lick Fire",
@@ -259,19 +272,6 @@
       "url": "/incident/7827/",
       "id": "7827",
       "contained": "100"
-    },
-    {
-      "name": "Jakes Gulch",
-      "type": "Wildfire",
-      "summary": "Low RH and increased winds contributed to the fire kicking up a...",
-      "state": "IDAHO",
-      "updated": "2021-09-13 11:07:20",
-      "lat": "43.858",
-      "lng": "-114.961",
-      "size": "499 Acres",
-      "url": "/incident/7834/",
-      "id": "7834",
-      "contained": "5"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
