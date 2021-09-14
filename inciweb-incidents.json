@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-14 17:30:50",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "75"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
@@ -38,19 +51,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "11"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-14 16:31:22",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,797 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "75"
     },
     {
       "name": "Caldor Fire",
