@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-14 15:23:38",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,470 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "75"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-14 15:23:32",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "86,412 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "6"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "UPDATE: The Paradise Fire is now measured at 4,821 acres, and the...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-14 15:08:51",
+      "updated": "2021-09-14 15:22:05",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "5,861 Acres",
@@ -261,19 +287,6 @@
       "contained": "98"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-14 11:25:51",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,470 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "75"
-    },
-    {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
@@ -311,19 +324,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "48"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-14 11:19:42",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "86,282 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "6"
     },
     {
       "name": "Bull Complex ",
