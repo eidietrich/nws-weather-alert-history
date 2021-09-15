@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 10:41:13",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,583 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "75"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": " Redding, Calif – Unless conditions change, Monument Fire updates...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 10:39:38",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "100"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-15 10:39:22",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "21,191 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "14"
+    },
+    {
       "name": "Middle Fork Complex",
       "type": "Wildfire",
       "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
       "state": "OREGON",
-      "updated": "2021-09-15 10:34:54",
+      "updated": "2021-09-15 10:37:28",
       "lat": "43.869",
       "lng": "-122.409",
       "size": "29,267 Acres",
@@ -209,19 +248,6 @@
       "contained": "10"
     },
     {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": " Redding, Calif – Unless conditions change, Monument Fire updates...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 09:50:49",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "100"
-    },
-    {
       "name": "Big Meadow Fire",
       "type": "Wildfire",
       "summary": " Late season wildfire reaches 2,600 acres Wildfire season isn’t...",
@@ -261,19 +287,6 @@
       "contained": "80"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 09:21:57",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,583 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "75"
-    },
-    {
       "name": "Summit Trail",
       "type": "Wildfire",
       "summary": "The Summit Trail Fire is burning on the Colville Reservation, located...",
@@ -298,19 +311,6 @@
       "url": "/incident/7836/",
       "id": "7836",
       "contained": "30"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-15 08:49:59",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "21,191 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "14"
     },
     {
       "name": "Green Ridge Fire",
