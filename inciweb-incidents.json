@@ -1,6 +1,136 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 11:23:06",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "219,267 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "70"
+    },
+    {
+      "name": "Dry Cabin",
+      "type": "Wildfire",
+      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
+      "state": "MONTANA",
+      "updated": "2021-09-15 11:21:28",
+      "lat": "47.278",
+      "lng": "-112.956",
+      "size": "3,460 Acres",
+      "url": "/incident/7660/",
+      "id": "7660",
+      "contained": "0"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 11:19:55",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,110 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "70"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-15 11:17:36",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "87,019 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "6"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-15 11:08:28",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "21,191 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "14"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-15 11:07:45",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "21,552 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "50"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 11:04:19",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "187,260 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "40"
+    },
+    {
+      "name": "Jakes Gulch",
+      "type": "Wildfire",
+      "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-15 10:56:27",
+      "lat": "43.858",
+      "lng": "-114.961",
+      "size": "509 Acres",
+      "url": "/incident/7834/",
+      "id": "7834",
+      "contained": "20"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-15 10:55:38",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "29,267 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "30"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Fire MapsThe Monument Fire is a lightning-caused...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 10:53:47",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "214,576 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "46"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
@@ -27,45 +157,6 @@
       "contained": "100"
     },
     {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-15 10:39:22",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "21,191 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "14"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-15 10:37:28",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "29,267 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "30"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Redding, Calif – Unless conditions change, Monument Fire updates...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 10:34:14",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "214,576 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "46"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
@@ -77,19 +168,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "29"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-15 10:22:31",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "21,552 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "50"
     },
     {
       "name": "Sand Lake Fire",
@@ -131,19 +209,6 @@
       "contained": "48"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 10:16:08",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "219,267 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "70"
-    },
-    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "UPDATE: The Paradise Fire is now measured at 4,821 acres, and the...",
@@ -155,19 +220,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "0"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 10:02:16",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,110 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "70"
     },
     {
       "name": "Devil's Knob Complex",
@@ -207,19 +259,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "15"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 09:57:26",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "187,260 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "40"
     },
     {
       "name": "Rough Patch",
@@ -326,19 +365,6 @@
       "contained": "40"
     },
     {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-15 08:09:05",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "87,019 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "6"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
@@ -350,19 +376,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "Jakes Gulch",
-      "type": "Wildfire",
-      "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-15 07:10:48",
-      "lat": "43.858",
-      "lng": "-114.961",
-      "size": "509 Acres",
-      "url": "/incident/7834/",
-      "id": "7834",
-      "contained": "20"
     },
     {
       "name": "Divide Complex-Balsinger Fire",
@@ -948,19 +961,6 @@
       "url": "/incident/7691/",
       "id": "7691",
       "contained": "90"
-    },
-    {
-      "name": "Dry Cabin",
-      "type": "Wildfire",
-      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
-      "state": "MONTANA",
-      "updated": "2021-09-08 13:11:43",
-      "lat": "47.278",
-      "lng": "-112.956",
-      "size": "3,460 Acres",
-      "url": "/incident/7660/",
-      "id": "7660",
-      "contained": "0"
     },
     {
       "name": "Morgan Creek Fire",
