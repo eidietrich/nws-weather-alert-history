@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 15:30:41",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,583 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "75"
+    },
+    {
+      "name": "Nez Perce-Clearwater Lightning Fires",
+      "type": "Wildfire",
+      "summary": "Due to decreased fire activity across the Nez Perce-Clearwater...",
+      "state": "IDAHO",
+      "updated": "2021-09-15 15:23:29",
+      "lat": "46.245",
+      "lng": "-116.033",
+      "size": "0 Acres",
+      "url": "/incident/7692/",
+      "id": "7692",
+      "contained": "0"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "SEQUOIA AND KINGS CANYON NATIONAL PARKS, Calif. September 15, 2021...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 15:22:39",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "7,039 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Incident Maps The Knob Fire was reported on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 15:22:28",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "100"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-15 15:22:13",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,804 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "68"
+    },
+    {
       "name": "Storm Theatre Complex",
       "type": "Wildfire",
-      "summary": "The Storm Theatre Complex is being managed by Incident Commander...",
+      "summary": "The Storm Theatre Complex consists of 26 Backcountry fires and...",
       "state": "IDAHO",
-      "updated": "2021-09-15 15:16:18",
+      "updated": "2021-09-15 15:19:24",
       "lat": "46.555",
       "lng": "-115.097",
       "size": "22,319 Acres",
       "url": "/incident/7724/",
       "id": "7724",
       "contained": "10"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 15:17:18",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "219,267 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "70"
     },
     {
       "name": "Dixie-Jumbo Fires (ID)",
@@ -38,19 +116,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "40"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-15 15:04:56",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,804 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "68"
     },
     {
       "name": "Sand Creek Fire",
@@ -90,19 +155,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "98"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 14:47:22",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,583 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "75"
     },
     {
       "name": "Windy Fire",
@@ -222,19 +274,6 @@
       "contained": "50"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 12:20:00",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "219,267 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "70"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
@@ -274,19 +313,6 @@
       "contained": "14"
     },
     {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "SEQUOIA AND KINGS CANYON NATIONAL PARKS, Calif. September 15, 2021...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 11:45:54",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "7,039 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
-    },
-    {
       "name": "Dry Cabin",
       "type": "Wildfire",
       "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
@@ -324,19 +350,6 @@
       "url": "/incident/7834/",
       "id": "7834",
       "contained": "20"
-    },
-    {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": " Redding, Calif – Unless conditions change, Monument Fire updates...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 10:39:38",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "100"
     },
     {
       "name": "Trail Creek Fire",
@@ -1182,19 +1195,6 @@
       "url": "/incident/7785/",
       "id": "7785",
       "contained": "53"
-    },
-    {
-      "name": "Nez Perce-Clearwater Lightning Fires",
-      "type": "Wildfire",
-      "summary": "Due to decreased fire activity across the Nez Perce-Clearwater...",
-      "state": "IDAHO",
-      "updated": "2021-09-01 18:41:32",
-      "lat": "46.245",
-      "lng": "-116.033",
-      "size": "0 Acres",
-      "url": "/incident/7692/",
-      "id": "7692",
-      "contained": "0"
     },
     {
       "name": "Bootleg Fire",
