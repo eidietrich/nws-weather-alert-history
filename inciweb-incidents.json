@@ -1,6 +1,162 @@
 {
   "markers": [
     {
+      "name": "TwentyFive Mile BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2021-09-16 10:16:42",
+      "lat": "47.963",
+      "lng": "-120.292",
+      "size": "0 Acres",
+      "url": "/incident/7846/",
+      "id": "7846",
+      "contained": "0"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-16 10:14:09",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "21,552 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "50"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-16 10:11:51",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "33,907 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "32"
+    },
+    {
+      "name": "Sand Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
+      "state": "MONTANA",
+      "updated": "2021-09-16 10:11:06",
+      "lat": "45.636",
+      "lng": "-113.236",
+      "size": "228 Acres",
+      "url": "/incident/7833/",
+      "id": "7833",
+      "contained": "0"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
+      "state": "OREGON",
+      "updated": "2021-09-16 10:10:50",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "66,584 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "47"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-16 10:10:26",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "51,834 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "29"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "September 16th - new Fire Information phone number 208-510-8437,...",
+      "state": "IDAHO",
+      "updated": "2021-09-16 10:06:18",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "60,979 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "48"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-16 10:04:54",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,857 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 10:01:04",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "80,611 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "10"
+    },
+    {
+      "name": "Jakes Gulch",
+      "type": "Wildfire",
+      "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-16 09:57:14",
+      "lat": "43.858",
+      "lng": "-114.961",
+      "size": "510 Acres",
+      "url": "/incident/7834/",
+      "id": "7834",
+      "contained": "60"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 09:53:45",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "219,267 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "71"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-16 09:46:44",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "21,191 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "15"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
@@ -12,19 +168,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 09:32:26",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "219,267 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "71"
     },
     {
       "name": "Rough Patch",
@@ -79,19 +222,6 @@
       "contained": "73"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " As of Tuesday, September 14th, the Scarface Fire has merged with...",
-      "state": "IDAHO",
-      "updated": "2021-09-16 09:05:46",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "60,979 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "48"
-    },
-    {
       "name": "Muddy Slide Fire",
       "type": "Wildfire",
       "summary": "The Muddy Slide Fire remains 4,093 acres and 80% contained. The fire...",
@@ -144,32 +274,6 @@
       "contained": "30"
     },
     {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
-      "state": "OREGON",
-      "updated": "2021-09-16 08:19:56",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "66,584 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "47"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 08:19:06",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "80,611 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "10"
-    },
-    {
       "name": "Big Meadow Fire",
       "type": "Wildfire",
       "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
@@ -196,32 +300,6 @@
       "contained": "6"
     },
     {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-16 07:10:27",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,857 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "70"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-15 23:49:19",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "21,191 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "15"
-    },
-    {
       "name": "Caldor Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -233,19 +311,6 @@
       "url": "/incident/7842/",
       "id": "7842",
       "contained": "0"
-    },
-    {
-      "name": "Jakes Gulch",
-      "type": "Wildfire",
-      "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-15 22:21:31",
-      "lat": "43.858",
-      "lng": "-114.961",
-      "size": "510 Acres",
-      "url": "/incident/7834/",
-      "id": "7834",
-      "contained": "60"
     },
     {
       "name": "Schneider Springs",
@@ -311,19 +376,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "37"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-15 20:52:54",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "21,552 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "50"
     },
     {
       "name": "Greenwood Fire",
@@ -506,45 +558,6 @@
       "url": "/incident/7660/",
       "id": "7660",
       "contained": "0"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-15 10:27:24",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "51,834 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "29"
-    },
-    {
-      "name": "Sand Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
-      "state": "MONTANA",
-      "updated": "2021-09-15 10:20:31",
-      "lat": "45.636",
-      "lng": "-113.236",
-      "size": "228 Acres",
-      "url": "/incident/7833/",
-      "id": "7833",
-      "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-15 10:19:52",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "33,907 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "32"
     },
     {
       "name": "Nason Fire",
