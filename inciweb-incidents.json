@@ -1,43 +1,147 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 21:07:05",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "219,267 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "71"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "Update: The acreage for the Paradise Fire is currently measured at...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 21:01:18",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "8,940 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-15 20:58:46",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,804 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "68"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Fire MapsThe Monument Fire is a lightning-caused...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 20:57:43",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "214,576 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "50"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-15 20:53:04",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "29,793 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "37"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": " Fire Information: Daily Update I   Daily Public Information...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-15 20:52:54",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "21,552 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "50"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-15 20:48:57",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "75"
+    },
+    {
       "name": "Huff Fire",
       "type": "Wildfire",
       "summary": "Huff Fire stated September 15, 2021 at approximately 4:00pm....",
       "state": "TEXAS",
-      "updated": "2021-09-15 19:57:22",
+      "updated": "2021-09-15 20:38:19",
       "lat": "33.855",
       "lng": "-98.464",
-      "size": "10 Acres",
+      "size": "19 Acres",
       "url": "/incident/7844/",
       "id": "7844",
-      "contained": "75"
+      "contained": "100"
     },
     {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-15 19:50:20",
+      "updated": "2021-09-15 20:25:22",
       "lat": "41.389",
       "lng": "-123.057",
-      "size": "187,260 Acres",
+      "size": "187,880 Acres",
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "40"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 20:11:50",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "2,520 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "0"
     },
     {
       "name": "Devil's Knob Complex",
       "type": "Wildfire",
       "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
       "state": "OREGON",
-      "updated": "2021-09-15 19:50:08",
+      "updated": "2021-09-15 20:05:16",
       "lat": "42.979",
       "lng": "-122.809",
       "size": "66,584 Acres",
       "url": "/incident/7771/",
       "id": "7771",
-      "contained": "40"
+      "contained": "47"
     },
     {
       "name": "Green Ridge Fire",
@@ -64,19 +168,6 @@
       "url": "/incident/7836/",
       "id": "7836",
       "contained": "30"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Today's Update | Fire MapsThe Monument Fire is a lightning-caused...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 18:34:30",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "214,576 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "46"
     },
     {
       "name": "Woods Creek BAER",
@@ -131,19 +222,6 @@
       "contained": "90"
     },
     {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": " Fire Information: Daily Update I   Daily Public Information...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-15 17:59:03",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "21,552 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "50"
-    },
-    {
       "name": "Pincer Creek Fire",
       "type": "Wildfire",
       "summary": "Summary: On Aug. 3, 2021 a lightning storm ignited several small...",
@@ -168,19 +246,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "75"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-15 17:26:58",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "29,267 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "30"
     },
     {
       "name": "Antelope Fire",
@@ -222,19 +287,6 @@
       "contained": "6"
     },
     {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-15 15:37:20",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,804 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "68"
-    },
-    {
       "name": "Nez Perce-Clearwater Lightning Fires",
       "type": "Wildfire",
       "summary": "Due to decreased fire activity across the Nez Perce-Clearwater...",
@@ -245,19 +297,6 @@
       "size": "0 Acres",
       "url": "/incident/7692/",
       "id": "7692",
-      "contained": "0"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "SEQUOIA AND KINGS CANYON NATIONAL PARKS, Calif. September 15, 2021...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 15:22:39",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "7,039 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
       "contained": "0"
     },
     {
@@ -287,19 +326,6 @@
       "contained": "10"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 15:17:18",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "219,267 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "70"
-    },
-    {
       "name": "Dixie-Jumbo Fires (ID)",
       "type": "Wildfire",
       "summary": " The Dixie and Jumbo fires are located approximately 40 miles...",
@@ -313,19 +339,6 @@
       "contained": "63"
     },
     {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-15 14:50:05",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,797 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "75"
-    },
-    {
       "name": "Walkers Fire",
       "type": "Wildfire",
       "summary": "Efforts to fully contain the 8,777-acre Walkers Fire have been...",
@@ -337,19 +350,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "98"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 14:42:44",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "2,202 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "0"
     },
     {
       "name": "Muckamuck",
