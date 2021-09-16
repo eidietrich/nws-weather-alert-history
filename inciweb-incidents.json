@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-15 22:13:53",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "102,819 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "26"
+    },
+    {
+      "name": "Big Meadow Fire",
+      "type": "Wildfire",
+      "summary": " Late season wildfire reaches 2,600 acres Wildfire season isn’t...",
+      "state": "OREGON",
+      "updated": "2021-09-15 22:08:59",
+      "lat": "43.608",
+      "lng": "-119.606",
+      "size": "2,628 Acres",
+      "url": "/incident/7843/",
+      "id": "7843",
+      "contained": "40"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-15 22:01:38",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "47,208 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "36"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-15 21:58:21",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,164 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "Dixie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 21:56:51",
+      "lat": "40.241",
+      "lng": "-120.897",
+      "size": "0 Acres",
+      "url": "/incident/7811/",
+      "id": "7811",
+      "contained": "0"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "Update: The acreage for the Paradise Fire is currently measured at...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-15 21:52:18",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "8,940 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -12,19 +90,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "70"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-15 21:32:03",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "102,742 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "25"
     },
     {
       "name": "Caldor Fire",
@@ -51,19 +116,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "86"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "Update: The acreage for the Paradise Fire is currently measured at...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-15 21:01:18",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "8,940 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Crater Ridge",
@@ -365,19 +417,6 @@
       "contained": "74"
     },
     {
-      "name": "Big Meadow Fire",
-      "type": "Wildfire",
-      "summary": " Late season wildfire reaches 2,600 acres Wildfire season isn’t...",
-      "state": "OREGON",
-      "updated": "2021-09-15 14:37:13",
-      "lat": "43.608",
-      "lng": "-119.606",
-      "size": "2,631 Acres",
-      "url": "/incident/7843/",
-      "id": "7843",
-      "contained": "15"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -456,19 +495,6 @@
       "contained": "32"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-15 09:59:39",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "23,990 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
-    },
-    {
       "name": "Nason Fire",
       "type": "Wildfire",
       "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
@@ -480,19 +506,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "15"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-15 09:55:52",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "47,215 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "36"
     },
     {
       "name": "McCash Fire",
@@ -570,19 +583,6 @@
       "size": "0 Acres",
       "url": "/incident/7842/",
       "id": "7842",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-14 23:56:39",
-      "lat": "40.241",
-      "lng": "-120.897",
-      "size": "0 Acres",
-      "url": "/incident/7811/",
-      "id": "7811",
       "contained": "0"
     },
     {
