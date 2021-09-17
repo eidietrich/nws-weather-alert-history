@@ -1,30 +1,95 @@
 {
   "markers": [
     {
-      "name": "Boundary Fire",
+      "name": "Jack Fire",
       "type": "Wildfire",
-      "summary": "September 16th - new Fire Information phone number 208-510-8437,...",
-      "state": "IDAHO",
-      "updated": "2021-09-16 22:45:24",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "64,670 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "48"
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-16 23:21:23",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,164 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "McFarland Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 23:21:21",
+      "lat": "40.25",
+      "lng": "-123",
+      "size": "0 Acres",
+      "url": "/incident/7847/",
+      "id": "7847",
+      "contained": "0"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-16 23:19:27",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "87,349 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "6"
+    },
+    {
+      "name": "Dixie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 23:17:03",
+      "lat": "40.241",
+      "lng": "-120.897",
+      "size": "0 Acres",
+      "url": "/incident/7811/",
+      "id": "7811",
+      "contained": "0"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-16 23:14:12",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "48,237 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "36"
     },
     {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "",
       "state": "CALIFORNIA",
-      "updated": "2021-09-16 22:44:09",
+      "updated": "2021-09-16 23:07:40",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "9,365 Acres",
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "0"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "September 16th - new Fire Information phone number 208-510-8437,...",
+      "state": "IDAHO",
+      "updated": "2021-09-16 23:00:38",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "64,670 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "48"
     },
     {
       "name": "Big Meadow Fire",
@@ -64,19 +129,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "28"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-16 22:24:26",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "87,349 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "6"
     },
     {
       "name": "Windy Fire",
@@ -339,19 +391,6 @@
       "contained": "0"
     },
     {
-      "name": "McFarland Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 15:52:23",
-      "lat": "40.25",
-      "lng": "-123",
-      "size": "0 Acres",
-      "url": "/incident/7847/",
-      "id": "7847",
-      "contained": "0"
-    },
-    {
       "name": "Cedar Creek BAER",
       "type": "Burned Area Emergency Response",
       "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
@@ -404,19 +443,6 @@
       "contained": "40"
     },
     {
-      "name": "Dixie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 13:15:12",
-      "lat": "40.241",
-      "lng": "-120.897",
-      "size": "0 Acres",
-      "url": "/incident/7811/",
-      "id": "7811",
-      "contained": "0"
-    },
-    {
       "name": "Sand Creek Fire",
       "type": "Wildfire",
       "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
@@ -467,32 +493,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "15"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-16 10:41:18",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,164 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-16 10:28:25",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "47,208 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "36"
     },
     {
       "name": "Walker Creek Fire",
