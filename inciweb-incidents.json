@@ -1,6 +1,162 @@
 {
   "markers": [
     {
+      "name": "Caldor Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 21:08:04",
+      "lat": "38.753",
+      "lng": "-120.333",
+      "size": "0 Acres",
+      "url": "/incident/7842/",
+      "id": "7842",
+      "contained": "0"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-16 21:07:51",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "30,139 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "37"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-16 21:05:44",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "75"
+    },
+    {
+      "name": "Big Meadow Fire",
+      "type": "Wildfire",
+      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
+      "state": "OREGON",
+      "updated": "2021-09-16 21:03:23",
+      "lat": "43.608",
+      "lng": "-119.606",
+      "size": "2,633 Acres",
+      "url": "/incident/7843/",
+      "id": "7843",
+      "contained": "60"
+    },
+    {
+      "name": "Jakes Gulch",
+      "type": "Wildfire",
+      "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-16 21:02:31",
+      "lat": "43.858",
+      "lng": "-114.961",
+      "size": "510 Acres",
+      "url": "/incident/7834/",
+      "id": "7834",
+      "contained": "60"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 20:58:30",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,581 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "86"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-16 20:58:14",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "102,819 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "26"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "On 31JUL21, the Dillon Interagency Dispatch received a report of a...",
+      "state": "MONTANA",
+      "updated": "2021-09-16 20:54:25",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "1,900 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "0"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
+      "state": "OREGON",
+      "updated": "2021-09-16 20:46:54",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "67,159 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "49"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 20:40:16",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,204 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "73"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 20:30:57",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "189,085 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "40"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Today's MapThe Monument Fire is a lightning-caused...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-16 20:26:32",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "216,732 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "50"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "",
@@ -27,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Today's Update | Today's MapThe Monument Fire is a lightning-caused...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 19:28:07",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "215,944 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "50"
-    },
-    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "INCIDENT SUMMARY ONLINE COMMUNITY MEETING: Daily at 5:00 PMFacebook...",
@@ -51,32 +194,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "71"
-    },
-    {
-      "name": "Caldor Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 17:27:37",
-      "lat": "38.753",
-      "lng": "-120.333",
-      "size": "0 Acres",
-      "url": "/incident/7842/",
-      "id": "7842",
-      "contained": "0"
-    },
-    {
-      "name": "Big Meadow Fire",
-      "type": "Wildfire",
-      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
-      "state": "OREGON",
-      "updated": "2021-09-16 17:24:21",
-      "lat": "43.608",
-      "lng": "-119.606",
-      "size": "2,633 Acres",
-      "url": "/incident/7843/",
-      "id": "7843",
-      "contained": "40"
     },
     {
       "name": "Cougar Peak Fire",
@@ -170,19 +287,6 @@
       "contained": "0"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 15:53:10",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "189,085 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "40"
-    },
-    {
       "name": "McFarland Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -194,19 +298,6 @@
       "url": "/incident/7847/",
       "id": "7847",
       "contained": "0"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-16 15:23:50",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,797 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "75"
     },
     {
       "name": "Cedar Creek BAER",
@@ -233,32 +324,6 @@
       "url": "/incident/7830/",
       "id": "7830",
       "contained": "0"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-16 14:51:58",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "102,819 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "26"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 14:00:42",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,470 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "86"
     },
     {
       "name": "Muckamuck",
@@ -298,19 +363,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "50"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-16 13:26:13",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "29,793 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "37"
     },
     {
       "name": "Dixie Post-Fire BAER",
@@ -365,19 +417,6 @@
       "contained": "100"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 12:32:25",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,204 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "73"
-    },
-    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "September 16th - new Fire Information phone number 208-510-8437,...",
@@ -402,32 +441,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "15"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
-      "state": "OREGON",
-      "updated": "2021-09-16 11:26:07",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "67,159 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "47"
-    },
-    {
-      "name": "Jakes Gulch",
-      "type": "Wildfire",
-      "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-16 11:09:19",
-      "lat": "43.858",
-      "lng": "-114.961",
-      "size": "510 Acres",
-      "url": "/incident/7834/",
-      "id": "7834",
-      "contained": "60"
     },
     {
       "name": "Route",
@@ -701,19 +714,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "91"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "On 31JUL21, the Dillon Interagency Dispatch received a report of a...",
-      "state": "MONTANA",
-      "updated": "2021-09-14 18:38:17",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "1,763 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "0"
     },
     {
       "name": "Black Mountain Fire",
