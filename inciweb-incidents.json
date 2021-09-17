@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Dixie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-17 14:12:49",
+      "lat": "40.241",
+      "lng": "-120.897",
+      "size": "0 Acres",
+      "url": "/incident/7811/",
+      "id": "7811",
+      "contained": "0"
+    },
+    {
+      "name": "TwentyFive Mile BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-17 14:11:58",
+      "lat": "47.935",
+      "lng": "-120.308",
+      "size": "0 Acres",
+      "url": "/incident/7846/",
+      "id": "7846",
+      "contained": "0"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-17 14:03:30",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "102,819 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "31"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-17 13:56:46",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,581 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "86"
+    },
+    {
+      "name": "Big Meadow Fire",
+      "type": "Wildfire",
+      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
+      "state": "OREGON",
+      "updated": "2021-09-17 13:55:06",
+      "lat": "43.608",
+      "lng": "-119.606",
+      "size": "2,636 Acres",
+      "url": "/incident/7843/",
+      "id": "7843",
+      "contained": "60"
+    },
+    {
+      "name": "Dry Cabin",
+      "type": "Wildfire",
+      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
+      "state": "MONTANA",
+      "updated": "2021-09-17 13:52:14",
+      "lat": "47.278",
+      "lng": "-112.956",
+      "size": "3,460 Acres",
+      "url": "/incident/7660/",
+      "id": "7660",
+      "contained": "0"
+    },
+    {
       "name": "Divide Complex-Balsinger Fire",
       "type": "Wildfire",
       "summary": "The lightning-caused Balsinger Fire started approximately 5 miles...",
       "state": "MONTANA",
-      "updated": "2021-09-17 13:46:03",
+      "updated": "2021-09-17 13:51:01",
       "lat": "46.993",
       "lng": "-110.933",
       "size": "8,584 Acres",
@@ -77,19 +155,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "37"
-    },
-    {
-      "name": "Big Meadow Fire",
-      "type": "Wildfire",
-      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
-      "state": "OREGON",
-      "updated": "2021-09-17 13:14:06",
-      "lat": "43.608",
-      "lng": "-119.606",
-      "size": "2,633 Acres",
-      "url": "/incident/7843/",
-      "id": "7843",
-      "contained": "60"
     },
     {
       "name": "Cougar Peak Fire",
@@ -222,19 +287,6 @@
       "contained": "42"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-17 11:09:41",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,581 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "86"
-    },
-    {
       "name": "Nason Fire",
       "type": "Wildfire",
       "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
@@ -365,19 +417,6 @@
       "contained": "68"
     },
     {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-17 09:24:29",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "102,819 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "31"
-    },
-    {
       "name": "Morgan Creek Fire",
       "type": "Wildfire",
       "summary": "The Morgan Creek Fire was reported on July 9 on the Routt National...",
@@ -428,19 +467,6 @@
       "url": "/incident/7746/",
       "id": "7746",
       "contained": "98"
-    },
-    {
-      "name": "Dixie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-16 23:17:03",
-      "lat": "40.241",
-      "lng": "-120.897",
-      "size": "0 Acres",
-      "url": "/incident/7811/",
-      "id": "7811",
-      "contained": "0"
     },
     {
       "name": "Boundary Fire",
@@ -557,19 +583,6 @@
       "size": "0 Acres",
       "url": "/incident/7845/",
       "id": "7845",
-      "contained": "0"
-    },
-    {
-      "name": "TwentyFive Mile BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-16 16:18:43",
-      "lat": "47.935",
-      "lng": "-120.308",
-      "size": "0 Acres",
-      "url": "/incident/7846/",
-      "id": "7846",
       "contained": "0"
     },
     {
@@ -714,19 +727,6 @@
       "url": "/incident/7807/",
       "id": "7807",
       "contained": "98"
-    },
-    {
-      "name": "Dry Cabin",
-      "type": "Wildfire",
-      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
-      "state": "MONTANA",
-      "updated": "2021-09-15 11:21:28",
-      "lat": "47.278",
-      "lng": "-112.956",
-      "size": "3,460 Acres",
-      "url": "/incident/7660/",
-      "id": "7660",
-      "contained": "0"
     },
     {
       "name": "West Lolo Complex (Thorne Creek)",
