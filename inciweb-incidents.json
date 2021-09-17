@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Today's MapThe Monument Fire is a lightning-caused...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-17 10:42:25",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "217,120 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "50"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-17 10:40:40",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "33,907 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "32"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-17 10:40:29",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "51,834 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "29"
+    },
+    {
+      "name": "Sand Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
+      "state": "MONTANA",
+      "updated": "2021-09-17 10:39:02",
+      "lat": "45.636",
+      "lng": "-113.236",
+      "size": "228 Acres",
+      "url": "/incident/7833/",
+      "id": "7833",
+      "contained": "0"
+    },
+    {
       "name": "Walker Creek Fire",
       "type": "Wildfire",
       "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
       "state": "WASHINGTON",
-      "updated": "2021-09-17 10:32:59",
+      "updated": "2021-09-17 10:36:57",
       "lat": "48.778",
       "lng": "-119.034",
       "size": "23,733 Acres",
       "url": "/incident/7774/",
       "id": "7774",
-      "contained": "85"
+      "contained": "90"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
+      "state": "OREGON",
+      "updated": "2021-09-17 10:34:05",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "67,710 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "49"
     },
     {
       "name": "Caldor Fire",
@@ -25,19 +90,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "71"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
-      "state": "OREGON",
-      "updated": "2021-09-17 10:30:14",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "67,159 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "49"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -207,19 +259,6 @@
       "url": "/incident/7827/",
       "id": "7827",
       "contained": "100"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Today's Update | Today's MapThe Monument Fire is a lightning-caused...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-17 08:58:46",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "217,120 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "50"
     },
     {
       "name": "Morgan Creek Fire",
@@ -558,45 +597,6 @@
       "url": "/incident/7840/",
       "id": "7840",
       "contained": "95"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-16 10:11:51",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "33,907 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "32"
-    },
-    {
-      "name": "Sand Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
-      "state": "MONTANA",
-      "updated": "2021-09-16 10:11:06",
-      "lat": "45.636",
-      "lng": "-113.236",
-      "size": "228 Acres",
-      "url": "/incident/7833/",
-      "id": "7833",
-      "contained": "0"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-16 10:10:26",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "51,834 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "29"
     },
     {
       "name": "Muddy Slide Fire",
