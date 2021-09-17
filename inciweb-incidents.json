@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-17 15:25:03",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "75"
+    },
+    {
       "name": "Jakes Gulch",
       "type": "Wildfire",
       "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
       "state": "IDAHO",
-      "updated": "2021-09-17 15:16:51",
+      "updated": "2021-09-17 15:21:50",
       "lat": "43.858",
       "lng": "-114.961",
       "size": "510 Acres",
@@ -18,7 +31,7 @@
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
       "state": "MONTANA",
-      "updated": "2021-09-17 15:16:46",
+      "updated": "2021-09-17 15:20:55",
       "lat": "46.553",
       "lng": "-111.356",
       "size": "0 Acres",
@@ -545,19 +558,6 @@
       "url": "/incident/7842/",
       "id": "7842",
       "contained": "0"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-16 21:05:44",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,797 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "75"
     },
     {
       "name": "Haystack Fire",
