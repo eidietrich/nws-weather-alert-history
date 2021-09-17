@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-17 14:44:19",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "6,849 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "0"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-17 14:44:05",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,581 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "86"
+    },
+    {
+      "name": "Trestle Creek Complex",
+      "type": "Wildfire",
+      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
+      "state": "IDAHO",
+      "updated": "2021-09-17 14:42:09",
+      "lat": "48.341",
+      "lng": "-116.22",
+      "size": "6,641 Acres",
+      "url": "/incident/7648/",
+      "id": "7648",
+      "contained": "97"
+    },
+    {
       "name": "Sand Creek Fire",
       "type": "Wildfire",
       "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
       "state": "WYOMING",
-      "updated": "2021-09-17 14:24:57",
+      "updated": "2021-09-17 14:41:39",
       "lat": "42.84",
       "lng": "-108.998",
       "size": "907 Acres",
       "url": "/incident/7836/",
       "id": "7836",
       "contained": "42"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-17 14:32:14",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "102,819 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "31"
+    },
+    {
+      "name": "TwentyFive Mile BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-17 14:30:50",
+      "lat": "47.935",
+      "lng": "-120.308",
+      "size": "0 Acres",
+      "url": "/incident/7846/",
+      "id": "7846",
+      "contained": "0"
     },
     {
       "name": "Dixie Post-Fire BAER",
@@ -27,19 +92,6 @@
       "contained": "0"
     },
     {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-17 14:24:44",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "6,849 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "0"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -51,58 +103,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "73"
-    },
-    {
-      "name": "Trestle Creek Complex",
-      "type": "Wildfire",
-      "summary": "Lightning originally came through July 7 and started 7 fires.  Two...",
-      "state": "IDAHO",
-      "updated": "2021-09-17 14:20:05",
-      "lat": "48.341",
-      "lng": "-116.22",
-      "size": "6,641 Acres",
-      "url": "/incident/7648/",
-      "id": "7648",
-      "contained": "97"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-17 14:19:30",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "102,819 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "31"
-    },
-    {
-      "name": "TwentyFive Mile BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-17 14:19:13",
-      "lat": "47.935",
-      "lng": "-120.308",
-      "size": "0 Acres",
-      "url": "/incident/7846/",
-      "id": "7846",
-      "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-17 13:56:46",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,581 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "86"
     },
     {
       "name": "Big Meadow Fire",
