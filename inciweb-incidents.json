@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 14:10:50",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "17,857 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-18 14:01:30",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "80"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-18 13:57:52",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "30,761 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "43"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 13:50:34",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "190,884 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "45"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
       "state": "OREGON",
-      "updated": "2021-09-18 13:46:40",
+      "updated": "2021-09-18 13:50:08",
       "lat": "44.879",
       "lng": "-122.009",
       "size": "22,432 Acres",
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "15"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 13:48:40",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "12,370 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "0"
     },
     {
       "name": "Schneider Springs",
@@ -27,45 +92,6 @@
       "contained": "31"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 13:43:11",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "190,884 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "45"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 13:40:55",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "17,857 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 13:31:40",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "12,370 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "0"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
@@ -77,19 +103,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "88"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-18 13:18:11",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "30,761 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "43"
     },
     {
       "name": "Devil's Knob Complex",
@@ -349,19 +362,6 @@
       "size": "510 Acres",
       "url": "/incident/7834/",
       "id": "7834",
-      "contained": "80"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-17 21:35:15",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,797 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
       "contained": "80"
     },
     {
@@ -1949,19 +1949,6 @@
       "url": "/incident/7544/",
       "id": "7544",
       "contained": "100"
-    },
-    {
-      "name": "Poso Fire",
-      "type": "Wildfire",
-      "summary": " The Poso Fire on the El Rito Ranger District on the Carson National...",
-      "state": "NEW MEXICO",
-      "updated": "2021-06-20 14:04:49",
-      "lat": "36.477",
-      "lng": "-106.204",
-      "size": "2,057 Acres",
-      "url": "/incident/7520/",
-      "id": "7520",
-      "contained": "55"
     }
   ]
 }
