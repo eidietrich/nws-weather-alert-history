@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " A temporary flight restriction (TFR) went into effect September...",
+      "state": "IDAHO",
+      "updated": "2021-09-18 15:15:12",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "73,620 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "48"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-18 14:55:59",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "6,804 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "68"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 14:55:19",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "17,857 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -38,19 +77,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "53"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 14:16:29",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "17,857 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Greenwood Fire",
@@ -168,19 +194,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "26"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " A temporary flight restriction (TFR) went into effect September...",
-      "state": "IDAHO",
-      "updated": "2021-09-18 12:50:42",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "73,620 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "48"
     },
     {
       "name": "Big Meadow Fire",
@@ -441,19 +454,6 @@
       "url": "/incident/7722/",
       "id": "7722",
       "contained": "80"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-17 15:07:22",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,804 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "68"
     },
     {
       "name": "Stateline Complex",
