@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Big Meadow Fire",
+      "type": "Wildfire",
+      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
+      "state": "OREGON",
+      "updated": "2021-09-18 09:10:06",
+      "lat": "43.608",
+      "lng": "-119.606",
+      "size": "2,643 Acres",
+      "url": "/incident/7843/",
+      "id": "7843",
+      "contained": "75"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
+      "state": "OREGON",
+      "updated": "2021-09-18 09:09:59",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "67,710 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "49"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-18 09:08:48",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "49,060 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "36"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-18 09:08:29",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,164 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-18 08:44:04",
+      "updated": "2021-09-18 09:07:29",
       "lat": "41.5",
       "lng": "-121.929",
       "size": "145,204 Acres",
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "73"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-18 08:49:59",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,733 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "90"
     },
     {
       "name": "Knob Fire",
@@ -53,19 +118,6 @@
       "contained": "48"
     },
     {
-      "name": "Big Meadow Fire",
-      "type": "Wildfire",
-      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
-      "state": "OREGON",
-      "updated": "2021-09-18 08:23:05",
-      "lat": "43.608",
-      "lng": "-119.606",
-      "size": "2,636 Acres",
-      "url": "/incident/7843/",
-      "id": "7843",
-      "contained": "75"
-    },
-    {
       "name": "Cougar Peak Fire",
       "type": "Wildfire",
       "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
@@ -77,32 +129,6 @@
       "url": "/incident/7835/",
       "id": "7835",
       "contained": "6"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-17 23:38:10",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,164 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-17 23:34:52",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "49,060 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "36"
     },
     {
       "name": "Schneider Springs",
@@ -259,19 +285,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "50"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
-      "state": "OREGON",
-      "updated": "2021-09-17 20:09:20",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "67,710 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "49"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
@@ -519,19 +532,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-17 10:36:57",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,733 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "90"
     },
     {
       "name": "Morgan Creek Fire",
