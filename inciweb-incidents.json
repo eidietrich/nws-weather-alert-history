@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-17 23:18:33",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "104,800 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "31"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-17 23:16:59",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "960,641 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "88"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-17 23:14:48",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "12,370 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "0"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-17 23:05:25",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "49,060 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "36"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-17 23:02:41",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "87,755 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "6"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-17 22:51:52",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "11,365 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -14,32 +92,6 @@
       "contained": "15"
     },
     {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-17 22:42:52",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "11,365 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-17 22:16:44",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "87,755 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "6"
-    },
-    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
@@ -51,19 +103,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "26"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-17 22:02:11",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "49,060 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "36"
     },
     {
       "name": "Jakes Gulch",
@@ -196,19 +235,6 @@
       "contained": "49"
     },
     {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-17 18:51:10",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "6,849 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "0"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -233,19 +259,6 @@
       "url": "/incident/7688/",
       "id": "7688",
       "contained": "0"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-17 17:58:36",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,581 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "86"
     },
     {
       "name": "TwentyFive Mile BAER",
@@ -402,19 +415,6 @@
       "url": "/incident/7836/",
       "id": "7836",
       "contained": "42"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-17 14:32:14",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "102,819 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "31"
     },
     {
       "name": "Dixie Post-Fire BAER",
