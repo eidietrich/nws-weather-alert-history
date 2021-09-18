@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
+      "state": "OREGON",
+      "updated": "2021-09-18 10:33:30",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "67,710 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "49"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 10:33:19",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "218,876 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "71"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-18 10:15:44",
+      "updated": "2021-09-18 10:33:08",
       "lat": "36.058",
       "lng": "-118.625",
       "size": "12,370 Acres",
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "0"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-18 10:30:40",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "30,674 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "43"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 10:23:26",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "192,109 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "45"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "September 16th - new Fire Information phone number 208-510-8437,...",
+      "state": "IDAHO",
+      "updated": "2021-09-18 10:22:26",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "73,620 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "48"
     },
     {
       "name": "Walker Creek Fire",
@@ -27,19 +92,6 @@
       "contained": "90"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 10:12:33",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "192,109 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "45"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
@@ -51,19 +103,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "September 16th - new Fire Information phone number 208-510-8437,...",
-      "state": "IDAHO",
-      "updated": "2021-09-18 09:54:14",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "73,620 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "48"
     },
     {
       "name": "Rough Patch",
@@ -92,19 +131,6 @@
       "contained": "26"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 09:38:00",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "218,876 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "71"
-    },
-    {
       "name": "TwentyFive Mile BAER",
       "type": "Burned Area Emergency Response",
       "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
@@ -131,19 +157,6 @@
       "contained": "31"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-18 09:27:57",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "30,139 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "43"
-    },
-    {
       "name": "Big Meadow Fire",
       "type": "Wildfire",
       "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
@@ -168,19 +181,6 @@
       "url": "/incident/7834/",
       "id": "7834",
       "contained": "80"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil's Knob Complex initially was a group of 43 fires mostly on...",
-      "state": "OREGON",
-      "updated": "2021-09-18 09:09:59",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "67,710 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "49"
     },
     {
       "name": "Antelope Fire",
