@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-18 21:46:38",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "Sand Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
+      "state": "MONTANA",
+      "updated": "2021-09-18 21:46:08",
+      "lat": "45.636",
+      "lng": "-113.236",
+      "size": "228 Acres",
+      "url": "/incident/7833/",
+      "id": "7833",
+      "contained": "0"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-18 21:44:52",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "65,868 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "40"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 21:44:06",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "195,779 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "45"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 21:40:39",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "18,075 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "0"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
+      "state": "MONTANA",
+      "updated": "2021-09-18 21:39:50",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "34,639 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "40"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "  Today's Update | Incident MapThe Monument Fire is a...",
@@ -12,19 +90,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "53"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 21:27:48",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "18,075 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "0"
     },
     {
       "name": "Middle Fork Complex",
@@ -64,19 +129,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "31"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 20:57:21",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "195,779 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "45"
     },
     {
       "name": "Caldor Fire",
@@ -248,45 +300,6 @@
       "contained": "51"
     },
     {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-18 11:45:05",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "34,639 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "32"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Trail Creek Fire started on July 8, 2021 approximately 20 miles...",
-      "state": "MONTANA",
-      "updated": "2021-09-18 11:44:44",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "55,860 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "29"
-    },
-    {
-      "name": "Sand Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Lake fire started on September 1, 2021 approximately 11...",
-      "state": "MONTANA",
-      "updated": "2021-09-18 11:44:10",
-      "lat": "45.636",
-      "lng": "-113.236",
-      "size": "228 Acres",
-      "url": "/incident/7833/",
-      "id": "7833",
-      "contained": "0"
-    },
-    {
       "name": "Knob Fire",
       "type": "Wildfire",
       "summary": "Today's Update | Incident MapThe Knob Fire was reported on Sunday,...",
@@ -311,19 +324,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "70"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-18 10:40:03",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,164 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
     },
     {
       "name": "Walker Creek Fire",
