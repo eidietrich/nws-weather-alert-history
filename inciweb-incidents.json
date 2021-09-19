@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-18 20:57:24",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "104,853 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "31"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 20:57:21",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "195,779 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "45"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 20:44:09",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "218,876 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "71"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 20:35:23",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,243 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "73"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-18 20:06:22",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "30,761 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "43"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-18 20:00:50",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "22,432 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "15"
+    },
+    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": " A temporary flight restriction (TFR) went into effect September...",
@@ -12,19 +90,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "48"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-18 19:24:25",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "30,761 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "43"
     },
     {
       "name": "KNP Complex ",
@@ -105,19 +170,6 @@
       "contained": "80"
     },
     {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 17:53:14",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,243 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "73"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "  Today's Update | Incident MapThe Monument Fire is a...",
@@ -144,19 +196,6 @@
       "contained": "75"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 16:24:58",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "190,884 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "45"
-    },
-    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
@@ -168,45 +207,6 @@
       "url": "/incident/7685/",
       "id": "7685",
       "contained": "68"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 14:29:27",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "218,876 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "71"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-18 13:50:08",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "22,432 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "15"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-18 13:45:06",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "104,800 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "31"
     },
     {
       "name": "McCash Fire",
