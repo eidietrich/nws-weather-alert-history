@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "TwentyFive Mile BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-19 09:27:59",
+      "lat": "47.935",
+      "lng": "-120.308",
+      "size": "0 Acres",
+      "url": "/incident/7846/",
+      "id": "7846",
+      "contained": "0"
+    },
+    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
       "state": "WYOMING",
-      "updated": "2021-09-19 09:13:58",
+      "updated": "2021-09-19 09:27:14",
       "lat": "44.947",
       "lng": "-107.771",
       "size": "7,337 Acres",
@@ -14,30 +27,43 @@
       "contained": "70"
     },
     {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-19 09:13:20",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
-    },
-    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
       "state": "OREGON",
-      "updated": "2021-09-19 09:06:32",
+      "updated": "2021-09-19 09:25:49",
       "lat": "43.511",
       "lng": "-122.676",
       "size": "50,212 Acres",
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "37"
+    },
+    {
+      "name": "Big Meadow Fire",
+      "type": "Wildfire",
+      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
+      "state": "OREGON",
+      "updated": "2021-09-19 09:24:59",
+      "lat": "43.608",
+      "lng": "-119.606",
+      "size": "2,643 Acres",
+      "url": "/incident/7843/",
+      "id": "7843",
+      "contained": "85"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-19 09:20:00",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
     },
     {
       "name": "Antelope Fire",
@@ -194,19 +220,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "71"
-    },
-    {
-      "name": "Big Meadow Fire",
-      "type": "Wildfire",
-      "summary": "Late season wildfire reaches 2,600 acres On Thursday, September 9,...",
-      "state": "OREGON",
-      "updated": "2021-09-18 23:03:58",
-      "lat": "43.608",
-      "lng": "-119.606",
-      "size": "2,643 Acres",
-      "url": "/incident/7843/",
-      "id": "7843",
-      "contained": "85"
     },
     {
       "name": "Bull Complex ",
@@ -376,19 +389,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "70"
-    },
-    {
-      "name": "TwentyFive Mile BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-18 09:36:43",
-      "lat": "47.935",
-      "lng": "-120.308",
-      "size": "0 Acres",
-      "url": "/incident/7846/",
-      "id": "7846",
-      "contained": "0"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
