@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Jakes Gulch",
+      "type": "Wildfire",
+      "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-18 22:05:42",
+      "lat": "43.858",
+      "lng": "-114.961",
+      "size": "510 Acres",
+      "url": "/incident/7834/",
+      "id": "7834",
+      "contained": "80"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 21:55:42",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "218,876 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "71"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-18 21:53:51",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,212 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "37"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 21:52:49",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,301 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "88"
+    },
+    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
       "state": "OREGON",
-      "updated": "2021-09-18 21:46:38",
+      "updated": "2021-09-18 21:50:06",
       "lat": "43.322",
       "lng": "-122.686",
       "size": "24,165 Acres",
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "55"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-18 21:48:05",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "195,779 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "45"
     },
     {
       "name": "Sand Lake Fire",
@@ -38,19 +103,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "40"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 21:44:06",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "195,779 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "45"
     },
     {
       "name": "Windy Fire",
@@ -131,19 +183,6 @@
       "contained": "31"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 20:44:09",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "218,876 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "71"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -207,19 +246,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "49"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 18:19:10",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "960,641 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "88"
     },
     {
       "name": "Greenwood Fire",
@@ -339,19 +365,6 @@
       "contained": "90"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-18 09:52:11",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "49,060 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "36"
-    },
-    {
       "name": "TwentyFive Mile BAER",
       "type": "Burned Area Emergency Response",
       "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
@@ -363,19 +376,6 @@
       "url": "/incident/7846/",
       "id": "7846",
       "contained": "0"
-    },
-    {
-      "name": "Jakes Gulch",
-      "type": "Wildfire",
-      "summary": "The Jakes Gulch Fire was reported on Sunday, September 5, 2021. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-18 09:22:51",
-      "lat": "43.858",
-      "lng": "-114.961",
-      "size": "510 Acres",
-      "url": "/incident/7834/",
-      "id": "7834",
-      "contained": "80"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
