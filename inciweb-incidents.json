@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 10:15:20",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,632 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "88"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 10:15:15",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "218,876 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "71"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " A temporary flight restriction (TFR) went into effect September...",
+      "state": "IDAHO",
+      "updated": "2021-09-19 10:15:09",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "73,620 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "48"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 10:14:26",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "18,075 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "0"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 10:08:08",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "21,777 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-19 10:05:12",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "30,761 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "43"
+    },
+    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-19 09:46:02",
+      "updated": "2021-09-19 09:49:13",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "84,471 Acres",
@@ -14,11 +92,24 @@
       "contained": "22"
     },
     {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-19 09:48:38",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "104,853 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "31"
+    },
+    {
       "name": "Emigrant",
       "type": "Wildfire",
       "summary": " The Emigrant fire started as tractor-trailer fire on the northbound...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-19 09:45:22",
+      "updated": "2021-09-19 09:46:47",
       "lat": "34.666",
       "lng": "-118.763",
       "size": "255 Acres",
@@ -53,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 09:40:19",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "218,876 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "71"
-    },
-    {
       "name": "Alder Creek Fire",
       "type": "Wildfire",
       "summary": " The Alder Creek Fire started on July 8, 2021 approximately 7 miles...",
@@ -90,19 +168,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "40"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 09:37:46",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,632 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "88"
     },
     {
       "name": "Sand Lake Fire",
@@ -222,19 +287,6 @@
       "contained": "80"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-19 08:38:13",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "30,761 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "43"
-    },
-    {
       "name": "Knob Fire",
       "type": "Wildfire",
       "summary": "Today's Update | Incident MapThe Knob Fire was reported on Sunday,...",
@@ -274,19 +326,6 @@
       "contained": "41"
     },
     {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire, burning on the Tule River Indian Reservation and in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 23:50:20",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "18,075 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "0"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -324,45 +363,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "45"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-18 20:57:24",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "104,853 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "31"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " A temporary flight restriction (TFR) went into effect September...",
-      "state": "IDAHO",
-      "updated": "2021-09-18 19:46:15",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "73,620 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "48"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-18 19:15:53",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "17,857 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Greenwood Fire",
