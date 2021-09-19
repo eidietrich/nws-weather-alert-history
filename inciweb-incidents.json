@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Nason Fire",
+      "type": "Wildfire",
+      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-19 11:50:11",
+      "lat": "47.828",
+      "lng": "-120.96",
+      "size": "1,223 Acres",
+      "url": "/incident/7799/",
+      "id": "7799",
+      "contained": "70"
+    },
+    {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-09-19 11:45:19",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "80"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-19 11:42:57",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "89,203 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "41"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "On 31JUL21, the Dillon Interagency Dispatch received a report of a...",
+      "state": "MONTANA",
+      "updated": "2021-09-19 11:39:17",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "6,000 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "23"
+    },
+    {
       "name": "Emigrant",
       "type": "Wildfire",
       "summary": "The Emigrant fire started as tractor-trailer fire on the northbound...",
@@ -77,19 +129,6 @@
       "url": "/incident/7827/",
       "id": "7827",
       "contained": "100"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "On 31JUL21, the Dillon Interagency Dispatch received a report of a...",
-      "state": "MONTANA",
-      "updated": "2021-09-19 10:50:42",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "6,000 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "23"
     },
     {
       "name": "Walker Creek Fire",
@@ -352,19 +391,6 @@
       "contained": "80"
     },
     {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-19 07:38:37",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "89,203 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "41"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -389,32 +415,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "88"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-18 18:18:44",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,797 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "80"
-    },
-    {
-      "name": "Nason Fire",
-      "type": "Wildfire",
-      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-18 10:51:31",
-      "lat": "47.828",
-      "lng": "-120.96",
-      "size": "1,223 Acres",
-      "url": "/incident/7799/",
-      "id": "7799",
-      "contained": "70"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
