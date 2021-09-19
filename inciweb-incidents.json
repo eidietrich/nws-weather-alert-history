@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-19 09:13:58",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "7,337 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "70"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-19 09:13:20",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-19 09:06:32",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,212 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "37"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 08:55:29",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,632 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "88"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": "Twentyfive Mile Fire Update September 19, 2021 Size: 22,061 acres...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-19 08:49:05",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "22,061 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "50"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-19 08:48:49",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,733 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "90"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "  Today's Update | Incident MapThe Monument Fire is a...",
@@ -25,19 +103,6 @@
       "url": "/incident/7834/",
       "id": "7834",
       "contained": "80"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": "Twentyfive Mile Fire Update September 19, 2021 Size: 22,061 acres...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-19 08:42:49",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "22,061 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "50"
     },
     {
       "name": "Middle Fork Complex",
@@ -77,19 +142,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "0"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 07:44:28",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,243 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "73"
     },
     {
       "name": "Cougar Peak Fire",
@@ -183,19 +235,6 @@
       "contained": "22"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-18 21:53:51",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,212 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "37"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
@@ -207,19 +246,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "88"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-18 21:50:06",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
     },
     {
       "name": "River Complex 2021",
@@ -326,19 +352,6 @@
       "contained": "80"
     },
     {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-18 14:55:59",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "6,804 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "68"
-    },
-    {
       "name": "Sand Creek Fire",
       "type": "Wildfire",
       "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
@@ -363,19 +376,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "70"
-    },
-    {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-18 10:12:47",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,733 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "90"
     },
     {
       "name": "TwentyFive Mile BAER",
