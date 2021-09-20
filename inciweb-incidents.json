@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-20 11:57:42",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "90,784 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "42"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-20 11:57:32",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "195,779 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "50"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-20 11:52:42",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "218,457 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "53"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-20 11:47:07",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "30,761 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "49"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-20 11:44:38",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "84,471 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "22"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil’s Knob Complex of fires on the Umpqua National Forest...",
+      "state": "OREGON",
+      "updated": "2021-09-20 11:42:00",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "69,871 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "49"
+    },
+    {
+      "name": "Sand Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
+      "state": "WYOMING",
+      "updated": "2021-09-20 11:31:59",
+      "lat": "42.84",
+      "lng": "-108.998",
+      "size": "929 Acres",
+      "url": "/incident/7836/",
+      "id": "7836",
+      "contained": "45"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -12,32 +103,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "31"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 11:21:59",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "84,471 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "22"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 11:19:55",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "195,779 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "50"
     },
     {
       "name": "Caldor Fire",
@@ -92,19 +157,6 @@
       "contained": "95"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 11:00:01",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "218,457 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "53"
-    },
-    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": "Twentyfive Mile Fire Update September 20, 2021 Size: 22,061 acres...",
@@ -131,19 +183,6 @@
       "contained": "90"
     },
     {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-20 10:52:56",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "90,784 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "42"
-    },
-    {
       "name": "Emigrant",
       "type": "Wildfire",
       "summary": "Incident Overview The Emigrant fire started as tractor-trailer fire...",
@@ -168,19 +207,6 @@
       "url": "/incident/7840/",
       "id": "7840",
       "contained": "100"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil’s Knob Complex of fires on the Umpqua National Forest...",
-      "state": "OREGON",
-      "updated": "2021-09-20 10:38:18",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "69,405 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "49"
     },
     {
       "name": "Boundary Fire",
@@ -313,19 +339,6 @@
       "contained": "8"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-20 09:18:40",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "30,761 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "49"
-    },
-    {
       "name": "Knob Fire",
       "type": "Wildfire",
       "summary": "Today's Update | Incident MapThe Knob Fire was reported on Sunday,...",
@@ -428,19 +441,6 @@
       "url": "/incident/7677/",
       "id": "7677",
       "contained": "91"
-    },
-    {
-      "name": "Sand Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
-      "state": "WYOMING",
-      "updated": "2021-09-19 10:35:41",
-      "lat": "42.84",
-      "lng": "-108.998",
-      "size": "929 Acres",
-      "url": "/incident/7836/",
-      "id": "7836",
-      "contained": "44"
     },
     {
       "name": "Crater Ridge",
