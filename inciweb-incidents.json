@@ -1,30 +1,95 @@
 {
   "markers": [
     {
-      "name": "Knob Fire",
+      "name": "Route",
       "type": "Wildfire",
-      "summary": "Today's Update | Incident MapThe Knob Fire was reported on Sunday,...",
+      "summary": "OverviewThe Route Fire started on September 11th at 3:54 P.M. The...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-20 08:46:30",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
+      "updated": "2021-09-20 09:09:04",
+      "lat": "34.572",
+      "lng": "-118.687",
+      "size": "464 Acres",
+      "url": "/incident/7840/",
+      "id": "7840",
       "contained": "100"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-20 09:08:37",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "104,853 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "31"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-20 09:08:36",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,212 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "38"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-20 09:06:06",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
     },
     {
       "name": "Emigrant",
       "type": "Wildfire",
-      "summary": "Incident OverviewThe Emigrant fire started as tractor-trailer fire on...",
+      "summary": "Incident Overview The Emigrant fire started as tractor-trailer fire...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-20 08:45:00",
+      "updated": "2021-09-20 08:57:26",
       "lat": "34.666",
       "lng": "-118.763",
       "size": "255 Acres",
       "url": "/incident/7848/",
       "id": "7848",
       "contained": "65"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-20 08:57:21",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "30,761 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "49"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Incident MapThe Knob Fire was reported on Sunday,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-20 08:53:58",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "100"
     },
     {
       "name": "Monument Fire",
@@ -38,19 +103,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "53"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-20 08:27:11",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
     },
     {
       "name": "Cougar Peak Fire",
@@ -144,19 +196,6 @@
       "contained": "90"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-19 23:12:48",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,212 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "38"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
@@ -196,32 +235,6 @@
       "contained": "72"
     },
     {
-      "name": "Route",
-      "type": "Wildfire",
-      "summary": "The Route Fire started on September 11th at 3:54 P.M. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 21:34:34",
-      "lat": "34.572",
-      "lng": "-118.687",
-      "size": "464 Acres",
-      "url": "/incident/7840/",
-      "id": "7840",
-      "contained": "100"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-19 21:24:34",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "104,853 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "31"
-    },
-    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": " When the Boundary Fire started on August 10th, it escaped initial...",
@@ -259,19 +272,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "40"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-19 21:16:02",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "30,761 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "49"
     },
     {
       "name": "Devil's Knob Complex",
