@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 21:47:12",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "219,060 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "72"
+    },
+    {
       "name": "Route",
       "type": "Wildfire",
       "summary": "The Route Fire started on September 11th at 3:54 P.M. The fire is...",
@@ -90,19 +103,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "40"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 21:19:05",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "219,060 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "72"
     },
     {
       "name": "Middle Fork Complex",
