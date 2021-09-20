@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-20 13:43:07",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "218,457 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "53"
+    },
+    {
       "name": "Character Complex",
       "type": "Wildfire",
       "summary": "The Character Complex was originally comprised of two fires: The...",
       "state": "IDAHO",
-      "updated": "2021-09-20 13:35:01",
+      "updated": "2021-09-20 13:37:17",
       "lat": "47.645",
       "lng": "-116.019",
       "size": "12,363 Acres",
@@ -168,19 +181,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "49"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 11:52:42",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "218,457 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "53"
     },
     {
       "name": "McCash Fire",
