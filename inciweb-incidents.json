@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Sand Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
+      "state": "WYOMING",
+      "updated": "2021-09-20 12:32:29",
+      "lat": "42.84",
+      "lng": "-108.998",
+      "size": "929 Acres",
+      "url": "/incident/7836/",
+      "id": "7836",
+      "contained": "45"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-20 12:32:14",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "219,101 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "75"
+    },
+    {
       "name": "Cougar Peak Fire",
       "type": "Wildfire",
       "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
       "state": "OREGON",
-      "updated": "2021-09-20 12:15:52",
+      "updated": "2021-09-20 12:19:03",
       "lat": "42.277",
       "lng": "-120.613",
       "size": "90,784 Acres",
@@ -92,19 +118,6 @@
       "contained": "22"
     },
     {
-      "name": "Sand Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
-      "state": "WYOMING",
-      "updated": "2021-09-20 11:31:59",
-      "lat": "42.84",
-      "lng": "-108.998",
-      "size": "929 Acres",
-      "url": "/incident/7836/",
-      "id": "7836",
-      "contained": "45"
-    },
-    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -116,19 +129,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "31"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 11:15:18",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "219,101 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "75"
     },
     {
       "name": "Jack Fire",
