@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil’s Knob Complex of fires on the Umpqua National Forest...",
+      "state": "OREGON",
+      "updated": "2021-09-19 21:00:56",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "69,301 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "49"
+    },
+    {
+      "name": "Twentyfive Mile",
+      "type": "Wildfire",
+      "summary": "Twentyfive Mile Fire Update September 19, 2021Size: 22,061 acres ...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-19 20:36:56",
+      "lat": "47.973",
+      "lng": "-120.304",
+      "size": "22,061 Acres",
+      "url": "/incident/7804/",
+      "id": "7804",
+      "contained": "50"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 20:24:47",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "219,060 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "72"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " When the Boundary Fire started on August 10th, it escaped initial...",
+      "state": "IDAHO",
+      "updated": "2021-09-19 20:22:10",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "73,620 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "48"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 20:19:15",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "21,777 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-19 19:59:01",
+      "updated": "2021-09-19 20:10:59",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "195,779 Acres",
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "50"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-19 20:09:40",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "218,457 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "53"
     },
     {
       "name": "Antelope Fire",
@@ -25,19 +103,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "88"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil’s Knob Complex of fires on the Umpqua National Forest...",
-      "state": "OREGON",
-      "updated": "2021-09-19 19:44:48",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "69,301 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "49"
     },
     {
       "name": "Emigrant",
@@ -64,19 +129,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "37"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 18:51:06",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "21,777 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Woods Creek BAER",
@@ -144,19 +196,6 @@
       "contained": "41"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 16:59:01",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "218,457 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "53"
-    },
-    {
       "name": "Route",
       "type": "Wildfire",
       "summary": "The Route Fire started on September 11th at 3:54 P.M. The fire is...",
@@ -168,19 +207,6 @@
       "url": "/incident/7840/",
       "id": "7840",
       "contained": "100"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "CURRENT SITUATION: The Caldor Fire started at approximately 6:45PM on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-19 16:33:32",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "218,876 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "71"
     },
     {
       "name": "Mud Lick Fire",
@@ -220,19 +246,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "31"
-    },
-    {
-      "name": "Twentyfive Mile",
-      "type": "Wildfire",
-      "summary": "Twentyfive Mile Fire Update September 19, 2021Size: 22,061 acres ...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-19 14:41:27",
-      "lat": "47.973",
-      "lng": "-120.304",
-      "size": "22,061 Acres",
-      "url": "/incident/7804/",
-      "id": "7804",
-      "contained": "50"
     },
     {
       "name": "TwentyFive Mile BAER",
@@ -298,19 +311,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "23"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " When the Boundary Fire started on August 10th, it escaped initial...",
-      "state": "IDAHO",
-      "updated": "2021-09-19 11:09:09",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "73,620 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "48"
     },
     {
       "name": "Knob Fire",
