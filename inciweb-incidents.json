@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 08:26:15",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "218,639 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "54"
+    },
+    {
+      "name": "Route",
+      "type": "Wildfire",
+      "summary": "OverviewThe Route Fire started on September 11th at 3:54 P.M. The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 08:24:54",
+      "lat": "34.572",
+      "lng": "-118.687",
+      "size": "464 Acres",
+      "url": "/incident/7840/",
+      "id": "7840",
+      "contained": "100"
+    },
+    {
+      "name": "Emigrant",
+      "type": "Wildfire",
+      "summary": "Incident Overview The Emigrant fire started as tractor-trailer fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 08:23:29",
+      "lat": "34.666",
+      "lng": "-118.763",
+      "size": "255 Acres",
+      "url": "/incident/7848/",
+      "id": "7848",
+      "contained": "70"
+    },
+    {
+      "name": "Black Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
+      "state": "COLORADO",
+      "updated": "2021-09-21 08:16:31",
+      "lat": "40.161",
+      "lng": "-106.235",
+      "size": "418 Acres",
+      "url": "/incident/7825/",
+      "id": "7825",
+      "contained": "91"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-21 08:14:52",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,351 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "41"
+    },
+    {
       "name": "Five Spots Fire",
       "type": "Wildfire",
       "summary": " Brownwood TAMFS office rested for the night while Merkel TAMFS...",
@@ -64,19 +129,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "22"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-20 23:53:34",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,290 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "41"
     },
     {
       "name": "Jack Fire",
@@ -261,32 +313,6 @@
       "contained": "50"
     },
     {
-      "name": "Emigrant",
-      "type": "Wildfire",
-      "summary": "Incident Overview The Emigrant fire started as tractor-trailer fire...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 20:19:50",
-      "lat": "34.666",
-      "lng": "-118.763",
-      "size": "255 Acres",
-      "url": "/incident/7848/",
-      "id": "7848",
-      "contained": "70"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 19:57:42",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "218,639 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "54"
-    },
-    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
@@ -415,19 +441,6 @@
       "url": "/incident/7774/",
       "id": "7774",
       "contained": "95"
-    },
-    {
-      "name": "Route",
-      "type": "Wildfire",
-      "summary": "OverviewThe Route Fire started on September 11th at 3:54 P.M. The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-20 10:47:11",
-      "lat": "34.572",
-      "lng": "-118.687",
-      "size": "464 Acres",
-      "url": "/incident/7840/",
-      "id": "7840",
-      "contained": "100"
     },
     {
       "name": "Sand Lake Fire",
@@ -857,19 +870,6 @@
       "url": "/incident/7620/",
       "id": "7620",
       "contained": "80"
-    },
-    {
-      "name": "Black Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Black Mountain Fire was reported on August 29 on the Routt...",
-      "state": "COLORADO",
-      "updated": "2021-09-14 11:20:46",
-      "lat": "40.161",
-      "lng": "-106.235",
-      "size": "418 Acres",
-      "url": "/incident/7825/",
-      "id": "7825",
-      "contained": "91"
     },
     {
       "name": "Divide Complex-Ellis Fire",
