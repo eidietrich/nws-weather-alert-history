@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Sand Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
+      "state": "WYOMING",
+      "updated": "2021-09-21 12:44:08",
+      "lat": "42.84",
+      "lng": "-108.998",
+      "size": "929 Acres",
+      "url": "/incident/7836/",
+      "id": "7836",
+      "contained": "45"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-21 12:33:20",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,392 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "49"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 12:27:23",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,276 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "90"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -25,19 +64,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "5"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-21 12:16:22",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,276 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "90"
     },
     {
       "name": "River Complex 2021",
@@ -77,19 +103,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "95"
-    },
-    {
-      "name": "Sand Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
-      "state": "WYOMING",
-      "updated": "2021-09-21 11:56:18",
-      "lat": "42.84",
-      "lng": "-108.998",
-      "size": "929 Acres",
-      "url": "/incident/7836/",
-      "id": "7836",
-      "contained": "45"
     },
     {
       "name": "Knob Fire",
@@ -389,19 +402,6 @@
       "url": "/incident/7825/",
       "id": "7825",
       "contained": "91"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-21 07:13:17",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,392 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "49"
     },
     {
       "name": "KNP Complex ",
