@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-21 14:22:54",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,276 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "90"
+    },
+    {
+      "name": "Five Spots Fire",
+      "type": "Wildfire",
+      "summary": " Crews have been making good progress with containment of the Five...",
+      "state": "TEXAS",
+      "updated": "2021-09-21 14:22:41",
+      "lat": "31.901",
+      "lng": "-98.65",
+      "size": "700 Acres",
+      "url": "/incident/7850/",
+      "id": "7850",
+      "contained": "80"
+    },
+    {
+      "name": "Devil's Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devil’s Knob Complex of fires on the Umpqua National Forest...",
+      "state": "OREGON",
+      "updated": "2021-09-21 14:21:09",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "69,937 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "49"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "",
       "state": "CALIFORNIA",
-      "updated": "2021-09-21 14:11:40",
+      "updated": "2021-09-21 14:13:33",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "25,142 Acres",
@@ -25,32 +64,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "76"
-    },
-    {
-      "name": "Devil's Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devil’s Knob Complex of fires on the Umpqua National Forest...",
-      "state": "OREGON",
-      "updated": "2021-09-21 14:06:20",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "69,937 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "49"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-21 14:04:45",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,276 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "90"
     },
     {
       "name": "Caldor Post-Fire BAER",
@@ -103,19 +116,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "5"
-    },
-    {
-      "name": "Five Spots Fire",
-      "type": "Wildfire",
-      "summary": " Brownwood TAMFS office rested for the night while Merkel TAMFS...",
-      "state": "TEXAS",
-      "updated": "2021-09-21 12:49:42",
-      "lat": "31.901",
-      "lng": "-98.65",
-      "size": "650 Acres",
-      "url": "/incident/7850/",
-      "id": "7850",
-      "contained": "75"
     },
     {
       "name": "Sand Creek Fire",
