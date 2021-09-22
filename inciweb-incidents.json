@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Dry Cabin",
+      "type": "Wildfire",
+      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
+      "state": "MONTANA",
+      "updated": "2021-09-22 08:32:57",
+      "lat": "47.278",
+      "lng": "-112.956",
+      "size": "3,460 Acres",
+      "url": "/incident/7660/",
+      "id": "7660",
+      "contained": "0"
+    },
+    {
+      "name": "Knob Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Incident MapThe Knob Fire was reported on Sunday,...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 08:32:41",
+      "lat": "40.916",
+      "lng": "-123.634",
+      "size": "2,421 Acres",
+      "url": "/incident/7827/",
+      "id": "7827",
+      "contained": "100"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 08:29:50",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "219,236 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "55"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
+      "state": "OREGON",
+      "updated": "2021-09-22 08:27:36",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "30,928 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "54"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 08:26:14",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "28,421 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 08:20:57",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "92,602 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "22"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-22 08:20:03",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,392 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "52"
+    },
+    {
+      "name": "Walker Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Walker Creek Fire is back to the local districts, USFS Colville...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-22 08:18:12",
+      "lat": "48.778",
+      "lng": "-119.034",
+      "size": "23,733 Acres",
+      "url": "/incident/7774/",
+      "id": "7774",
+      "contained": "95"
+    },
+    {
       "name": "Devils Knob Complex",
       "type": "Wildfire",
       "summary": "The Devil’s Knob Complex of fires on the Umpqua National Forest...",
@@ -12,19 +116,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "49"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-22 07:13:55",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,392 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "52"
     },
     {
       "name": "Antelope Fire",
@@ -66,19 +157,6 @@
       "contained": "7"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-22 01:48:51",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "88,947 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "22"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "Links:    Caltrans    |    Daily Public Info Map    | ...",
@@ -90,19 +168,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "50"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-21 23:45:48",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "26,611 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "0"
     },
     {
       "name": "Jack Fire",
@@ -183,19 +248,6 @@
       "contained": "48"
     },
     {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by Pacific Northwest Team...",
-      "state": "OREGON",
-      "updated": "2021-09-21 21:28:55",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "30,928 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "54"
-    },
-    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -246,19 +298,6 @@
       "url": "/incident/7850/",
       "id": "7850",
       "contained": "100"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-21 20:40:46",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "219,236 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "55"
     },
     {
       "name": "Haystack Fire",
@@ -324,19 +363,6 @@
       "url": "/incident/7836/",
       "id": "7836",
       "contained": "45"
-    },
-    {
-      "name": "Knob Fire",
-      "type": "Wildfire",
-      "summary": "Today's Update | Incident MapThe Knob Fire was reported on Sunday,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-21 11:54:33",
-      "lat": "40.916",
-      "lng": "-123.634",
-      "size": "2,421 Acres",
-      "url": "/incident/7827/",
-      "id": "7827",
-      "contained": "100"
     },
     {
       "name": "Robertson Draw",
@@ -508,19 +534,6 @@
       "contained": "83"
     },
     {
-      "name": "Walker Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Walker Creek Fire was reported on August 3, 2021. Initially, the...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-20 11:01:49",
-      "lat": "48.778",
-      "lng": "-119.034",
-      "size": "23,733 Acres",
-      "url": "/incident/7774/",
-      "id": "7774",
-      "contained": "95"
-    },
-    {
       "name": "Woods Creek BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
@@ -687,19 +700,6 @@
       "size": "0 Acres",
       "url": "/incident/7811/",
       "id": "7811",
-      "contained": "0"
-    },
-    {
-      "name": "Dry Cabin",
-      "type": "Wildfire",
-      "summary": "The Dry Cabin Fire was reported at 1:37 p.m. on July 11, 2021. It is...",
-      "state": "MONTANA",
-      "updated": "2021-09-17 13:52:14",
-      "lat": "47.278",
-      "lng": "-112.956",
-      "size": "3,460 Acres",
-      "url": "/incident/7660/",
-      "id": "7660",
       "contained": "0"
     },
     {
@@ -1052,19 +1052,6 @@
       "url": "/incident/7653/",
       "id": "7653",
       "contained": "57"
-    },
-    {
-      "name": "Ford Corkscrew Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2021-09-10 10:36:35",
-      "lat": "47.897",
-      "lng": "-117.81",
-      "size": "15,782 Acres",
-      "url": "/incident/7803/",
-      "id": "7803",
-      "contained": "95"
     },
     {
       "name": "Sylvan Fire",
