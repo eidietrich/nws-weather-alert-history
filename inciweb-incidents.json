@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-22 09:13:16",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "55"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 09:11:46",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,276 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 09:06:18",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "92,602 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "22"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 08:57:25",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,632 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "95"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-09-22 08:51:36",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "10,500 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "8"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-22 08:51:02",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,376 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "41"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Today's Update | Incident MapThe Monument Fire is a lightning-caused...",
@@ -79,19 +157,6 @@
       "contained": "0"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-22 08:20:57",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "92,602 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "22"
-    },
-    {
       "name": "Cougar Peak Fire",
       "type": "Wildfire",
       "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
@@ -115,19 +180,6 @@
       "size": "23,733 Acres",
       "url": "/incident/7774/",
       "id": "7774",
-      "contained": "95"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-22 07:09:14",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,632 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
       "contained": "95"
     },
     {
@@ -168,45 +220,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "50"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-21 23:10:10",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "55"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-21 23:00:06",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,376 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "41"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-21 22:58:28",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,276 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "Caldor Fire",
@@ -298,19 +311,6 @@
       "url": "/incident/7850/",
       "id": "7850",
       "contained": "100"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-21 20:11:08",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "10,500 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "8"
     },
     {
       "name": "Emigrant",
