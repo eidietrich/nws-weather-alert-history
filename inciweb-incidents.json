@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire is 31,388 acres with 7% containment. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 22:16:33",
+      "lat": "36.058",
+      "lng": "-118.625",
+      "size": "31,388 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "7"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-22 22:02:22",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,376 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "42"
+    },
+    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": "Twentyfive Mile Fire Update September 22, 2021 Size: 22,061 acres...",
@@ -157,19 +183,6 @@
       "contained": "80"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-22 20:34:10",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,376 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "42"
-    },
-    {
       "name": "Devils Knob Complex",
       "type": "Wildfire",
       "summary": "The Devil’s Knob Complex of fires on the Umpqua National Forest...",
@@ -324,19 +337,6 @@
       "url": "/incident/7836/",
       "id": "7836",
       "contained": "58"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire is 31,388 acres with 7% containment. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-22 13:48:12",
-      "lat": "36.058",
-      "lng": "-118.625",
-      "size": "31,388 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "7"
     },
     {
       "name": "Bull Complex ",
