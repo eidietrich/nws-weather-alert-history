@@ -1,16 +1,81 @@
 {
   "markers": [
     {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-09-22 19:59:37",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "10,955 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "8"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-09-22 19:48:51",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,332 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "52"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "",
       "state": "CALIFORNIA",
-      "updated": "2021-09-22 18:38:21",
+      "updated": "2021-09-22 19:48:26",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "28,328 Acres",
       "url": "/incident/7838/",
       "id": "7838",
+      "contained": "0"
+    },
+    {
+      "name": "Emigrant",
+      "type": "Wildfire",
+      "summary": "Emigrant Fire Story The Emigrant fire started as tractor-trailer fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 19:20:50",
+      "lat": "34.666",
+      "lng": "-118.763",
+      "size": "255 Acres",
+      "url": "/incident/7848/",
+      "id": "7848",
+      "contained": "80"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-22 19:13:02",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,276 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "Animas City Mountain Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
+      "state": "COLORADO",
+      "updated": "2021-09-22 19:09:01",
+      "lat": "37.323",
+      "lng": "-107.872",
+      "size": "0 Acres",
+      "url": "/incident/7688/",
+      "id": "7688",
       "contained": "0"
     },
     {
@@ -25,19 +90,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "22"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-22 17:32:19",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "10,300 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "8"
     },
     {
       "name": "Boundary Fire",
@@ -131,19 +183,6 @@
       "contained": "54"
     },
     {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of Lakeview The Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-09-22 14:12:15",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,322 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "52"
-    },
-    {
       "name": "Sand Creek Fire",
       "type": "Wildfire",
       "summary": "The Sand Creek Fire is located west of Lander on the Washakie Ranger...",
@@ -220,32 +259,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "15"
-    },
-    {
-      "name": "Emigrant",
-      "type": "Wildfire",
-      "summary": "Emigrant Fire Story The Emigrant fire started as tractor-trailer fire...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-22 11:58:51",
-      "lat": "34.666",
-      "lng": "-118.763",
-      "size": "255 Acres",
-      "url": "/incident/7848/",
-      "id": "7848",
-      "contained": "75"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "Background:The Dixie Fire started on July 13th. The fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-22 11:43:55",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,276 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "Devils Knob Complex",
@@ -662,19 +675,6 @@
       "url": "/incident/7834/",
       "id": "7834",
       "contained": "80"
-    },
-    {
-      "name": "Animas City Mountain Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
-      "state": "COLORADO",
-      "updated": "2021-09-17 18:05:29",
-      "lat": "37.323",
-      "lng": "-107.872",
-      "size": "0 Acres",
-      "url": "/incident/7688/",
-      "id": "7688",
-      "contained": "0"
     },
     {
       "name": "McFarland Fire",
