@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-23 14:24:30",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "105,523 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "32"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-23 14:19:49",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,276 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ACTUALIZACION DEL INCIDENTE DE INCENDIO DE CALDOR: SEPTIEMBRE...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-23 14:19:46",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,161 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "76"
+    },
+    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
       "state": "OREGON",
-      "updated": "2021-09-23 14:10:26",
+      "updated": "2021-09-23 14:14:35",
       "lat": "43.511",
       "lng": "-122.676",
       "size": "50,376 Acres",
@@ -14,17 +53,17 @@
       "contained": "42"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ACTUALIZACION DEL INCIDENTE DE INCENDIO DE CALDOR: SEPTIEMBRE...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-23 14:08:01",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "220,877 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "76"
+      "name": "Tumbledown Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "The Tumbledown Fire has been identified as requiring a BAER...",
+      "state": "IDAHO",
+      "updated": "2021-09-23 14:14:03",
+      "lat": "47.184",
+      "lng": "-115.452",
+      "size": "0 Acres",
+      "url": "/incident/7839/",
+      "id": "7839",
+      "contained": "0"
     },
     {
       "name": "Twentyfive Mile BAER",
@@ -37,19 +76,6 @@
       "size": "0 Acres",
       "url": "/incident/7846/",
       "id": "7846",
-      "contained": "0"
-    },
-    {
-      "name": "Tumbledown Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "The Tumbledown Fire has been identified as requiring a BAER...",
-      "state": "IDAHO",
-      "updated": "2021-09-23 14:04:24",
-      "lat": "47.184",
-      "lng": "-115.452",
-      "size": "0 Acres",
-      "url": "/incident/7839/",
-      "id": "7839",
       "contained": "0"
     },
     {
@@ -103,19 +129,6 @@
       "url": "/incident/7835/",
       "id": "7835",
       "contained": "52"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-23 13:10:22",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,276 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "Monument Fire",
@@ -311,19 +324,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "50"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-23 11:09:23",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "105,523 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "32"
     },
     {
       "name": "San Juan NF Prescribed Fire Program",
