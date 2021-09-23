@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire is 43,745 acres with 6% containment. The fire began on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-23 17:15:25",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "43,745 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "6"
+    },
+    {
+      "name": "Prescribed Fire Projects 2021",
+      "type": "Prescribed Fire",
+      "summary": "Please take a moment to at the links section of this page to see...",
+      "state": "OREGON",
+      "updated": "2021-09-23 17:07:47",
+      "lat": "44.418",
+      "lng": "-118.952",
+      "size": "0 Acres",
+      "url": "/incident/7426/",
+      "id": "7426",
+      "contained": "0"
+    },
+    {
+      "name": "Black Butte Fire",
+      "type": "Wildfire",
+      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
+      "state": "OREGON",
+      "updated": "2021-09-23 17:01:57",
+      "lat": "44.093",
+      "lng": "-118.326",
+      "size": "22,445 Acres",
+      "url": "/incident/7770/",
+      "id": "7770",
+      "contained": "95"
+    },
+    {
+      "name": "Monument-Knob Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-23 16:52:48",
+      "lat": "40.684",
+      "lng": "-123.034",
+      "size": "0 Acres",
+      "url": "/incident/7851/",
+      "id": "7851",
+      "contained": "0"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -12,32 +64,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "95"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire is 43,745 acres with 6% containment. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-23 16:39:25",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "43,745 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "6"
-    },
-    {
-      "name": "Monument-Knob Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-23 16:32:42",
-      "lat": "40.684",
-      "lng": "-123.034",
-      "size": "0 Acres",
-      "url": "/incident/7851/",
-      "id": "7851",
-      "contained": "0"
     },
     {
       "name": "Crater Ridge",
@@ -324,19 +350,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "20"
-    },
-    {
-      "name": "Prescribed Fire Projects 2021",
-      "type": "Prescribed Fire",
-      "summary": "Please take a moment to at the links section of this page to see...",
-      "state": "OREGON",
-      "updated": "2021-09-23 11:45:35",
-      "lat": "44.418",
-      "lng": "-118.952",
-      "size": "0 Acres",
-      "url": "/incident/7426/",
-      "id": "7426",
-      "contained": "0"
     },
     {
       "name": "Sand Lake Fire",
@@ -1234,19 +1247,6 @@
       "url": "/incident/7749/",
       "id": "7749",
       "contained": "70"
-    },
-    {
-      "name": "Black Butte Fire",
-      "type": "Wildfire",
-      "summary": "The Black Butte Fire is located 24.9 miles south of Unity, OR.  The...",
-      "state": "OREGON",
-      "updated": "2021-09-02 11:39:37",
-      "lat": "44.093",
-      "lng": "-118.326",
-      "size": "22,445 Acres",
-      "url": "/incident/7770/",
-      "id": "7770",
-      "contained": "95"
     },
     {
       "name": "Mack Mountain",
