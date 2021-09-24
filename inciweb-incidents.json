@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "Links:     Caltrans     |      Progression Map     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-24 11:59:00",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "197,474 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "65"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-09-24 11:56:52",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "11,655 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "8"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2021-09-24 11:56:31",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,334 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "55"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
+      "state": "IDAHO",
+      "updated": "2021-09-24 11:49:33",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "79,856 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "57"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ACTUALIZACION DEL INCIDENTE DE INCENDIO DE CALDOR: SEPTIEMBRE...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-24 11:41:35",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,505 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "76"
+    },
+    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
       "state": "OREGON",
-      "updated": "2021-09-24 11:24:22",
+      "updated": "2021-09-24 11:41:32",
       "lat": "44.879",
       "lng": "-122.009",
       "size": "24,837 Acres",
@@ -18,7 +83,7 @@
       "type": "Wildfire",
       "summary": "The lightning caused Bog Fire is approximately 380 acres burning on...",
       "state": "NEW MEXICO",
-      "updated": "2021-09-24 11:21:55",
+      "updated": "2021-09-24 11:27:14",
       "lat": "34.046",
       "lng": "-108.632",
       "size": "380 Acres",
@@ -27,17 +92,17 @@
       "contained": "0"
     },
     {
-      "name": "Haystack Fire",
+      "name": "Mud Lick Fire",
       "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-24 11:21:23",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "11,655 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "24"
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-24 11:25:38",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,857 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
     },
     {
       "name": "Greenwood Fire",
@@ -116,19 +181,6 @@
       "url": "/incident/7761/",
       "id": "7761",
       "contained": "90"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "Links:     Caltrans     |      Progression Map     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-24 11:01:39",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "197,474 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "65"
     },
     {
       "name": "Antelope Fire",
@@ -235,19 +287,6 @@
       "contained": "61"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
-      "state": "IDAHO",
-      "updated": "2021-09-24 09:58:06",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "79,856 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "57"
-    },
-    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "The KNP Complex was ignited by lightning on the night of September...",
@@ -350,32 +389,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "6"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ACTUALIZACION DEL INCIDENTE DE INCENDIO DE CALDOR: SEPTIEMBRE...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-23 21:53:16",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,161 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "76"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2021-09-23 21:35:10",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,334 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "55"
     },
     {
       "name": "Schneider Springs",
@@ -558,19 +571,6 @@
       "url": "/incident/7806/",
       "id": "7806",
       "contained": "0"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-23 07:08:15",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,857 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "70"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
@@ -1845,19 +1845,6 @@
       "url": "/incident/7530/",
       "id": "7530",
       "contained": "93"
-    },
-    {
-      "name": "Alamo Fire ",
-      "type": "Wildfire",
-      "summary": "The Alamo Fire was reported on Sunday, June 20, 2021 at 1 pm.  The...",
-      "state": "ARIZONA",
-      "updated": "2021-06-26 11:54:13",
-      "lat": "31.36",
-      "lng": "-111.149",
-      "size": "4,953 Acres",
-      "url": "/incident/7570/",
-      "id": "7570",
-      "contained": "90"
     }
   ]
 }
