@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire is approximately 71,349 acres (8,647-acre increase...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-25 14:41:30",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "71,349 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "5"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-09-25 14:34:16",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "11,655 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "36"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
@@ -38,32 +64,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "54"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire is approximately 71,349 acres (8,647-acre increase...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-25 13:24:39",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "71,349 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "5"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-25 13:23:38",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "11,655 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "36"
     },
     {
       "name": "KNP Complex ",
