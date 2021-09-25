@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ACTUALIZACIÓN DEL INCENDIO DE CALDOR: SEPTIEMBRE 24,2021 CURRENT...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-24 21:29:21",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,595 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "76"
+    },
+    {
+      "name": "Emigrant",
+      "type": "Wildfire",
+      "summary": "Emigrant Fire Story The Emigrant fire started as tractor-trailer fire...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-24 21:26:42",
+      "lat": "34.666",
+      "lng": "-118.763",
+      "size": "255 Acres",
+      "url": "/incident/7848/",
+      "id": "7848",
+      "contained": "90"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-24 21:26:06",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,426 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "45"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-24 21:11:09",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,276 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
+      "state": "IDAHO",
+      "updated": "2021-09-24 21:09:31",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "80,053 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "58"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire is 56,802 acres with 5% containment. The fire began on...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-24 21:02:00",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "62,702 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "5"
+    },
+    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -40,19 +118,6 @@
       "contained": "62"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ACTUALIZACIÓN DEL INCENDIO DE CALDOR: SEPTIEMBRE 24,2021 CURRENT...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-24 20:37:44",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,595 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "76"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -77,32 +142,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "8"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire is 56,802 acres with 5% containment. The fire began on...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-24 18:43:20",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "56,802 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "5"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-24 18:25:34",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,276 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "West Lolo Complex (Thorne Creek)",
@@ -155,19 +194,6 @@
       "url": "/incident/7845/",
       "id": "7845",
       "contained": "0"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-24 15:39:37",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,376 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "42"
     },
     {
       "name": "Middle Fork Complex",
@@ -298,19 +324,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "65"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
-      "state": "IDAHO",
-      "updated": "2021-09-24 11:49:33",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "79,856 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "57"
     },
     {
       "name": "Bog Fire",
@@ -454,19 +467,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "54"
-    },
-    {
-      "name": "Emigrant",
-      "type": "Wildfire",
-      "summary": "Emigrant Fire Story The Emigrant fire started as tractor-trailer fire...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-24 09:06:52",
-      "lat": "34.666",
-      "lng": "-118.763",
-      "size": "255 Acres",
-      "url": "/incident/7848/",
-      "id": "7848",
-      "contained": "85"
     },
     {
       "name": "Sand Creek Fire",
