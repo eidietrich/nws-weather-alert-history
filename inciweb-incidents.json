@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
+      "state": "IDAHO",
+      "updated": "2021-09-25 17:15:16",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "80,299 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "58"
+    },
+    {
       "name": "Devils Knob Complex",
       "type": "Wildfire",
       "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
       "state": "OREGON",
-      "updated": "2021-09-25 16:45:27",
+      "updated": "2021-09-25 16:56:23",
       "lat": "42.979",
       "lng": "-122.809",
       "size": "70,057 Acres",
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "54"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire is approximately 71,349 acres (8,647-acre increase...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-25 16:51:16",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "71,349 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "5"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -38,19 +64,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "76"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire is approximately 71,349 acres (8,647-acre increase...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-25 16:15:42",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "71,349 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "5"
     },
     {
       "name": "Haystack Fire",
@@ -337,19 +350,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
-      "state": "IDAHO",
-      "updated": "2021-09-25 10:11:12",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "80,299 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "58"
     },
     {
       "name": "Middle Fork Complex",
