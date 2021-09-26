@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-09-26 13:33:37",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "13,926 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "36"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-26 13:17:15",
+      "updated": "2021-09-26 13:33:10",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "219,423 Acres",
@@ -18,13 +31,26 @@
       "type": "Wildfire",
       "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-26 13:16:22",
+      "updated": "2021-09-26 13:31:51",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "44,828 Acres",
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "8"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire is approximately 78,428 acres (3,897-acre increase...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-26 13:22:47",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "78,428 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "2"
     },
     {
       "name": "Antelope Fire",
@@ -40,19 +66,6 @@
       "contained": "95"
     },
     {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-26 13:14:13",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "13,926 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "36"
-    },
-    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "ACTUALIZACIÓN DEL INCENDIO DE CALDOR: SEPTIEMBRE 25,2021 CURRENT...",
@@ -64,19 +77,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "76"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire is approximately 78,428 acres (3,897-acre increase...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-26 13:12:53",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "78,428 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "2"
     },
     {
       "name": "Devils Knob Complex",
