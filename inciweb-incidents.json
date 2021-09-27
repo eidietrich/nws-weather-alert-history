@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ACTUALIZACIÓN DEL INCENDIO DE CALDOR: SEPTIEMBRE 25,2021 CURRENT...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-26 22:12:53",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,774 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "76"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-26 22:12:47",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "93,176 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "41"
+    },
+    {
+      "name": "Caldor Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-26 22:12:18",
+      "lat": "38.753",
+      "lng": "-120.333",
+      "size": "0 Acres",
+      "url": "/incident/7842/",
+      "id": "7842",
+      "contained": "0"
+    },
+    {
+      "name": "Antelope Fire",
+      "type": "Wildfire",
+      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-26 22:12:12",
+      "lat": "41.5",
+      "lng": "-121.929",
+      "size": "145,632 Acres",
+      "url": "/incident/7764/",
+      "id": "7764",
+      "contained": "95"
+    },
+    {
       "name": "Haystack Fire",
       "type": "Wildfire",
       "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
@@ -38,19 +90,6 @@
       "url": "/incident/7855/",
       "id": "7855",
       "contained": "100"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ACTUALIZACIÓN DEL INCENDIO DE CALDOR: SEPTIEMBRE 25,2021 CURRENT...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-26 21:12:08",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,774 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "76"
     },
     {
       "name": "Sand Lake Fire",
@@ -116,19 +155,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "47"
-    },
-    {
-      "name": "Antelope Fire",
-      "type": "Wildfire",
-      "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-26 20:21:01",
-      "lat": "41.5",
-      "lng": "-121.929",
-      "size": "145,632 Acres",
-      "url": "/incident/7764/",
-      "id": "7764",
-      "contained": "95"
     },
     {
       "name": "Middle Fork Complex",
@@ -313,19 +339,6 @@
       "contained": "70"
     },
     {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-26 10:52:58",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "92,883 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "41"
-    },
-    {
       "name": "Tiltill",
       "type": "Wildfire",
       "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
@@ -415,19 +428,6 @@
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "70"
-    },
-    {
-      "name": "Caldor Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-25 02:56:49",
-      "lat": "38.753",
-      "lng": "-120.333",
-      "size": "0 Acres",
-      "url": "/incident/7842/",
-      "id": "7842",
-      "contained": "0"
     },
     {
       "name": "Monument-Knob Post-Fire BAER",
@@ -1832,19 +1832,6 @@
       "url": "/incident/6403/",
       "id": "6403",
       "contained": "0"
-    },
-    {
-      "name": "Rock Butte Fires ",
-      "type": "Wildfire",
-      "summary": "&gt;&gt;DAILY ROCK BUTTE FIRES UPDATESROCK BUTTE FIRES - Multiple fires...",
-      "state": "ARIZONA",
-      "updated": "2021-06-28 22:11:13",
-      "lat": "34.995",
-      "lng": "-112.432",
-      "size": "802 Acres",
-      "url": "/incident/7556/",
-      "id": "7556",
-      "contained": "80"
     }
   ]
 }
