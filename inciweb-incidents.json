@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "The Windy Fire is approximately 85,383 acres (3,105-acre increase...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 11:24:59",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "85,383 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "2"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": " Cougar Peak Fire burning northwest of Lakeview The Cougar Peak...",
+      "state": "OREGON",
+      "updated": "2021-09-27 11:20:14",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,730 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "65"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-27 11:14:13",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "65"
+    },
+    {
+      "name": "Twentyfive Mile BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-27 11:12:20",
+      "lat": "47.935",
+      "lng": "-120.308",
+      "size": "22,117 Acres",
+      "url": "/incident/7846/",
+      "id": "7846",
+      "contained": "0"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-27 11:11:56",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,426 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "52"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-09-27 11:11:15",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "57,052 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "75"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 11:06:49",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,276 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -118,19 +209,6 @@
       "contained": "76"
     },
     {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire is approximately 85,383 acres (3,105-acre increase...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-27 10:04:48",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "85,383 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "2"
-    },
-    {
       "name": "Sand Lake Fire",
       "type": "Wildfire",
       "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
@@ -155,19 +233,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "45"
-    },
-    {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-09-27 09:46:27",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "57,052 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "75"
     },
     {
       "name": "Haystack Fire",
@@ -220,32 +285,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-26 23:36:42",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "65"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-26 23:23:44",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,426 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "52"
     },
     {
       "name": "River Complex 2021",
@@ -313,19 +352,6 @@
       "contained": "55"
     },
     {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": " Cougar Peak Fire burning northwest of Lakeview The Cougar Peak...",
-      "state": "OREGON",
-      "updated": "2021-09-26 20:13:32",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,730 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "65"
-    },
-    {
       "name": "Emigrant",
       "type": "Wildfire",
       "summary": "Emigrant Fire Story The Emigrant fire started as tractor-trailer fire...",
@@ -337,19 +363,6 @@
       "url": "/incident/7848/",
       "id": "7848",
       "contained": "98"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-26 15:21:45",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,276 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "John Ek and Whelp Fires",
@@ -661,19 +674,6 @@
       "size": "0 Acres",
       "url": "/incident/7839/",
       "id": "7839",
-      "contained": "0"
-    },
-    {
-      "name": "Twentyfive Mile BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-23 14:06:42",
-      "lat": "47.935",
-      "lng": "-120.308",
-      "size": "0 Acres",
-      "url": "/incident/7846/",
-      "id": "7846",
       "contained": "0"
     },
     {
