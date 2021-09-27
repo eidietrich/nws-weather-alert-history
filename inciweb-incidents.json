@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-09-27 08:42:27",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "15,297 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "39"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 08:40:46",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "222,323 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "69"
+    },
+    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
       "state": "IDAHO",
-      "updated": "2021-09-27 07:30:26",
+      "updated": "2021-09-27 08:34:30",
       "lat": "44.532",
       "lng": "-115.329",
       "size": "81,607 Acres",
@@ -25,19 +51,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-27 07:20:12",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "222,323 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "69"
     },
     {
       "name": "Jack Fire",
@@ -64,19 +77,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "52"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-26 22:42:42",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "13,926 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "39"
     },
     {
       "name": "River Complex 2021",
