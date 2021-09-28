@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "COLORADO",
+      "updated": "2021-09-28 14:11:07",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "40 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "0"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-28 13:55:26",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "107,118 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "49"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "Español - Actualización diaria de incendios     |   ...",
@@ -12,32 +38,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "76"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-28 13:40:39",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "107,118 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "49"
-    },
-    {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "COLORADO",
-      "updated": "2021-09-28 13:39:10",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "40 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
-      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -1845,19 +1845,6 @@
       "url": "/incident/7548/",
       "id": "7548",
       "contained": "100"
-    },
-    {
-      "name": "Magic Feather Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " &amp;#183;Firefighters monitored the Magic Feather Prescribed Burn, east...",
-      "state": "COLORADO",
-      "updated": "2021-06-30 13:51:11",
-      "lat": "40.764",
-      "lng": "-105.542",
-      "size": "6,329 Acres",
-      "url": "/incident/6403/",
-      "id": "6403",
-      "contained": "0"
     }
   ]
 }
