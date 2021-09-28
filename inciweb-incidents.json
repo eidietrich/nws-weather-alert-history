@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-28 10:47:33",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,426 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "56"
+    },
+    {
+      "name": "Devils Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-09-28 10:46:51",
+      "lat": "42.979",
+      "lng": "-122.809",
+      "size": "70,109 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "58"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "As of Tuesday morning, the Windy Fire is approximately 87,318 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 10:45:59",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "87,318 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "4"
+    },
+    {
       "name": "Nason Fire",
       "type": "Wildfire",
       "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
       "state": "WASHINGTON",
-      "updated": "2021-09-28 10:33:55",
+      "updated": "2021-09-28 10:43:54",
       "lat": "47.828",
       "lng": "-120.96",
       "size": "1,269 Acres",
       "url": "/incident/7799/",
       "id": "7799",
       "contained": "70"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": " Cougar Peak Fire burning northwest of Lakeview The Cougar Peak...",
+      "state": "OREGON",
+      "updated": "2021-09-28 10:43:03",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,730 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "75"
+    },
+    {
+      "name": "Trail Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-09-28 10:42:02",
+      "lat": "45.683",
+      "lng": "-113.854",
+      "size": "57,325 Acres",
+      "url": "/incident/7634/",
+      "id": "7634",
+      "contained": "75"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-09-28 10:39:39",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "36,538 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "45"
+    },
+    {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "COLORADO",
+      "updated": "2021-09-28 10:36:41",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "40 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "0"
     },
     {
       "name": "Monument Fire",
@@ -27,19 +118,6 @@
       "contained": "72"
     },
     {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "As of Tuesday morning, the Windy Fire is approximately 87,318 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 10:32:41",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "87,318 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "4"
-    },
-    {
       "name": "Woods Creek BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
@@ -51,19 +129,6 @@
       "url": "/incident/7845/",
       "id": "7845",
       "contained": "0"
-    },
-    {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": " Cougar Peak Fire burning northwest of Lakeview The Cougar Peak...",
-      "state": "OREGON",
-      "updated": "2021-09-28 10:30:43",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,730 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "65"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
@@ -157,32 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "Trail Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-09-28 09:58:56",
-      "lat": "45.683",
-      "lng": "-113.854",
-      "size": "57,325 Acres",
-      "url": "/incident/7634/",
-      "id": "7634",
-      "contained": "75"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-09-28 09:58:38",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "39,474 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "45"
-    },
-    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "     River Complex Fire Update Monday September 27, 2021 Etna,...",
@@ -235,19 +274,6 @@
       "contained": "41"
     },
     {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-09-28 07:41:05",
-      "lat": "42.979",
-      "lng": "-122.809",
-      "size": "70,109 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "58"
-    },
-    {
       "name": "Jack Fire",
       "type": "Wildfire",
       "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
@@ -259,19 +285,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "68"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-27 22:25:35",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,426 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "56"
     },
     {
       "name": "Twentyfive Mile BAER",
@@ -310,19 +323,6 @@
       "size": "0 Acres",
       "url": "/incident/7832/",
       "id": "7832",
-      "contained": "0"
-    },
-    {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "COLORADO",
-      "updated": "2021-09-27 21:59:12",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "40 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
       "contained": "0"
     },
     {
