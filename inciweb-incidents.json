@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-09-28 10:15:15",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "7,383 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "70"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "Español - Actualización diaria de incendios     |    ...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-28 09:45:43",
+      "updated": "2021-09-28 10:11:59",
       "lat": "38.586",
       "lng": "-120.538",
       "size": "221,774 Acres",
@@ -18,7 +31,7 @@
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-28 09:37:37",
+      "updated": "2021-09-28 10:07:50",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "93,244 Acres",
@@ -27,11 +40,24 @@
       "contained": "48"
     },
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "As of Tuesday morning, the Windy Fire is approximately 87,318 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 10:05:27",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "87,318 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "4"
+    },
+    {
       "name": "Sand Lake Fire",
       "type": "Wildfire",
       "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
       "state": "MONTANA",
-      "updated": "2021-09-28 09:37:26",
+      "updated": "2021-09-28 09:59:14",
       "lat": "45.636",
       "lng": "-113.236",
       "size": "228 Acres",
@@ -40,50 +66,11 @@
       "contained": "0"
     },
     {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 09:36:58",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "48,344 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "8"
-    },
-    {
-      "name": "Bull Complex ",
-      "type": "Wildfire",
-      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
-      "state": "OREGON",
-      "updated": "2021-09-28 09:35:38",
-      "lat": "44.879",
-      "lng": "-122.009",
-      "size": "24,894 Acres",
-      "url": "/incident/7773/",
-      "id": "7773",
-      "contained": "20"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-09-28 09:33:58",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "39,474 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "45"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
       "state": "MONTANA",
-      "updated": "2021-09-28 09:27:30",
+      "updated": "2021-09-28 09:58:56",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "57,325 Acres",
@@ -92,17 +79,56 @@
       "contained": "75"
     },
     {
-      "name": "Windy Fire",
+      "name": "Alder Creek Fire",
       "type": "Wildfire",
-      "summary": "As of Tuesday morning, the Windy Fire is approximately 87,318 acres...",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-09-28 09:58:38",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "39,474 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "45"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "     River Complex Fire Update Monday September 27, 2021 Etna,...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-28 09:20:11",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "87,318 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "4"
+      "updated": "2021-09-28 09:52:35",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "198,555 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "67"
+    },
+    {
+      "name": "Bull Complex ",
+      "type": "Wildfire",
+      "summary": "Following a round of lightning in the afternoon on August 2, four new...",
+      "state": "OREGON",
+      "updated": "2021-09-28 09:48:17",
+      "lat": "44.879",
+      "lng": "-122.009",
+      "size": "24,894 Acres",
+      "url": "/incident/7773/",
+      "id": "7773",
+      "contained": "20"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 09:46:40",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "48,344 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "8"
     },
     {
       "name": "Boundary Fire",
@@ -116,19 +142,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "58"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "     River Complex Fire Update Monday September 27, 2021 Etna,...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 08:38:10",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "198,555 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "67"
     },
     {
       "name": "Haystack Fire",
@@ -701,19 +714,6 @@
       "url": "/incident/7770/",
       "id": "7770",
       "contained": "95"
-    },
-    {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-09-23 16:28:34",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "7,337 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "70"
     },
     {
       "name": "Tumbledown Post-Fire BAER",
