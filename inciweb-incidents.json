@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Twentyfive Mile BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-27 22:15:25",
+      "lat": "47.935",
+      "lng": "-120.308",
+      "size": "22,117 Acres",
+      "url": "/incident/7846/",
+      "id": "7846",
+      "contained": "0"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
+      "state": "OREGON",
+      "updated": "2021-09-27 22:13:29",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,426 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "56"
+    },
+    {
+      "name": "Cub Creek 2 BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-27 22:12:41",
+      "lat": "48.631",
+      "lng": "-120.158",
+      "size": "0 Acres",
+      "url": "/incident/7830/",
+      "id": "7830",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-27 22:10:58",
+      "lat": "48.538",
+      "lng": "-120.418",
+      "size": "0 Acres",
+      "url": "/incident/7832/",
+      "id": "7832",
+      "contained": "0"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "ACTUALIZACIÓN DEL INCENDIO DE CALDOR: SEPTIEMBRE 27,2021 CURRENT...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 22:05:34",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,774 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "76"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "As of Monday evening, the Windy Fire is approximately 86,502 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-27 21:59:22",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "86,502 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "2"
+    },
+    {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "COLORADO",
+      "updated": "2021-09-27 21:59:12",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "40 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "0"
+    },
+    {
       "name": "Shedhorn Fire",
       "type": "Wildfire",
       "summary": "",
@@ -79,19 +170,6 @@
       "contained": "54"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "ACTUALIZACIÓN DEL INCENDIO DE CALDOR: SEPTIEMBRE 27,2021 CURRENT...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-27 20:23:44",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,774 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "76"
-    },
-    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -155,19 +233,6 @@
       "url": "/incident/7760/",
       "id": "7760",
       "contained": "67"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex started July 29 when 20-plus...",
-      "state": "OREGON",
-      "updated": "2021-09-27 19:18:17",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,426 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "52"
     },
     {
       "name": "Monument Fire",
@@ -272,32 +337,6 @@
       "url": "/incident/7745/",
       "id": "7745",
       "contained": "55"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "The Windy Fire is approximately 85,383 acres (3,105-acre increase...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-27 12:02:49",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "85,383 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "2"
-    },
-    {
-      "name": "Twentyfive Mile BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-27 11:12:20",
-      "lat": "47.935",
-      "lng": "-120.308",
-      "size": "22,117 Acres",
-      "url": "/incident/7846/",
-      "id": "7846",
-      "contained": "0"
     },
     {
       "name": "San Juan NF Prescribed Fire Program",
@@ -961,32 +1000,6 @@
       "url": "/incident/7674/",
       "id": "7674",
       "contained": "82"
-    },
-    {
-      "name": "Cedar Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-16 15:10:48",
-      "lat": "48.538",
-      "lng": "-120.418",
-      "size": "0 Acres",
-      "url": "/incident/7832/",
-      "id": "7832",
-      "contained": "0"
-    },
-    {
-      "name": "Cub Creek 2 BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " All fires on the Okanogan-Wenatchee National Forest requiring a...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-16 15:09:21",
-      "lat": "48.631",
-      "lng": "-120.158",
-      "size": "0 Acres",
-      "url": "/incident/7830/",
-      "id": "7830",
-      "contained": "0"
     },
     {
       "name": "Muckamuck",
