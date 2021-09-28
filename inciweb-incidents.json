@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 12:22:47",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "224,103 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "72"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "As of Tuesday morning, the Windy Fire is approximately 87,318 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 12:21:46",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "87,318 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "4"
+    },
+    {
+      "name": "Shedhorn Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "MONTANA",
+      "updated": "2021-09-28 12:19:34",
+      "lat": "45.056",
+      "lng": "-111.411",
+      "size": "64 Acres",
+      "url": "/incident/7856/",
+      "id": "7856",
+      "contained": "0"
+    },
+    {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "COLORADO",
+      "updated": "2021-09-28 12:15:34",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "40 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "0"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "River Complex Fire Update Tuesday, September 28, 2021 Etna, CA-...",
@@ -40,19 +92,6 @@
       "contained": "95"
     },
     {
-      "name": "Shedhorn Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "MONTANA",
-      "updated": "2021-09-28 11:36:47",
-      "lat": "45.056",
-      "lng": "-111.411",
-      "size": "64 Acres",
-      "url": "/incident/7856/",
-      "id": "7856",
-      "contained": "0"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -90,19 +129,6 @@
       "url": "/incident/7806/",
       "id": "7806",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 11:20:38",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "224,103 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "72"
     },
     {
       "name": "Jack Fire",
@@ -183,19 +209,6 @@
       "contained": "58"
     },
     {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "As of Tuesday morning, the Windy Fire is approximately 87,318 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 10:45:59",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "87,318 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "4"
-    },
-    {
       "name": "Nason Fire",
       "type": "Wildfire",
       "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
@@ -233,19 +246,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "45"
-    },
-    {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "COLORADO",
-      "updated": "2021-09-28 10:36:41",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "40 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
-      "contained": "0"
     },
     {
       "name": "Woods Creek BAER",
