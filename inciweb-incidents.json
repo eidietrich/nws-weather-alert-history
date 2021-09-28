@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 13:44:55",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,774 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "76"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-28 13:40:39",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "107,118 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "49"
+    },
+    {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "COLORADO",
+      "updated": "2021-09-28 13:39:10",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "40 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "0"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
@@ -27,19 +66,6 @@
       "contained": "67"
     },
     {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "COLORADO",
-      "updated": "2021-09-28 13:32:17",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "40 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
-      "contained": "0"
-    },
-    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "The KNP Complex in the Sequoia National Park was originally two fires...",
@@ -64,32 +90,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "4"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-28 12:40:50",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "107,118 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "49"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 12:39:03",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,774 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "76"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
