@@ -1,11 +1,115 @@
 {
   "markers": [
     {
+      "name": "Nason Fire",
+      "type": "Wildfire",
+      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
+      "state": "WASHINGTON",
+      "updated": "2021-09-28 10:33:55",
+      "lat": "47.828",
+      "lng": "-120.96",
+      "size": "1,269 Acres",
+      "url": "/incident/7799/",
+      "id": "7799",
+      "contained": "70"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 10:32:59",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "224,103 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "72"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "As of Tuesday morning, the Windy Fire is approximately 87,318 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 10:32:41",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "87,318 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "4"
+    },
+    {
+      "name": "Woods Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
+      "state": "MONTANA",
+      "updated": "2021-09-28 10:30:58",
+      "lat": "46.561",
+      "lng": "-111.226",
+      "size": "0 Acres",
+      "url": "/incident/7845/",
+      "id": "7845",
+      "contained": "0"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": " Cougar Peak Fire burning northwest of Lakeview The Cougar Peak...",
+      "state": "OREGON",
+      "updated": "2021-09-28 10:30:43",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,730 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "65"
+    },
+    {
+      "name": "Animas City Mountain Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
+      "state": "COLORADO",
+      "updated": "2021-09-28 10:29:08",
+      "lat": "37.323",
+      "lng": "-107.872",
+      "size": "0 Acres",
+      "url": "/incident/7688/",
+      "id": "7688",
+      "contained": "0"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
+      "state": "IDAHO",
+      "updated": "2021-09-28 10:24:07",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "84,138 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "58"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-09-28 10:23:45",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,857 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
+    },
+    {
       "name": "Crater Ridge",
       "type": "Wildfire",
       "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
       "state": "WYOMING",
-      "updated": "2021-09-28 10:15:15",
+      "updated": "2021-09-28 10:20:24",
       "lat": "44.947",
       "lng": "-107.771",
       "size": "7,383 Acres",
@@ -38,19 +142,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "48"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "As of Tuesday morning, the Windy Fire is approximately 87,318 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 10:05:27",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "87,318 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "4"
     },
     {
       "name": "Sand Lake Fire",
@@ -131,19 +222,6 @@
       "contained": "8"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": " When the Boundary Fire started on August 10th in the Frank Church...",
-      "state": "IDAHO",
-      "updated": "2021-09-28 09:06:01",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "84,138 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "58"
-    },
-    {
       "name": "Haystack Fire",
       "type": "Wildfire",
       "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
@@ -168,32 +246,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "58"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-28 07:15:19",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,857 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "70"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 06:56:29",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "224,103 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "72"
     },
     {
       "name": "Jack Fire",
@@ -287,19 +339,6 @@
       "contained": "0"
     },
     {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": " Cougar Peak Fire burning northwest of Lakeview The Cougar Peak...",
-      "state": "OREGON",
-      "updated": "2021-09-27 21:23:14",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,730 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "65"
-    },
-    {
       "name": "Schneider Springs",
       "type": "Wildfire",
       "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
@@ -337,19 +376,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "95"
-    },
-    {
-      "name": "Woods Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
-      "state": "MONTANA",
-      "updated": "2021-09-27 16:17:29",
-      "lat": "46.561",
-      "lng": "-111.226",
-      "size": "0 Acres",
-      "url": "/incident/7845/",
-      "id": "7845",
-      "contained": "0"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -401,19 +427,6 @@
       "size": "0 Acres",
       "url": "/incident/7852/",
       "id": "7852",
-      "contained": "0"
-    },
-    {
-      "name": "Animas City Mountain Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
-      "state": "COLORADO",
-      "updated": "2021-09-27 10:22:09",
-      "lat": "37.323",
-      "lng": "-107.872",
-      "size": "0 Acres",
-      "url": "/incident/7688/",
-      "id": "7688",
       "contained": "0"
     },
     {
@@ -545,19 +558,6 @@
       "url": "/incident/7804/",
       "id": "7804",
       "contained": "62"
-    },
-    {
-      "name": "Nason Fire",
-      "type": "Wildfire",
-      "summary": "Located 17 miles northwest of Plain, Washington, the Nason Fire is...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-25 10:56:32",
-      "lat": "47.828",
-      "lng": "-120.96",
-      "size": "1,269 Acres",
-      "url": "/incident/7799/",
-      "id": "7799",
-      "contained": "70"
     },
     {
       "name": "Monument-Knob Post-Fire BAER",
