@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 21:44:26",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,276 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "As of Tuesday evening, the Windy Fire is approximately 87,709 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-28 21:43:22",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "87,709 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "6"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-09-28 21:43:04",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "75"
+    },
+    {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "COLORADO",
+      "updated": "2021-09-28 21:35:03",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "83 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "0"
+    },
+    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
       "state": "CALIFORNIA",
-      "updated": "2021-09-28 21:19:02",
+      "updated": "2021-09-28 21:31:56",
       "lat": "41.5",
       "lng": "-121.929",
       "size": "145,632 Acres",
@@ -25,19 +77,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "55"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "As of Tuesday evening, the Windy Fire is approximately 87,709 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 21:08:50",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "87,709 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "6"
     },
     {
       "name": "Shedhorn Fire",
@@ -64,19 +103,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "41"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "   Background: The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-28 20:48:34",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,276 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "Rough Patch",
@@ -170,19 +196,6 @@
       "contained": "8"
     },
     {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "COLORADO",
-      "updated": "2021-09-28 15:40:32",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "83 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
-      "contained": "0"
-    },
-    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "The Boundary Fire was detected on August 10, 2021.  The fire is...",
@@ -233,19 +246,6 @@
       "url": "/incident/7806/",
       "id": "7806",
       "contained": "0"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-09-28 11:18:06",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "68"
     },
     {
       "name": "Greenwood Fire",
