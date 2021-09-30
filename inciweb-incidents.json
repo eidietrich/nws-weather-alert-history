@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Thursday morning, the Windy Fire is approximately 88,068...",
+      "state": "CALIFORNIA",
+      "updated": "2021-09-30 16:42:21",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "88,068 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "35"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "Español - Actualización diaria de incendios     |   ...",
@@ -90,19 +103,6 @@
       "url": "/incident/7775/",
       "id": "7775",
       "contained": "55"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "As of Thursday morning, the Windy Fire is approximately 88,068 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-30 12:58:36",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "88,068 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "35"
     },
     {
       "name": "John Ek and Whelp Fires",
@@ -1806,19 +1806,6 @@
       "url": "/incident/7573/",
       "id": "7573",
       "contained": "0"
-    },
-    {
-      "name": "Deep Creek Canyon Fire",
-      "type": "Wildfire",
-      "summary": "  Wildfire Information Deep Creek Canyon FireTownsend Ranger...",
-      "state": "MONTANA",
-      "updated": "2021-07-02 16:28:53",
-      "lat": "46.349",
-      "lng": "-111.165",
-      "size": "4,648 Acres",
-      "url": "/incident/7536/",
-      "id": "7536",
-      "contained": "98"
     }
   ]
 }
