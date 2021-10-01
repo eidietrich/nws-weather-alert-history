@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Friday morning, the Windy Fire is approximately 89,804 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 11:26:29",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "89,804 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "40"
+    },
+    {
+      "name": "Middle Fork Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Fork Complex is being managed by a local Type...",
+      "state": "OREGON",
+      "updated": "2021-10-01 11:25:00",
+      "lat": "43.869",
+      "lng": "-122.409",
+      "size": "30,928 Acres",
+      "url": "/incident/7745/",
+      "id": "7745",
+      "contained": "55"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 11:14:43",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,001 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "79"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 11:13:56",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "Shedhorn Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "MONTANA",
+      "updated": "2021-10-01 11:13:41",
+      "lat": "45.056",
+      "lng": "-111.411",
+      "size": "74 Acres",
+      "url": "/incident/7856/",
+      "id": "7856",
+      "contained": "0"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-10-01 11:07:09",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "107,118 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "55"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "                                             ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 11:04:53",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "198,660 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "69"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 10:58:02",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "91"
+    },
+    {
       "name": "Animas City Mountain Prescribed Burn",
       "type": "Prescribed Fire",
       "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
@@ -14,32 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-01 10:47:01",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Friday morning, the Windy Fire is approximately 89,804 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-01 10:43:05",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "89,804 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "40"
-    },
-    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
@@ -51,19 +129,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "61"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "                                             ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-01 10:38:12",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "198,660 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "69"
     },
     {
       "name": "Boundary Fire",
@@ -170,19 +235,6 @@
       "contained": "43"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-01 10:07:35",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "91"
-    },
-    {
       "name": "Devils Knob Complex",
       "type": "Wildfire",
       "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
@@ -194,19 +246,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "58"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-01 09:52:54",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,001 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "79"
     },
     {
       "name": "Trail Creek Fire",
@@ -300,19 +339,6 @@
       "contained": "68"
     },
     {
-      "name": "Shedhorn Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "MONTANA",
-      "updated": "2021-09-30 20:29:56",
-      "lat": "45.056",
-      "lng": "-111.411",
-      "size": "74 Acres",
-      "url": "/incident/7856/",
-      "id": "7856",
-      "contained": "0"
-    },
-    {
       "name": "Magic Feather Prescribed Burn",
       "type": "Prescribed Fire",
       "summary": " Firefighters on the Canyon Lakes Ranger District of the Roosevelt...",
@@ -350,19 +376,6 @@
       "url": "/incident/7851/",
       "id": "7851",
       "contained": "0"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-09-30 13:43:48",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "107,118 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "55"
     },
     {
       "name": "John Ek and Whelp Fires",
@@ -597,19 +610,6 @@
       "url": "/incident/7848/",
       "id": "7848",
       "contained": "100"
-    },
-    {
-      "name": "Middle Fork Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Fork Complex is being managed by a local Type...",
-      "state": "OREGON",
-      "updated": "2021-09-27 13:00:19",
-      "lat": "43.869",
-      "lng": "-122.409",
-      "size": "30,928 Acres",
-      "url": "/incident/7745/",
-      "id": "7745",
-      "contained": "55"
     },
     {
       "name": "Southwest District BLM Prescribed Fire ",
