@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-10-01 18:12:35",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "18,490 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "45"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 17:54:08",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "91"
+    },
+    {
       "name": "Cedar Creek",
       "type": "Wildfire",
       "summary": "",
       "state": "WASHINGTON",
-      "updated": "2021-10-01 17:42:08",
+      "updated": "2021-10-01 17:50:31",
       "lat": "48.568",
       "lng": "-120.488",
       "size": "55,572 Acres",
@@ -66,19 +92,6 @@
       "contained": "0"
     },
     {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-10-01 16:09:02",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "18,490 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "45"
-    },
-    {
       "name": "Greenwood Fire",
       "type": "Wildfire",
       "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
@@ -116,19 +129,6 @@
       "url": "/incident/7839/",
       "id": "7839",
       "contained": "0"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-01 15:07:36",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "91"
     },
     {
       "name": "Lava Fire",
