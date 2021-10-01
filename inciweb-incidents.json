@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Greenwood Fire",
+      "type": "Wildfire",
+      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
+      "state": "MINNESOTA",
+      "updated": "2021-10-01 15:42:58",
+      "lat": "47.553",
+      "lng": "-91.648",
+      "size": "26,797 Acres",
+      "url": "/incident/7805/",
+      "id": "7805",
+      "contained": "80"
+    },
+    {
+      "name": "Devils Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-10-01 15:32:18",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "70,110 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "58"
+    },
+    {
       "name": "Tumbledown Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "The Tumbledown Fire has been identified as requiring a BAER...",
@@ -365,19 +391,6 @@
       "contained": "43"
     },
     {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-10-01 09:54:47",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "70,110 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "58"
-    },
-    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
@@ -456,19 +469,6 @@
       "contained": "0"
     },
     {
-      "name": "John Ek and Whelp Fires",
-      "type": "Wildfire",
-      "summary": " Superior NF Facebook  |  Superior NF WebpageOn the afternoon of...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-30 12:38:14",
-      "lat": "47.909",
-      "lng": "-90.992",
-      "size": "1,357 Acres",
-      "url": "/incident/7806/",
-      "id": "7806",
-      "contained": "0"
-    },
-    {
       "name": "Antelope Fire",
       "type": "Wildfire",
       "summary": "The Antelope Fire was first discovered on Sunday, August 1, 2021, in...",
@@ -480,19 +480,6 @@
       "url": "/incident/7764/",
       "id": "7764",
       "contained": "95"
-    },
-    {
-      "name": "Greenwood Fire",
-      "type": "Wildfire",
-      "summary": "The Greenwood Fire was detected on August 15, 2021 near Greenwood...",
-      "state": "MINNESOTA",
-      "updated": "2021-09-30 12:27:45",
-      "lat": "47.553",
-      "lng": "-91.648",
-      "size": "26,797 Acres",
-      "url": "/incident/7805/",
-      "id": "7805",
-      "contained": "80"
     },
     {
       "name": "French Post-Fire BAER",
