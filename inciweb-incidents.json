@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Kaibab NF South Zone Rx Fire",
+      "type": "Prescribed Fire",
+      "summary": "Burning has been re-scheduled to resume on Saturday May 1 and could...",
+      "state": "ARIZONA",
+      "updated": "2021-10-01 08:01:32",
+      "lat": "35.982",
+      "lng": "-112.086",
+      "size": "350 Acres",
+      "url": "/incident/5922/",
+      "id": "5922",
+      "contained": "0"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
+      "state": "IDAHO",
+      "updated": "2021-10-01 07:54:35",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "84,756 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "64"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-10-01 07:45:47",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,857 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
+    },
+    {
+      "name": "Devils Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-10-01 07:41:02",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "70,110 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "58"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
@@ -38,19 +90,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "61"
-    },
-    {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-09-30 23:06:51",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "70,110 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "58"
     },
     {
       "name": "Jack Fire",
@@ -389,32 +428,6 @@
       "url": "/incident/7654/",
       "id": "7654",
       "contained": "83"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
-      "state": "IDAHO",
-      "updated": "2021-09-30 10:35:57",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "84,535 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "64"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-09-30 09:05:33",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,857 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "70"
     },
     {
       "name": "Bull Complex ",
