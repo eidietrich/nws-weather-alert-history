@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
       "state": "IDAHO",
-      "updated": "2021-10-01 08:18:28",
+      "updated": "2021-10-01 08:46:06",
       "lat": "44.532",
       "lng": "-115.329",
       "size": "84,756 Acres",
@@ -14,17 +14,43 @@
       "contained": "68"
     },
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Friday morning, the Windy Fire is approximately 89,771 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 08:45:57",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "89,771 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "40"
+    },
+    {
       "name": "Kaibab NF South Zone Rx Fire",
       "type": "Prescribed Fire",
       "summary": "Burning has been re-scheduled to resume on Saturday May 1 and could...",
       "state": "ARIZONA",
-      "updated": "2021-10-01 08:04:14",
+      "updated": "2021-10-01 08:40:38",
       "lat": "35.982",
       "lng": "-112.086",
       "size": "350 Acres",
       "url": "/incident/5922/",
       "id": "5922",
       "contained": "0"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-10-01 08:38:55",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "18,490 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "45"
     },
     {
       "name": "Mud Lick Fire",
@@ -118,19 +144,6 @@
       "contained": "20"
     },
     {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Thursday evening, the Windy Fire is approximately 89,804...",
-      "state": "CALIFORNIA",
-      "updated": "2021-09-30 22:48:45",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "89,804 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "37"
-    },
-    {
       "name": "Sand Lake Fire",
       "type": "Wildfire",
       "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
@@ -142,19 +155,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-09-30 22:36:44",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "17,009 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "45"
     },
     {
       "name": "Alder Creek Fire",
