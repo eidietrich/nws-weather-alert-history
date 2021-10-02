@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
+      "state": "OREGON",
+      "updated": "2021-10-01 23:18:27",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "83"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Friday evening, the Windy Fire is approximately 90,149 acres...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-01 22:45:50",
+      "updated": "2021-10-01 23:16:47",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "90,149 Acres",
@@ -14,11 +27,37 @@
       "contained": "42"
     },
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 23:11:02",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "91"
+    },
+    {
+      "name": "Devils Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-10-01 22:57:25",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "70,110 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "58"
+    },
+    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-01 22:45:08",
+      "updated": "2021-10-01 22:51:39",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "93,514 Acres",
@@ -64,19 +103,6 @@
       "url": "/incident/7690/",
       "id": "7690",
       "contained": "94"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-01 20:57:46",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "91"
     },
     {
       "name": "Ptarmigan Fire",
@@ -194,19 +220,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "20"
-    },
-    {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-10-01 18:37:53",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "70,110 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "58"
     },
     {
       "name": "Cedar Creek",
@@ -350,19 +363,6 @@
       "url": "/incident/7758/",
       "id": "7758",
       "contained": "68"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire started on July 5, 2021 at approximately 5:00 p.m. It...",
-      "state": "OREGON",
-      "updated": "2021-10-01 12:20:05",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "80"
     },
     {
       "name": "Middle Fork Complex",
@@ -1793,19 +1793,6 @@
       "url": "/incident/7569/",
       "id": "7569",
       "contained": "99"
-    },
-    {
-      "name": "Mescal Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
-      "state": "ARIZONA",
-      "updated": "2021-07-03 23:04:24",
-      "lat": "33.114",
-      "lng": "-110.596",
-      "size": "0 Acres",
-      "url": "/incident/7573/",
-      "id": "7573",
-      "contained": "0"
     }
   ]
 }
