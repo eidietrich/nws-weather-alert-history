@@ -1,30 +1,69 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 20:57:46",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "91"
+    },
+    {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
+      "state": "COLORADO",
+      "updated": "2021-10-01 20:42:26",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "86 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "20"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Friday evening, the Windy Fire is approximately 90,149 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 20:40:21",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "90,149 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "42"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "                                             ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-01 20:40:14",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "198,663 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "69"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-01 19:58:00",
+      "updated": "2021-10-01 20:03:15",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "223,001 Acres",
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "79"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Friday morning, the Windy Fire is approximately 89,804 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-01 19:51:56",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "89,804 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "40"
     },
     {
       "name": "Sand Lake Fire",
@@ -103,32 +142,6 @@
       "url": "/incident/7835/",
       "id": "7835",
       "contained": "85"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-01 19:08:48",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "91"
-    },
-    {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
-      "state": "COLORADO",
-      "updated": "2021-10-01 19:01:04",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "86 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
-      "contained": "20"
     },
     {
       "name": "KNP Complex ",
@@ -363,19 +376,6 @@
       "url": "/incident/7856/",
       "id": "7856",
       "contained": "0"
-    },
-    {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "                                             ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-01 11:04:53",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "198,660 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "69"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
