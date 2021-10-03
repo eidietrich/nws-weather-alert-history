@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-03 11:23:42",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "93,514 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "61"
+    },
+    {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-10-03 11:21:52",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "107,118 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "55"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex on the Umpqua National Forest...",
+      "state": "OREGON",
+      "updated": "2021-10-03 11:18:32",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,409 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "71"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-03 11:09:23",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "91"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "                                             ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-03 11:01:27",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "198,667 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "71"
+    },
+    {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire located on the Umpqua National Forest started on July...",
+      "state": "OREGON",
+      "updated": "2021-10-03 10:55:59",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "83"
+    },
+    {
       "name": "Ptarmigan Fire",
       "type": "Wildfire",
       "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
@@ -51,19 +129,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "67"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire located on the Umpqua National Forest started on July...",
-      "state": "OREGON",
-      "updated": "2021-10-03 10:24:13",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "83"
     },
     {
       "name": "Alder Creek Fire",
@@ -118,19 +183,6 @@
       "contained": "56"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-03 10:01:48",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "91"
-    },
-    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
@@ -183,19 +235,6 @@
       "contained": "70"
     },
     {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex on the Umpqua National Forest...",
-      "state": "OREGON",
-      "updated": "2021-10-03 00:36:30",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,409 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "71"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
@@ -222,32 +261,6 @@
       "contained": "58"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "                                             ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-02 21:18:05",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "198,667 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "71"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-02 21:02:04",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "93,514 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "61"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -272,19 +285,6 @@
       "url": "/incident/7625/",
       "id": "7625",
       "contained": "100"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-10-02 11:21:06",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "107,118 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "55"
     },
     {
       "name": "Tiltill",
