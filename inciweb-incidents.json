@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
+      "state": "IDAHO",
+      "updated": "2021-10-03 08:32:07",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "85,405 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "68"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-10-03 08:30:56",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "18,490 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "61"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-10-03 08:30:38",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,857 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
@@ -103,19 +142,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "52"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-10-02 22:05:07",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "18,490 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "61"
     },
     {
       "name": "River Complex 2021",
@@ -298,32 +324,6 @@
       "url": "/incident/7613/",
       "id": "7613",
       "contained": "100"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
-      "state": "IDAHO",
-      "updated": "2021-10-02 08:10:37",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "84,756 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "68"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-10-02 07:45:46",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,857 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "70"
     },
     {
       "name": "Middle Fork Complex",
