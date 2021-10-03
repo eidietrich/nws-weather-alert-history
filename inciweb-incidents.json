@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Jack Fire",
+      "type": "Wildfire",
+      "summary": "The Jack Fire located on the Umpqua National Forest started on July...",
+      "state": "OREGON",
+      "updated": "2021-10-03 00:38:01",
+      "lat": "43.322",
+      "lng": "-122.686",
+      "size": "24,165 Acres",
+      "url": "/incident/7605/",
+      "id": "7605",
+      "contained": "83"
+    },
+    {
+      "name": "Rough Patch",
+      "type": "Wildfire",
+      "summary": "Summary:  The Rough Patch Complex on the Umpqua National Forest...",
+      "state": "OREGON",
+      "updated": "2021-10-03 00:36:30",
+      "lat": "43.511",
+      "lng": "-122.676",
+      "size": "50,409 Acres",
+      "url": "/incident/7758/",
+      "id": "7758",
+      "contained": "71"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-03 00:24:51",
+      "updated": "2021-10-03 00:27:55",
       "lat": "39.819",
       "lng": "-121.419",
       "size": "963,309 Acres",
@@ -194,32 +220,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "20"
-    },
-    {
-      "name": "Jack Fire",
-      "type": "Wildfire",
-      "summary": "The Jack Fire located on the Umpqua National Forest started on July...",
-      "state": "OREGON",
-      "updated": "2021-10-02 17:07:35",
-      "lat": "43.322",
-      "lng": "-122.686",
-      "size": "24,165 Acres",
-      "url": "/incident/7605/",
-      "id": "7605",
-      "contained": "83"
-    },
-    {
-      "name": "Rough Patch",
-      "type": "Wildfire",
-      "summary": "Summary:  The Rough Patch Complex on the Umpqua National Forest...",
-      "state": "OREGON",
-      "updated": "2021-10-02 17:05:28",
-      "lat": "43.511",
-      "lng": "-122.676",
-      "size": "50,426 Acres",
-      "url": "/incident/7758/",
-      "id": "7758",
-      "contained": "71"
     },
     {
       "name": "Divide Complex-Ellis Fire",
