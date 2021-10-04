@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Cub Creek 2 Fire",
+      "type": "Wildfire",
+      "summary": "9-20-2021:  Minimal fire behavior with backing, creeping, and...",
+      "state": "WASHINGTON",
+      "updated": "2021-10-04 15:10:38",
+      "lat": "48.552",
+      "lng": "-120.194",
+      "size": "70,186 Acres",
+      "url": "/incident/7675/",
+      "id": "7675",
+      "contained": "90"
+    },
+    {
+      "name": "Cedar Creek",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2021-10-04 15:00:27",
+      "lat": "48.568",
+      "lng": "-120.488",
+      "size": "55,572 Acres",
+      "url": "/incident/7655/",
+      "id": "7655",
+      "contained": "87"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Monday morning, the Windy Fire is approximately 94,746 acres...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-04 14:44:54",
+      "updated": "2021-10-04 14:50:56",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "94,746 Acres",
@@ -415,32 +441,6 @@
       "url": "/incident/7846/",
       "id": "7846",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "WASHINGTON",
-      "updated": "2021-10-01 17:50:31",
-      "lat": "48.568",
-      "lng": "-120.488",
-      "size": "55,572 Acres",
-      "url": "/incident/7655/",
-      "id": "7655",
-      "contained": "87"
-    },
-    {
-      "name": "Cub Creek 2 Fire",
-      "type": "Wildfire",
-      "summary": "9-20-2021:  Minimal fire behavior with backing, creeping, and...",
-      "state": "WASHINGTON",
-      "updated": "2021-10-01 17:23:39",
-      "lat": "48.552",
-      "lng": "-120.194",
-      "size": "70,186 Acres",
-      "url": "/incident/7675/",
-      "id": "7675",
-      "contained": "90"
     },
     {
       "name": "Greenwood Fire",
