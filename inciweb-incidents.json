@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Monday evening, the Windy Fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-04 20:56:53",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "95,345 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "70"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-10-04 20:49:44",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "21,231 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "80"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": "Notice: We are aware of social media platforms, Facebook etc. being...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-04 20:48:21",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "67,708 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "11"
+    },
+    {
+      "name": "Crater Ridge",
+      "type": "Wildfire",
+      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
+      "state": "WYOMING",
+      "updated": "2021-10-04 20:12:59",
+      "lat": "44.947",
+      "lng": "-107.771",
+      "size": "7,537 Acres",
+      "url": "/incident/7685/",
+      "id": "7685",
+      "contained": "70"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-04 20:10:29",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "93"
+    },
+    {
+      "name": "Dixie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-04 20:10:13",
+      "lat": "40.241",
+      "lng": "-120.897",
+      "size": "0 Acres",
+      "url": "/incident/7811/",
+      "id": "7811",
+      "contained": "0"
+    },
+    {
+      "name": "Cougar Peak Fire",
+      "type": "Wildfire",
+      "summary": "Cougar Peak Fire burning northwest of LakeviewThe Cougar Peak Fire...",
+      "state": "OREGON",
+      "updated": "2021-10-04 20:08:14",
+      "lat": "42.277",
+      "lng": "-120.613",
+      "size": "91,810 Acres",
+      "url": "/incident/7835/",
+      "id": "7835",
+      "contained": "90"
+    },
+    {
       "name": "Sand Lake Fire",
       "type": "Wildfire",
       "summary": "A Type 2 Northern Rockies Incident Management Team, Incident...",
@@ -53,32 +144,6 @@
       "contained": "61"
     },
     {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": "Notice: We are aware of social media platforms, Facebook etc. being...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-04 19:16:48",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "67,708 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "11"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-04 19:01:14",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "93"
-    },
-    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
@@ -90,19 +155,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "81"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-10-04 18:44:22",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "21,231 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "67"
     },
     {
       "name": "Ptarmigan Fire",
@@ -157,19 +209,6 @@
       "contained": "65"
     },
     {
-      "name": "Crater Ridge",
-      "type": "Wildfire",
-      "summary": "The Crater Ridge Fire ignited on July 17 in a remote area of the...",
-      "state": "WYOMING",
-      "updated": "2021-10-04 17:28:12",
-      "lat": "44.947",
-      "lng": "-107.771",
-      "size": "7,383 Acres",
-      "url": "/incident/7685/",
-      "id": "7685",
-      "contained": "70"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
@@ -194,19 +233,6 @@
       "url": "/incident/7332/",
       "id": "7332",
       "contained": "0"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Monday morning, the Windy Fire is approximately 94,746 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-04 15:29:58",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "94,746 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "68"
     },
     {
       "name": "Cub Creek 2 Fire",
@@ -313,19 +339,6 @@
       "contained": "83"
     },
     {
-      "name": "Cougar Peak Fire",
-      "type": "Wildfire",
-      "summary": "Cougar Peak Fire burning northwest of LakeviewThe Cougar Peak Fire...",
-      "state": "OREGON",
-      "updated": "2021-10-04 09:51:17",
-      "lat": "42.277",
-      "lng": "-120.613",
-      "size": "91,795 Acres",
-      "url": "/incident/7835/",
-      "id": "7835",
-      "contained": "90"
-    },
-    {
       "name": "Kaibab NF South Zone Rx Fire",
       "type": "Prescribed Fire",
       "summary": "Fire managers on the Kaibab National Forest are planning for the 2021...",
@@ -363,19 +376,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "Dixie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-03 14:54:06",
-      "lat": "40.241",
-      "lng": "-120.897",
-      "size": "0 Acres",
-      "url": "/incident/7811/",
-      "id": "7811",
-      "contained": "0"
     },
     {
       "name": "Schneider Springs",
