@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-05 10:55:16",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "Shedhorn Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "MONTANA",
+      "updated": "2021-10-05 10:54:45",
+      "lat": "45.056",
+      "lng": "-111.411",
+      "size": "75 Acres",
+      "url": "/incident/7856/",
+      "id": "7856",
+      "contained": "60"
+    },
+    {
+      "name": "River Complex 2021",
+      "type": "Wildfire",
+      "summary": "                                             ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-05 10:53:11",
+      "lat": "41.389",
+      "lng": "-123.057",
+      "size": "198,728 Acres",
+      "url": "/incident/7760/",
+      "id": "7760",
+      "contained": "75"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-05 10:50:37",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,001 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "83"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-05 10:49:26",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "93"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "Notice:    Issue with all social media platforms, Facebook etc....",
       "state": "CALIFORNIA",
-      "updated": "2021-10-05 10:27:02",
+      "updated": "2021-10-05 10:43:03",
       "lat": "36.567",
       "lng": "-118.811",
       "size": "76,768 Acres",
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "11"
+    },
+    {
+      "name": "Ptarmigan Fire",
+      "type": "Wildfire",
+      "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
+      "state": "COLORADO",
+      "updated": "2021-10-05 10:30:56",
+      "lat": "39.653",
+      "lng": "-106.051",
+      "size": "86 Acres",
+      "url": "/incident/7857/",
+      "id": "7857",
+      "contained": "55"
     },
     {
       "name": "Rough Patch",
@@ -53,19 +131,6 @@
       "contained": "62"
     },
     {
-      "name": "River Complex 2021",
-      "type": "Wildfire",
-      "summary": "                                             ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-05 10:01:01",
-      "lat": "41.389",
-      "lng": "-123.057",
-      "size": "198,728 Acres",
-      "url": "/incident/7760/",
-      "id": "7760",
-      "contained": "75"
-    },
-    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
@@ -103,19 +168,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "Ptarmigan Fire",
-      "type": "Wildfire",
-      "summary": "The Ptarmigan Fire was first reported on September 27, 2021 around...",
-      "state": "COLORADO",
-      "updated": "2021-10-05 09:40:34",
-      "lat": "39.653",
-      "lng": "-106.051",
-      "size": "86 Acres",
-      "url": "/incident/7857/",
-      "id": "7857",
-      "contained": "55"
     },
     {
       "name": "Alder Creek Fire",
@@ -170,19 +222,6 @@
       "contained": "72"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-05 09:08:38",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "93"
-    },
-    {
       "name": "Mud Lick Fire",
       "type": "Wildfire",
       "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
@@ -196,19 +235,6 @@
       "contained": "70"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-05 06:50:52",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,001 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "81"
-    },
-    {
       "name": "Devils Knob Complex",
       "type": "Wildfire",
       "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
@@ -220,19 +246,6 @@
       "url": "/incident/7771/",
       "id": "7771",
       "contained": "65"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-04 21:57:44",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "Dixie Post-Fire BAER",
@@ -376,19 +389,6 @@
       "url": "/incident/7836/",
       "id": "7836",
       "contained": "100"
-    },
-    {
-      "name": "Shedhorn Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "MONTANA",
-      "updated": "2021-10-04 12:26:37",
-      "lat": "45.056",
-      "lng": "-111.411",
-      "size": "75 Acres",
-      "url": "/incident/7856/",
-      "id": "7856",
-      "contained": "50"
     },
     {
       "name": "Kaibab NF South Zone Rx Fire",
