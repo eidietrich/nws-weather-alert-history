@@ -1,16 +1,55 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español - Actualización diaria de incendios     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-06 08:32:54",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "93"
+    },
+    {
       "name": "Boundary Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
       "state": "IDAHO",
-      "updated": "2021-10-06 07:22:51",
+      "updated": "2021-10-06 08:30:11",
       "lat": "44.532",
       "lng": "-115.329",
       "size": "87,778 Acres",
       "url": "/incident/7795/",
       "id": "7795",
+      "contained": "80"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-06 08:26:17",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-10-06 08:20:52",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "21,591 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
       "contained": "80"
     },
     {
@@ -51,19 +90,6 @@
       "url": "/incident/7601/",
       "id": "7601",
       "contained": "98"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-05 23:27:10",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "River Complex 2021",
@@ -116,19 +142,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "61"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español - Actualización diaria de incendios     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-05 20:28:55",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "93"
     },
     {
       "name": "Sand Lake Fire",
@@ -220,19 +233,6 @@
       "url": "/incident/7688/",
       "id": "7688",
       "contained": "0"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-10-05 13:20:52",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "21,591 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "80"
     },
     {
       "name": "Jack Fire",
