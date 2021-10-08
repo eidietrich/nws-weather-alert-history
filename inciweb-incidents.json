@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
+      "state": "IDAHO",
+      "updated": "2021-10-08 07:09:45",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "87,778 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "88"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-10-08 07:05:38",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,857 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-08 06:49:27",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,124 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "87"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "On September 9, 2021, a significant lightning storm moved through the...",
@@ -90,19 +129,6 @@
       "url": "/incident/7833/",
       "id": "7833",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-07 20:43:10",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,124 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "87"
     },
     {
       "name": "Trail Creek Fire",
@@ -337,32 +363,6 @@
       "url": "/incident/7777/",
       "id": "7777",
       "contained": "87"
-    },
-    {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Boundary Fire was detected on August 10, 2021. ...",
-      "state": "IDAHO",
-      "updated": "2021-10-07 12:02:28",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "87,778 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "80"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-10-07 11:47:39",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,857 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "70"
     },
     {
       "name": "Tiltill",
