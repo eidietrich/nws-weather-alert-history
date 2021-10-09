@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-09 12:32:05",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,124 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "89"
+    },
+    {
+      "name": "Alder Creek Fire",
+      "type": "Wildfire",
+      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
+      "state": "MONTANA",
+      "updated": "2021-10-09 12:31:27",
+      "lat": "45.79",
+      "lng": "-113.101",
+      "size": "36,968 Acres",
+      "url": "/incident/7641/",
+      "id": "7641",
+      "contained": "55"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": "On September 9, 2021, a significant lightning storm moved through the...",
@@ -196,19 +222,6 @@
       "contained": "65"
     },
     {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-08 19:49:15",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,124 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "89"
-    },
-    {
       "name": "Twentyfive Mile",
       "type": "Wildfire",
       "summary": "The Twentyfive Mile fire, located 12 miles northwest of Chelan, WA,...",
@@ -324,19 +337,6 @@
       "url": "/incident/7847/",
       "id": "7847",
       "contained": "0"
-    },
-    {
-      "name": "Alder Creek Fire",
-      "type": "Wildfire",
-      "summary": " A Type 2 Northern Rockies Incident Management Team, Incident...",
-      "state": "MONTANA",
-      "updated": "2021-10-07 20:50:42",
-      "lat": "45.79",
-      "lng": "-113.101",
-      "size": "36,968 Acres",
-      "url": "/incident/7641/",
-      "id": "7641",
-      "contained": "48"
     },
     {
       "name": "Sand Lake Fire",
@@ -1793,19 +1793,6 @@
       "url": "/incident/7585/",
       "id": "7585",
       "contained": "100"
-    },
-    {
-      "name": "Rafael Fire ",
-      "type": "Wildfire",
-      "summary": "The Rafael Fire was discovered on June 18, 2021 on the Prescott...",
-      "state": "ARIZONA",
-      "updated": "2021-07-11 12:28:35",
-      "lat": "34.942",
-      "lng": "-112.162",
-      "size": "78,065 Acres",
-      "url": "/incident/7567/",
-      "id": "7567",
-      "contained": "95"
     }
   ]
 }
