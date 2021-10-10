@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "As of Saturday evening, the Windy Fire is approximately 97,554...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-09 20:47:19",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "97,554 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "85"
+    },
+    {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-09 20:36:10",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "94,962 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "81"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-09 20:26:49",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
       "name": "Rough Patch",
       "type": "Wildfire",
       "summary": "Summary:  The Rough Patch Complex on the Umpqua National Forest...",
@@ -25,19 +64,6 @@
       "url": "/incident/7605/",
       "id": "7605",
       "contained": "83"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Saturday morning, the Windy Fire is approximately 97,554...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-09 18:22:36",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "97,554 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "82"
     },
     {
       "name": "Caldor Fire",
@@ -144,19 +170,6 @@
       "contained": "55"
     },
     {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-09 10:38:12",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
-    },
-    {
       "name": "Tiltill",
       "type": "Wildfire",
       "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
@@ -194,19 +207,6 @@
       "url": "/incident/7613/",
       "id": "7613",
       "contained": "100"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-09 10:21:49",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "94,962 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "81"
     },
     {
       "name": "Boundary Fire",
