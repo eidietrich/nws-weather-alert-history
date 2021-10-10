@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "As of Sunday morning, the Windy Fire is approximately 97,554 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-10 10:28:00",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "97,554 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "85"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español  -  Actualización diaria de incendios     Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-10 10:24:59",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "98"
+    },
+    {
       "name": "County Line",
       "type": "Wildfire",
       "summary": "The County Line Fire, located south of the Tioga Road near the White...",
@@ -38,32 +64,6 @@
       "url": "/incident/7761/",
       "id": "7761",
       "contained": "90"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español  -  Actualización diaria de incendios     Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-10 09:56:23",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "98"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "As of Saturday evening, the Windy Fire is approximately 97,554...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-10 09:50:20",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "97,554 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "85"
     },
     {
       "name": "McCash Fire",
