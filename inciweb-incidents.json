@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "As of Sunday morning, the Windy Fire is approximately 97,554 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-10 13:17:42",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "97,554 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "85"
+    },
+    {
+      "name": "Devils Knob Complex",
+      "type": "Wildfire",
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-10-10 13:17:16",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "70,110 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "65"
+    },
+    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-10 12:44:56",
+      "updated": "2021-10-10 13:08:50",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "94,962 Acres",
@@ -14,30 +40,43 @@
       "contained": "86"
     },
     {
+      "name": "Schneider Springs",
+      "type": "Wildfire",
+      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
+      "state": "WASHINGTON",
+      "updated": "2021-10-10 13:05:33",
+      "lat": "46.84",
+      "lng": "-121.146",
+      "size": "107,322 Acres",
+      "url": "/incident/7775/",
+      "id": "7775",
+      "contained": "91"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español  -  Actualización diaria de incendios     Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-10 13:00:02",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "98"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": "",
       "state": "CALIFORNIA",
-      "updated": "2021-10-10 12:38:33",
+      "updated": "2021-10-10 12:55:31",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "223,124 Acres",
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "89"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "As of Sunday morning, the Windy Fire is approximately 97,554 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-10 12:34:20",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "97,554 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "85"
     },
     {
       "name": "KNP Complex ",
@@ -51,19 +90,6 @@
       "url": "/incident/7838/",
       "id": "7838",
       "contained": "20"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español  -  Actualización diaria de incendios     Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-10 12:25:50",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "98"
     },
     {
       "name": "Dixie Fire (CA)",
@@ -207,19 +233,6 @@
       "url": "/incident/7641/",
       "id": "7641",
       "contained": "59"
-    },
-    {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-10-10 09:37:06",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "70,110 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "65"
     },
     {
       "name": "Haystack Fire",
@@ -389,19 +402,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "25"
-    },
-    {
-      "name": "Schneider Springs",
-      "type": "Wildfire",
-      "summary": " A lightning storm blanketed the northern Cascade Mountain Range on...",
-      "state": "WASHINGTON",
-      "updated": "2021-10-07 18:03:31",
-      "lat": "46.84",
-      "lng": "-121.146",
-      "size": "107,322 Acres",
-      "url": "/incident/7775/",
-      "id": "7775",
-      "contained": "91"
     },
     {
       "name": "American Fork Fire",
