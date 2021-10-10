@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-10-10 09:23:37",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "24,011 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "88"
+    },
+    {
       "name": "Caldor Fire",
       "type": "Wildfire",
       "summary": "Español  -  Actualización diaria de incendios     Daily...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-10 09:13:59",
+      "updated": "2021-10-10 09:20:06",
       "lat": "38.586",
       "lng": "-120.538",
       "size": "221,775 Acres",
@@ -14,17 +27,17 @@
       "contained": "98"
     },
     {
-      "name": "Haystack Fire",
+      "name": "Devils Knob Complex",
       "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-10-10 09:13:33",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "24,011 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "88"
+      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
+      "state": "OREGON",
+      "updated": "2021-10-10 09:14:49",
+      "lat": "42.892",
+      "lng": "-122.853",
+      "size": "70,110 Acres",
+      "url": "/incident/7771/",
+      "id": "7771",
+      "contained": "65"
     },
     {
       "name": "McCash Fire",
@@ -259,19 +272,6 @@
       "url": "/incident/7858/",
       "id": "7858",
       "contained": "100"
-    },
-    {
-      "name": "Devils Knob Complex",
-      "type": "Wildfire",
-      "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
-      "state": "OREGON",
-      "updated": "2021-10-09 08:37:16",
-      "lat": "42.892",
-      "lng": "-122.853",
-      "size": "70,110 Acres",
-      "url": "/incident/7771/",
-      "id": "7771",
-      "contained": "65"
     },
     {
       "name": "Twentyfive Mile",
