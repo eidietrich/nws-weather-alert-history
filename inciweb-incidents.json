@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Español  -  Actualización diaria de incendios     Daily...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-11 10:45:39",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,775 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "98"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-11 10:44:20",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,124 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "91"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": "As of Monday morning, the Windy Fire is approximately 97,554 acres...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-11 10:33:36",
+      "updated": "2021-10-11 10:42:36",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "97,554 Acres",
@@ -14,11 +40,24 @@
       "contained": "88"
     },
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-11 10:40:20",
+      "lat": "39.819",
+      "lng": "-121.419",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-11 10:33:27",
+      "updated": "2021-10-11 10:34:10",
       "lat": "41.564",
       "lng": "-123.404",
       "size": "94,962 Acres",
@@ -79,19 +118,6 @@
       "contained": "100"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Español  -  Actualización diaria de incendios     Daily...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-11 10:12:49",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,775 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "98"
-    },
-    {
       "name": "Devils Knob Complex",
       "type": "Wildfire",
       "summary": "The Devils Knob Complex on the Umpqua National Forest is a collection...",
@@ -129,32 +155,6 @@
       "url": "/incident/7638/",
       "id": "7638",
       "contained": "70"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-10 22:45:20",
-      "lat": "39.819",
-      "lng": "-121.419",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Public Information Map | Daily Operations Briefing...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-10 21:52:12",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,124 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "89"
     },
     {
       "name": "River Complex 2021",
