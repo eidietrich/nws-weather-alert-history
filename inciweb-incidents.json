@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Alisal Fire",
+      "type": "Wildfire",
+      "summary": "The Alisal Fire started on October 11, 2021 at 2:30pm near the Alisal...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-12 15:02:55",
+      "lat": "34.553",
+      "lng": "-120.136",
+      "size": "6,000 Acres",
+      "url": "/incident/7862/",
+      "id": "7862",
+      "contained": "0"
+    },
+    {
       "name": "KNP Complex ",
       "type": "Wildfire",
       "summary": " On September 9, 2021, a significant lightning storm moved through...",
@@ -51,19 +64,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "88"
-    },
-    {
-      "name": "Alisal Fire",
-      "type": "Wildfire",
-      "summary": "The Alisal Fire started on October 11, 2021 at 2:30pm near the Alisal...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-12 12:25:32",
-      "lat": "34.553",
-      "lng": "-120.136",
-      "size": "6,000 Acres",
-      "url": "/incident/7862/",
-      "id": "7862",
-      "contained": "0"
     },
     {
       "name": "Sand Lake Fire",
@@ -1805,19 +1805,6 @@
       "size": "0 Acres",
       "url": "/incident/7210/",
       "id": "7210",
-      "contained": "0"
-    },
-    {
-      "name": "Williams Fork Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "The Williams Fork Fire was first reported on Aug. 14 at approximately...",
-      "state": "COLORADO",
-      "updated": "2021-07-14 15:03:09",
-      "lat": "39.783",
-      "lng": "-106",
-      "size": "0 Acres",
-      "url": "/incident/7211/",
-      "id": "7211",
       "contained": "0"
     }
   ]
