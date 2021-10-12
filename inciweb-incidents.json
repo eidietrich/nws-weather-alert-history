@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Daily Update | Public Information Map | Daily Operations...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-12 10:47:04",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,124 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "93"
+    },
+    {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Tuesday morning, the Windy Fire is approximately 97,554 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-12 10:44:33",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "97,554 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "88"
+    },
+    {
       "name": "Trail Creek Fire",
       "type": "Wildfire",
       "summary": " A Type 3 team, with Paul Diaz IC, assumed command of the fire Oct....",
       "state": "MONTANA",
-      "updated": "2021-10-12 10:35:44",
+      "updated": "2021-10-12 10:41:57",
       "lat": "45.683",
       "lng": "-113.854",
       "size": "62,013 Acres",
@@ -14,11 +40,24 @@
       "contained": "83"
     },
     {
+      "name": "McCash Fire",
+      "type": "Wildfire",
+      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-12 10:40:25",
+      "lat": "41.564",
+      "lng": "-123.404",
+      "size": "94,962 Acres",
+      "url": "/incident/7757/",
+      "id": "7757",
+      "contained": "86"
+    },
+    {
       "name": "River Complex 2021",
       "type": "Wildfire",
       "summary": "                                             ...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-12 10:35:10",
+      "updated": "2021-10-12 10:39:03",
       "lat": "41.389",
       "lng": "-123.057",
       "size": "199,228 Acres",
@@ -105,32 +144,6 @@
       "contained": "30"
     },
     {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Tuesday morning, the Windy Fire is approximately 97,554 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-12 10:00:17",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "97,554 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "88"
-    },
-    {
-      "name": "McCash Fire",
-      "type": "Wildfire",
-      "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-12 09:26:50",
-      "lat": "41.564",
-      "lng": "-123.404",
-      "size": "94,962 Acres",
-      "url": "/incident/7757/",
-      "id": "7757",
-      "contained": "86"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
@@ -194,19 +207,6 @@
       "url": "/incident/7801/",
       "id": "7801",
       "contained": "98"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Daily Update | Public Information Map | Daily Operations...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-11 22:32:59",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,124 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "93"
     },
     {
       "name": "Rough Patch",
