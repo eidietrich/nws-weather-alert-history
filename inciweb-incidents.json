@@ -1,11 +1,37 @@
 {
   "markers": [
     {
-      "name": "David Canyon RX - Sandia RD R",
+      "name": "Alisal Fire",
+      "type": "Wildfire",
+      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-14 15:30:59",
+      "lat": "34.517",
+      "lng": "-120.131",
+      "size": "16,801 Acres",
+      "url": "/incident/7862/",
+      "id": "7862",
+      "contained": "5"
+    },
+    {
+      "name": "Copperton RX Burn, Mt Taylor RD",
+      "type": "Prescribed Fire",
+      "summary": " Starting on 10/18/21: Fire crews are looking at burning more units...",
+      "state": "NEW MEXICO",
+      "updated": "2021-10-14 15:29:40",
+      "lat": "35.159",
+      "lng": "-108.105",
+      "size": "1,907 Acres",
+      "url": "/incident/7865/",
+      "id": "7865",
+      "contained": "0"
+    },
+    {
+      "name": "David Canyon RX - Sandia RD",
       "type": "Prescribed Fire",
       "summary": "The primary objective of this burn is hazard fuel reduction.  Fuel...",
       "state": "NEW MEXICO",
-      "updated": "2021-10-14 15:16:22",
+      "updated": "2021-10-14 15:17:20",
       "lat": "34.984",
       "lng": "-106.35",
       "size": "459 Acres",
@@ -64,19 +90,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "94"
-    },
-    {
-      "name": "Alisal Fire",
-      "type": "Wildfire",
-      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-14 13:10:16",
-      "lat": "34.517",
-      "lng": "-120.131",
-      "size": "16,801 Acres",
-      "url": "/incident/7862/",
-      "id": "7862",
-      "contained": "5"
     },
     {
       "name": "Schneider Springs",
