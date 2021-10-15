@@ -1,0 +1,22 @@
+{
+  "name": "inciweb-history",
+  "version": "1.0.0",
+  "description": "Git scraper for [Inciweb](https://inciweb.nwcg.gov/) incident data",
+  "main": "aggregate-mt-fires.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eidietrich/inciweb-history.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eidietrich/inciweb-history/issues"
+  },
+  "homepage": "https://github.com/eidietrich/inciweb-history#readme",
+  "dependencies": {
+    "glob": "^7.2.0"
+  }
+}
