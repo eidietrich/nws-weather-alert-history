@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-15 13:18:22",
+      "lat": "39.879",
+      "lng": "-121.379",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "94"
+    },
+    {
+      "name": "Haystack Fire",
+      "type": "Wildfire",
+      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
+      "state": "MONTANA",
+      "updated": "2021-10-15 13:10:40",
+      "lat": "46.117",
+      "lng": "-112.335",
+      "size": "24,011 Acres",
+      "url": "/incident/7777/",
+      "id": "7777",
+      "contained": "93"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": " On September 9, 2021, a significant lightning storm moved through...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-15 13:10:29",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "87,786 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "45"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": " Daily Update | Public Information Map | Daily Operations...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-15 12:38:05",
+      "updated": "2021-10-15 13:04:42",
       "lat": "40.752",
       "lng": "-123.337",
       "size": "223,124 Acres",
@@ -14,17 +53,17 @@
       "contained": "94"
     },
     {
-      "name": "KNP Complex ",
+      "name": "Caldor Fire",
       "type": "Wildfire",
-      "summary": " On September 9, 2021, a significant lightning storm moved through...",
+      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-15 12:30:28",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "87,786 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "45"
+      "updated": "2021-10-15 13:03:36",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,835 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "98"
     },
     {
       "name": "Schneider Springs",
@@ -64,19 +103,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "88"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-15 11:13:12",
-      "lat": "39.879",
-      "lng": "-121.379",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "River Complex 2021",
@@ -168,19 +194,6 @@
       "url": "/incident/7635/",
       "id": "7635",
       "contained": "100"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-14 23:26:59",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,835 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "98"
     },
     {
       "name": "Ptarmigan Fire",
@@ -493,19 +506,6 @@
       "url": "/incident/7634/",
       "id": "7634",
       "contained": "83"
-    },
-    {
-      "name": "Haystack Fire",
-      "type": "Wildfire",
-      "summary": "The Dillon Interagency Dispatch received a report of a possible fire...",
-      "state": "MONTANA",
-      "updated": "2021-10-10 09:23:37",
-      "lat": "46.117",
-      "lng": "-112.335",
-      "size": "24,011 Acres",
-      "url": "/incident/7777/",
-      "id": "7777",
-      "contained": "88"
     },
     {
       "name": "South Moccasin ",
@@ -1351,19 +1351,6 @@
       "url": "/incident/7619/",
       "id": "7619",
       "contained": "41"
-    },
-    {
-      "name": "Black Mountain",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Black Mountain fire was reported to the Dillon...",
-      "state": "MONTANA",
-      "updated": "2021-09-08 14:55:45",
-      "lat": "45.185",
-      "lng": "-113.474",
-      "size": "1,041 Acres",
-      "url": "/incident/7691/",
-      "id": "7691",
-      "contained": "90"
     },
     {
       "name": "Christensen Fire ",
