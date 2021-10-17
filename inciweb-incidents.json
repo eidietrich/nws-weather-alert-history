@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Daily Update | Public Information Map | Daily Operations...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-17 11:59:02",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,124 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "94"
+    },
+    {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-17 11:41:48",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,835 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "98"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Sunday morning, the Windy Fire is approximately 97,554 acres...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-17 11:25:00",
+      "updated": "2021-10-17 11:30:01",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "97,554 Acres",
@@ -118,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-16 23:32:26",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,835 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "98"
-    },
-    {
       "name": "McCash Fire",
       "type": "Wildfire",
       "summary": "The McCash Fire was located on July 31, 2021 around 7:00 pm.  The...",
@@ -154,19 +167,6 @@
       "size": "963,309 Acres",
       "url": "/incident/7690/",
       "id": "7690",
-      "contained": "94"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Daily Update | Public Information Map | Daily Operations...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-16 21:24:51",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,124 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
       "contained": "94"
     },
     {
