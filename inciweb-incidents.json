@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-17 12:22:38",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,835 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "98"
+    },
+    {
       "name": "Monument Fire",
       "type": "Wildfire",
       "summary": " Daily Update | Public Information Map | Daily Operations...",
@@ -12,19 +25,6 @@
       "url": "/incident/7750/",
       "id": "7750",
       "contained": "94"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-17 11:41:48",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,835 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "98"
     },
     {
       "name": "Windy Fire",
@@ -1767,19 +1767,6 @@
       "url": "/incident/7587/",
       "id": "7587",
       "contained": "100"
-    },
-    {
-      "name": "Park Lake Fire",
-      "type": "Wildfire",
-      "summary": " A 3-5 acre fire is burning on the east side of Park Lake on the...",
-      "state": "MONTANA",
-      "updated": "2021-07-19 12:01:21",
-      "lat": "46.448",
-      "lng": "-112.157",
-      "size": "3 Acres",
-      "url": "/incident/7673/",
-      "id": "7673",
-      "contained": "0"
     }
   ]
 }
