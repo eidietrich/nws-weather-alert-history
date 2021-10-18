@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Monday morning, the Windy Fire is approximately 97,554 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-18 10:13:10",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "97,554 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "88"
+    },
+    {
+      "name": "Boundary Fire",
+      "type": "Wildfire",
+      "summary": "Yesterday, there were cloudy skies and cool temperatures over the...",
+      "state": "IDAHO",
+      "updated": "2021-10-18 10:11:37",
+      "lat": "44.532",
+      "lng": "-115.329",
+      "size": "87,778 Acres",
+      "url": "/incident/7795/",
+      "id": "7795",
+      "contained": "90"
+    },
+    {
+      "name": "KNP Complex ",
+      "type": "Wildfire",
+      "summary": " On September 9, 2021, a significant lightning storm moved through...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-18 10:05:53",
+      "lat": "36.567",
+      "lng": "-118.811",
+      "size": "88,068 Acres",
+      "url": "/incident/7838/",
+      "id": "7838",
+      "contained": "55"
+    },
+    {
+      "name": "Mud Lick Fire",
+      "type": "Wildfire",
+      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
+      "state": "IDAHO",
+      "updated": "2021-10-18 10:04:16",
+      "lat": "45.183",
+      "lng": "-114.421",
+      "size": "20,857 Acres",
+      "url": "/incident/7638/",
+      "id": "7638",
+      "contained": "70"
+    },
+    {
       "name": "Sylvan Fire",
       "type": "Wildfire",
       "summary": " The Sylvan Fire is 100 percent",
@@ -103,32 +155,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "93"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Sunday morning, the Windy Fire is approximately 97,554 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-17 21:56:43",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "97,554 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "88"
-    },
-    {
-      "name": "KNP Complex ",
-      "type": "Wildfire",
-      "summary": " On September 9, 2021, a significant lightning storm moved through...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-17 21:47:55",
-      "lat": "36.567",
-      "lng": "-118.811",
-      "size": "88,068 Acres",
-      "url": "/incident/7838/",
-      "id": "7838",
-      "contained": "55"
     },
     {
       "name": "Monument Fire",
@@ -417,19 +443,6 @@
       "contained": "100"
     },
     {
-      "name": "Boundary Fire",
-      "type": "Wildfire",
-      "summary": "Yesterday, there were cloudy skies and cool temperatures over the...",
-      "state": "IDAHO",
-      "updated": "2021-10-14 11:07:30",
-      "lat": "44.532",
-      "lng": "-115.329",
-      "size": "87,778 Acres",
-      "url": "/incident/7795/",
-      "id": "7795",
-      "contained": "88"
-    },
-    {
       "name": "Bull Complex ",
       "type": "Wildfire",
       "summary": "Following a round of lightning in the afternoon on August 2, four new...",
@@ -441,19 +454,6 @@
       "url": "/incident/7773/",
       "id": "7773",
       "contained": "60"
-    },
-    {
-      "name": "Mud Lick Fire",
-      "type": "Wildfire",
-      "summary": "The Mud Lick Fire was detected 23 miles NW of Salmon on July 8. The...",
-      "state": "IDAHO",
-      "updated": "2021-10-14 07:11:22",
-      "lat": "45.183",
-      "lng": "-114.421",
-      "size": "20,857 Acres",
-      "url": "/incident/7638/",
-      "id": "7638",
-      "contained": "70"
     },
     {
       "name": "681490 Fire",
