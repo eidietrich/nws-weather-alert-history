@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-18 22:05:12",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,835 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "98"
+    },
+    {
       "name": "Windy Fire",
       "type": "Wildfire",
       "summary": " As of Monday morning, the Windy Fire is approximately 97,554 acres...",
       "state": "CALIFORNIA",
-      "updated": "2021-10-18 21:38:30",
+      "updated": "2021-10-18 21:54:12",
       "lat": "36.047",
       "lng": "-118.631",
       "size": "97,554 Acres",
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "91"
+    },
+    {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-18 21:51:17",
+      "lat": "39.876",
+      "lng": "-121.379",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "95"
     },
     {
       "name": "Monument Fire",
@@ -38,19 +64,6 @@
       "url": "/incident/7862/",
       "id": "7862",
       "contained": "87"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-18 20:36:50",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,835 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "98"
     },
     {
       "name": "River Complex Post-Fire BAER",
@@ -181,19 +194,6 @@
       "url": "/incident/7856/",
       "id": "7856",
       "contained": "100"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-18 12:24:44",
-      "lat": "39.879",
-      "lng": "-121.379",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "94"
     },
     {
       "name": "CAIWA Annual Academy",
