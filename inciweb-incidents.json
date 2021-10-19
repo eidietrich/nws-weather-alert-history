@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": " As of Monday morning, the Windy Fire is approximately 97,554 acres...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-18 21:38:30",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "97,554 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "91"
+    },
+    {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Daily Update | Public Information Map | Daily Operations...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-18 21:28:42",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,124 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "94"
+    },
+    {
       "name": "Alisal Fire",
       "type": "Wildfire",
       "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
@@ -157,19 +183,6 @@
       "contained": "100"
     },
     {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": " As of Monday morning, the Windy Fire is approximately 97,554 acres...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-18 12:38:29",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "97,554 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "88"
-    },
-    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
@@ -207,19 +220,6 @@
       "url": "/incident/7867/",
       "id": "7867",
       "contained": "0"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Daily Update | Public Information Map | Daily Operations...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-18 11:50:26",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,124 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "94"
     },
     {
       "name": "River Complex 2021",
@@ -1754,19 +1754,6 @@
       "url": "/incident/7639/",
       "id": "7639",
       "contained": "100"
-    },
-    {
-      "name": "Backbone Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "ARIZONA",
-      "updated": "2021-07-20 21:13:03",
-      "lat": "34.377",
-      "lng": "-111.643",
-      "size": "0 Acres",
-      "url": "/incident/7602/",
-      "id": "7602",
-      "contained": "0"
     }
   ]
 }
