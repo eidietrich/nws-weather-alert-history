@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-19 12:45:14",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,835 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "98"
+    },
+    {
+      "name": "Alisal Fire",
+      "type": "Wildfire",
+      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-19 12:35:59",
+      "lat": "34.517",
+      "lng": "-120.131",
+      "size": "17,254 Acres",
+      "url": "/incident/7862/",
+      "id": "7862",
+      "contained": "93"
+    },
+    {
       "name": "Dixie Fire (CA)",
       "type": "Wildfire",
       "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
@@ -92,19 +118,6 @@
       "contained": "55"
     },
     {
-      "name": "Alisal Fire",
-      "type": "Wildfire",
-      "summary": "The Alisal Fire started on October 11, 2021 at 2:10 pm near the...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-19 10:05:02",
-      "lat": "34.517",
-      "lng": "-120.131",
-      "size": "17,254 Acres",
-      "url": "/incident/7862/",
-      "id": "7862",
-      "contained": "93"
-    },
-    {
       "name": "Windy Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -129,19 +142,6 @@
       "url": "/incident/7757/",
       "id": "7757",
       "contained": "93"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7 took command of the Caldor...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-18 22:05:12",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,835 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "98"
     },
     {
       "name": "River Complex Post-Fire BAER",
