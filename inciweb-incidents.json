@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Dixie Fire (CA)",
+      "type": "Wildfire",
+      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-20 12:23:08",
+      "lat": "39.876",
+      "lng": "-121.379",
+      "size": "963,309 Acres",
+      "url": "/incident/7690/",
+      "id": "7690",
+      "contained": "95"
+    },
+    {
+      "name": "Lukens",
+      "type": "Wildfire",
+      "summary": "The Lukens Fire is one of several fires still burning in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-20 12:07:36",
+      "lat": "37.851",
+      "lng": "-119.618",
+      "size": "867 Acres",
+      "url": "/incident/7614/",
+      "id": "7614",
+      "contained": "100"
+    },
+    {
+      "name": "Tiltill",
+      "type": "Wildfire",
+      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-20 12:04:58",
+      "lat": "37.969",
+      "lng": "-119.723",
+      "size": "2,323 Acres",
+      "url": "/incident/7761/",
+      "id": "7761",
+      "contained": "100"
+    },
+    {
       "name": "Prescribed Fire Projects 2021",
       "type": "Prescribed Fire",
       "summary": "Please see the 'Related Links' section on this page for quick links...",
@@ -12,32 +51,6 @@
       "url": "/incident/7426/",
       "id": "7426",
       "contained": "0"
-    },
-    {
-      "name": "Tiltill",
-      "type": "Wildfire",
-      "summary": "On July 30th and 31st, lightning caused 10 wildfires in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-20 11:59:27",
-      "lat": "37.969",
-      "lng": "-119.723",
-      "size": "2,323 Acres",
-      "url": "/incident/7761/",
-      "id": "7761",
-      "contained": "100"
-    },
-    {
-      "name": "Lukens",
-      "type": "Wildfire",
-      "summary": "The Lukens Fire is one of several fires still burning in Yosemite...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-20 11:58:30",
-      "lat": "37.851",
-      "lng": "-119.618",
-      "size": "867 Acres",
-      "url": "/incident/7614/",
-      "id": "7614",
-      "contained": "100"
     },
     {
       "name": "Alisal Fire",
@@ -168,19 +181,6 @@
       "url": "/incident/7795/",
       "id": "7795",
       "contained": "90"
-    },
-    {
-      "name": "Dixie Fire (CA)",
-      "type": "Wildfire",
-      "summary": "  Background:The Dixie Fire started on July 13, 2021. The fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-19 23:17:50",
-      "lat": "39.876",
-      "lng": "-121.379",
-      "size": "963,309 Acres",
-      "url": "/incident/7690/",
-      "id": "7690",
-      "contained": "95"
     },
     {
       "name": "Windy Fire",
