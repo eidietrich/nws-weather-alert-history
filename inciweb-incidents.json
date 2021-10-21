@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "On October 21, the Caldor Fire reached 100 percent containment. Great...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-21 18:00:43",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,835 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "100"
+    },
+    {
       "name": "2021 Umatilla NF Prescribed Fire",
       "type": "Prescribed Fire",
       "summary": "The Umatilla National Forest prescribed fire page contains...",
@@ -155,19 +168,6 @@
       "url": "/incident/7865/",
       "id": "7865",
       "contained": "0"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "On October 21, the Caldor Fire reached 100 percent containment. Great...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-21 10:43:26",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,835 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "100"
     },
     {
       "name": "Caldor Post-Fire BAER",
