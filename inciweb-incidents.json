@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Windy Fire",
+      "type": "Wildfire",
+      "summary": "This lightning-caused fire was detected on September 9 and is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-22 16:09:58",
+      "lat": "36.047",
+      "lng": "-118.631",
+      "size": "97,554 Acres",
+      "url": "/incident/7841/",
+      "id": "7841",
+      "contained": "91"
+    },
+    {
+      "name": "Copperton RX Burn, Mt Taylor RD",
+      "type": "Prescribed Fire",
+      "summary": "Starting on 10/20/21: Fire crews are looking at burning more units...",
+      "state": "NEW MEXICO",
+      "updated": "2021-10-22 15:55:34",
+      "lat": "35.159",
+      "lng": "-108.105",
+      "size": "1,907 Acres",
+      "url": "/incident/7865/",
+      "id": "7865",
+      "contained": "100"
+    },
+    {
+      "name": "David Canyon RX - Sandia RD",
+      "type": "Prescribed Fire",
+      "summary": "The primary objective of this burn is hazard fuel reduction.  Fuel...",
+      "state": "NEW MEXICO",
+      "updated": "2021-10-22 15:55:15",
+      "lat": "34.992",
+      "lng": "-106.358",
+      "size": "459 Acres",
+      "url": "/incident/7864/",
+      "id": "7864",
+      "contained": "0"
+    },
+    {
       "name": "Alisal Fire",
       "type": "Wildfire",
       "summary": "Crews focused on Droppoint 40 on the fire’s northwest corner...",
@@ -53,32 +92,6 @@
       "contained": "60"
     },
     {
-      "name": "David Canyon RX - Sandia RD",
-      "type": "Prescribed Fire",
-      "summary": "The primary objective of this burn is hazard fuel reduction.  Fuel...",
-      "state": "NEW MEXICO",
-      "updated": "2021-10-22 11:46:19",
-      "lat": "34.992",
-      "lng": "-106.358",
-      "size": "459 Acres",
-      "url": "/incident/7864/",
-      "id": "7864",
-      "contained": "0"
-    },
-    {
-      "name": "Copperton RX Burn, Mt Taylor RD",
-      "type": "Prescribed Fire",
-      "summary": "Starting on 10/20/21: Fire crews are looking at burning more units...",
-      "state": "NEW MEXICO",
-      "updated": "2021-10-22 11:11:39",
-      "lat": "35.159",
-      "lng": "-108.105",
-      "size": "1,907 Acres",
-      "url": "/incident/7865/",
-      "id": "7865",
-      "contained": "100"
-    },
-    {
       "name": "Crown Mountain Fire",
       "type": "Wildfire",
       "summary": "The Crown Mountain Fire started within the Forest boundary of the...",
@@ -90,19 +103,6 @@
       "url": "/incident/7859/",
       "id": "7859",
       "contained": "5"
-    },
-    {
-      "name": "Windy Fire",
-      "type": "Wildfire",
-      "summary": "This lightning-caused fire was detected on September 9 and is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-22 07:33:55",
-      "lat": "36.047",
-      "lng": "-118.631",
-      "size": "97,554 Acres",
-      "url": "/incident/7841/",
-      "id": "7841",
-      "contained": "91"
     },
     {
       "name": "McCash Fire",
