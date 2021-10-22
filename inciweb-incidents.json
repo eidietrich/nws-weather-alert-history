@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Caldor Fire",
+      "type": "Wildfire",
+      "summary": "On October 21, the Caldor Fire reached 100 percent containment. Great...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-22 14:20:17",
+      "lat": "38.586",
+      "lng": "-120.538",
+      "size": "221,835 Acres",
+      "url": "/incident/7801/",
+      "id": "7801",
+      "contained": "100"
+    },
+    {
       "name": "Dixie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": " SPECIAL NOTE: Everyone near and downstream from the burned areas...",
@@ -64,19 +77,6 @@
       "url": "/incident/7859/",
       "id": "7859",
       "contained": "5"
-    },
-    {
-      "name": "Caldor Fire",
-      "type": "Wildfire",
-      "summary": "On October 21, the Caldor Fire reached 100 percent containment. Great...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-22 09:51:08",
-      "lat": "38.586",
-      "lng": "-120.538",
-      "size": "221,835 Acres",
-      "url": "/incident/7801/",
-      "id": "7801",
-      "contained": "100"
     },
     {
       "name": "Windy Fire",
