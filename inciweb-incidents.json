@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Monument Fire",
+      "type": "Wildfire",
+      "summary": " Daily Update | Public Information Map | Daily Operations...",
+      "state": "CALIFORNIA",
+      "updated": "2021-10-26 17:14:25",
+      "lat": "40.752",
+      "lng": "-123.337",
+      "size": "223,124 Acres",
+      "url": "/incident/7750/",
+      "id": "7750",
+      "contained": "100"
+    },
+    {
       "name": "Tamarack Fire",
       "type": "Wildfire",
       "summary": "Humboldt-Toiyabe National Forest Declares Tamarack Fire 100 Percent...",
@@ -246,19 +259,6 @@
       "url": "/incident/7859/",
       "id": "7859",
       "contained": "5"
-    },
-    {
-      "name": "Monument Fire",
-      "type": "Wildfire",
-      "summary": " Daily Update | Public Information Map | Daily Operations...",
-      "state": "CALIFORNIA",
-      "updated": "2021-10-21 20:24:15",
-      "lat": "40.752",
-      "lng": "-123.337",
-      "size": "223,124 Acres",
-      "url": "/incident/7750/",
-      "id": "7750",
-      "contained": "94"
     },
     {
       "name": "2021 Umatilla NF Prescribed Fire",
@@ -1649,19 +1649,6 @@
       "size": "16,278 Acres",
       "url": "/incident/7595/",
       "id": "7595",
-      "contained": "100"
-    },
-    {
-      "name": "Dexter Fire",
-      "type": "Wildfire",
-      "summary": "The lightning-caused Dexter Fire was reported at 9:35 a.m....",
-      "state": "CALIFORNIA",
-      "updated": "2021-07-28 16:56:04",
-      "lat": "37.802",
-      "lng": "-118.874",
-      "size": "2,965 Acres",
-      "url": "/incident/7656/",
-      "id": "7656",
       "contained": "100"
     }
   ]
