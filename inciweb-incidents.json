@@ -1,50 +1,11 @@
 {
   "markers": [
     {
-      "name": "Twin Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Twin Creek wildire in Moore County started on the afternoon of...",
-      "state": "TEXAS",
-      "updated": "2021-12-10 21:46:07",
-      "lat": "35.659",
-      "lng": "-101.871",
-      "size": "1,000 Acres",
-      "url": "/incident/7912/",
-      "id": "7912",
-      "contained": "20"
-    },
-    {
-      "name": "Electra Complex",
-      "type": "Wildfire",
-      "summary": " The Electra Complex started as two separate fires, one just outside...",
-      "state": "TEXAS",
-      "updated": "2021-12-10 21:40:03",
-      "lat": "34.037",
-      "lng": "-98.929",
-      "size": "2,200 Acres",
-      "url": "/incident/7908/",
-      "id": "7908",
-      "contained": "20"
-    },
-    {
-      "name": "Arrowhead Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are currently engaged in a wildfire in Clay County,...",
-      "state": "TEXAS",
-      "updated": "2021-12-10 21:26:07",
-      "lat": "34.014",
-      "lng": "-98.248",
-      "size": "7,500 Acres",
-      "url": "/incident/7910/",
-      "id": "7910",
-      "contained": "15"
-    },
-    {
       "name": "Judges Fire",
       "type": "Wildfire",
       "summary": " Firefighters are currently engaged in a wildfire in Young County,...",
       "state": "TEXAS",
-      "updated": "2021-12-10 21:24:14",
+      "updated": "2021-12-10 21:59:38",
       "lat": "33.157",
       "lng": "-98.727",
       "size": "600 Acres",
@@ -53,17 +14,56 @@
       "contained": "30"
     },
     {
+      "name": "Arrowhead Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are currently engaged in a wildfire in Clay County,...",
+      "state": "TEXAS",
+      "updated": "2021-12-10 21:59:18",
+      "lat": "34.014",
+      "lng": "-98.248",
+      "size": "7,500 Acres",
+      "url": "/incident/7910/",
+      "id": "7910",
+      "contained": "15"
+    },
+    {
       "name": "Live Fire",
       "type": "Wildfire",
       "summary": " The Live fire started off of County Road 358 in Jones County, South...",
       "state": "TEXAS",
-      "updated": "2021-12-10 16:46:29",
+      "updated": "2021-12-10 21:56:08",
       "lat": "32.709",
       "lng": "-99.762",
-      "size": "75 Acres",
+      "size": "400 Acres",
       "url": "/incident/7909/",
       "id": "7909",
-      "contained": "10"
+      "contained": "40"
+    },
+    {
+      "name": "Electra Complex",
+      "type": "Wildfire",
+      "summary": " The Electra Complex started as two separate fires, one just outside...",
+      "state": "TEXAS",
+      "updated": "2021-12-10 21:53:09",
+      "lat": "34.037",
+      "lng": "-98.929",
+      "size": "2,200 Acres",
+      "url": "/incident/7908/",
+      "id": "7908",
+      "contained": "20"
+    },
+    {
+      "name": "Twin Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Twin Creek wildire in Moore County started on the afternoon of...",
+      "state": "TEXAS",
+      "updated": "2021-12-10 21:47:13",
+      "lat": "35.659",
+      "lng": "-101.871",
+      "size": "1,000 Acres",
+      "url": "/incident/7912/",
+      "id": "7912",
+      "contained": "20"
     },
     {
       "name": "KRRD Prescribed Fire 2021/22",
