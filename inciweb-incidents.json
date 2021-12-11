@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Judges Fire",
+      "type": "Wildfire",
+      "summary": " Firefighters are currently engaged in a wildfire in Young County,...",
+      "state": "TEXAS",
+      "updated": "2021-12-10 23:06:11",
+      "lat": "33.157",
+      "lng": "-98.727",
+      "size": "600 Acres",
+      "url": "/incident/7911/",
+      "id": "7911",
+      "contained": "60"
+    },
+    {
       "name": "Live Fire",
       "type": "Wildfire",
       "summary": " The Live fire started off of County Road 358 in Jones County, South...",
@@ -12,19 +25,6 @@
       "url": "/incident/7909/",
       "id": "7909",
       "contained": "50"
-    },
-    {
-      "name": "Judges Fire",
-      "type": "Wildfire",
-      "summary": " Firefighters are currently engaged in a wildfire in Young County,...",
-      "state": "TEXAS",
-      "updated": "2021-12-10 21:59:38",
-      "lat": "33.157",
-      "lng": "-98.727",
-      "size": "600 Acres",
-      "url": "/incident/7911/",
-      "id": "7911",
-      "contained": "30"
     },
     {
       "name": "Arrowhead Fire",
@@ -1207,45 +1207,6 @@
       "size": "2,331 Acres",
       "url": "/incident/7704/",
       "id": "7704",
-      "contained": "0"
-    },
-    {
-      "name": "Vinegar Fire",
-      "type": "Wildfire",
-      "summary": "The Vinegar Fire has not had active fire behavior for two weeks...",
-      "state": "IDAHO",
-      "updated": "2021-09-11 23:15:32",
-      "lat": "45.179",
-      "lng": "-114.905",
-      "size": "2,998 Acres",
-      "url": "/incident/7709/",
-      "id": "7709",
-      "contained": "0"
-    },
-    {
-      "name": "Rush Creek",
-      "type": "Wildfire",
-      "summary": "The Rush Creek Fire grew to the southeast and increased in size by...",
-      "state": "IDAHO",
-      "updated": "2021-09-11 23:14:56",
-      "lat": "44.983",
-      "lng": "-114.993",
-      "size": "7,945 Acres",
-      "url": "/incident/7710/",
-      "id": "7710",
-      "contained": "0"
-    },
-    {
-      "name": "2021 Payette Wilderness Fires",
-      "type": "Wildfire",
-      "summary": "Three fires are burning in the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2021-09-11 23:09:41",
-      "lat": "45",
-      "lng": "-115",
-      "size": "0 Acres",
-      "url": "/incident/7700/",
-      "id": "7700",
       "contained": "0"
     }
   ]
