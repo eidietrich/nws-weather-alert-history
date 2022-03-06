@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Miller Fire",
+      "type": "Wildfire",
+      "summary": "The Miller Fire, located off Highway 281 near Falfurrias in Brooks...",
+      "state": "TEXAS",
+      "updated": "2022-03-06 16:03:47",
+      "lat": "27.198",
+      "lng": "-98.145",
+      "size": "271 Acres",
+      "url": "/incident/7990/",
+      "id": "7990",
+      "contained": "100"
+    },
+    {
       "name": "Jim Fire",
       "type": "Wildfire",
       "summary": "On the Trabuco Ranger District in the Holy Jim Canyon area, the Jim...",
@@ -25,19 +38,6 @@
       "url": "/incident/7988/",
       "id": "7988",
       "contained": "100"
-    },
-    {
-      "name": "Miller Fire",
-      "type": "Wildfire",
-      "summary": "The Miller Fire, located off Highway 281 near Falfurrias in Brooks...",
-      "state": "TEXAS",
-      "updated": "2022-03-05 13:33:05",
-      "lat": "27.198",
-      "lng": "-98.145",
-      "size": "271 Acres",
-      "url": "/incident/7990/",
-      "id": "7990",
-      "contained": "95"
     },
     {
       "name": "Rest Stop Fire",
@@ -623,19 +623,6 @@
       "url": "/incident/7841/",
       "id": "7841",
       "contained": "100"
-    },
-    {
-      "name": "East Troublesome Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "The East Troublesome Fire was reported on the afternoon of October...",
-      "state": "COLORADO",
-      "updated": "2021-12-06 15:53:01",
-      "lat": "40.25",
-      "lng": "-105.9",
-      "size": "0 Acres",
-      "url": "/incident/7267/",
-      "id": "7267",
-      "contained": "0"
     }
   ]
 }
