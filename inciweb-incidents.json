@@ -1,11 +1,24 @@
 {
   "markers": [
     {
-      "name": "3 Oaks",
+      "name": "Hippy Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Hippy Ridge Fire started around 3:00 pm near Boonsville Texas....",
+      "state": "TEXAS",
+      "updated": "2022-03-15 13:24:08",
+      "lat": "33.056",
+      "lng": "-97.843",
+      "size": "68 Acres",
+      "url": "/incident/7994/",
+      "id": "7994",
+      "contained": "100"
+    },
+    {
+      "name": "3 Oaks Fire",
       "type": "Wildfire",
       "summary": " The 3 Oaks fire started around 3pm on March 14th, 2022. Local Fire...",
       "state": "TEXAS",
-      "updated": "2022-03-15 13:14:48",
+      "updated": "2022-03-15 13:23:21",
       "lat": "31.388",
       "lng": "-98.362",
       "size": "6,000 Acres",
@@ -103,19 +116,6 @@
       "url": "/incident/8000/",
       "id": "8000",
       "contained": "0"
-    },
-    {
-      "name": "Hippy Ridge",
-      "type": "Wildfire",
-      "summary": "The Hippy Ridge Fire started around 3:00 pm near Boonsville Texas....",
-      "state": "TEXAS",
-      "updated": "2022-03-14 19:00:44",
-      "lat": "33.056",
-      "lng": "-97.843",
-      "size": "68 Acres",
-      "url": "/incident/7994/",
-      "id": "7994",
-      "contained": "100"
     },
     {
       "name": "Jim Fire",
