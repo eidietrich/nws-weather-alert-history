@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "GWJ National Forest Prescribed Burns",
+      "type": "Prescribed Fire",
+      "summary": "The George Washington and Jefferson National Forests will conduct...",
+      "state": "VIRGINIA",
+      "updated": "2022-03-18 14:34:59",
+      "lat": "37.671",
+      "lng": "-79.861",
+      "size": "0 Acres",
+      "url": "/incident/7945/",
+      "id": "7945",
+      "contained": "0"
+    },
+    {
+      "name": "3 Oaks Fire",
+      "type": "Wildfire",
+      "summary": " The 3 Oaks fire started around 3pm on March 14th, 2022. Local Fire...",
+      "state": "TEXAS",
+      "updated": "2022-03-18 14:29:13",
+      "lat": "31.388",
+      "lng": "-98.362",
+      "size": "3,512 Acres",
+      "url": "/incident/7998/",
+      "id": "7998",
+      "contained": "100"
+    },
+    {
+      "name": "Wheat Field Fire",
+      "type": "Wildfire",
+      "summary": "This page will no longer be updated. For further information on the...",
+      "state": "TEXAS",
+      "updated": "2022-03-18 14:27:02",
+      "lat": "32.199",
+      "lng": "-99.103",
+      "size": "1,000 Acres",
+      "url": "/incident/8007/",
+      "id": "8007",
+      "contained": "0"
+    },
+    {
+      "name": "Edmunson Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are currently engaged in wildfire suppression in...",
+      "state": "TEXAS",
+      "updated": "2022-03-18 14:26:16",
+      "lat": "31.681",
+      "lng": "-101.294",
+      "size": "3,878 Acres",
+      "url": "/incident/8006/",
+      "id": "8006",
+      "contained": "90"
+    },
+    {
       "name": "La Paloma Fire",
       "type": "Wildfire",
       "summary": "Local authorities in Starr County requested assistance from the...",
@@ -38,19 +90,6 @@
       "url": "/incident/8005/",
       "id": "8005",
       "contained": "95"
-    },
-    {
-      "name": "3 Oaks Fire",
-      "type": "Wildfire",
-      "summary": " The 3 Oaks fire started around 3pm on March 14th, 2022. Local Fire...",
-      "state": "TEXAS",
-      "updated": "2022-03-18 12:51:58",
-      "lat": "31.388",
-      "lng": "-98.362",
-      "size": "3,512 Acres",
-      "url": "/incident/7998/",
-      "id": "7998",
-      "contained": "100"
     },
     {
       "name": "Hollywood Fire",
@@ -92,32 +131,6 @@
       "contained": "95"
     },
     {
-      "name": "Wheat Field Fire",
-      "type": "Wildfire",
-      "summary": "This page will no longer be updated. For further information on the...",
-      "state": "TEXAS",
-      "updated": "2022-03-18 11:09:04",
-      "lat": "32.199",
-      "lng": "-99.103",
-      "size": "1,000 Acres",
-      "url": "/incident/8007/",
-      "id": "8007",
-      "contained": "0"
-    },
-    {
-      "name": "GWJ National Forest Prescribed Burns",
-      "type": "Prescribed Fire",
-      "summary": "The George Washington and Jefferson National Forests will conduct...",
-      "state": "VIRGINIA",
-      "updated": "2022-03-18 10:08:09",
-      "lat": "37.671",
-      "lng": "-79.861",
-      "size": "0 Acres",
-      "url": "/incident/7945/",
-      "id": "7945",
-      "contained": "0"
-    },
-    {
       "name": "Los Olmos Fire",
       "type": "Wildfire",
       "summary": "Local authorities in Kleberg County requested assistance from the...",
@@ -129,19 +142,6 @@
       "url": "/incident/8009/",
       "id": "8009",
       "contained": "100"
-    },
-    {
-      "name": "Edmunson Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are currently engaged in wildfire suppression in...",
-      "state": "TEXAS",
-      "updated": "2022-03-18 08:02:55",
-      "lat": "31.681",
-      "lng": "-101.294",
-      "size": "3,878 Acres",
-      "url": "/incident/8006/",
-      "id": "8006",
-      "contained": "75"
     },
     {
       "name": "Wells Fire",
