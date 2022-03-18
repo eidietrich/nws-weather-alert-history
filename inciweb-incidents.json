@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Edmunson Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are currently engaged in wildfire suppression in...",
+      "state": "TEXAS",
+      "updated": "2022-03-18 07:52:15",
+      "lat": "31.681",
+      "lng": "-101.294",
+      "size": "3,878 Acres",
+      "url": "/incident/8006/",
+      "id": "8006",
+      "contained": "75"
+    },
+    {
+      "name": "Chico Lane Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are currently engaged in wildfire suppression in Reagan...",
+      "state": "TEXAS",
+      "updated": "2022-03-18 07:51:25",
+      "lat": "31.106",
+      "lng": "-101.415",
+      "size": "8,000 Acres",
+      "url": "/incident/8005/",
+      "id": "8005",
+      "contained": "80"
+    },
+    {
+      "name": "Eastland Complex",
+      "type": "Wildfire",
+      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
+      "state": "TEXAS",
+      "updated": "2022-03-18 07:45:39",
+      "lat": "32.223",
+      "lng": "-98.937",
+      "size": "39,883 Acres",
+      "url": "/incident/8010/",
+      "id": "8010",
+      "contained": "2"
+    },
+    {
       "name": "Wells Fire",
       "type": "Wildfire",
       "summary": "Wells fire started on March 17, 2022, 3 miles east of the town of...",
@@ -12,32 +51,6 @@
       "url": "/incident/8008/",
       "id": "8008",
       "contained": "100"
-    },
-    {
-      "name": "Eastland Complex",
-      "type": "Wildfire",
-      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
-      "state": "TEXAS",
-      "updated": "2022-03-17 22:07:15",
-      "lat": "32.335",
-      "lng": "-98.829",
-      "size": "14,800 Acres",
-      "url": "/incident/8010/",
-      "id": "8010",
-      "contained": "0"
-    },
-    {
-      "name": "Edmunson Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are currently engaged in wildfire suppression in...",
-      "state": "TEXAS",
-      "updated": "2022-03-17 21:30:30",
-      "lat": "31.681",
-      "lng": "-101.294",
-      "size": "3,878 Acres",
-      "url": "/incident/8006/",
-      "id": "8006",
-      "contained": "50"
     },
     {
       "name": "Los Olmos Fire",
@@ -116,19 +129,6 @@
       "url": "/incident/7998/",
       "id": "7998",
       "contained": "90"
-    },
-    {
-      "name": "Chico Lane Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are currently engaged in wildfire suppression in Reagan...",
-      "state": "TEXAS",
-      "updated": "2022-03-17 17:08:39",
-      "lat": "31.106",
-      "lng": "-101.415",
-      "size": "5,000 Acres",
-      "url": "/incident/8005/",
-      "id": "8005",
-      "contained": "5"
     },
     {
       "name": "Jim Fire",
