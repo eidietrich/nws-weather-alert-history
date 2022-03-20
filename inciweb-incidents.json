@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Big L Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are currently engaged in wildfire suppression in Erath...",
+      "state": "TEXAS",
+      "updated": "2022-03-20 18:13:10",
+      "lat": "32.359",
+      "lng": "-98.004",
+      "size": "3,000 Acres",
+      "url": "/incident/8016/",
+      "id": "8016",
+      "contained": "5"
+    },
+    {
+      "name": "Cedar Mountain",
+      "type": "Wildfire",
+      "summary": " The Cedar Mountain fire started at 3:00pm off I-20 and spread to...",
+      "state": "TEXAS",
+      "updated": "2022-03-20 18:12:18",
+      "lat": "32.391",
+      "lng": "-98.901",
+      "size": "250 Acres",
+      "url": "/incident/8015/",
+      "id": "8015",
+      "contained": "10"
+    },
+    {
       "name": "Birdwell Fire",
       "type": "Wildfire",
       "summary": "Firefighters are currently engaged in wildfire suppression in Howard...",
@@ -12,32 +38,6 @@
       "url": "/incident/8014/",
       "id": "8014",
       "contained": "40"
-    },
-    {
-      "name": "Big L Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are currently engaged in wildfire suppression in Erath...",
-      "state": "TEXAS",
-      "updated": "2022-03-20 17:10:03",
-      "lat": "32.359",
-      "lng": "-98.004",
-      "size": "3,000 Acres",
-      "url": "/incident/8016/",
-      "id": "8016",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Mountain",
-      "type": "Wildfire",
-      "summary": " The Cedar Mountain fire started at 3:00pm off I-20 and spread to...",
-      "state": "TEXAS",
-      "updated": "2022-03-20 17:09:06",
-      "lat": "32.391",
-      "lng": "-98.901",
-      "size": "175 Acres",
-      "url": "/incident/8015/",
-      "id": "8015",
-      "contained": "0"
     },
     {
       "name": "Blowing Basin",
