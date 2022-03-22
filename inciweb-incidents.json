@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Eastland Complex",
+      "type": "Wildfire",
+      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
+      "state": "TEXAS",
+      "updated": "2022-03-22 09:16:42",
+      "lat": "32.223",
+      "lng": "-98.937",
+      "size": "54,463 Acres",
+      "url": "/incident/8010/",
+      "id": "8010",
+      "contained": "60"
+    },
+    {
+      "name": "Lick Mountain Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": "This spring Monongahela National Forest officials plan to conduct a...",
+      "state": "WEST VIRGINIA",
+      "updated": "2022-03-22 09:03:28",
+      "lat": "37.972",
+      "lng": "-80.18",
+      "size": "0 Acres",
+      "url": "/incident/8022/",
+      "id": "8022",
+      "contained": "0"
+    },
+    {
+      "name": "Peach Orchard Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": "This spring Monongahela National Forest officials plan to conduct a...",
+      "state": "WEST VIRGINIA",
+      "updated": "2022-03-22 09:01:26",
+      "lat": "37.95",
+      "lng": "-80.283",
+      "size": "0 Acres",
+      "url": "/incident/8021/",
+      "id": "8021",
+      "contained": "0"
+    },
+    {
       "name": "Loma East Fire",
       "type": "Wildfire",
       "summary": "Firefighters have responded to a wildfire in Jim Wells County,...",
@@ -25,19 +64,6 @@
       "url": "/incident/8016/",
       "id": "8016",
       "contained": "70"
-    },
-    {
-      "name": "Eastland Complex",
-      "type": "Wildfire",
-      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
-      "state": "TEXAS",
-      "updated": "2022-03-21 19:37:20",
-      "lat": "32.223",
-      "lng": "-98.937",
-      "size": "54,463 Acres",
-      "url": "/incident/8010/",
-      "id": "8010",
-      "contained": "60"
     },
     {
       "name": "Birdwell Fire",
@@ -142,32 +168,6 @@
       "url": "/incident/8023/",
       "id": "8023",
       "contained": "40"
-    },
-    {
-      "name": "Lick Mountain Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": "This spring Monongahela National Forest officials plan to conduct a...",
-      "state": "WEST VIRGINIA",
-      "updated": "2022-03-21 14:53:32",
-      "lat": "37.972",
-      "lng": "-80.18",
-      "size": "0 Acres",
-      "url": "/incident/8022/",
-      "id": "8022",
-      "contained": "0"
-    },
-    {
-      "name": "Peach Orchard Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": "This spring Monongahela National Forest officials plan to conduct a...",
-      "state": "WEST VIRGINIA",
-      "updated": "2022-03-21 14:51:07",
-      "lat": "37.95",
-      "lng": "-80.283",
-      "size": "0 Acres",
-      "url": "/incident/8021/",
-      "id": "8021",
-      "contained": "0"
     },
     {
       "name": "GWJ National Forest Prescribed Burns",
