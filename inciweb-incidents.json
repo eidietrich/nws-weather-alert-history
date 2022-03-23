@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Eastland Complex",
+      "type": "Wildfire",
+      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
+      "state": "TEXAS",
+      "updated": "2022-03-23 10:40:33",
+      "lat": "32.223",
+      "lng": "-98.937",
+      "size": "54,463 Acres",
+      "url": "/incident/8010/",
+      "id": "8010",
+      "contained": "70"
+    },
+    {
+      "name": "Veterans Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Veterans Lake Fire started as a controlled burn (brush pile) on...",
+      "state": "OKLAHOMA",
+      "updated": "2022-03-23 10:36:40",
+      "lat": "34.471",
+      "lng": "-96.969",
+      "size": "448 Acres",
+      "url": "/incident/8023/",
+      "id": "8023",
+      "contained": "10"
+    },
+    {
       "name": "Ramsey Fire",
       "type": "Wildfire",
       "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
@@ -51,32 +77,6 @@
       "url": "/incident/7997/",
       "id": "7997",
       "contained": "100"
-    },
-    {
-      "name": "Eastland Complex",
-      "type": "Wildfire",
-      "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
-      "state": "TEXAS",
-      "updated": "2022-03-22 19:35:42",
-      "lat": "32.223",
-      "lng": "-98.937",
-      "size": "54,463 Acres",
-      "url": "/incident/8010/",
-      "id": "8010",
-      "contained": "70"
-    },
-    {
-      "name": "Veterans Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Veterans Lake Fire started as a controlled burn (brush pile) on...",
-      "state": "OKLAHOMA",
-      "updated": "2022-03-22 18:02:06",
-      "lat": "34.466",
-      "lng": "-96.986",
-      "size": "1,000 Acres",
-      "url": "/incident/8023/",
-      "id": "8023",
-      "contained": "10"
     },
     {
       "name": "Hualapai Mountains Prescribed Burn ",
