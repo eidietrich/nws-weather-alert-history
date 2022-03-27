@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Ramsey Fire",
+      "type": "Wildfire",
+      "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
+      "state": "TEXAS",
+      "updated": "2022-03-26 19:56:02",
+      "lat": "31.828",
+      "lng": "-98.824",
+      "size": "3,100 Acres",
+      "url": "/incident/8020/",
+      "id": "8020",
+      "contained": "50"
+    },
+    {
       "name": "Hayfield South Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service resources are working in unified command...",
       "state": "TEXAS",
-      "updated": "2022-03-26 18:44:13",
+      "updated": "2022-03-26 19:30:12",
       "lat": "26.807",
       "lng": "-97.662",
       "size": "10,500 Acres",
       "url": "/incident/8031/",
       "id": "8031",
       "contained": "40"
+    },
+    {
+      "name": "Das Goat Fire",
+      "type": "Wildfire",
+      "summary": "The Das Goat Fire began on March 25, 2022 burning in grass and...",
+      "state": "TEXAS",
+      "updated": "2022-03-26 19:28:20",
+      "lat": "29.493",
+      "lng": "-98.938",
+      "size": "958 Acres",
+      "url": "/incident/8030/",
+      "id": "8030",
+      "contained": "20"
     },
     {
       "name": "Eastland Complex",
@@ -25,19 +51,6 @@
       "url": "/incident/8010/",
       "id": "8010",
       "contained": "90"
-    },
-    {
-      "name": "Das Goats Fire",
-      "type": "Wildfire",
-      "summary": "The Das Goats Fire began on March 25, 2022 burning in grass and...",
-      "state": "TEXAS",
-      "updated": "2022-03-26 17:32:50",
-      "lat": "29.493",
-      "lng": "-98.938",
-      "size": "958 Acres",
-      "url": "/incident/8030/",
-      "id": "8030",
-      "contained": "20"
     },
     {
       "name": "Kiowa Rita Blanca Multi Unit RX",
@@ -142,19 +155,6 @@
       "url": "/incident/7945/",
       "id": "7945",
       "contained": "0"
-    },
-    {
-      "name": "Ramsey Fire",
-      "type": "Wildfire",
-      "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
-      "state": "TEXAS",
-      "updated": "2022-03-25 09:26:02",
-      "lat": "31.828",
-      "lng": "-98.824",
-      "size": "2,091 Acres",
-      "url": "/incident/8020/",
-      "id": "8020",
-      "contained": "95"
     },
     {
       "name": "Peach Orchard Prescribed Burn",
