@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Nunn Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are currently engaged in wildfire suppression in Jeff...",
+      "state": "TEXAS",
+      "updated": "2022-03-30 17:29:39",
+      "lat": "30.941",
+      "lng": "-104.246",
+      "size": "650 Acres",
+      "url": "/incident/8038/",
+      "id": "8038",
+      "contained": "50"
+    },
+    {
+      "name": "Bosque River Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service received a request for assistance in Bosque...",
+      "state": "TEXAS",
+      "updated": "2022-03-30 17:27:06",
+      "lat": "32.002",
+      "lng": "-97.818",
+      "size": "700 Acres",
+      "url": "/incident/8034/",
+      "id": "8034",
+      "contained": "90"
+    },
+    {
       "name": "West Nueces",
       "type": "Wildfire",
       "summary": "The West Nueces Fire began on March 27, 2022 in Kinney County. Local...",
@@ -77,32 +103,6 @@
       "url": "/incident/8040/",
       "id": "8040",
       "contained": "100"
-    },
-    {
-      "name": "Nunn Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are currently engaged in wildfire suppression in Jeff...",
-      "state": "TEXAS",
-      "updated": "2022-03-30 12:07:50",
-      "lat": "30.941",
-      "lng": "-104.246",
-      "size": "600 Acres",
-      "url": "/incident/8038/",
-      "id": "8038",
-      "contained": "20"
-    },
-    {
-      "name": "Bosque River Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service received a request for assistance in Bosque...",
-      "state": "TEXAS",
-      "updated": "2022-03-30 11:41:45",
-      "lat": "32.002",
-      "lng": "-97.818",
-      "size": "700 Acres",
-      "url": "/incident/8034/",
-      "id": "8034",
-      "contained": "90"
     },
     {
       "name": "Doe Fire",
