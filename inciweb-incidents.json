@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Los Angeles Fire",
+      "type": "Wildfire",
+      "summary": "The Los Angeles Fire began on the afternoon of March 30th burning in...",
+      "state": "TEXAS",
+      "updated": "2022-03-31 16:21:49",
+      "lat": "28.453",
+      "lng": "-98.959",
+      "size": "5,960 Acres",
+      "url": "/incident/8042/",
+      "id": "8042",
+      "contained": "35"
+    },
+    {
       "name": "Borrega Fire",
       "type": "Wildfire",
       "summary": "On March 30th 2022, Texas A&amp;M Forest Service received a request for...",
@@ -38,19 +51,6 @@
       "url": "/incident/8044/",
       "id": "8044",
       "contained": "85"
-    },
-    {
-      "name": "Los Angeles Fire",
-      "type": "Wildfire",
-      "summary": "The Los Angeles Fire began on the afternoon of March 30th burning in...",
-      "state": "TEXAS",
-      "updated": "2022-03-31 12:48:30",
-      "lat": "28.453",
-      "lng": "-98.959",
-      "size": "3,000 Acres",
-      "url": "/incident/8042/",
-      "id": "8042",
-      "contained": "20"
     },
     {
       "name": "Presumido Peak Fire",
