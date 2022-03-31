@@ -1,16 +1,55 @@
 {
   "markers": [
     {
+      "name": "Presumido Peak Fire",
+      "type": "Wildfire",
+      "summary": "Today, firefighters will be patrolling and mopping up areas of low...",
+      "state": "ARIZONA",
+      "updated": "2022-03-31 11:52:34",
+      "lat": "31.567",
+      "lng": "-111.621",
+      "size": "2,591 Acres",
+      "url": "/incident/8036/",
+      "id": "8036",
+      "contained": "70"
+    },
+    {
       "name": "Borrega Fire",
       "type": "Wildfire",
       "summary": "On March 30th 2022, a request for assistance came in from Kleberg...",
       "state": "TEXAS",
-      "updated": "2022-03-31 11:19:45",
+      "updated": "2022-03-31 11:46:55",
       "lat": "27.496",
       "lng": "-98.021",
       "size": "60,000 Acres",
       "url": "/incident/8043/",
       "id": "8043",
+      "contained": "20"
+    },
+    {
+      "name": "Nunn Fire",
+      "type": "Wildfire",
+      "summary": "This fire will no longer be updated. Firefighters are currently...",
+      "state": "TEXAS",
+      "updated": "2022-03-31 11:45:48",
+      "lat": "30.941",
+      "lng": "-104.246",
+      "size": "1,121 Acres",
+      "url": "/incident/8038/",
+      "id": "8038",
+      "contained": "100"
+    },
+    {
+      "name": "Los Angeles Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "TEXAS",
+      "updated": "2022-03-31 11:28:39",
+      "lat": "28.453",
+      "lng": "-98.959",
+      "size": "3,000 Acres",
+      "url": "/incident/8042/",
+      "id": "8042",
       "contained": "20"
     },
     {
@@ -66,19 +105,6 @@
       "contained": "95"
     },
     {
-      "name": "Nunn Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are currently engaged in wildfire suppression in Jeff...",
-      "state": "TEXAS",
-      "updated": "2022-03-31 09:45:45",
-      "lat": "30.941",
-      "lng": "-104.246",
-      "size": "1,121 Acres",
-      "url": "/incident/8038/",
-      "id": "8038",
-      "contained": "90"
-    },
-    {
       "name": "Doe Fire",
       "type": "Wildfire",
       "summary": " Texas A&amp;M Forest Service (TAMFS) received a request for assistance...",
@@ -118,19 +144,6 @@
       "contained": "40"
     },
     {
-      "name": "Los Angeles Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "TEXAS",
-      "updated": "2022-03-31 08:03:03",
-      "lat": "28.453",
-      "lng": "-98.959",
-      "size": "3,000 Acres",
-      "url": "/incident/8042/",
-      "id": "8042",
-      "contained": "20"
-    },
-    {
       "name": "Eastland Complex",
       "type": "Wildfire",
       "summary": "Multiple wildfires burning southwest of Eastland, Texas have been...",
@@ -142,19 +155,6 @@
       "url": "/incident/8010/",
       "id": "8010",
       "contained": "100"
-    },
-    {
-      "name": "Presumido Peak Fire",
-      "type": "Wildfire",
-      "summary": "Wednesday evening update, after flying the fire today, fire command...",
-      "state": "ARIZONA",
-      "updated": "2022-03-30 22:21:55",
-      "lat": "31.567",
-      "lng": "-111.621",
-      "size": "2,591 Acres",
-      "url": "/incident/8036/",
-      "id": "8036",
-      "contained": "70"
     },
     {
       "name": "Jim Fire",
