@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Los Angeles Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "TEXAS",
+      "updated": "2022-03-30 23:20:17",
+      "lat": "28.453",
+      "lng": "-98.959",
+      "size": "4,000 Acres",
+      "url": "/incident/8042/",
+      "id": "8042",
+      "contained": "20"
+    },
+    {
       "name": "Presumido Peak Fire",
       "type": "Wildfire",
       "summary": "Wednesday evening update, after flying the fire today, fire command...",
@@ -38,19 +51,6 @@
       "url": "/incident/8038/",
       "id": "8038",
       "contained": "90"
-    },
-    {
-      "name": "Los Angeles Fire",
-      "type": "Wildfire",
-      "summary": "The Los Angeles Fire began on the afternoon of March 30th burning in...",
-      "state": "TEXAS",
-      "updated": "2022-03-30 18:59:40",
-      "lat": "28.453",
-      "lng": "-98.959",
-      "size": "350 Acres",
-      "url": "/incident/8042/",
-      "id": "8042",
-      "contained": "0"
     },
     {
       "name": "Eastland Complex",
