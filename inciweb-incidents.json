@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Adrian Fire",
+      "type": "Wildfire",
+      "summary": "The Adrian Fire started on Friday, April 1st up on the mesa top...",
+      "state": "TEXAS",
+      "updated": "2022-04-02 20:13:26",
+      "lat": "32.415",
+      "lng": "-100.201",
+      "size": "530 Acres",
+      "url": "/incident/8047/",
+      "id": "8047",
+      "contained": "80"
+    },
+    {
+      "name": "Das Goat Fire",
+      "type": "Wildfire",
+      "summary": "The Das Goat Fire began on March 25, 2022 burning in grass and...",
+      "state": "TEXAS",
+      "updated": "2022-04-02 20:02:11",
+      "lat": "29.493",
+      "lng": "-98.938",
+      "size": "1,092 Acres",
+      "url": "/incident/8030/",
+      "id": "8030",
+      "contained": "100"
+    },
+    {
       "name": "Red Mud Fire",
       "type": "Wildfire",
       "summary": "The Red Mud fire started on Friday, April 1st, 2022 at approximately...",
       "state": "TEXAS",
-      "updated": "2022-04-02 18:22:04",
+      "updated": "2022-04-02 19:58:43",
       "lat": "33.471",
       "lng": "-101.049",
-      "size": "1,600 Acres",
+      "size": "2,033 Acres",
       "url": "/incident/8046/",
       "id": "8046",
-      "contained": "70"
+      "contained": "100"
+    },
+    {
+      "name": "Borrega Fire",
+      "type": "Wildfire",
+      "summary": "Current Status: Yesterday at approximately 2:00 pm a contingent of...",
+      "state": "TEXAS",
+      "updated": "2022-04-02 19:29:11",
+      "lat": "27.496",
+      "lng": "-98.021",
+      "size": "51,566 Acres",
+      "url": "/incident/8043/",
+      "id": "8043",
+      "contained": "98"
     },
     {
       "name": "GWJ National Forest Prescribed Burns",
@@ -40,32 +79,6 @@
       "contained": "100"
     },
     {
-      "name": "Adrian Fire",
-      "type": "Wildfire",
-      "summary": "The Adrian Fire started on Friday, April 1st up on the mesa top...",
-      "state": "TEXAS",
-      "updated": "2022-04-02 16:46:23",
-      "lat": "32.415",
-      "lng": "-100.201",
-      "size": "530 Acres",
-      "url": "/incident/8047/",
-      "id": "8047",
-      "contained": "80"
-    },
-    {
-      "name": "Borrega Fire",
-      "type": "Wildfire",
-      "summary": "Current Status: Yesterday at approximately 2:00 pm a contingent of...",
-      "state": "TEXAS",
-      "updated": "2022-04-02 16:11:39",
-      "lat": "27.496",
-      "lng": "-98.021",
-      "size": "51,566 Acres",
-      "url": "/incident/8043/",
-      "id": "8043",
-      "contained": "95"
-    },
-    {
       "name": "Ramsey Fire",
       "type": "Wildfire",
       "summary": " The Ramsey Fire Started the afternoon of March 20th in Brown County...",
@@ -90,19 +103,6 @@
       "url": "/incident/8033/",
       "id": "8033",
       "contained": "90"
-    },
-    {
-      "name": "Das Goat Fire",
-      "type": "Wildfire",
-      "summary": "The Das Goat Fire began on March 25, 2022 burning in grass and...",
-      "state": "TEXAS",
-      "updated": "2022-04-02 09:28:18",
-      "lat": "29.493",
-      "lng": "-98.938",
-      "size": "1,092 Acres",
-      "url": "/incident/8030/",
-      "id": "8030",
-      "contained": "95"
     },
     {
       "name": "West Nueces",
