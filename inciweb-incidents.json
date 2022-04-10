@@ -1,30 +1,69 @@
 {
   "markers": [
     {
-      "name": "Bull Creek",
+      "name": "Benavidez Fire",
       "type": "Wildfire",
-      "summary": " The Bull Creek Fire started on April 9th around 1:00 PM along FM...",
+      "summary": "The Benavidez Fire started on April 9th and Texas A&amp;M Forest Service...",
       "state": "TEXAS",
-      "updated": "2022-04-09 17:31:00",
-      "lat": "32.628",
-      "lng": "-101.189",
-      "size": "500 Acres",
-      "url": "/incident/8056/",
-      "id": "8056",
-      "contained": "30"
+      "updated": "2022-04-09 19:46:20",
+      "lat": "27.776",
+      "lng": "-98.237",
+      "size": "50 Acres",
+      "url": "/incident/8054/",
+      "id": "8054",
+      "contained": "100"
+    },
+    {
+      "name": "Training Area 23 Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
+      "state": "TEXAS",
+      "updated": "2022-04-09 19:19:51",
+      "lat": "29.686",
+      "lng": "-98.553",
+      "size": "1,500 Acres",
+      "url": "/incident/8057/",
+      "id": "8057",
+      "contained": "0"
     },
     {
       "name": "Overflow Fire",
       "type": "Wildfire",
       "summary": "On April 7, 2022, the Bureau of Land Management (BLM) declared the...",
       "state": "NEW MEXICO",
-      "updated": "2022-04-09 16:59:05",
+      "updated": "2022-04-09 19:10:35",
       "lat": "33.269",
       "lng": "-104.363",
       "size": "1,900 Acres",
       "url": "/incident/8053/",
       "id": "8053",
       "contained": "50"
+    },
+    {
+      "name": "Bitterroot Spring RX Fire 2022",
+      "type": "Prescribed Fire",
+      "summary": "See the 'Announcements' and 'News' Tabs for the latest information on...",
+      "state": "MONTANA",
+      "updated": "2022-04-09 19:00:36",
+      "lat": "46.081",
+      "lng": "-114.176",
+      "size": "0 Acres",
+      "url": "/incident/8024/",
+      "id": "8024",
+      "contained": "0"
+    },
+    {
+      "name": "Bull Creek",
+      "type": "Wildfire",
+      "summary": " The Bull Creek Fire started on April 9th around 1:00 PM along FM...",
+      "state": "TEXAS",
+      "updated": "2022-04-09 18:53:09",
+      "lat": "32.628",
+      "lng": "-101.189",
+      "size": "500 Acres",
+      "url": "/incident/8056/",
+      "id": "8056",
+      "contained": "75"
     },
     {
       "name": "Cashew Fire ",
@@ -37,19 +76,6 @@
       "size": "130 Acres",
       "url": "/incident/8055/",
       "id": "8055",
-      "contained": "0"
-    },
-    {
-      "name": "Benavidez Fire",
-      "type": "Wildfire",
-      "summary": " The Benavidez Fire started on April 9th and Texas A&amp;M Forest...",
-      "state": "TEXAS",
-      "updated": "2022-04-09 15:59:24",
-      "lat": "27.776",
-      "lng": "-98.237",
-      "size": "45 Acres",
-      "url": "/incident/8054/",
-      "id": "8054",
       "contained": "0"
     },
     {
@@ -89,19 +115,6 @@
       "size": "0 Acres",
       "url": "/incident/7945/",
       "id": "7945",
-      "contained": "0"
-    },
-    {
-      "name": "Bitterroot Spring RX Fire 2022",
-      "type": "Prescribed Fire",
-      "summary": "See the 'Announcements' and 'News' Tabs for the latest information on...",
-      "state": "MONTANA",
-      "updated": "2022-04-08 19:25:41",
-      "lat": "46.081",
-      "lng": "-114.176",
-      "size": "0 Acres",
-      "url": "/incident/8024/",
-      "id": "8024",
       "contained": "0"
     },
     {
