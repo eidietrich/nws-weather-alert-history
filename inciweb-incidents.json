@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "McBride Fire",
+      "type": "Wildfire",
+      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-14 13:18:01",
+      "lat": "33.333",
+      "lng": "-105.635",
+      "size": "5,736 Acres",
+      "url": "/incident/8061/",
+      "id": "8061",
+      "contained": "0"
+    },
+    {
+      "name": "Nogal Canyon Fire",
+      "type": "Wildfire",
+      "summary": "Jurisdiction: State and Lincoln National ForestContainment: 4%Size:...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-14 13:16:50",
+      "lat": "33.511",
+      "lng": "-105.747",
+      "size": "345 Acres",
+      "url": "/incident/8062/",
+      "id": "8062",
+      "contained": "4"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -12,32 +38,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "10"
-    },
-    {
-      "name": "Nogal Canyon Fire",
-      "type": "Wildfire",
-      "summary": "Jurisdiction: State and Lincoln National ForestContainment: 0%Size:...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-14 12:11:23",
-      "lat": "33.511",
-      "lng": "-105.747",
-      "size": "354 Acres",
-      "url": "/incident/8062/",
-      "id": "8062",
-      "contained": "4"
-    },
-    {
-      "name": "McBride Fire",
-      "type": "Wildfire",
-      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-14 12:07:48",
-      "lat": "33.333",
-      "lng": "-105.635",
-      "size": "5,736 Acres",
-      "url": "/incident/8061/",
-      "id": "8061",
-      "contained": "0"
     },
     {
       "name": "Big Hole Fire",
