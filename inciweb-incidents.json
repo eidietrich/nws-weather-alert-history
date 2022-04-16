@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "McBride Fire",
+      "type": "Wildfire",
+      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-16 11:24:03",
+      "lat": "33.333",
+      "lng": "-105.635",
+      "size": "6,185 Acres",
+      "url": "/incident/8061/",
+      "id": "8061",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
       "state": "NEW MEXICO",
-      "updated": "2022-04-16 10:46:21",
+      "updated": "2022-04-16 11:22:22",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "7,381 Acres",
@@ -14,17 +27,17 @@
       "contained": "46"
     },
     {
-      "name": "McBride Fire",
+      "name": "Nogal Canyon Fire",
       "type": "Wildfire",
-      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
+      "summary": "Jurisdiction: State and Lincoln National ForestContainment: 4%Size:...",
       "state": "NEW MEXICO",
-      "updated": "2022-04-16 09:48:07",
-      "lat": "33.333",
-      "lng": "-105.635",
-      "size": "6,185 Acres",
-      "url": "/incident/8061/",
-      "id": "8061",
-      "contained": "0"
+      "updated": "2022-04-16 11:19:02",
+      "lat": "33.511",
+      "lng": "-105.747",
+      "size": "433 Acres",
+      "url": "/incident/8062/",
+      "id": "8062",
+      "contained": "4"
     },
     {
       "name": "Big Hole Fire",
@@ -38,19 +51,6 @@
       "url": "/incident/8059/",
       "id": "8059",
       "contained": "75"
-    },
-    {
-      "name": "Nogal Canyon Fire",
-      "type": "Wildfire",
-      "summary": "Jurisdiction: State and Lincoln National ForestContainment: 4%Size:...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-16 08:59:23",
-      "lat": "33.511",
-      "lng": "-105.747",
-      "size": "433 Acres",
-      "url": "/incident/8062/",
-      "id": "8062",
-      "contained": "4"
     },
     {
       "name": "Mesa Re-Entry Rx Fire",
