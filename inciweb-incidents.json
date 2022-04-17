@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Nogal Canyon Fire",
+      "type": "Wildfire",
+      "summary": "Jurisdiction: State and Lincoln National ForestContainment: 4%Size:...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-17 09:34:00",
+      "lat": "33.511",
+      "lng": "-105.747",
+      "size": "433 Acres",
+      "url": "/incident/8062/",
+      "id": "8062",
+      "contained": "42"
+    },
+    {
+      "name": "McBride Fire",
+      "type": "Wildfire",
+      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-17 09:31:59",
+      "lat": "33.333",
+      "lng": "-105.635",
+      "size": "6,185 Acres",
+      "url": "/incident/8061/",
+      "id": "8061",
+      "contained": "56"
+    },
+    {
+      "name": "Big Hole Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-17 09:30:21",
+      "lat": "34.665",
+      "lng": "-106.747",
+      "size": "890 Acres",
+      "url": "/incident/8059/",
+      "id": "8059",
+      "contained": "80"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -12,45 +51,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "46"
-    },
-    {
-      "name": "McBride Fire",
-      "type": "Wildfire",
-      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-16 22:20:47",
-      "lat": "33.333",
-      "lng": "-105.635",
-      "size": "6,185 Acres",
-      "url": "/incident/8061/",
-      "id": "8061",
-      "contained": "56"
-    },
-    {
-      "name": "Nogal Canyon Fire",
-      "type": "Wildfire",
-      "summary": "Jurisdiction: State and Lincoln National ForestContainment: 4%Size:...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-16 22:13:11",
-      "lat": "33.511",
-      "lng": "-105.747",
-      "size": "433 Acres",
-      "url": "/incident/8062/",
-      "id": "8062",
-      "contained": "42"
-    },
-    {
-      "name": "Big Hole Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-16 17:59:48",
-      "lat": "34.665",
-      "lng": "-106.747",
-      "size": "890 Acres",
-      "url": "/incident/8059/",
-      "id": "8059",
-      "contained": "75"
     },
     {
       "name": "Mesa Re-Entry Rx Fire",
