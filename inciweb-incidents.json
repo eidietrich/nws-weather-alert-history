@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Nina Lucia Fire",
+      "type": "Wildfire",
+      "summary": " The Nina Lucia Fire started along County Road 273 approximately 6...",
+      "state": "TEXAS",
+      "updated": "2022-04-18 09:13:28",
+      "lat": "32.175",
+      "lng": "-100.567",
+      "size": "500 Acres",
+      "url": "/incident/8065/",
+      "id": "8065",
+      "contained": "25"
+    },
+    {
       "name": "McBride Fire",
       "type": "Wildfire",
       "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
       "state": "NEW MEXICO",
-      "updated": "2022-04-18 08:39:26",
+      "updated": "2022-04-18 08:50:08",
       "lat": "33.333",
       "lng": "-105.635",
       "size": "6,159 Acres",
       "url": "/incident/8061/",
       "id": "8061",
       "contained": "80"
+    },
+    {
+      "name": "Nogal Canyon Fire",
+      "type": "Wildfire",
+      "summary": "Jurisdiction: State and Lincoln National ForestContainment: 4%Size:...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-18 08:43:46",
+      "lat": "33.511",
+      "lng": "-105.747",
+      "size": "412 Acres",
+      "url": "/incident/8062/",
+      "id": "8062",
+      "contained": "58"
     },
     {
       "name": "Hermits Peak Fire",
@@ -25,19 +51,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "61"
-    },
-    {
-      "name": "Nogal Canyon Fire",
-      "type": "Wildfire",
-      "summary": "Jurisdiction: State and Lincoln National ForestContainment: 4%Size:...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-17 21:09:58",
-      "lat": "33.511",
-      "lng": "-105.747",
-      "size": "412 Acres",
-      "url": "/incident/8062/",
-      "id": "8062",
-      "contained": "58"
     },
     {
       "name": "Big Hole Fire",
@@ -323,19 +336,6 @@
       "size": "0 Acres",
       "url": "/incident/7868/",
       "id": "7868",
-      "contained": "0"
-    },
-    {
-      "name": "Prescribed Fire Projects 2021",
-      "type": "Prescribed Fire",
-      "summary": "Please see the 'Related Links' section on this page for quick links...",
-      "state": "OREGON",
-      "updated": "2022-02-01 10:24:23",
-      "lat": "44.418",
-      "lng": "-118.952",
-      "size": "0 Acres",
-      "url": "/incident/7426/",
-      "id": "7426",
       "contained": "0"
     }
   ]
