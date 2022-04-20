@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "McBride Fire",
+      "type": "Wildfire",
+      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-20 11:12:48",
+      "lat": "33.333",
+      "lng": "-105.635",
+      "size": "6,159 Acres",
+      "url": "/incident/8061/",
+      "id": "8061",
+      "contained": "84"
+    },
+    {
+      "name": "Nogal Canyon Fire",
+      "type": "Wildfire",
+      "summary": "The Nogal Canyon Fire that started on April 12, 2022, has burned 6...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-20 11:12:17",
+      "lat": "33.511",
+      "lng": "-105.747",
+      "size": "412 Acres",
+      "url": "/incident/8062/",
+      "id": "8062",
+      "contained": "70"
+    },
+    {
       "name": "Tunnel Fire",
       "type": "Wildfire",
       "summary": "The Tunnel Fire, located approximately 14 miles northeast of...",
@@ -53,32 +79,6 @@
       "contained": "95"
     },
     {
-      "name": "Nogal Canyon Fire",
-      "type": "Wildfire",
-      "summary": "The Nogal Canyon Fire that started on April 12, 2022, has burned 6...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-20 09:37:36",
-      "lat": "33.511",
-      "lng": "-105.747",
-      "size": "412 Acres",
-      "url": "/incident/8062/",
-      "id": "8062",
-      "contained": "70"
-    },
-    {
-      "name": "McBride Fire",
-      "type": "Wildfire",
-      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-20 09:36:33",
-      "lat": "33.333",
-      "lng": "-105.635",
-      "size": "6,159 Acres",
-      "url": "/incident/8061/",
-      "id": "8061",
-      "contained": "84"
-    },
-    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": "Ryan Barela’s Arizona Central West Zone Type 3 Incident Management...",
@@ -116,19 +116,6 @@
       "url": "/incident/8059/",
       "id": "8059",
       "contained": "85"
-    },
-    {
-      "name": "Tiger Fire",
-      "type": "Wildfire",
-      "summary": "This will be the final news release unless there are significant...",
-      "state": "ARIZONA",
-      "updated": "2022-04-18 19:51:36",
-      "lat": "34.139",
-      "lng": "-112.218",
-      "size": "16,278 Acres",
-      "url": "/incident/7595/",
-      "id": "7595",
-      "contained": "100"
     },
     {
       "name": "GWJ National Forest Prescribed Burns",
