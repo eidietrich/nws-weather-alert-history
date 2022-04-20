@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-20 12:38:18",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "150 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
       "state": "NEW MEXICO",
-      "updated": "2022-04-20 11:47:50",
+      "updated": "2022-04-20 12:38:17",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "7,581 Acres",
@@ -14,16 +27,29 @@
       "contained": "81"
     },
     {
-      "name": "Calf Canyon",
+      "name": "Crooks Fire",
       "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-20 11:47:37",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "300 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
+      "summary": "Ryan Barela’s Arizona Central West Zone Type 3 Incident Management...",
+      "state": "ARIZONA",
+      "updated": "2022-04-20 12:36:48",
+      "lat": "34.403",
+      "lng": "-112.426",
+      "size": "1,600 Acres",
+      "url": "/incident/8067/",
+      "id": "8067",
+      "contained": "0"
+    },
+    {
+      "name": "GWJ National Forest Prescribed Burns",
+      "type": "Prescribed Fire",
+      "summary": "The George Washington and Jefferson National Forests will conduct...",
+      "state": "VIRGINIA",
+      "updated": "2022-04-20 12:11:34",
+      "lat": "37.671",
+      "lng": "-79.861",
+      "size": "0 Acres",
+      "url": "/incident/7945/",
+      "id": "7945",
       "contained": "0"
     },
     {
@@ -79,19 +105,6 @@
       "contained": "95"
     },
     {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": "Ryan Barela’s Arizona Central West Zone Type 3 Incident Management...",
-      "state": "ARIZONA",
-      "updated": "2022-04-20 08:57:23",
-      "lat": "34.403",
-      "lng": "-112.426",
-      "size": "1,600 Acres",
-      "url": "/incident/8067/",
-      "id": "8067",
-      "contained": "0"
-    },
-    {
       "name": "Cooks Peak",
       "type": "Wildfire",
       "summary": "The Cooks Peak Fire is located on private land north of Ocate in Mora...",
@@ -116,19 +129,6 @@
       "url": "/incident/8059/",
       "id": "8059",
       "contained": "85"
-    },
-    {
-      "name": "GWJ National Forest Prescribed Burns",
-      "type": "Prescribed Fire",
-      "summary": "The George Washington and Jefferson National Forests will conduct...",
-      "state": "VIRGINIA",
-      "updated": "2022-04-15 06:26:48",
-      "lat": "37.671",
-      "lng": "-79.861",
-      "size": "0 Acres",
-      "url": "/incident/7945/",
-      "id": "7945",
-      "contained": "0"
     },
     {
       "name": "Side Oats",
