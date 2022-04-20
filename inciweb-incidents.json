@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "McBride Fire",
+      "type": "Wildfire",
+      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-20 08:13:02",
+      "lat": "33.333",
+      "lng": "-105.635",
+      "size": "6,159 Acres",
+      "url": "/incident/8061/",
+      "id": "8061",
+      "contained": "84"
+    },
+    {
+      "name": "Nogal Canyon Fire",
+      "type": "Wildfire",
+      "summary": "The Nogal Canyon Fire that started on April 12, 2022, has burned 6...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-20 08:11:14",
+      "lat": "33.511",
+      "lng": "-105.747",
+      "size": "412 Acres",
+      "url": "/incident/8062/",
+      "id": "8062",
+      "contained": "70"
+    },
+    {
       "name": "Tunnel Fire",
       "type": "Wildfire",
       "summary": "The Tunnel Fire, located approximately 14 miles northeast of...",
@@ -77,32 +103,6 @@
       "url": "/incident/8065/",
       "id": "8065",
       "contained": "90"
-    },
-    {
-      "name": "Nogal Canyon Fire",
-      "type": "Wildfire",
-      "summary": "The Nogal Canyon Fire that started on April 12, 2022, has burned 6...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-19 13:13:59",
-      "lat": "33.511",
-      "lng": "-105.747",
-      "size": "412 Acres",
-      "url": "/incident/8062/",
-      "id": "8062",
-      "contained": "70"
-    },
-    {
-      "name": "McBride Fire",
-      "type": "Wildfire",
-      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-19 13:13:08",
-      "lat": "33.333",
-      "lng": "-105.635",
-      "size": "6,159 Acres",
-      "url": "/incident/8061/",
-      "id": "8061",
-      "contained": "84"
     },
     {
       "name": "Big Hole Fire",
