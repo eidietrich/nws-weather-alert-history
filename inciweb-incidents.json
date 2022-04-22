@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Nogal Canyon Fire",
+      "type": "Wildfire",
+      "summary": "The Nogal Canyon Fire that started on April 12, 2022, burned 6...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-22 10:10:19",
+      "lat": "33.511",
+      "lng": "-105.747",
+      "size": "412 Acres",
+      "url": "/incident/8062/",
+      "id": "8062",
+      "contained": "84"
+    },
+    {
+      "name": "McBride Fire",
+      "type": "Wildfire",
+      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-22 10:06:20",
+      "lat": "33.333",
+      "lng": "-105.635",
+      "size": "6,159 Acres",
+      "url": "/incident/8061/",
+      "id": "8061",
+      "contained": "89"
+    },
+    {
+      "name": "Crooks Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Map | Operations Video Southern California...",
+      "state": "ARIZONA",
+      "updated": "2022-04-22 10:02:57",
+      "lat": "34.403",
+      "lng": "-112.426",
+      "size": "2,356 Acres",
+      "url": "/incident/8067/",
+      "id": "8067",
+      "contained": "0"
+    },
+    {
       "name": "South Rim Too",
       "type": "Wildfire",
       "summary": "This fire location is across the South Rim trail from the SR-4...",
@@ -51,19 +90,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "91"
-    },
-    {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Map | Operations Video Southern California...",
-      "state": "ARIZONA",
-      "updated": "2022-04-21 22:17:11",
-      "lat": "34.403",
-      "lng": "-112.426",
-      "size": "2,356 Acres",
-      "url": "/incident/8067/",
-      "id": "8067",
-      "contained": "0"
     },
     {
       "name": "Horseshoe Fire",
@@ -129,32 +155,6 @@
       "url": "/incident/8065/",
       "id": "8065",
       "contained": "100"
-    },
-    {
-      "name": "Nogal Canyon Fire",
-      "type": "Wildfire",
-      "summary": "The Nogal Canyon Fire that started on April 12, 2022, has burned 6...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-20 21:47:56",
-      "lat": "33.511",
-      "lng": "-105.747",
-      "size": "412 Acres",
-      "url": "/incident/8062/",
-      "id": "8062",
-      "contained": "84"
-    },
-    {
-      "name": "McBride Fire",
-      "type": "Wildfire",
-      "summary": "The McBride Fire started on April 12, 2022 around 2:30 pm on Warrior...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-20 21:44:25",
-      "lat": "33.333",
-      "lng": "-105.635",
-      "size": "6,159 Acres",
-      "url": "/incident/8061/",
-      "id": "8061",
-      "contained": "89"
     },
     {
       "name": "GWJ National Forest Prescribed Burns",
