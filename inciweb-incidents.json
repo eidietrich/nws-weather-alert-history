@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Locklin Fire",
+      "type": "Wildfire",
+      "summary": "Fire reported near Bisbee, AZ at approximately 11 p.m. on April 25....",
+      "state": "ARIZONA",
+      "updated": "2022-04-26 18:17:45",
+      "lat": "31.453",
+      "lng": "-109.93",
+      "size": "0 Acres",
+      "url": "/incident/8083/",
+      "id": "8083",
+      "contained": "0"
+    },
+    {
       "name": "Road 702 Fire",
       "type": "Wildfire",
-      "summary": "Road 702 Fire Update for April 25, 2022 - 6 pmGreat progress was made...",
+      "summary": "Firefighters successfully increased containment to 74% on the...",
       "state": "NEBRASKA",
-      "updated": "2022-04-26 17:44:44",
+      "updated": "2022-04-26 18:14:26",
       "lat": "40.174",
       "lng": "-100.231",
       "size": "41,448 Acres",
       "url": "/incident/8081/",
       "id": "8081",
       "contained": "74"
+    },
+    {
+      "name": "Nogal Canyon Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 18:13:23",
+      "lat": "33.577",
+      "lng": "-105.68",
+      "size": "0 Acres",
+      "url": "/incident/8072/",
+      "id": "8072",
+      "contained": "0"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Most recent Video Operations BriefingMost recent Daily...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-26 18:12:13",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "5,485 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "0"
+    },
+    {
+      "name": "Crooks Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Map | Operations Update | Smoke OutlookThe...",
+      "state": "ARIZONA",
+      "updated": "2022-04-26 17:48:51",
+      "lat": "34.403",
+      "lng": "-112.426",
+      "size": "6,454 Acres",
+      "url": "/incident/8067/",
+      "id": "8067",
+      "contained": "16"
     },
     {
       "name": "Tunnel Fire",
@@ -25,32 +77,6 @@
       "url": "/incident/8068/",
       "id": "8068",
       "contained": "20"
-    },
-    {
-      "name": "Locklin Fire",
-      "type": "Wildfire",
-      "summary": "Fire reported near Bisbee, AZ at approximately 11 p.m. on April 25....",
-      "state": "ARIZONA",
-      "updated": "2022-04-26 17:25:07",
-      "lat": "31.453",
-      "lng": "-109.93",
-      "size": "0 Acres",
-      "url": "/incident/8083/",
-      "id": "8083",
-      "contained": "0"
-    },
-    {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Map | Operations Update The Crooks Fire began on...",
-      "state": "ARIZONA",
-      "updated": "2022-04-26 16:55:15",
-      "lat": "34.403",
-      "lng": "-112.426",
-      "size": "6,454 Acres",
-      "url": "/incident/8067/",
-      "id": "8067",
-      "contained": "16"
     },
     {
       "name": "Cooks Peak",
@@ -90,32 +116,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "12"
-    },
-    {
-      "name": "Nogal Canyon Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-26 16:26:10",
-      "lat": "33.577",
-      "lng": "-105.68",
-      "size": "0 Acres",
-      "url": "/incident/8072/",
-      "id": "8072",
-      "contained": "0"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Most recent Video Operations BriefingMost recent Daily...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-26 16:18:22",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "4,903 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "0"
     },
     {
       "name": "Calf Canyon",
