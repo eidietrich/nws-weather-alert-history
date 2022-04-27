@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-27 10:52:42",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "60,649 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "20"
+    },
+    {
       "name": "Allegheny NF Spring Prescribed Burns",
       "type": "Prescribed Fire",
       "summary": " The US Department of Agriculture, Forest Service plans to use...",
       "state": "PENNSYLVANIA",
-      "updated": "2022-04-27 10:41:10",
+      "updated": "2022-04-27 10:47:52",
       "lat": "41.907",
       "lng": "-79.152",
-      "size": "0 Acres",
+      "size": "800 Acres",
       "url": "/incident/8084/",
       "id": "8084",
       "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-27 10:45:38",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "60,649 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "20"
     },
     {
       "name": "Crooks Fire",
@@ -90,32 +116,6 @@
       "url": "/incident/8083/",
       "id": "8083",
       "contained": "30"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-27 09:25:40",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "60,649 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "20"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-27 09:25:22",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "60,649 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "20"
     },
     {
       "name": "Hoosier National Forest Prescribed Fire ",
