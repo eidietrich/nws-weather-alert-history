@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Locklin Fire",
+      "type": "Wildfire",
+      "summary": "Fire was mapped at 112 acres, 30% containment. No visible smoke at...",
+      "state": "ARIZONA",
+      "updated": "2022-04-28 09:26:49",
+      "lat": "31.453",
+      "lng": "-109.93",
+      "size": "112 Acres",
+      "url": "/incident/8083/",
+      "id": "8083",
+      "contained": "30"
+    },
+    {
+      "name": "Crooks Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Map | Operations Update | Smoke...",
+      "state": "ARIZONA",
+      "updated": "2022-04-28 09:25:46",
+      "lat": "34.403",
+      "lng": "-112.426",
+      "size": "9,014 Acres",
+      "url": "/incident/8067/",
+      "id": "8067",
+      "contained": "23"
+    },
+    {
+      "name": "Buckaloons Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": "The US Department of Agriculture, Forest Service plans to use...",
+      "state": "PENNSYLVANIA",
+      "updated": "2022-04-28 09:16:57",
+      "lat": "41.831",
+      "lng": "-79.264",
+      "size": "78 Acres",
+      "url": "/incident/8085/",
+      "id": "8085",
+      "contained": "0"
+    },
+    {
       "name": "Road 702 Fire",
       "type": "Wildfire",
       "summary": "Firefighters successfully increased containment to 74% on the...",
@@ -79,32 +118,6 @@
       "contained": "43"
     },
     {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Map | Operations Update | Smoke...",
-      "state": "ARIZONA",
-      "updated": "2022-04-27 21:53:23",
-      "lat": "34.403",
-      "lng": "-112.426",
-      "size": "9,014 Acres",
-      "url": "/incident/8067/",
-      "id": "8067",
-      "contained": "23"
-    },
-    {
-      "name": "Locklin Fire",
-      "type": "Wildfire",
-      "summary": "Fire was mapped at 112 acres, 30% containment. No visible smoke at...",
-      "state": "ARIZONA",
-      "updated": "2022-04-27 20:40:36",
-      "lat": "31.453",
-      "lng": "-109.93",
-      "size": "112 Acres",
-      "url": "/incident/8083/",
-      "id": "8083",
-      "contained": "30"
-    },
-    {
       "name": "McBride Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
@@ -141,19 +154,6 @@
       "size": "519 Acres",
       "url": "/incident/8087/",
       "id": "8087",
-      "contained": "0"
-    },
-    {
-      "name": "Buckaloons Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": "The US Department of Agriculture, Forest Service plans to use...",
-      "state": "PENNSYLVANIA",
-      "updated": "2022-04-27 12:19:17",
-      "lat": "41.831",
-      "lng": "-79.264",
-      "size": "78 Acres",
-      "url": "/incident/8085/",
-      "id": "8085",
       "contained": "0"
     },
     {
