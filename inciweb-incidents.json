@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Water",
+      "type": "Wildfire",
+      "summary": "The Water Fire was detected on April 28th at 2:30 in the afternoon....",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-29 18:44:23",
+      "lat": "32.933",
+      "lng": "-107.964",
+      "size": "0 Acres",
+      "url": "/incident/8089/",
+      "id": "8089",
+      "contained": "0"
+    },
+    {
+      "name": "Mitchell Fire",
+      "type": "Wildfire",
+      "summary": "The Mitchell Fire, located east of Mosquero in Harding County. The...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-29 18:42:45",
+      "lat": "35.802",
+      "lng": "-103.841",
+      "size": "25,000 Acres",
+      "url": "/incident/8077/",
+      "id": "8077",
+      "contained": "100"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-29 18:40:30",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "65,824 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "37"
+    },
+    {
       "name": "McBride Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
       "state": "NEW MEXICO",
-      "updated": "2022-04-29 18:33:06",
+      "updated": "2022-04-29 18:35:11",
       "lat": "33.4",
       "lng": "-105.568",
       "size": "0 Acres",
@@ -25,19 +64,6 @@
       "url": "/incident/8072/",
       "id": "8072",
       "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-29 18:13:11",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "65,824 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "37"
     },
     {
       "name": "Calf Canyon",
@@ -207,19 +233,6 @@
       "url": "/incident/7887/",
       "id": "7887",
       "contained": "0"
-    },
-    {
-      "name": "Mitchell Fire",
-      "type": "Wildfire",
-      "summary": "The Mitchell Fire, located east of Mosquero in Harding County. The...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-26 13:57:36",
-      "lat": "35.802",
-      "lng": "-103.841",
-      "size": "25,000 Acres",
-      "url": "/incident/8077/",
-      "id": "8077",
-      "contained": "65"
     },
     {
       "name": "San Juan NF Prescribed Fire Program",
