@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Locklin Fire",
+      "type": "Wildfire",
+      "summary": "4/29/22 evening update: Change in containment, fire now at 90%...",
+      "state": "ARIZONA",
+      "updated": "2022-04-29 22:12:10",
+      "lat": "31.453",
+      "lng": "-109.93",
+      "size": "112 Acres",
+      "url": "/incident/8083/",
+      "id": "8083",
+      "contained": "90"
+    },
+    {
+      "name": "Water Fire",
+      "type": "Wildfire",
+      "summary": "The Water Fire was detected on April 28th at 2:30 in the afternoon....",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-29 22:11:55",
+      "lat": "32.933",
+      "lng": "-107.964",
+      "size": "760 Acres",
+      "url": "/incident/8089/",
+      "id": "8089",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-04-29 21:14:38",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "65,824 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "37"
+    },
+    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": "Daily Update | Map | Operations Update | Smoke...",
@@ -12,19 +51,6 @@
       "url": "/incident/8067/",
       "id": "8067",
       "contained": "38"
-    },
-    {
-      "name": "Water Fire",
-      "type": "Wildfire",
-      "summary": "The Water Fire was detected on April 28th at 2:30 in the afternoon....",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-29 19:37:33",
-      "lat": "32.933",
-      "lng": "-107.964",
-      "size": "700 Acres",
-      "url": "/incident/8089/",
-      "id": "8089",
-      "contained": "0"
     },
     {
       "name": "Cerro Pelado",
@@ -92,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-29 18:12:17",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "65,824 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "37"
-    },
-    {
       "name": "Cooks Peak",
       "type": "Wildfire",
       "summary": "Red Flag Conditions Indicate Critical Fire Weather TodayMorning...",
@@ -155,19 +168,6 @@
       "url": "/incident/8082/",
       "id": "8082",
       "contained": "0"
-    },
-    {
-      "name": "Locklin Fire",
-      "type": "Wildfire",
-      "summary": "Change in containment, fire now at 68% containment.Change in...",
-      "state": "ARIZONA",
-      "updated": "2022-04-29 09:38:25",
-      "lat": "31.453",
-      "lng": "-109.93",
-      "size": "112 Acres",
-      "url": "/incident/8083/",
-      "id": "8083",
-      "contained": "68"
     },
     {
       "name": "Road 702 Fire",
