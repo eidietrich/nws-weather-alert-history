@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Nogal Canyon Fire",
+      "type": "Wildfire",
+      "summary": "The Nogal Canyon Fire that started on April 12, 2022, burned 6...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-02 15:11:57",
+      "lat": "33.511",
+      "lng": "-105.747",
+      "size": "412 Acres",
+      "url": "/incident/8062/",
+      "id": "8062",
+      "contained": "100"
+    },
+    {
+      "name": "Tunnel Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) team, led by Brendan...",
+      "state": "ARIZONA",
+      "updated": "2022-05-02 15:06:33",
+      "lat": "35.387",
+      "lng": "-111.533",
+      "size": "19,075 Acres",
+      "url": "/incident/8088/",
+      "id": "8088",
+      "contained": "0"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "Video from May 1 Community MeetingVideo from April 30 Community...",
@@ -12,19 +38,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "10"
-    },
-    {
-      "name": "Tunnel Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) team, led by Brendan...",
-      "state": "ARIZONA",
-      "updated": "2022-05-02 14:37:14",
-      "lat": "35.387",
-      "lng": "-111.533",
-      "size": "19,075 Acres",
-      "url": "/incident/8088/",
-      "id": "8088",
-      "contained": "0"
     },
     {
       "name": "Water Fire",
@@ -311,19 +324,6 @@
       "url": "/incident/7945/",
       "id": "7945",
       "contained": "0"
-    },
-    {
-      "name": "Nogal Canyon Fire",
-      "type": "Wildfire",
-      "summary": "The Nogal Canyon Fire that started on April 12, 2022, burned 6...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-22 10:24:17",
-      "lat": "33.511",
-      "lng": "-105.747",
-      "size": "412 Acres",
-      "url": "/incident/8062/",
-      "id": "8062",
-      "contained": "84"
     },
     {
       "name": "Southwest District BLM Prescribed Fire ",
