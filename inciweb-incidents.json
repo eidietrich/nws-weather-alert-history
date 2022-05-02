@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-01 20:45:06",
+      "lat": "33.85",
+      "lng": "-107.517",
+      "size": "100 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "0"
+    },
+    {
+      "name": "Tunnel Fire",
+      "type": "Wildfire",
+      "summary": " The Tunnel Fire, located approximately 14 miles northeast of...",
+      "state": "ARIZONA",
+      "updated": "2022-05-01 20:17:45",
+      "lat": "35.304",
+      "lng": "-111.589",
+      "size": "19,075 Acres",
+      "url": "/incident/8068/",
+      "id": "8068",
+      "contained": "95"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Video from April 30 Community MeetingVideo from April 28 Community...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-01 20:01:02",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "17,885 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "10"
+    },
+    {
+      "name": "Crooks Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update | Map | Operations Update | Smoke...",
+      "state": "ARIZONA",
+      "updated": "2022-05-01 19:23:27",
+      "lat": "34.403",
+      "lng": "-112.426",
+      "size": "9,402 Acres",
+      "url": "/incident/8067/",
+      "id": "8067",
+      "contained": "75"
+    },
+    {
       "name": "Cooks Peak",
       "type": "Wildfire",
       "summary": "Containment increasesCritical fire weather returns SundayUpdate...",
@@ -40,32 +92,6 @@
       "contained": "30"
     },
     {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "New Fire Start on the Magdalena Ranger District of the Cibola...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-01 17:42:26",
-      "lat": "33.85",
-      "lng": "-107.517",
-      "size": "100 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "0"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Video from April 30 Community MeetingVideo from April 28 Community...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-01 17:32:31",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "17,885 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "10"
-    },
-    {
       "name": "Tunnel Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team, led by Brendan...",
@@ -103,32 +129,6 @@
       "url": "/incident/8092/",
       "id": "8092",
       "contained": "30"
-    },
-    {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update | Map | Operations Update | Smoke...",
-      "state": "ARIZONA",
-      "updated": "2022-05-01 10:45:37",
-      "lat": "34.403",
-      "lng": "-112.426",
-      "size": "9,402 Acres",
-      "url": "/incident/8067/",
-      "id": "8067",
-      "contained": "38"
-    },
-    {
-      "name": "Tunnel Fire",
-      "type": "Wildfire",
-      "summary": " The Tunnel Fire, located approximately 14 miles northeast of...",
-      "state": "ARIZONA",
-      "updated": "2022-04-30 20:16:29",
-      "lat": "35.304",
-      "lng": "-111.589",
-      "size": "19,075 Acres",
-      "url": "/incident/8068/",
-      "id": "8068",
-      "contained": "92"
     },
     {
       "name": "Locklin Fire",
@@ -272,19 +272,6 @@
       "url": "/incident/6288/",
       "id": "6288",
       "contained": "0"
-    },
-    {
-      "name": "East",
-      "type": "Wildfire",
-      "summary": "Forty-five firefighters from the Gila National Forest responded to...",
-      "state": "NEW MEXICO",
-      "updated": "2022-04-25 09:58:04",
-      "lat": "32.905",
-      "lng": "-108.001",
-      "size": "183 Acres",
-      "url": "/incident/8074/",
-      "id": "8074",
-      "contained": "100"
     },
     {
       "name": "South Rim Too",
