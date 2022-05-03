@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-03 15:24:53",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "145,854 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "20"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-03 15:17:32",
+      "updated": "2022-05-03 15:20:40",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "145,854 Acres",
@@ -25,19 +38,6 @@
       "url": "/incident/8088/",
       "id": "8088",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-03 14:58:58",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "145,854 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "20"
     },
     {
       "name": "Izenbrown Corners Prescribed Burn 2022",
@@ -414,19 +414,6 @@
       "size": "0 Acres",
       "url": "/incident/8001/",
       "id": "8001",
-      "contained": "0"
-    },
-    {
-      "name": "Caldor Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "SPECIAL SAFETY NOTE: Everyone near and downstream from the burned...",
-      "state": "CALIFORNIA",
-      "updated": "2022-02-02 15:24:27",
-      "lat": "38.753",
-      "lng": "-120.333",
-      "size": "0 Acres",
-      "url": "/incident/7842/",
-      "id": "7842",
       "contained": "0"
     }
   ]
