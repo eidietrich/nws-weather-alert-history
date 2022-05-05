@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Tunnel Fire",
+      "type": "Wildfire",
+      "summary": "The Tunnel Fire is currently 95% contained and burned 19,075 acres....",
+      "state": "ARIZONA",
+      "updated": "2022-05-05 13:11:03",
+      "lat": "35.304",
+      "lng": "-111.589",
+      "size": "19,060 Acres",
+      "url": "/incident/8068/",
+      "id": "8068",
+      "contained": "95"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "KMZ files for Google EarthVideo from May 4 Virtual Community...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-05 12:41:35",
+      "updated": "2022-05-05 13:00:49",
       "lat": "35.775",
       "lng": "-106.584",
       "size": "29,368 Acres",
@@ -157,19 +170,6 @@
       "contained": "75"
     },
     {
-      "name": "Tunnel Fire",
-      "type": "Wildfire",
-      "summary": "The Tunnel Fire is currently 95% contained and burned 19,075 acres....",
-      "state": "ARIZONA",
-      "updated": "2022-05-04 12:54:02",
-      "lat": "35.304",
-      "lng": "-111.589",
-      "size": "19,075 Acres",
-      "url": "/incident/8068/",
-      "id": "8068",
-      "contained": "95"
-    },
-    {
       "name": "Izenbrown Corners Prescribed Burn 2022",
       "type": "Prescribed Fire",
       "summary": " This prescribed burn was successfully completed on",
@@ -246,19 +246,6 @@
       "url": "/incident/8083/",
       "id": "8083",
       "contained": "100"
-    },
-    {
-      "name": "Big Mountain Unit 1 Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": "This spring Monongahela National Forest officials plan to conduct a...",
-      "state": "WEST VIRGINIA",
-      "updated": "2022-04-30 16:32:16",
-      "lat": "38.658",
-      "lng": "-79.594",
-      "size": "0 Acres",
-      "url": "/incident/8082/",
-      "id": "8082",
-      "contained": "0"
     },
     {
       "name": "Road 702 Fire",
