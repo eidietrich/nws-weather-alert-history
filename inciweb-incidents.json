@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "San Rafael Fire ",
+      "type": "Wildfire",
+      "summary": "Due to high winds and dry fuels, the fire grew dramatically in size...",
+      "state": "ARIZONA",
+      "updated": "2022-05-08 18:10:47",
+      "lat": "31.353",
+      "lng": "-110.614",
+      "size": "10,000 Acres",
+      "url": "/incident/8100/",
+      "id": "8100",
+      "contained": "0"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "The National Weather Service has issued a Red Flag Warning for the...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-08 17:40:56",
+      "updated": "2022-05-08 18:01:12",
       "lat": "35.775",
       "lng": "-106.584",
       "size": "37,425 Acres",
@@ -64,19 +77,6 @@
       "url": "/incident/8099/",
       "id": "8099",
       "contained": "50"
-    },
-    {
-      "name": "San Rafael Fire ",
-      "type": "Wildfire",
-      "summary": "The San Rafael Fire started Saturday night, May 7, approximately 22...",
-      "state": "ARIZONA",
-      "updated": "2022-05-08 12:14:16",
-      "lat": "31.353",
-      "lng": "-110.614",
-      "size": "1,400 Acres",
-      "url": "/incident/8100/",
-      "id": "8100",
-      "contained": "0"
     },
     {
       "name": "Crooks Fire",
