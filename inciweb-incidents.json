@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": " The National Weather Service has issued a Red Flag Warning for the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-08 13:30:00",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "37,425 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "11"
+    },
+    {
+      "name": "Grissom Fire",
+      "type": "Wildfire",
+      "summary": " The Drissom Fire started on the afternoon of May 7th, and was...",
+      "state": "TEXAS",
+      "updated": "2022-05-08 13:27:26",
+      "lat": "31.798",
+      "lng": "-99.208",
+      "size": "1,200 Acres",
+      "url": "/incident/8099/",
+      "id": "8099",
+      "contained": "30"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
@@ -25,19 +51,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "21"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": " The National Weather Service has issued a Red Flag Warning for the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-08 12:19:03",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "37,425 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "11"
     },
     {
       "name": "San Rafael Fire ",
@@ -77,19 +90,6 @@
       "url": "/incident/8066/",
       "id": "8066",
       "contained": "97"
-    },
-    {
-      "name": "Grissom Fire",
-      "type": "Wildfire",
-      "summary": " The Drissom Fire started on the afternoon of May 7th, and was...",
-      "state": "TEXAS",
-      "updated": "2022-05-08 10:02:17",
-      "lat": "31.798",
-      "lng": "-99.208",
-      "size": "1,200 Acres",
-      "url": "/incident/8099/",
-      "id": "8099",
-      "contained": "30"
     },
     {
       "name": "Bear Trap Fire - Magdalena Ranger Distri",
