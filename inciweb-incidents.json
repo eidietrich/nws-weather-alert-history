@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "San Rafael Fire ",
+      "type": "Wildfire",
+      "summary": "The break in Red Flag conditions have allowed firefighters to...",
+      "state": "ARIZONA",
+      "updated": "2022-05-12 10:15:33",
+      "lat": "31.353",
+      "lng": "-110.614",
+      "size": "11,620 Acres",
+      "url": "/incident/8100/",
+      "id": "8100",
+      "contained": "62"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-12 10:13:16",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "259,810 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "29"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-12 09:44:33",
+      "updated": "2022-05-12 10:12:23",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "259,810 Acres",
@@ -18,26 +44,13 @@
       "type": "Wildfire",
       "summary": "Today's HighlightsA dry cold front has moved into the area. Though...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-12 09:38:56",
+      "updated": "2022-05-12 10:04:35",
       "lat": "35.775",
       "lng": "-106.584",
       "size": "43,376 Acres",
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "11"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-12 08:54:40",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "259,810 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "29"
     },
     {
       "name": "Bear Trap Fire - Magdalena Ranger Distri",
@@ -90,19 +103,6 @@
       "url": "/incident/8072/",
       "id": "8072",
       "contained": "0"
-    },
-    {
-      "name": "San Rafael Fire ",
-      "type": "Wildfire",
-      "summary": "Milder weather allows resources to increase containment on the east...",
-      "state": "ARIZONA",
-      "updated": "2022-05-11 10:43:04",
-      "lat": "31.353",
-      "lng": "-110.614",
-      "size": "11,620 Acres",
-      "url": "/incident/8100/",
-      "id": "8100",
-      "contained": "17"
     },
     {
       "name": "Grissom Fire",
