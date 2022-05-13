@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-13 11:27:36",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "270,447 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "30"
+    },
+    {
+      "name": "San Rafael Fire ",
+      "type": "Wildfire",
+      "summary": "The break in Red Flag conditions have allowed firefighters to...",
+      "state": "ARIZONA",
+      "updated": "2022-05-13 11:27:20",
+      "lat": "31.353",
+      "lng": "-110.614",
+      "size": "11,620 Acres",
+      "url": "/incident/8100/",
+      "id": "8100",
+      "contained": "88"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "Today's HighlightsThe Cerro Pelado Fire Incident Meteorologist...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-13 10:37:29",
+      "updated": "2022-05-13 11:11:54",
       "lat": "35.775",
       "lng": "-106.584",
       "size": "45,394 Acres",
@@ -24,19 +50,6 @@
       "size": "270,447 Acres",
       "url": "/incident/8049/",
       "id": "8049",
-      "contained": "30"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-13 10:17:30",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "270,447 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
       "contained": "30"
     },
     {
@@ -116,19 +129,6 @@
       "url": "/incident/8068/",
       "id": "8068",
       "contained": "95"
-    },
-    {
-      "name": "San Rafael Fire ",
-      "type": "Wildfire",
-      "summary": "The break in Red Flag conditions have allowed firefighters to...",
-      "state": "ARIZONA",
-      "updated": "2022-05-12 10:15:33",
-      "lat": "31.353",
-      "lng": "-110.614",
-      "size": "11,620 Acres",
-      "url": "/incident/8100/",
-      "id": "8100",
-      "contained": "62"
     },
     {
       "name": "McBride Post-Fire BAER",
