@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Moderate westerly and terrain driven winds are expected today, and...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-17 10:35:08",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "71"
+    },
+    {
+      "name": "Pope 2 Fire",
+      "type": "Wildfire",
+      "summary": " At approximately 6:53 pm, a wildfire started at the...",
+      "state": "TEXAS",
+      "updated": "2022-05-17 10:33:32",
+      "lat": "30.729",
+      "lng": "-100.234",
+      "size": "500 Acres",
+      "url": "/incident/8106/",
+      "id": "8106",
+      "contained": "75"
+    },
+    {
+      "name": "2022 Humboldt-Toiyabe Prescribed Fire",
+      "type": "Prescribed Fire",
+      "summary": " Planned Projects | Current Projects | Current PhotosAs part of...",
+      "state": "NEVADA",
+      "updated": "2022-05-17 10:32:34",
+      "lat": "39.524",
+      "lng": "-119.769",
+      "size": "0 Acres",
+      "url": "/incident/7310/",
+      "id": "7310",
+      "contained": "0"
+    },
+    {
       "name": "Black Fire",
       "type": "Wildfire",
       "summary": "Firefighters will face another challenging day on the Black Fire with...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-17 10:26:13",
+      "updated": "2022-05-17 10:29:39",
       "lat": "33.204",
       "lng": "-108.059",
       "size": "56,132 Acres",
@@ -14,17 +53,17 @@
       "contained": "0"
     },
     {
-      "name": "Cerro Pelado",
+      "name": "Johnson Fork Fire",
       "type": "Wildfire",
-      "summary": "  Firefighters welcomed clouds and higher relative humidity. As the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-17 10:26:12",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "71"
+      "summary": "At approximately 5:00 pm on May 11th, the Johnson Fork Fire ignited...",
+      "state": "TEXAS",
+      "updated": "2022-05-17 10:28:06",
+      "lat": "29.12",
+      "lng": "-98.841",
+      "size": "66 Acres",
+      "url": "/incident/8107/",
+      "id": "8107",
+      "contained": "40"
     },
     {
       "name": "Bear Trap Fire",
@@ -90,32 +129,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "26"
-    },
-    {
-      "name": "Johnson Fork",
-      "type": "Wildfire",
-      "summary": "At approximately 5:00 pm on May 11th, the Johnson Fork Fire ignited...",
-      "state": "TEXAS",
-      "updated": "2022-05-17 08:43:00",
-      "lat": "29.12",
-      "lng": "-98.841",
-      "size": "66 Acres",
-      "url": "/incident/8107/",
-      "id": "8107",
-      "contained": "40"
-    },
-    {
-      "name": "Johnson Fork",
-      "type": "Wildfire",
-      "summary": " At approximately 6:53 pm, a wildfire started at the...",
-      "state": "TEXAS",
-      "updated": "2022-05-16 22:15:02",
-      "lat": "30.444",
-      "lng": "-99.689",
-      "size": "40 Acres",
-      "url": "/incident/8106/",
-      "id": "8106",
-      "contained": "40"
     },
     {
       "name": "McBride Post-Fire BAER",
@@ -440,19 +453,6 @@
       "size": "0 Acres",
       "url": "/incident/7317/",
       "id": "7317",
-      "contained": "0"
-    },
-    {
-      "name": "2022 Humboldt-Toiyabe Prescribed Fire",
-      "type": "Prescribed Fire",
-      "summary": " Planned Projects | Current Projects | Current PhotosAs part of...",
-      "state": "NEVADA",
-      "updated": "2022-03-21 12:53:39",
-      "lat": "39.524",
-      "lng": "-119.769",
-      "size": "0 Acres",
-      "url": "/incident/7310/",
-      "id": "7310",
       "contained": "0"
     },
     {
