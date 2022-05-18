@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Plumtaw Fire",
+      "type": "Wildfire",
+      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
+      "state": "COLORADO",
+      "updated": "2022-05-18 18:09:33",
+      "lat": "37.366",
+      "lng": "-107.075",
+      "size": "613 Acres",
+      "url": "/incident/8113/",
+      "id": "8113",
+      "contained": "0"
+    },
+    {
+      "name": "Mesquite Heat Fire",
+      "type": "Wildfire",
+      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
+      "state": "TEXAS",
+      "updated": "2022-05-18 17:50:21",
+      "lat": "32.266",
+      "lng": "-99.964",
+      "size": "1,500 Acres",
+      "url": "/incident/8108/",
+      "id": "8108",
+      "contained": "0"
+    },
+    {
+      "name": "Bowman Fire",
+      "type": "Wildfire",
+      "summary": " At approximately 4:52 pm, a wildfire started in Dimmitt County,...",
+      "state": "TEXAS",
+      "updated": "2022-05-18 17:49:00",
+      "lat": "28.508",
+      "lng": "-99.694",
+      "size": "100 Acres",
+      "url": "/incident/8110/",
+      "id": "8110",
+      "contained": "80"
+    },
+    {
+      "name": "Sandstone Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
+      "state": "TEXAS",
+      "updated": "2022-05-18 17:48:47",
+      "lat": "30.724",
+      "lng": "-98.636",
+      "size": "350 Acres",
+      "url": "/incident/8114/",
+      "id": "8114",
+      "contained": "50"
+    },
+    {
+      "name": "Mayfield Fire",
+      "type": "Wildfire",
+      "summary": "At approximately 5 07 pm on May 12th, a wildfire started in San Saba...",
+      "state": "TEXAS",
+      "updated": "2022-05-18 17:48:42",
+      "lat": "31.039",
+      "lng": "-99.075",
+      "size": "1,058 Acres",
+      "url": "/incident/8112/",
+      "id": "8112",
+      "contained": "25"
+    },
+    {
       "name": "Coconut Fire",
       "type": "Wildfire",
       "summary": "The Coconut Fire started this afternoon roughly 10 miles South of...",
@@ -12,19 +77,6 @@
       "url": "/incident/8109/",
       "id": "8109",
       "contained": "5"
-    },
-    {
-      "name": "Plumtaw Fire",
-      "type": "Wildfire",
-      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
-      "state": "COLORADO",
-      "updated": "2022-05-18 17:16:44",
-      "lat": "37.366",
-      "lng": "-107.075",
-      "size": "613 Acres",
-      "url": "/incident/8113/",
-      "id": "8113",
-      "contained": "0"
     },
     {
       "name": "Bear Trap Fire",
@@ -51,19 +103,6 @@
       "url": "/incident/8068/",
       "id": "8068",
       "contained": "98"
-    },
-    {
-      "name": "Sandstone Mountain",
-      "type": "Wildfire",
-      "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
-      "state": "TEXAS",
-      "updated": "2022-05-18 15:05:09",
-      "lat": "30.724",
-      "lng": "-98.636",
-      "size": "350 Acres",
-      "url": "/incident/8114/",
-      "id": "8114",
-      "contained": "50"
     },
     {
       "name": "Slab Road Fire",
@@ -157,19 +196,6 @@
       "contained": "74"
     },
     {
-      "name": "Mayfield",
-      "type": "Wildfire",
-      "summary": "At approximately 5 07 pm on May 12th, a wildfire started in San Saba...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 11:14:26",
-      "lat": "31.039",
-      "lng": "-99.075",
-      "size": "1,058 Acres",
-      "url": "/incident/8112/",
-      "id": "8112",
-      "contained": "25"
-    },
-    {
       "name": "Johnson Fork Fire",
       "type": "Wildfire",
       "summary": "At approximately 5:00 pm on May 11th, the Johnson Fork Fire ignited...",
@@ -183,19 +209,6 @@
       "contained": "75"
     },
     {
-      "name": "Bowman",
-      "type": "Wildfire",
-      "summary": " At approximately 4:52 pm, a wildfire started in Dimmitt County,...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 11:01:40",
-      "lat": "28.508",
-      "lng": "-99.694",
-      "size": "100 Acres",
-      "url": "/incident/8110/",
-      "id": "8110",
-      "contained": "80"
-    },
-    {
       "name": "Pope 2 Fire",
       "type": "Wildfire",
       "summary": " At approximately 6:53 pm, a wildfire started at the...",
@@ -207,19 +220,6 @@
       "url": "/incident/8106/",
       "id": "8106",
       "contained": "50"
-    },
-    {
-      "name": "Mesquite Heat Fire",
-      "type": "Wildfire",
-      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 09:34:37",
-      "lat": "32.266",
-      "lng": "-99.964",
-      "size": "1,500 Acres",
-      "url": "/incident/8108/",
-      "id": "8108",
-      "contained": "10"
     },
     {
       "name": "2022 Humboldt-Toiyabe Prescribed Fire",
@@ -311,19 +311,6 @@
       "url": "/incident/7887/",
       "id": "7887",
       "contained": "0"
-    },
-    {
-      "name": "Grissom Fire",
-      "type": "Wildfire",
-      "summary": " The Drissom Fire started on the afternoon of May 7th, and was...",
-      "state": "TEXAS",
-      "updated": "2022-05-11 10:07:14",
-      "lat": "31.798",
-      "lng": "-99.208",
-      "size": "1,552 Acres",
-      "url": "/incident/8099/",
-      "id": "8099",
-      "contained": "100"
     },
     {
       "name": "McBride Fire",
