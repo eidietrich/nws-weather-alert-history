@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Slab Road Fire",
+      "type": "Wildfire",
+      "summary": "The Slab Fire started on May 17th, 2022. Multiple fires started near...",
+      "state": "TEXAS",
+      "updated": "2022-05-18 11:53:15",
+      "lat": "30.568",
+      "lng": "-98.484",
+      "size": "57 Acres",
+      "url": "/incident/8111/",
+      "id": "8111",
+      "contained": "75"
+    },
+    {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-18 11:50:44",
+      "lat": "33.85",
+      "lng": "-107.533",
+      "size": "17,122 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "28"
+    },
+    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": "The Crooks Fire began on April 18, 2022 about 10 miles south of the...",
@@ -118,19 +144,6 @@
       "contained": "50"
     },
     {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-18 10:50:50",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "17,122 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "28"
-    },
-    {
       "name": "High Park Fire",
       "type": "Wildfire",
       "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
@@ -142,19 +155,6 @@
       "url": "/incident/8102/",
       "id": "8102",
       "contained": "69"
-    },
-    {
-      "name": "Slab Fire",
-      "type": "Wildfire",
-      "summary": "The Slab Fire started on May 17th, 2022. Multiple fires started near...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 09:49:32",
-      "lat": "30.568",
-      "lng": "-98.484",
-      "size": "57 Acres",
-      "url": "/incident/8111/",
-      "id": "8111",
-      "contained": "75"
     },
     {
       "name": "Plumtaw Fire",
