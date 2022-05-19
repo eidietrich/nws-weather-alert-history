@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "High Park Fire",
+      "type": "Wildfire",
+      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
+      "state": "COLORADO",
+      "updated": "2022-05-19 08:56:20",
+      "lat": "38.739",
+      "lng": "-105.281",
+      "size": "1,573 Acres",
+      "url": "/incident/8102/",
+      "id": "8102",
+      "contained": "87"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-19 08:50:17",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "303,341 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "34"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-19 08:49:53",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "303,341 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "34"
+    },
+    {
       "name": "Sandstone Mountain Fire",
       "type": "Wildfire",
       "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
@@ -12,32 +51,6 @@
       "url": "/incident/8114/",
       "id": "8114",
       "contained": "50"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-19 08:03:31",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "303,341 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "34"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-19 07:44:01",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "303,341 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "34"
     },
     {
       "name": "Slab Road Fire",
@@ -103,19 +116,6 @@
       "url": "/incident/8113/",
       "id": "8113",
       "contained": "0"
-    },
-    {
-      "name": "High Park Fire",
-      "type": "Wildfire",
-      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
-      "state": "COLORADO",
-      "updated": "2022-05-18 21:25:19",
-      "lat": "38.739",
-      "lng": "-105.281",
-      "size": "1,573 Acres",
-      "url": "/incident/8102/",
-      "id": "8102",
-      "contained": "87"
     },
     {
       "name": "Mayfield Fire",
