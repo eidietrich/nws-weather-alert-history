@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-19 13:51:18",
+      "lat": "33.85",
+      "lng": "-107.533",
+      "size": "17,122 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "28"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "The Rocky Mountain Incident Management Team #3 assumed command of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-19 13:48:26",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "74"
+    },
+    {
+      "name": "Sandstone Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
+      "state": "TEXAS",
+      "updated": "2022-05-19 13:34:52",
+      "lat": "30.724",
+      "lng": "-98.636",
+      "size": "351 Acres",
+      "url": "/incident/8114/",
+      "id": "8114",
+      "contained": "75"
+    },
+    {
       "name": "Plumtaw Fire",
       "type": "Wildfire",
       "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
@@ -12,32 +51,6 @@
       "url": "/incident/8113/",
       "id": "8113",
       "contained": "0"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Hwy 4 is open to local traffic only. Please drive carefully through...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-19 12:54:23",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "74"
-    },
-    {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-19 12:52:27",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "17,122 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "28"
     },
     {
       "name": "Black Fire",
@@ -103,19 +116,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "34"
-    },
-    {
-      "name": "Sandstone Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
-      "state": "TEXAS",
-      "updated": "2022-05-19 09:41:29",
-      "lat": "30.724",
-      "lng": "-98.636",
-      "size": "351 Acres",
-      "url": "/incident/8114/",
-      "id": "8114",
-      "contained": "60"
     },
     {
       "name": "Slab Road Fire",
