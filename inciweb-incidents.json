@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Bowman Fire",
+      "type": "Wildfire",
+      "summary": " At approximately 4:52 pm, a wildfire started in Dimmitt County,...",
+      "state": "TEXAS",
+      "updated": "2022-05-18 20:54:12",
+      "lat": "28.508",
+      "lng": "-99.694",
+      "size": "57 Acres",
+      "url": "/incident/8110/",
+      "id": "8110",
+      "contained": "100"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "Type 2 Incident Management Team Takes Command of Black Fire Daily...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-18 20:54:07",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "77,529 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "0"
+    },
+    {
+      "name": "Pope 2 Fire",
+      "type": "Wildfire",
+      "summary": " At approximately 6:53 pm, a wildfire started at the...",
+      "state": "TEXAS",
+      "updated": "2022-05-18 20:53:45",
+      "lat": "30.729",
+      "lng": "-100.234",
+      "size": "2,530 Acres",
+      "url": "/incident/8106/",
+      "id": "8106",
+      "contained": "50"
+    },
+    {
+      "name": "Johnson Fork Fire",
+      "type": "Wildfire",
+      "summary": "At approximately 5:00 pm on May 11th, the Johnson Fork Fire ignited...",
+      "state": "TEXAS",
+      "updated": "2022-05-18 20:50:30",
+      "lat": "29.12",
+      "lng": "-98.841",
+      "size": "66 Acres",
+      "url": "/incident/8107/",
+      "id": "8107",
+      "contained": "80"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "We’d like to welcome a new incident management team to the fire....",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-18 20:04:55",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "74"
+    },
+    {
+      "name": "Dry Branch Fire",
+      "type": "Wildfire",
+      "summary": "The Dry Branch Fire started on May 18 at approximately 3:30pm. Local...",
+      "state": "TEXAS",
+      "updated": "2022-05-18 19:45:20",
+      "lat": "31.509",
+      "lng": "-98.283",
+      "size": "4,000 Acres",
+      "url": "/incident/8115/",
+      "id": "8115",
+      "contained": "5"
+    },
+    {
+      "name": "High Park Fire",
+      "type": "Wildfire",
+      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
+      "state": "COLORADO",
+      "updated": "2022-05-18 19:35:12",
+      "lat": "38.739",
+      "lng": "-105.281",
+      "size": "1,573 Acres",
+      "url": "/incident/8102/",
+      "id": "8102",
+      "contained": "69"
+    },
+    {
+      "name": "Mesquite Heat Fire",
+      "type": "Wildfire",
+      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
+      "state": "TEXAS",
+      "updated": "2022-05-18 19:05:27",
+      "lat": "32.266",
+      "lng": "-99.964",
+      "size": "1,500 Acres",
+      "url": "/incident/8108/",
+      "id": "8108",
+      "contained": "0"
+    },
+    {
       "name": "Bear Trap Fire",
       "type": "Wildfire",
       "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
@@ -53,19 +157,6 @@
       "contained": "5"
     },
     {
-      "name": "High Park Fire",
-      "type": "Wildfire",
-      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
-      "state": "COLORADO",
-      "updated": "2022-05-18 18:25:14",
-      "lat": "38.739",
-      "lng": "-105.281",
-      "size": "1,573 Acres",
-      "url": "/incident/8102/",
-      "id": "8102",
-      "contained": "69"
-    },
-    {
       "name": "Plumtaw Fire",
       "type": "Wildfire",
       "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
@@ -77,32 +168,6 @@
       "url": "/incident/8113/",
       "id": "8113",
       "contained": "0"
-    },
-    {
-      "name": "Mesquite Heat Fire",
-      "type": "Wildfire",
-      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 17:50:21",
-      "lat": "32.266",
-      "lng": "-99.964",
-      "size": "1,500 Acres",
-      "url": "/incident/8108/",
-      "id": "8108",
-      "contained": "0"
-    },
-    {
-      "name": "Bowman Fire",
-      "type": "Wildfire",
-      "summary": " At approximately 4:52 pm, a wildfire started in Dimmitt County,...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 17:49:00",
-      "lat": "28.508",
-      "lng": "-99.694",
-      "size": "100 Acres",
-      "url": "/incident/8110/",
-      "id": "8110",
-      "contained": "80"
     },
     {
       "name": "Sandstone Mountain Fire",
@@ -157,19 +222,6 @@
       "contained": "90"
     },
     {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Type 2 Incident Management Team Takes Command of Black Fire Daily...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-18 14:56:32",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "77,529 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "0"
-    },
-    {
       "name": "Crooks Fire",
       "type": "Wildfire",
       "summary": "The Crooks Fire began on April 18, 2022 about 10 miles south of the...",
@@ -181,45 +233,6 @@
       "url": "/incident/8067/",
       "id": "8067",
       "contained": "96"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "We’d like to welcome a new incident management team to the fire....",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-18 11:18:53",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "74"
-    },
-    {
-      "name": "Johnson Fork Fire",
-      "type": "Wildfire",
-      "summary": "At approximately 5:00 pm on May 11th, the Johnson Fork Fire ignited...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 11:06:57",
-      "lat": "29.12",
-      "lng": "-98.841",
-      "size": "66 Acres",
-      "url": "/incident/8107/",
-      "id": "8107",
-      "contained": "75"
-    },
-    {
-      "name": "Pope 2 Fire",
-      "type": "Wildfire",
-      "summary": " At approximately 6:53 pm, a wildfire started at the...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 10:56:02",
-      "lat": "30.729",
-      "lng": "-100.234",
-      "size": "2,000 Acres",
-      "url": "/incident/8106/",
-      "id": "8106",
-      "contained": "50"
     },
     {
       "name": "2022 Humboldt-Toiyabe Prescribed Fire",
