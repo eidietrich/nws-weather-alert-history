@@ -1,30 +1,69 @@
 {
   "markers": [
     {
-      "name": "Mesquite Heat Fire",
+      "name": "Plumtaw Fire",
       "type": "Wildfire",
-      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
+      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
+      "state": "COLORADO",
+      "updated": "2022-05-19 16:02:07",
+      "lat": "37.366",
+      "lng": "-107.075",
+      "size": "735 Acres",
+      "url": "/incident/8113/",
+      "id": "8113",
+      "contained": "0"
+    },
+    {
+      "name": "Coconut Fire",
+      "type": "Wildfire",
+      "summary": "The Coconut Fire started 18 miles south of Vernon, on May 17 at...",
       "state": "TEXAS",
-      "updated": "2022-05-19 15:46:44",
-      "lat": "32.266",
-      "lng": "-99.964",
-      "size": "9,613 Acres",
-      "url": "/incident/8108/",
-      "id": "8108",
-      "contained": "5"
+      "updated": "2022-05-19 15:53:53",
+      "lat": "33.862",
+      "lng": "-99.34",
+      "size": "26,000 Acres",
+      "url": "/incident/8109/",
+      "id": "8109",
+      "contained": "45"
     },
     {
       "name": "Twin Starts",
       "type": "Wildfire",
       "summary": "The Texas A&amp;M Forest Service received a new request in Llano County...",
       "state": "TEXAS",
-      "updated": "2022-05-19 15:38:19",
+      "updated": "2022-05-19 15:51:27",
       "lat": "30.649",
       "lng": "-98.544",
       "size": "100 Acres",
       "url": "/incident/8116/",
       "id": "8116",
       "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-19 15:50:37",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "303,341 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "34"
+    },
+    {
+      "name": "Mesquite Heat Fire",
+      "type": "Wildfire",
+      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
+      "state": "TEXAS",
+      "updated": "2022-05-19 15:47:20",
+      "lat": "32.266",
+      "lng": "-99.964",
+      "size": "9,613 Acres",
+      "url": "/incident/8108/",
+      "id": "8108",
+      "contained": "5"
     },
     {
       "name": "Slab Road Fire",
@@ -53,19 +92,6 @@
       "contained": "74"
     },
     {
-      "name": "Coconut Fire",
-      "type": "Wildfire",
-      "summary": "The Coconut Fire started 18 miles south of Vernon, on May 17 at...",
-      "state": "TEXAS",
-      "updated": "2022-05-19 14:43:23",
-      "lat": "33.862",
-      "lng": "-99.34",
-      "size": "25,000 Acres",
-      "url": "/incident/8109/",
-      "id": "8109",
-      "contained": "35"
-    },
-    {
       "name": "Bear Trap Fire",
       "type": "Wildfire",
       "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
@@ -92,19 +118,6 @@
       "contained": "75"
     },
     {
-      "name": "Plumtaw Fire",
-      "type": "Wildfire",
-      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
-      "state": "COLORADO",
-      "updated": "2022-05-19 13:30:02",
-      "lat": "37.366",
-      "lng": "-107.075",
-      "size": "735 Acres",
-      "url": "/incident/8113/",
-      "id": "8113",
-      "contained": "0"
-    },
-    {
       "name": "Black Fire",
       "type": "Wildfire",
       "summary": "Active Fire Behavior Continues Across the Black Fire with Red Flag...",
@@ -129,19 +142,6 @@
       "url": "/incident/8102/",
       "id": "8102",
       "contained": "87"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-19 10:28:51",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "303,341 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "34"
     },
     {
       "name": "Hermits Peak Fire",
