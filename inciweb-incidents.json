@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Hwy 4 is open to local traffic only. Please drive carefully through...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-19 12:18:56",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "74"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "Active Fire Behavior Continues Across the Black Fire with Red Flag...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-19 12:04:02",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "77,529 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "0"
+    },
+    {
       "name": "Bear Trap Fire",
       "type": "Wildfire",
       "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-19 11:04:25",
+      "updated": "2022-05-19 11:35:42",
       "lat": "33.85",
       "lng": "-107.533",
       "size": "17,122 Acres",
       "url": "/incident/8093/",
       "id": "8093",
       "contained": "28"
+    },
+    {
+      "name": "High Park Fire",
+      "type": "Wildfire",
+      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
+      "state": "COLORADO",
+      "updated": "2022-05-19 11:26:50",
+      "lat": "38.739",
+      "lng": "-105.281",
+      "size": "1,573 Acres",
+      "url": "/incident/8102/",
+      "id": "8102",
+      "contained": "87"
     },
     {
       "name": "Mesquite Heat Fire",
@@ -25,32 +64,6 @@
       "url": "/incident/8108/",
       "id": "8108",
       "contained": "5"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "We’d like to welcome a new incident management team to the fire....",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-19 10:50:52",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "74"
-    },
-    {
-      "name": "High Park Fire",
-      "type": "Wildfire",
-      "summary": " The High Park Fire was reported at 4:16 p.m. May 12, 2022 and is...",
-      "state": "COLORADO",
-      "updated": "2022-05-19 10:32:51",
-      "lat": "38.739",
-      "lng": "-105.281",
-      "size": "1,573 Acres",
-      "url": "/incident/8102/",
-      "id": "8102",
-      "contained": "87"
     },
     {
       "name": "Calf Canyon",
@@ -116,19 +129,6 @@
       "url": "/incident/8109/",
       "id": "8109",
       "contained": "5"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Type 2 Incident Management Team Takes Command of Black Fire Daily...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-18 22:40:52",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "77,529 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "0"
     },
     {
       "name": "Plumtaw Fire",
