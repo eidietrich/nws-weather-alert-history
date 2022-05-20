@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-19 18:07:14",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "303,341 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "34"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-19 18:05:13",
+      "updated": "2022-05-19 20:24:07",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "303,341 Acres",
@@ -27,17 +14,82 @@
       "contained": "34"
     },
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-19 20:23:05",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "303,341 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "34"
+    },
+    {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-19 20:13:47",
+      "lat": "33.85",
+      "lng": "-107.533",
+      "size": "19,148 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "28"
+    },
+    {
       "name": "Twin Starts",
       "type": "Wildfire",
       "summary": "The Texas A&amp;M Forest Service received a new request in Llano County...",
       "state": "TEXAS",
-      "updated": "2022-05-19 17:47:56",
+      "updated": "2022-05-19 19:56:35",
       "lat": "30.649",
       "lng": "-98.544",
       "size": "250 Acres",
       "url": "/incident/8116/",
       "id": "8116",
       "contained": "40"
+    },
+    {
+      "name": "Dry Branch Fire",
+      "type": "Wildfire",
+      "summary": "The Dry Branch Fire started on May 18 at approximately 3:30pm. Local...",
+      "state": "TEXAS",
+      "updated": "2022-05-19 18:56:58",
+      "lat": "31.509",
+      "lng": "-98.283",
+      "size": "4,000 Acres",
+      "url": "/incident/8115/",
+      "id": "8115",
+      "contained": "70"
+    },
+    {
+      "name": "Pope 2 Fire",
+      "type": "Wildfire",
+      "summary": " At approximately 6:53 pm, a wildfire started at the...",
+      "state": "TEXAS",
+      "updated": "2022-05-19 18:52:57",
+      "lat": "30.729",
+      "lng": "-100.234",
+      "size": "2,530 Acres",
+      "url": "/incident/8106/",
+      "id": "8106",
+      "contained": "75"
+    },
+    {
+      "name": "Mayfield Fire",
+      "type": "Wildfire",
+      "summary": "At approximately 5 07 pm on May 12th, a wildfire started in San Saba...",
+      "state": "TEXAS",
+      "updated": "2022-05-19 18:50:18",
+      "lat": "31.039",
+      "lng": "-99.075",
+      "size": "1,250 Acres",
+      "url": "/incident/8112/",
+      "id": "8112",
+      "contained": "60"
     },
     {
       "name": "Plumtaw Fire",
@@ -105,19 +157,6 @@
       "contained": "74"
     },
     {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-19 13:51:18",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "17,122 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "28"
-    },
-    {
       "name": "Sandstone Mountain Fire",
       "type": "Wildfire",
       "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
@@ -157,19 +196,6 @@
       "contained": "87"
     },
     {
-      "name": "Mayfield Fire",
-      "type": "Wildfire",
-      "summary": "At approximately 5 07 pm on May 12th, a wildfire started in San Saba...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 20:56:29",
-      "lat": "31.039",
-      "lng": "-99.075",
-      "size": "1,250 Acres",
-      "url": "/incident/8112/",
-      "id": "8112",
-      "contained": "60"
-    },
-    {
       "name": "Bowman Fire",
       "type": "Wildfire",
       "summary": " At approximately 4:52 pm, a wildfire started in Dimmitt County,...",
@@ -183,19 +209,6 @@
       "contained": "100"
     },
     {
-      "name": "Pope 2 Fire",
-      "type": "Wildfire",
-      "summary": " At approximately 6:53 pm, a wildfire started at the...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 20:53:45",
-      "lat": "30.729",
-      "lng": "-100.234",
-      "size": "2,530 Acres",
-      "url": "/incident/8106/",
-      "id": "8106",
-      "contained": "50"
-    },
-    {
       "name": "Johnson Fork Fire",
       "type": "Wildfire",
       "summary": "At approximately 5:00 pm on May 11th, the Johnson Fork Fire ignited...",
@@ -207,19 +220,6 @@
       "url": "/incident/8107/",
       "id": "8107",
       "contained": "80"
-    },
-    {
-      "name": "Dry Branch Fire",
-      "type": "Wildfire",
-      "summary": "The Dry Branch Fire started on May 18 at approximately 3:30pm. Local...",
-      "state": "TEXAS",
-      "updated": "2022-05-18 19:45:20",
-      "lat": "31.509",
-      "lng": "-98.283",
-      "size": "4,000 Acres",
-      "url": "/incident/8115/",
-      "id": "8115",
-      "contained": "5"
     },
     {
       "name": "Tunnel Fire",
