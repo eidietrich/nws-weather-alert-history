@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Pope 2 Fire",
+      "type": "Wildfire",
+      "summary": " At approximately 6:53 pm, a wildfire started at the...",
+      "state": "TEXAS",
+      "updated": "2022-05-20 11:27:06",
+      "lat": "30.729",
+      "lng": "-100.234",
+      "size": "2,530 Acres",
+      "url": "/incident/8106/",
+      "id": "8106",
+      "contained": "75"
+    },
+    {
+      "name": "Sandstone Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
+      "state": "TEXAS",
+      "updated": "2022-05-20 11:22:10",
+      "lat": "30.724",
+      "lng": "-98.636",
+      "size": "351 Acres",
+      "url": "/incident/8114/",
+      "id": "8114",
+      "contained": "95"
+    },
+    {
+      "name": "Slab Road Fire",
+      "type": "Wildfire",
+      "summary": "The Slab Fire started on May 17th, 2022. Multiple fires started near...",
+      "state": "TEXAS",
+      "updated": "2022-05-20 11:21:45",
+      "lat": "30.694",
+      "lng": "-98.563",
+      "size": "57 Acres",
+      "url": "/incident/8111/",
+      "id": "8111",
+      "contained": "90"
+    },
+    {
+      "name": "Twin Starts",
+      "type": "Wildfire",
+      "summary": "The Texas A&amp;M Forest Service received a new request in Llano County...",
+      "state": "TEXAS",
+      "updated": "2022-05-20 11:21:24",
+      "lat": "30.649",
+      "lng": "-98.544",
+      "size": "420 Acres",
+      "url": "/incident/8116/",
+      "id": "8116",
+      "contained": "75"
+    },
+    {
+      "name": "Simms",
+      "type": "Wildfire",
+      "summary": "The Simms Fire was reported at 4:25 p.m. on May 19, 2022. Fire...",
+      "state": "COLORADO",
+      "updated": "2022-05-20 11:19:28",
+      "lat": "38.286",
+      "lng": "-107.938",
+      "size": "0 Acres",
+      "url": "/incident/8117/",
+      "id": "8117",
+      "contained": "0"
+    },
+    {
       "name": "Black Fire",
       "type": "Wildfire",
       "summary": "Active Fire Behavior Continues Across the Black Fire with Red Flag...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-20 10:51:07",
+      "updated": "2022-05-20 11:18:57",
       "lat": "33.204",
       "lng": "-108.059",
       "size": "93,014 Acres",
@@ -14,11 +79,24 @@
       "contained": "0"
     },
     {
+      "name": "Plumtaw Fire",
+      "type": "Wildfire",
+      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
+      "state": "COLORADO",
+      "updated": "2022-05-20 11:17:42",
+      "lat": "37.366",
+      "lng": "-107.075",
+      "size": "727 Acres",
+      "url": "/incident/8113/",
+      "id": "8113",
+      "contained": "0"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-20 10:39:21",
+      "updated": "2022-05-20 11:02:36",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "303,341 Acres",
@@ -38,32 +116,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "75"
-    },
-    {
-      "name": "Sandstone Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
-      "state": "TEXAS",
-      "updated": "2022-05-20 09:59:22",
-      "lat": "30.724",
-      "lng": "-98.636",
-      "size": "351 Acres",
-      "url": "/incident/8114/",
-      "id": "8114",
-      "contained": "95"
-    },
-    {
-      "name": "Slab Road Fire",
-      "type": "Wildfire",
-      "summary": "The Slab Fire started on May 17th, 2022. Multiple fires started near...",
-      "state": "TEXAS",
-      "updated": "2022-05-20 09:51:32",
-      "lat": "30.694",
-      "lng": "-98.563",
-      "size": "57 Acres",
-      "url": "/incident/8111/",
-      "id": "8111",
-      "contained": "90"
     },
     {
       "name": "Bear Trap Fire",
@@ -90,19 +142,6 @@
       "url": "/incident/8102/",
       "id": "8102",
       "contained": "89"
-    },
-    {
-      "name": "Simms",
-      "type": "Wildfire",
-      "summary": "The Simms Fire was reported at 4:25 p.m. on May 19, 2022. Fire...",
-      "state": "COLORADO",
-      "updated": "2022-05-20 08:04:09",
-      "lat": "38.286",
-      "lng": "-107.938",
-      "size": "0 Acres",
-      "url": "/incident/8117/",
-      "id": "8117",
-      "contained": "0"
     },
     {
       "name": "Coconut Fire",
@@ -144,32 +183,6 @@
       "contained": "25"
     },
     {
-      "name": "Twin Starts",
-      "type": "Wildfire",
-      "summary": "The Texas A&amp;M Forest Service received a new request in Llano County...",
-      "state": "TEXAS",
-      "updated": "2022-05-19 21:22:39",
-      "lat": "30.649",
-      "lng": "-98.544",
-      "size": "420 Acres",
-      "url": "/incident/8116/",
-      "id": "8116",
-      "contained": "75"
-    },
-    {
-      "name": "Pope 2 Fire",
-      "type": "Wildfire",
-      "summary": " At approximately 6:53 pm, a wildfire started at the...",
-      "state": "TEXAS",
-      "updated": "2022-05-19 20:46:45",
-      "lat": "30.729",
-      "lng": "-100.234",
-      "size": "2,530 Acres",
-      "url": "/incident/8106/",
-      "id": "8106",
-      "contained": "75"
-    },
-    {
       "name": "Dry Branch Fire",
       "type": "Wildfire",
       "summary": "The Dry Branch Fire started on May 18 at approximately 3:30pm. Local...",
@@ -194,19 +207,6 @@
       "url": "/incident/8112/",
       "id": "8112",
       "contained": "60"
-    },
-    {
-      "name": "Plumtaw Fire",
-      "type": "Wildfire",
-      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
-      "state": "COLORADO",
-      "updated": "2022-05-19 16:02:07",
-      "lat": "37.366",
-      "lng": "-107.075",
-      "size": "735 Acres",
-      "url": "/incident/8113/",
-      "id": "8113",
-      "contained": "0"
     },
     {
       "name": "Bowman Fire",
