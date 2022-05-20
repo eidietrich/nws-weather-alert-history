@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Twin Starts Fire",
+      "type": "Wildfire",
+      "summary": "The Texas A&amp;M Forest Service received a new request in Llano County...",
+      "state": "TEXAS",
+      "updated": "2022-05-20 18:46:22",
+      "lat": "30.649",
+      "lng": "-98.544",
+      "size": "453 Acres",
+      "url": "/incident/8116/",
+      "id": "8116",
+      "contained": "90"
+    },
+    {
+      "name": "Sandstone Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
+      "state": "TEXAS",
+      "updated": "2022-05-20 18:45:43",
+      "lat": "30.724",
+      "lng": "-98.636",
+      "size": "351 Acres",
+      "url": "/incident/8114/",
+      "id": "8114",
+      "contained": "100"
+    },
+    {
+      "name": "Slab Road Fire",
+      "type": "Wildfire",
+      "summary": "The Slab Fire started on May 17th, 2022. Multiple fires started near...",
+      "state": "TEXAS",
+      "updated": "2022-05-20 18:45:33",
+      "lat": "30.694",
+      "lng": "-98.563",
+      "size": "57 Acres",
+      "url": "/incident/8111/",
+      "id": "8111",
+      "contained": "100"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-20 18:45:21",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "303,341 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "40"
+    },
+    {
+      "name": "Plumtaw Fire",
+      "type": "Wildfire",
+      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
+      "state": "COLORADO",
+      "updated": "2022-05-20 18:44:27",
+      "lat": "37.366",
+      "lng": "-107.075",
+      "size": "727 Acres",
+      "url": "/incident/8113/",
+      "id": "8113",
+      "contained": "0"
+    },
+    {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-20 18:44:11",
+      "lat": "33.85",
+      "lng": "-107.533",
+      "size": "21,687 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "28"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " The Las Dispensas prescribed fire on the Pecos/Las Vegas Ranger...",
@@ -12,19 +90,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "40"
-    },
-    {
-      "name": "Plumtaw Fire",
-      "type": "Wildfire",
-      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
-      "state": "COLORADO",
-      "updated": "2022-05-20 18:02:05",
-      "lat": "37.366",
-      "lng": "-107.075",
-      "size": "727 Acres",
-      "url": "/incident/8113/",
-      "id": "8113",
-      "contained": "0"
     },
     {
       "name": "Cerro Pelado",
@@ -66,19 +131,6 @@
       "contained": "0"
     },
     {
-      "name": "Twin Starts Fire",
-      "type": "Wildfire",
-      "summary": "The Texas A&amp;M Forest Service received a new request in Llano County...",
-      "state": "TEXAS",
-      "updated": "2022-05-20 14:48:30",
-      "lat": "30.649",
-      "lng": "-98.544",
-      "size": "420 Acres",
-      "url": "/incident/8116/",
-      "id": "8116",
-      "contained": "85"
-    },
-    {
       "name": "Johnson Fork Fire",
       "type": "Wildfire",
       "summary": "At approximately 5:00 pm on May 11th, the Johnson Fork Fire ignited...",
@@ -118,32 +170,6 @@
       "contained": "85"
     },
     {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-20 12:44:13",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "21,687 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "28"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-20 12:00:11",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "303,341 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "40"
-    },
-    {
       "name": "Bowman Fire",
       "type": "Wildfire",
       "summary": " At approximately 4:52 pm, a wildfire started in Dimmitt County,...",
@@ -181,32 +207,6 @@
       "url": "/incident/8115/",
       "id": "8115",
       "contained": "85"
-    },
-    {
-      "name": "Sandstone Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Sandstone Mountain Fire began on the afternoon of May 17th....",
-      "state": "TEXAS",
-      "updated": "2022-05-20 11:22:10",
-      "lat": "30.724",
-      "lng": "-98.636",
-      "size": "351 Acres",
-      "url": "/incident/8114/",
-      "id": "8114",
-      "contained": "95"
-    },
-    {
-      "name": "Slab Road Fire",
-      "type": "Wildfire",
-      "summary": "The Slab Fire started on May 17th, 2022. Multiple fires started near...",
-      "state": "TEXAS",
-      "updated": "2022-05-20 11:21:45",
-      "lat": "30.694",
-      "lng": "-98.563",
-      "size": "57 Acres",
-      "url": "/incident/8111/",
-      "id": "8111",
-      "contained": "90"
     },
     {
       "name": "High Park Fire",
