@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Plumtaw Fire",
-      "type": "Wildfire",
-      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
-      "state": "COLORADO",
-      "updated": "2022-05-22 09:43:25",
-      "lat": "37.366",
-      "lng": "-107.075",
-      "size": "721 Acres",
-      "url": "/incident/8113/",
-      "id": "8113",
-      "contained": "12"
-    },
-    {
       "name": "Simms",
       "type": "Wildfire",
       "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
       "state": "COLORADO",
-      "updated": "2022-05-22 09:41:12",
+      "updated": "2022-05-22 10:17:43",
       "lat": "38.286",
       "lng": "-107.938",
       "size": "373 Acres",
@@ -27,11 +14,24 @@
       "contained": "75"
     },
     {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-22 10:04:27",
+      "lat": "33.85",
+      "lng": "-107.533",
+      "size": "23,043 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "28"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
-      "summary": "The Calf Canyon Fire is located on the Santa Fe National Forest in...",
+      "summary": "The Calf Canyon Fire was reported on April 19 in the Upper Gallinas...",
       "state": "NEW MEXICO",
-      "updated": "2022-05-22 09:32:55",
+      "updated": "2022-05-22 10:00:43",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "310,016 Acres",
@@ -40,11 +40,37 @@
       "contained": "40"
     },
     {
+      "name": "Plumtaw Fire",
+      "type": "Wildfire",
+      "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
+      "state": "COLORADO",
+      "updated": "2022-05-22 09:56:50",
+      "lat": "37.366",
+      "lng": "-107.075",
+      "size": "721 Acres",
+      "url": "/incident/8113/",
+      "id": "8113",
+      "contained": "12"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-22 09:50:27",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "75"
+    },
+    {
       "name": "Coconut Fire",
       "type": "Wildfire",
       "summary": "The Coconut Fire started 18 miles south of Vernon, on May 17 at...",
       "state": "TEXAS",
-      "updated": "2022-05-22 09:28:37",
+      "updated": "2022-05-22 09:48:50",
       "lat": "33.862",
       "lng": "-99.34",
       "size": "28,449 Acres",
@@ -77,19 +103,6 @@
       "url": "/incident/8108/",
       "id": "8108",
       "contained": "25"
-    },
-    {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-22 08:26:00",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "23,043 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "28"
     },
     {
       "name": "Mayfield Fire",
@@ -181,19 +194,6 @@
       "url": "/incident/8116/",
       "id": "8116",
       "contained": "100"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-21 16:44:25",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "75"
     },
     {
       "name": "High Park Fire",
