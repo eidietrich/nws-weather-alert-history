@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Mayfield Fire",
+      "type": "Wildfire",
+      "summary": "At approximately 5 07 pm on May 12th, a wildfire started in San Saba...",
+      "state": "TEXAS",
+      "updated": "2022-05-21 21:50:51",
+      "lat": "31.039",
+      "lng": "-99.075",
+      "size": "1,250 Acres",
+      "url": "/incident/8112/",
+      "id": "8112",
+      "contained": "100"
+    },
+    {
+      "name": "Dry Branch Fire",
+      "type": "Wildfire",
+      "summary": "The Dry Branch Fire started on May 18 at approximately 3:30pm. Local...",
+      "state": "TEXAS",
+      "updated": "2022-05-21 21:43:47",
+      "lat": "31.509",
+      "lng": "-98.283",
+      "size": "1,047 Acres",
+      "url": "/incident/8115/",
+      "id": "8115",
+      "contained": "100"
+    },
+    {
+      "name": "Pope 2 Fire",
+      "type": "Wildfire",
+      "summary": " At approximately 6:53 pm, a wildfire started at the...",
+      "state": "TEXAS",
+      "updated": "2022-05-21 21:42:17",
+      "lat": "30.729",
+      "lng": "-100.234",
+      "size": "2,530 Acres",
+      "url": "/incident/8106/",
+      "id": "8106",
+      "contained": "100"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "Evacuations on the Black Fire ExpandAfternoon Update 5/21/2022 3:00...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-21 21:15:24",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "121,530 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "6"
+    },
+    {
       "name": "Mesquite Heat Fire",
       "type": "Wildfire",
       "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
@@ -105,19 +157,6 @@
       "contained": "0"
     },
     {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Evacuations on the Black Fire ExpandAfternoon Update 5/21/2022 3:00...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-21 16:50:24",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "120,785 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "4"
-    },
-    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
@@ -209,32 +248,6 @@
       "contained": "100"
     },
     {
-      "name": "Pope 2 Fire",
-      "type": "Wildfire",
-      "summary": " At approximately 6:53 pm, a wildfire started at the...",
-      "state": "TEXAS",
-      "updated": "2022-05-20 14:19:49",
-      "lat": "30.729",
-      "lng": "-100.234",
-      "size": "2,530 Acres",
-      "url": "/incident/8106/",
-      "id": "8106",
-      "contained": "90"
-    },
-    {
-      "name": "Mayfield Fire",
-      "type": "Wildfire",
-      "summary": "At approximately 5 07 pm on May 12th, a wildfire started in San Saba...",
-      "state": "TEXAS",
-      "updated": "2022-05-20 14:10:05",
-      "lat": "31.039",
-      "lng": "-99.075",
-      "size": "1,250 Acres",
-      "url": "/incident/8112/",
-      "id": "8112",
-      "contained": "85"
-    },
-    {
       "name": "Bowman Fire",
       "type": "Wildfire",
       "summary": " At approximately 4:52 pm, a wildfire started in Dimmitt County,...",
@@ -246,19 +259,6 @@
       "url": "/incident/8110/",
       "id": "8110",
       "contained": "100"
-    },
-    {
-      "name": "Dry Branch Fire",
-      "type": "Wildfire",
-      "summary": "The Dry Branch Fire started on May 18 at approximately 3:30pm. Local...",
-      "state": "TEXAS",
-      "updated": "2022-05-20 11:38:54",
-      "lat": "31.509",
-      "lng": "-98.283",
-      "size": "1,047 Acres",
-      "url": "/incident/8115/",
-      "id": "8115",
-      "contained": "85"
     },
     {
       "name": "Tunnel Fire",
