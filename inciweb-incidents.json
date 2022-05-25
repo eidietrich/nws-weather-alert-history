@@ -1,16 +1,42 @@
 {
   "markers": [
     {
+      "name": "Mesquite Heat Fire",
+      "type": "Wildfire",
+      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
+      "state": "TEXAS",
+      "updated": "2022-05-25 11:25:22",
+      "lat": "32.266",
+      "lng": "-99.964",
+      "size": "10,960 Acres",
+      "url": "/incident/8108/",
+      "id": "8108",
+      "contained": "63"
+    },
+    {
       "name": "Perins Peak Fire",
       "type": "Wildfire",
       "summary": "The Perins Peak Fire is burning west of Durango, Colorado on Bureau...",
       "state": "COLORADO",
-      "updated": "2022-05-25 10:48:57",
+      "updated": "2022-05-25 11:13:27",
       "lat": "37.299",
       "lng": "-107.905",
       "size": "105 Acres",
       "url": "/incident/8120/",
       "id": "8120",
+      "contained": "0"
+    },
+    {
+      "name": "Animas City Mountain Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
+      "state": "COLORADO",
+      "updated": "2022-05-25 10:55:40",
+      "lat": "37.323",
+      "lng": "-107.872",
+      "size": "0 Acres",
+      "url": "/incident/7688/",
+      "id": "7688",
       "contained": "0"
     },
     {
@@ -129,19 +155,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "92"
-    },
-    {
-      "name": "Mesquite Heat Fire",
-      "type": "Wildfire",
-      "summary": "The Mesquite Heat Fire started along HWY 277 about 20 miles southwest...",
-      "state": "TEXAS",
-      "updated": "2022-05-24 19:04:21",
-      "lat": "32.266",
-      "lng": "-99.964",
-      "size": "10,960 Acres",
-      "url": "/incident/8108/",
-      "id": "8108",
-      "contained": "63"
     },
     {
       "name": "Nogal Canyon Post-Fire BAER",
@@ -505,19 +518,6 @@
       "size": "30 Acres",
       "url": "/incident/8070/",
       "id": "8070",
-      "contained": "0"
-    },
-    {
-      "name": "Animas City Mountain Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
-      "state": "COLORADO",
-      "updated": "2022-04-21 17:00:45",
-      "lat": "37.323",
-      "lng": "-107.872",
-      "size": "0 Acres",
-      "url": "/incident/7688/",
-      "id": "7688",
       "contained": "0"
     },
     {
