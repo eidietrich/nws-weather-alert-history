@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Perins Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Perins Peak Fire is burning west of Durango, Colorado on Bureau...",
+      "state": "COLORADO",
+      "updated": "2022-05-26 11:59:47",
+      "lat": "37.299",
+      "lng": "-107.912",
+      "size": "102 Acres",
+      "url": "/incident/8120/",
+      "id": "8120",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Quick Links:     Daily Update (pdf)     |   ...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-26 11:55:51",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "312,057 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "46"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": " Quick Links:     Daily Update (pdf)      |  ...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-26 11:54:05",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "312,057 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "46"
+    },
+    {
+      "name": "Pleasant Valley Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": "15,000-acre prescribed burn planned for Pleasant Valley Ranger...",
+      "state": "ARIZONA",
+      "updated": "2022-05-26 11:32:28",
+      "lat": "34.211",
+      "lng": "-111.096",
+      "size": "0 Acres",
+      "url": "/incident/7896/",
+      "id": "7896",
+      "contained": "0"
+    },
+    {
       "name": "Plumtaw Fire",
       "type": "Wildfire",
       "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
@@ -53,32 +105,6 @@
       "contained": "100"
     },
     {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Quick Links:     Daily Update (pdf)     |     Smoke...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-26 09:57:36",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "312,057 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "46"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": " Quick Links:     Daily Update (pdf)      |  ...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-26 09:57:03",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "312,057 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "46"
-    },
-    {
       "name": "Black Fire",
       "type": "Wildfire",
       "summary": "Additional evacuations issued on the Black Fire Afternoon Update...",
@@ -90,19 +116,6 @@
       "url": "/incident/8103/",
       "id": "8103",
       "contained": "13"
-    },
-    {
-      "name": "Perins Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Perins Peak Fire is burning west of Durango, Colorado on Bureau...",
-      "state": "COLORADO",
-      "updated": "2022-05-25 21:51:27",
-      "lat": "37.299",
-      "lng": "-107.912",
-      "size": "102 Acres",
-      "url": "/incident/8120/",
-      "id": "8120",
-      "contained": "0"
     },
     {
       "name": "Cerro Pelado",
