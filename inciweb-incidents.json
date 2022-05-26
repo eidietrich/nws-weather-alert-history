@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Mesquite Heat Fire",
+      "type": "Wildfire",
+      "summary": "The Mesquite Heat Fire started along HWY 277 about 7 miles southwest...",
+      "state": "TEXAS",
+      "updated": "2022-05-26 12:30:43",
+      "lat": "32.266",
+      "lng": "-99.964",
+      "size": "10,960 Acres",
+      "url": "/incident/8108/",
+      "id": "8108",
+      "contained": "74"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-26 12:29:05",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "92"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "Additional evacuations issued on the Black Fire Afternoon Update...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-26 12:14:59",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "172,694 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "13"
+    },
+    {
       "name": "Perins Peak Fire",
       "type": "Wildfire",
       "summary": "The Perins Peak Fire is burning west of Durango, Colorado on Bureau...",
       "state": "COLORADO",
-      "updated": "2022-05-26 11:59:47",
+      "updated": "2022-05-26 12:13:12",
       "lat": "37.299",
       "lng": "-107.912",
       "size": "102 Acres",
       "url": "/incident/8120/",
       "id": "8120",
       "contained": "0"
+    },
+    {
+      "name": "Elgin Bridge Fire ",
+      "type": "Wildfire",
+      "summary": " Elgin, AZ (5/25/22) – Nearly 200 personnel remain assigned to the...",
+      "state": "ARIZONA",
+      "updated": "2022-05-26 12:05:39",
+      "lat": "31.663",
+      "lng": "-110.522",
+      "size": "2,149 Acres",
+      "url": "/incident/8119/",
+      "id": "8119",
+      "contained": "30"
     },
     {
       "name": "Hermits Peak Fire",
@@ -40,19 +92,6 @@
       "contained": "46"
     },
     {
-      "name": "Pleasant Valley Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": "15,000-acre prescribed burn planned for Pleasant Valley Ranger...",
-      "state": "ARIZONA",
-      "updated": "2022-05-26 11:32:28",
-      "lat": "34.211",
-      "lng": "-111.096",
-      "size": "0 Acres",
-      "url": "/incident/7896/",
-      "id": "7896",
-      "contained": "0"
-    },
-    {
       "name": "Plumtaw Fire",
       "type": "Wildfire",
       "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
@@ -79,19 +118,6 @@
       "contained": "28"
     },
     {
-      "name": "Mesquite Heat Fire",
-      "type": "Wildfire",
-      "summary": "The Mesquite Heat Fire started along HWY 277 about 7 miles southwest...",
-      "state": "TEXAS",
-      "updated": "2022-05-26 10:20:56",
-      "lat": "32.266",
-      "lng": "-99.964",
-      "size": "10,960 Acres",
-      "url": "/incident/8108/",
-      "id": "8108",
-      "contained": "74"
-    },
-    {
       "name": "Simms",
       "type": "Wildfire",
       "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
@@ -103,32 +129,6 @@
       "url": "/incident/8117/",
       "id": "8117",
       "contained": "100"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Additional evacuations issued on the Black Fire Afternoon Update...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-25 22:03:12",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "172,694 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "13"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-25 21:24:41",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "92"
     },
     {
       "name": "Crooks Fire",
@@ -168,19 +168,6 @@
       "url": "/incident/8104/",
       "id": "8104",
       "contained": "0"
-    },
-    {
-      "name": "Elgin Bridge Fire ",
-      "type": "Wildfire",
-      "summary": " Elgin, AZ (5/25/22) – Nearly 200 personnel remain assigned to the...",
-      "state": "ARIZONA",
-      "updated": "2022-05-25 09:33:08",
-      "lat": "31.663",
-      "lng": "-110.522",
-      "size": "2,149 Acres",
-      "url": "/incident/8119/",
-      "id": "8119",
-      "contained": "15"
     },
     {
       "name": "Nogal Canyon Post-Fire BAER",
