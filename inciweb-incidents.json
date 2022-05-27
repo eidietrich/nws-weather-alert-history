@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Quick Links:     Daily Update (pdf)     |   ...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-27 10:37:33",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "312,230 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "47"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": " Quick Links:     Daily Update (pdf)      |  ...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-27 10:36:19",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "312,230 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "47"
+    },
+    {
+      "name": "Bear Trap Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-27 10:36:15",
+      "lat": "33.85",
+      "lng": "-107.533",
+      "size": "38,091 Acres",
+      "url": "/incident/8093/",
+      "id": "8093",
+      "contained": "41"
+    },
+    {
+      "name": "Hermits Peak &amp; Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-27 10:35:13",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
+      "name": "Cerro Pelado Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-27 10:34:29",
+      "lat": "35.675",
+      "lng": "-106.501",
+      "size": "0 Acres",
+      "url": "/incident/8118/",
+      "id": "8118",
+      "contained": "0"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-27 10:32:29",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "92"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire started on April 13 and quickly spread to the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-27 10:31:16",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "191,459 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "13"
+    },
+    {
       "name": "Lost Lake Fire",
       "type": "Wildfire",
       "summary": "The Lost Lake Fire was reported early the morning of May 26, 2022 and...",
@@ -12,32 +103,6 @@
       "url": "/incident/8122/",
       "id": "8122",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": " Quick Links:     Daily Update (pdf)      |  ...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-27 09:14:37",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "312,230 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "47"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Quick Links:     Daily Update (pdf)     |   ...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-27 09:12:57",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "312,230 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "47"
     },
     {
       "name": "Crooks Fire",
@@ -79,32 +144,6 @@
       "contained": "36"
     },
     {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-26 21:08:48",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "92"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire started on April 13 and quickly spread to the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-26 21:03:07",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "185,234 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "13"
-    },
-    {
       "name": "Mesquite Heat Fire",
       "type": "Wildfire",
       "summary": "The Mesquite Heat Fire started along HWY 277 about 7 miles southwest...",
@@ -116,19 +155,6 @@
       "url": "/incident/8108/",
       "id": "8108",
       "contained": "82"
-    },
-    {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-26 19:00:20",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "38,091 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "41"
     },
     {
       "name": "Nogal Canyon Post-Fire BAER",
@@ -181,32 +207,6 @@
       "url": "/incident/8117/",
       "id": "8117",
       "contained": "100"
-    },
-    {
-      "name": "Cerro Pelado Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-25 12:25:01",
-      "lat": "35.675",
-      "lng": "-106.501",
-      "size": "0 Acres",
-      "url": "/incident/8118/",
-      "id": "8118",
-      "contained": "0"
-    },
-    {
-      "name": "Hermits Peak &amp; Calf Canyon BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-25 12:14:44",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
-      "contained": "0"
     },
     {
       "name": "Tunnel Fire",
