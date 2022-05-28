@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Perins Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Perins Peak Fire is burning northwest of Durango, Colorado on...",
+      "state": "COLORADO",
+      "updated": "2022-05-28 11:20:28",
+      "lat": "37.299",
+      "lng": "-107.912",
+      "size": "106 Acres",
+      "url": "/incident/8120/",
+      "id": "8120",
+      "contained": "45"
+    },
+    {
+      "name": "Lost Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Lost Lake Fire was reported early the morning of May 26, 2022 and...",
+      "state": "ARIZONA",
+      "updated": "2022-05-28 10:53:52",
+      "lat": "33.993",
+      "lng": "-114.481",
+      "size": "4,900 Acres",
+      "url": "/incident/8122/",
+      "id": "8122",
+      "contained": "30"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
@@ -90,32 +116,6 @@
       "url": "/incident/8103/",
       "id": "8103",
       "contained": "18"
-    },
-    {
-      "name": "Lost Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Lost Lake Fire was reported early the morning of May 26, 2022 and...",
-      "state": "ARIZONA",
-      "updated": "2022-05-27 23:17:59",
-      "lat": "33.993",
-      "lng": "-114.481",
-      "size": "4,900 Acres",
-      "url": "/incident/8122/",
-      "id": "8122",
-      "contained": "30"
-    },
-    {
-      "name": "Perins Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Perins Peak Fire is burning northwest of Durango, Colorado on...",
-      "state": "COLORADO",
-      "updated": "2022-05-27 22:01:30",
-      "lat": "37.299",
-      "lng": "-107.912",
-      "size": "106 Acres",
-      "url": "/incident/8120/",
-      "id": "8120",
-      "contained": "45"
     },
     {
       "name": "Cerro Pelado Post-Fire BAER",
