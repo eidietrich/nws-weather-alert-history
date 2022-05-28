@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "Additional evacuations ordered;  Progress made on the west and...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-28 12:47:03",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "212,118 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "18"
+    },
+    {
+      "name": "Perins Peak Fire",
+      "type": "Wildfire",
+      "summary": "The 106-acre Perins Peak Fire is burning northwest of Durango,...",
+      "state": "COLORADO",
+      "updated": "2022-05-28 12:46:22",
+      "lat": "37.299",
+      "lng": "-107.912",
+      "size": "106 Acres",
+      "url": "/incident/8120/",
+      "id": "8120",
+      "contained": "45"
+    },
+    {
+      "name": "Lost Lake Fire",
+      "type": "Wildfire",
+      "summary": "May 28, 2021 Parker, AZ – The Lost Lake Fire started May 26th on...",
+      "state": "ARIZONA",
+      "updated": "2022-05-28 12:25:46",
+      "lat": "33.993",
+      "lng": "-114.481",
+      "size": "5,900 Acres",
+      "url": "/incident/8122/",
+      "id": "8122",
+      "contained": "44"
+    },
+    {
       "name": "Simms",
       "type": "Wildfire",
       "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
@@ -14,32 +53,6 @@
       "contained": "100"
     },
     {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Additional evacuations ordered;  Progress mad eon the west and...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-28 12:19:02",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "212,118 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "18"
-    },
-    {
-      "name": "Lost Lake Fire",
-      "type": "Wildfire",
-      "summary": "May 28, 2021 Parker, AZ – The Lost Lake Fire started May 26th on...",
-      "state": "ARIZONA",
-      "updated": "2022-05-28 12:16:22",
-      "lat": "33.993",
-      "lng": "-114.481",
-      "size": "5,900 Acres",
-      "url": "/incident/8122/",
-      "id": "8122",
-      "contained": "44"
-    },
-    {
       "name": "Plumtaw Fire",
       "type": "Wildfire",
       "summary": " The Plumtaw fire was first reported at around 1pm on May 17th...",
@@ -51,19 +64,6 @@
       "url": "/incident/8113/",
       "id": "8113",
       "contained": "77"
-    },
-    {
-      "name": "Perins Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Perins Peak Fire is burning northwest of Durango, Colorado on...",
-      "state": "COLORADO",
-      "updated": "2022-05-28 11:20:28",
-      "lat": "37.299",
-      "lng": "-107.912",
-      "size": "106 Acres",
-      "url": "/incident/8120/",
-      "id": "8120",
-      "contained": "45"
     },
     {
       "name": "Cerro Pelado",
