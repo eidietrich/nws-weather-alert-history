@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-30 11:28:35",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "95"
-    },
-    {
       "name": "Foster Fire ",
       "type": "Wildfire",
-      "summary": "The Foster Fire was reported on May 29, 2022 at 1253 hours in...",
+      "summary": "The  Foster Fire was reported on May 29, 2022, at 12:53 PM in the...",
       "state": "ARIZONA",
-      "updated": "2022-05-30 11:21:14",
+      "updated": "2022-05-30 12:01:34",
       "lat": "31.514",
       "lng": "-109.024",
       "size": "6,702 Acres",
@@ -27,17 +14,56 @@
       "contained": "0"
     },
     {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "Containment Increases on the Black Fire Despite Windy ConditionsDaily...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-30 12:00:49",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "241,403 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "26"
+    },
+    {
       "name": "Lost Lake Fire",
       "type": "Wildfire",
       "summary": " Parker, AZ – The Lost Lake Fire started May 26th on the Colorado...",
       "state": "ARIZONA",
-      "updated": "2022-05-30 11:14:11",
+      "updated": "2022-05-30 11:45:05",
       "lat": "33.993",
       "lng": "-114.481",
       "size": "5,727 Acres",
       "url": "/incident/8122/",
       "id": "8122",
       "contained": "47"
+    },
+    {
+      "name": "Menkhaven",
+      "type": "Wildfire",
+      "summary": "The Menkhaven Fire was reported at ~3:15 on Saturday, May 28, 2022....",
+      "state": "COLORADO",
+      "updated": "2022-05-30 11:42:16",
+      "lat": "37.111",
+      "lng": "-106.32",
+      "size": "197 Acres",
+      "url": "/incident/8124/",
+      "id": "8124",
+      "contained": "0"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
+      "state": "NEW MEXICO",
+      "updated": "2022-05-30 11:31:10",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "95"
     },
     {
       "name": "Perins Peak Fire",
@@ -129,32 +155,6 @@
       "url": "/incident/8113/",
       "id": "8113",
       "contained": "77"
-    },
-    {
-      "name": "Menkhaven",
-      "type": "Wildfire",
-      "summary": "The Menkhaven Fire was reported at ~3:15 on Saturday, May 28, 2022....",
-      "state": "COLORADO",
-      "updated": "2022-05-29 22:27:09",
-      "lat": "37.111",
-      "lng": "-106.32",
-      "size": "197 Acres",
-      "url": "/incident/8124/",
-      "id": "8124",
-      "contained": "0"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Red flag conditions continue New interactive evacuation map...",
-      "state": "NEW MEXICO",
-      "updated": "2022-05-29 20:03:50",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "235,464 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "26"
     },
     {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
