@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Contact Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Contact Creek Fire (#151), burning 40 miles southeast of King...",
+      "state": "ALASKA",
+      "updated": "2022-06-02 12:44:07",
+      "lat": "58.219",
+      "lng": "-155.966",
+      "size": "0 Acres",
+      "url": "/incident/8131/",
+      "id": "8131",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Quick Links:     Daily Update (pdf)     |   ...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-02 12:43:39",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "316,353 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "54"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": " Quick Links:     Daily Update (pdf)      |  ...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-02 12:42:53",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "316,353 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "54"
+    },
+    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-02 12:01:58",
+      "updated": "2022-06-02 12:08:54",
       "lat": "35.775",
       "lng": "-106.584",
       "size": "45,605 Acres",
@@ -27,19 +66,6 @@
       "contained": "91"
     },
     {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Quick Links:     Daily Update (pdf)     |   ...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-02 11:46:17",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "316,353 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "54"
-    },
-    {
       "name": "Mesquite Heat Fire",
       "type": "Wildfire",
       "summary": "The Mesquite Heat Fire started along HWY 277 about 7 miles southwest...",
@@ -51,32 +77,6 @@
       "url": "/incident/8108/",
       "id": "8108",
       "contained": "100"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": " Quick Links:     Daily Update (pdf)      |  ...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-02 11:23:09",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "316,353 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "54"
-    },
-    {
-      "name": "Contact Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Contact Creek Fire (#151), burning 40 miles southeast of King...",
-      "state": "ALASKA",
-      "updated": "2022-06-02 11:20:07",
-      "lat": "58.219",
-      "lng": "-155.966",
-      "size": "0 Acres",
-      "url": "/incident/8131/",
-      "id": "8131",
-      "contained": "0"
     },
     {
       "name": "Lost Lake Fire",
@@ -609,19 +609,6 @@
       "size": "0 Acres",
       "url": "/incident/7317/",
       "id": "7317",
-      "contained": "0"
-    },
-    {
-      "name": "Indiana Dunes NP Spring 2022",
-      "type": "Prescribed Fire",
-      "summary": " Indiana Dunes National Park is planning 6 prescribed fires for the...",
-      "state": "INDIANA",
-      "updated": "2022-03-17 11:14:52",
-      "lat": "41.617",
-      "lng": "-87.19",
-      "size": "0 Acres",
-      "url": "/incident/8001/",
-      "id": "8001",
       "contained": "0"
     }
   ]
