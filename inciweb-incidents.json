@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Menkhaven",
+      "type": "Wildfire",
+      "summary": " Wednesday, June 1 at 2022Another day of good progress on the...",
+      "state": "COLORADO",
+      "updated": "2022-06-01 20:47:12",
+      "lat": "37.111",
+      "lng": "-106.32",
+      "size": "242 Acres",
+      "url": "/incident/8124/",
+      "id": "8124",
+      "contained": "65"
+    },
+    {
+      "name": "Foster Fire ",
+      "type": "Wildfire",
+      "summary": "The  Foster Fire was reported on May 29, 2022, at 12:53 PM in the...",
+      "state": "ARIZONA",
+      "updated": "2022-06-01 20:29:42",
+      "lat": "31.514",
+      "lng": "-109.024",
+      "size": "7,512 Acres",
+      "url": "/incident/8125/",
+      "id": "8125",
+      "contained": "37"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-01 19:49:27",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "258,062 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "25"
+    },
+    {
+      "name": "Lost Lake Fire",
+      "type": "Wildfire",
+      "summary": " Parker, AZ – The Lost Lake Fire started May 26th on the Colorado...",
+      "state": "ARIZONA",
+      "updated": "2022-06-01 19:36:17",
+      "lat": "33.993",
+      "lng": "-114.481",
+      "size": "5,856 Acres",
+      "url": "/incident/8122/",
+      "id": "8122",
+      "contained": "85"
+    },
+    {
       "name": "Bouquet Fire",
       "type": "Wildfire",
       "summary": "A wildfire ignited shortly after 2 p.m. on May 30, 2022 on the...",
@@ -92,32 +144,6 @@
       "contained": "91"
     },
     {
-      "name": "Foster Fire ",
-      "type": "Wildfire",
-      "summary": "The  Foster Fire was reported on May 29, 2022, at 12:53 PM in the...",
-      "state": "ARIZONA",
-      "updated": "2022-06-01 13:04:19",
-      "lat": "31.514",
-      "lng": "-109.024",
-      "size": "7,503 Acres",
-      "url": "/incident/8125/",
-      "id": "8125",
-      "contained": "31"
-    },
-    {
-      "name": "Lost Lake Fire",
-      "type": "Wildfire",
-      "summary": " Parker, AZ – The Lost Lake Fire started May 26th on the Colorado...",
-      "state": "ARIZONA",
-      "updated": "2022-06-01 10:45:58",
-      "lat": "33.993",
-      "lng": "-114.481",
-      "size": "5,856 Acres",
-      "url": "/incident/8122/",
-      "id": "8122",
-      "contained": "85"
-    },
-    {
       "name": "Cerro Pelado",
       "type": "Wildfire",
       "summary": "Hwy 4 is open to local traffic only so please drive carefully. By...",
@@ -129,19 +155,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "95"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-01 10:41:30",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "254,840 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "25"
     },
     {
       "name": "Midpoint Fire",
@@ -168,19 +181,6 @@
       "url": "/incident/8120/",
       "id": "8120",
       "contained": "80"
-    },
-    {
-      "name": "Menkhaven",
-      "type": "Wildfire",
-      "summary": "Tuesday, May 31 at 2100 Firefighters made good progress again today...",
-      "state": "COLORADO",
-      "updated": "2022-06-01 09:06:55",
-      "lat": "37.111",
-      "lng": "-106.32",
-      "size": "242 Acres",
-      "url": "/incident/8124/",
-      "id": "8124",
-      "contained": "50"
     },
     {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
