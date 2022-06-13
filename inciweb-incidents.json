@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Double Fire",
+      "type": "Wildfire",
+      "summary": "The Double Fire was reported at 4:13 p.m. on June 12. It is predicted...",
+      "state": "ARIZONA",
+      "updated": "2022-06-13 14:14:27",
+      "lat": "35.346",
+      "lng": "-111.451",
+      "size": "0 Acres",
+      "url": "/incident/8156/",
+      "id": "8156",
+      "contained": "0"
+    },
+    {
+      "name": "Sheep Fire",
+      "type": "Wildfire",
+      "summary": "STATUS: The following information is correct as of June 12, 2022, at...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-13 14:02:19",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "939 Acres",
+      "url": "/incident/8151/",
+      "id": "8151",
+      "contained": "5"
+    },
+    {
       "name": "East Fork Fire ",
       "type": "Wildfire",
       "summary": "The East fork Fire started on May 31st in a limited protection area...",
@@ -142,19 +168,6 @@
       "url": "/incident/8145/",
       "id": "8145",
       "contained": "74"
-    },
-    {
-      "name": "Sheep Fire",
-      "type": "Wildfire",
-      "summary": "STATUS: The following information is correct as of June 12, 2022, at...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-13 01:07:53",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "990 Acres",
-      "url": "/incident/8151/",
-      "id": "8151",
-      "contained": "5"
     },
     {
       "name": "Black Post-Fire BAER",
