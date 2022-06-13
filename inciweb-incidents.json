@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Deer Creek",
+      "type": "Wildfire",
+      "summary": " On Wednesday, June 8, 2022, the Coronado National Forest responded...",
+      "state": "ARIZONA",
+      "updated": "2022-06-12 20:44:34",
+      "lat": "31.608",
+      "lng": "-109.001",
+      "size": "1,042 Acres",
+      "url": "/incident/8145/",
+      "id": "8145",
+      "contained": "74"
+    },
+    {
+      "name": "Midnight Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-12 20:38:38",
+      "lat": "36.45",
+      "lng": "-106.224",
+      "size": "3,781 Acres",
+      "url": "/incident/8147/",
+      "id": "8147",
+      "contained": "0"
+    },
+    {
+      "name": "Pawlik",
+      "type": "Wildfire",
+      "summary": " Crews re-engaged fire.  Grounds resources worked fire perimeter. ...",
+      "state": "TEXAS",
+      "updated": "2022-06-12 20:28:46",
+      "lat": "28.346",
+      "lng": "-98.121",
+      "size": "107 Acres",
+      "url": "/incident/8153/",
+      "id": "8153",
+      "contained": "100"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-12 20:13:44",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "309,948 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "47"
+    },
+    {
+      "name": "Cerro Bandera Fire",
+      "type": "Wildfire",
+      "summary": "The Cerro Bandera Fire is burning on private land within the National...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-12 19:48:23",
+      "lat": "35.001",
+      "lng": "-108.131",
+      "size": "939 Acres",
+      "url": "/incident/8146/",
+      "id": "8146",
+      "contained": "85"
+    },
+    {
+      "name": "Cerro Pelado",
+      "type": "Wildfire",
+      "summary": "There will no longer be daily updates released unless significant...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-12 19:30:40",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "98"
+    },
+    {
+      "name": "Sheep Fire",
+      "type": "Wildfire",
+      "summary": "STATUS:As of Sunday, June 12 (afternoon) - The Sheep Fire has grown...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-12 19:04:49",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "35 Acres",
+      "url": "/incident/8151/",
+      "id": "8151",
+      "contained": "5"
+    },
+    {
       "name": "Pipeline Fire",
       "type": "Wildfire",
       "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
@@ -14,19 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Sheep Fire",
-      "type": "Wildfire",
-      "summary": "STATUS:As of Sunday, June 12 (afternoon) - The Sheep Fire has grown...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-12 18:18:53",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "35 Acres",
-      "url": "/incident/8151/",
-      "id": "8151",
-      "contained": "5"
-    },
-    {
       "name": "East Fork Fire ",
       "type": "Wildfire",
       "summary": "The East fork Fire started on May 31st in a limited protection area...",
@@ -37,19 +115,6 @@
       "size": "121,831 Acres",
       "url": "/incident/8148/",
       "id": "8148",
-      "contained": "0"
-    },
-    {
-      "name": "Pawlik",
-      "type": "Wildfire",
-      "summary": "Natural Gas pipeline in area that is threat to fire resources at this...",
-      "state": "TEXAS",
-      "updated": "2022-06-12 16:21:57",
-      "lat": "28.346",
-      "lng": "-98.121",
-      "size": "300 Acres",
-      "url": "/incident/8153/",
-      "id": "8153",
       "contained": "0"
     },
     {
@@ -79,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Midnight Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-12 12:24:27",
-      "lat": "36.45",
-      "lng": "-106.224",
-      "size": "3,478 Acres",
-      "url": "/incident/8147/",
-      "id": "8147",
-      "contained": "0"
-    },
-    {
       "name": "Skates",
       "type": "Wildfire",
       "summary": "The Skates Fire is located 13 miles northeast of Silver City on the...",
@@ -118,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Cerro Bandera Fire",
-      "type": "Wildfire",
-      "summary": "The Cerro Bandera Fire is burning on private land within the National...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-12 11:32:33",
-      "lat": "35.001",
-      "lng": "-108.131",
-      "size": "939 Acres",
-      "url": "/incident/8146/",
-      "id": "8146",
-      "contained": "25"
-    },
-    {
       "name": "Graham Fire",
       "type": "Wildfire",
       "summary": "The Graham Fire started on June 9, 2022 at approximately 1800 hours...",
@@ -142,19 +181,6 @@
       "url": "/incident/8150/",
       "id": "8150",
       "contained": "15"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire was discovered early Saturday, May 14 at about 150...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-12 10:05:23",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "305,204 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "42"
     },
     {
       "name": "Calf Canyon",
@@ -183,19 +209,6 @@
       "contained": "70"
     },
     {
-      "name": "Deer Creek",
-      "type": "Wildfire",
-      "summary": "On Wednesday, June 8, 2022, the Coronado National Forest responded to...",
-      "state": "ARIZONA",
-      "updated": "2022-06-12 08:15:36",
-      "lat": "31.608",
-      "lng": "-109.001",
-      "size": "1,042 Acres",
-      "url": "/incident/8145/",
-      "id": "8145",
-      "contained": "54"
-    },
-    {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
@@ -220,19 +233,6 @@
       "url": "/incident/8118/",
       "id": "8118",
       "contained": "0"
-    },
-    {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "There will no longer be daily updates released unless significant...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-11 12:38:09",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "95"
     },
     {
       "name": "Nogal Canyon Post-Fire BAER",
