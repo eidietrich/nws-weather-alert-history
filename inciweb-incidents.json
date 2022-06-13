@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
+      "state": "ARIZONA",
+      "updated": "2022-06-13 14:26:48",
+      "lat": "35.282",
+      "lng": "-111.681",
+      "size": "5,000 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "0"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-13 14:26:20",
+      "lat": "35.372",
+      "lng": "-111.437",
+      "size": "1,600 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "0"
+    },
+    {
       "name": "Double Fire",
       "type": "Wildfire",
       "summary": "The Double Fire was reported at 4:13 p.m. on June 12. It is predicted...",
       "state": "ARIZONA",
-      "updated": "2022-06-13 14:14:27",
+      "updated": "2022-06-13 14:23:33",
       "lat": "35.346",
       "lng": "-111.451",
       "size": "0 Acres",
@@ -37,32 +63,6 @@
       "size": "153,505 Acres",
       "url": "/incident/8148/",
       "id": "8148",
-      "contained": "0"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-13 13:35:38",
-      "lat": "35.372",
-      "lng": "-111.437",
-      "size": "1,600 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "0"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
-      "state": "ARIZONA",
-      "updated": "2022-06-13 13:33:27",
-      "lat": "35.282",
-      "lng": "-111.681",
-      "size": "5,000 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
       "contained": "0"
     },
     {
