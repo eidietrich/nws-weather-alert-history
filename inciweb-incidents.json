@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13,",
+      "state": "ARIZONA",
+      "updated": "2022-06-13 10:13:21",
+      "lat": "35.372",
+      "lng": "-111.437",
+      "size": "1,600 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "0"
+    },
+    {
       "name": "Midnight Fire",
       "type": "Wildfire",
       "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-13 09:46:48",
+      "updated": "2022-06-13 10:06:00",
       "lat": "36.45",
       "lng": "-106.224",
       "size": "3,944 Acres",
@@ -25,19 +38,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "70"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13,",
-      "state": "ARIZONA",
-      "updated": "2022-06-13 09:37:01",
-      "lat": "35.372",
-      "lng": "-111.437",
-      "size": "1,600 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "0"
     },
     {
       "name": "Calf Canyon",
@@ -545,19 +545,6 @@
       "url": "/incident/8089/",
       "id": "8089",
       "contained": "75"
-    },
-    {
-      "name": "Tunnel Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " The Tunnel Fire Burned Area Emergency Response (BAER) team has...",
-      "state": "ARIZONA",
-      "updated": "2022-05-07 08:00:34",
-      "lat": "35.387",
-      "lng": "-111.533",
-      "size": "19,060 Acres",
-      "url": "/incident/8088/",
-      "id": "8088",
-      "contained": "0"
     },
     {
       "name": "Southwest District BLM Prescribed Fire ",
