@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-14 15:18:38",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "312,519 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "46"
+    },
+    {
+      "name": "Tonto Canyon Fire",
+      "type": "Wildfire",
+      "summary": "On Sunday, June 12, 2022, the Coronado National Forest responded to...",
+      "state": "ARIZONA",
+      "updated": "2022-06-14 15:13:36",
+      "lat": "31.381",
+      "lng": "-111.198",
+      "size": "4,222 Acres",
+      "url": "/incident/8158/",
+      "id": "8158",
+      "contained": "0"
+    },
+    {
       "name": "Sheep Fire",
       "type": "Wildfire",
       "summary": "STATUS: The following information is correct as of June 14, 2022, at...",
       "state": "CALIFORNIA",
-      "updated": "2022-06-14 14:46:33",
+      "updated": "2022-06-14 14:47:13",
       "lat": "34.354",
       "lng": "-117.609",
       "size": "990 Acres",
@@ -141,32 +167,6 @@
       "size": "752 Acres",
       "url": "/incident/8130/",
       "id": "8130",
-      "contained": "0"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-14 12:08:06",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "312,519 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "46"
-    },
-    {
-      "name": "Tonto Canyon Fire",
-      "type": "Wildfire",
-      "summary": "On Sunday, June 12, 2022, the Coronado National Forest responded to...",
-      "state": "ARIZONA",
-      "updated": "2022-06-14 09:59:56",
-      "lat": "31.381",
-      "lng": "-111.198",
-      "size": "6,500 Acres",
-      "url": "/incident/8158/",
-      "id": "8158",
       "contained": "0"
     },
     {
