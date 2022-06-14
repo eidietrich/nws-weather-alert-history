@@ -1,30 +1,95 @@
 {
   "markers": [
     {
-      "name": "Yogi Fire",
+      "name": "Calf Canyon",
       "type": "Wildfire",
-      "summary": "The Texas A&amp;M Forest Service was requested to the Yogi Fire for...",
-      "state": "TEXAS",
-      "updated": "2022-06-13 18:44:37",
-      "lat": "30.128",
-      "lng": "-97.148",
-      "size": "50 Acres",
-      "url": "/incident/8157/",
-      "id": "8157",
-      "contained": "65"
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-13 20:53:51",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "320,495 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "70"
+    },
+    {
+      "name": "Skates",
+      "type": "Wildfire",
+      "summary": "The Skates Fire is located 13 miles northeast of Silver City on the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-13 20:52:03",
+      "lat": "32.965",
+      "lng": "-108.148",
+      "size": "111 Acres",
+      "url": "/incident/8149/",
+      "id": "8149",
+      "contained": "85"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-13 20:40:25",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "320,495 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "70"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-13 20:23:05",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "312,519 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "46"
+    },
+    {
+      "name": "Deer Creek",
+      "type": "Wildfire",
+      "summary": " On Wednesday, June 8, 2022, the Coronado National Forest responded...",
+      "state": "ARIZONA",
+      "updated": "2022-06-13 20:21:36",
+      "lat": "31.608",
+      "lng": "-109.001",
+      "size": "1,042 Acres",
+      "url": "/incident/8145/",
+      "id": "8145",
+      "contained": "80"
     },
     {
       "name": "Tonto Canyon Fire",
       "type": "Wildfire",
       "summary": " On Sunday, June 12, 2022, the Coronado National Forest responded to...",
       "state": "ARIZONA",
-      "updated": "2022-06-13 18:40:54",
+      "updated": "2022-06-13 20:02:49",
       "lat": "31.381",
       "lng": "-111.198",
-      "size": "0 Acres",
+      "size": "2,850 Acres",
       "url": "/incident/8158/",
       "id": "8158",
       "contained": "0"
+    },
+    {
+      "name": "Yogi Fire",
+      "type": "Wildfire",
+      "summary": "The Texas A&amp;M Forest Service was requested to the Yogi Fire for...",
+      "state": "TEXAS",
+      "updated": "2022-06-13 19:51:54",
+      "lat": "30.128",
+      "lng": "-97.148",
+      "size": "50 Acres",
+      "url": "/incident/8157/",
+      "id": "8157",
+      "contained": "75"
     },
     {
       "name": "Cerro Pelado",
@@ -77,19 +142,6 @@
       "url": "/incident/8148/",
       "id": "8148",
       "contained": "0"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-13 17:46:45",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "311,692 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "47"
     },
     {
       "name": "Cypress Mill Road",
@@ -196,32 +248,6 @@
       "contained": "0"
     },
     {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-13 11:32:25",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "320,495 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "70"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-13 11:32:19",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "320,495 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "70"
-    },
-    {
       "name": "Tharps-Hazelwood Prescribed Burn",
       "type": "Prescribed Fire",
       "summary": " Following a successful test burn on the morning of June 9, 2022 and...",
@@ -233,32 +259,6 @@
       "url": "/incident/8130/",
       "id": "8130",
       "contained": "0"
-    },
-    {
-      "name": "Deer Creek",
-      "type": "Wildfire",
-      "summary": " On Wednesday, June 8, 2022, the Coronado National Forest responded...",
-      "state": "ARIZONA",
-      "updated": "2022-06-13 08:32:31",
-      "lat": "31.608",
-      "lng": "-109.001",
-      "size": "1,042 Acres",
-      "url": "/incident/8145/",
-      "id": "8145",
-      "contained": "74"
-    },
-    {
-      "name": "Skates",
-      "type": "Wildfire",
-      "summary": "The Skates Fire is located 13 miles northeast of Silver City on the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-12 22:22:28",
-      "lat": "32.965",
-      "lng": "-108.148",
-      "size": "111 Acres",
-      "url": "/incident/8149/",
-      "id": "8149",
-      "contained": "80"
     },
     {
       "name": "Graham Fire",
