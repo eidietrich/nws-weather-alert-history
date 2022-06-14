@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Sheep Fire",
+      "type": "Wildfire",
+      "summary": "STATUS: The following information is correct as of June 14, 2022, at...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-14 14:46:33",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "990 Acres",
+      "url": "/incident/8151/",
+      "id": "8151",
+      "contained": "35"
+    },
+    {
+      "name": "Fish Fire",
+      "type": "Wildfire",
+      "summary": " The fire was initially reported on the 10th of June at 4:28 PM. As...",
+      "state": "ARIZONA",
+      "updated": "2022-06-14 14:40:58",
+      "lat": "33.635",
+      "lng": "-109.393",
+      "size": "226 Acres",
+      "url": "/incident/8160/",
+      "id": "8160",
+      "contained": "0"
+    },
+    {
+      "name": "Graham Fire",
+      "type": "Wildfire",
+      "summary": "The Graham Fire started on June 9, 2022 at approximately 1800 hours...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-14 14:34:56",
+      "lat": "40.05",
+      "lng": "-121.776",
+      "size": "173 Acres",
+      "url": "/incident/8150/",
+      "id": "8150",
+      "contained": "50"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-14 14:33:07",
+      "lat": "35.372",
+      "lng": "-111.437",
+      "size": "4,052 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "0"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
+      "state": "ARIZONA",
+      "updated": "2022-06-14 14:32:54",
+      "lat": "35.282",
+      "lng": "-111.681",
+      "size": "20,178 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "0"
+    },
+    {
+      "name": "Contreras Fire ",
+      "type": "Wildfire",
+      "summary": " Sells, AZ – The Contreras Fire started June 11 on a remote ridge...",
+      "state": "ARIZONA",
+      "updated": "2022-06-14 14:32:16",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "1,670 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "0"
+    },
+    {
       "name": "Yogi Fire",
       "type": "Wildfire",
       "summary": "The Texas A&amp;M Forest Service was requested to the Yogi Fire for...",
@@ -27,32 +105,6 @@
       "contained": "100"
     },
     {
-      "name": "Contreras Fire ",
-      "type": "Wildfire",
-      "summary": " Sells, AZ – The Contreras Fire started June 11 on a remote ridge...",
-      "state": "ARIZONA",
-      "updated": "2022-06-14 14:14:52",
-      "lat": "31.849",
-      "lng": "-111.574",
-      "size": "1,670 Acres",
-      "url": "/incident/8154/",
-      "id": "8154",
-      "contained": "0"
-    },
-    {
-      "name": "Sheep Fire",
-      "type": "Wildfire",
-      "summary": "STATUS: The following information is correct as of June 14, 2022, at...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-14 14:11:52",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "990 Acres",
-      "url": "/incident/8151/",
-      "id": "8151",
-      "contained": "35"
-    },
-    {
       "name": "East Fork Fire ",
       "type": "Wildfire",
       "summary": "The East fork Fire started on May 31st in a limited protection area...",
@@ -63,45 +115,6 @@
       "size": "173,017 Acres",
       "url": "/incident/8148/",
       "id": "8148",
-      "contained": "0"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-14 13:38:39",
-      "lat": "35.372",
-      "lng": "-111.437",
-      "size": "4,052 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "0"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
-      "state": "ARIZONA",
-      "updated": "2022-06-14 13:38:07",
-      "lat": "35.282",
-      "lng": "-111.681",
-      "size": "20,178 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "0"
-    },
-    {
-      "name": "Fish Fire",
-      "type": "Wildfire",
-      "summary": " The Fish Fire was detected on June 10th at 2:28 PM and is burning...",
-      "state": "ARIZONA",
-      "updated": "2022-06-14 13:30:24",
-      "lat": "33.635",
-      "lng": "-109.393",
-      "size": "226 Acres",
-      "url": "/incident/8160/",
-      "id": "8160",
       "contained": "0"
     },
     {
@@ -259,19 +272,6 @@
       "url": "/incident/8146/",
       "id": "8146",
       "contained": "85"
-    },
-    {
-      "name": "Graham Fire",
-      "type": "Wildfire",
-      "summary": "The Graham Fire started on June 9, 2022 at approximately 1800 hours...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-12 21:44:25",
-      "lat": "40.05",
-      "lng": "-121.776",
-      "size": "177 Acres",
-      "url": "/incident/8150/",
-      "id": "8150",
-      "contained": "15"
     },
     {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
