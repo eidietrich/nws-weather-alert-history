@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Sheep Fire",
+      "type": "Wildfire",
+      "summary": "The Sheep Fire is burning both in the Angeles National Forest and on...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-15 11:50:26",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "865 Acres",
+      "url": "/incident/8151/",
+      "id": "8151",
+      "contained": "81"
+    },
+    {
+      "name": "Midnight Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-15 11:43:04",
+      "lat": "36.45",
+      "lng": "-106.224",
+      "size": "4,905 Acres",
+      "url": "/incident/8147/",
+      "id": "8147",
+      "contained": "12"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-15 11:39:11",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "317,676 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "48"
+    },
+    {
       "name": "Contreras Fire ",
       "type": "Wildfire",
       "summary": " Sells, AZ – The Contreras Fire started June 11 on a remote ridge...",
       "state": "ARIZONA",
-      "updated": "2022-06-15 11:25:22",
+      "updated": "2022-06-15 11:34:15",
       "lat": "31.849",
       "lng": "-111.574",
       "size": "2,750 Acres",
       "url": "/incident/8154/",
       "id": "8154",
       "contained": "0"
+    },
+    {
+      "name": "Contact Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Contact Creek Fire (#151), burning 40 miles southeast of King...",
+      "state": "ALASKA",
+      "updated": "2022-06-15 11:31:54",
+      "lat": "58.219",
+      "lng": "-155.966",
+      "size": "10,321 Acres",
+      "url": "/incident/8131/",
+      "id": "8131",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-15 11:27:18",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "335,069 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "70"
     },
     {
       "name": "Hermits Peak Fire",
@@ -27,19 +92,6 @@
       "contained": "70"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-15 11:16:23",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "335,069 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "70"
-    },
-    {
       "name": "Yogi Fire",
       "type": "Wildfire",
       "summary": "The Texas A&amp;M Forest Service was requested to the Yogi Fire for...",
@@ -51,19 +103,6 @@
       "url": "/incident/8157/",
       "id": "8157",
       "contained": "95"
-    },
-    {
-      "name": "Sheep Fire",
-      "type": "Wildfire",
-      "summary": "STATUS: The following information is correct as of June 14, 2022, at...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-15 11:11:51",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "865 Acres",
-      "url": "/incident/8151/",
-      "id": "8151",
-      "contained": "81"
     },
     {
       "name": "Haywire Fire",
@@ -103,32 +142,6 @@
       "url": "/incident/8158/",
       "id": "8158",
       "contained": "25"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-15 10:29:44",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "317,676 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "48"
-    },
-    {
-      "name": "Midnight Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-15 08:51:45",
-      "lat": "36.45",
-      "lng": "-106.224",
-      "size": "4,905 Acres",
-      "url": "/incident/8147/",
-      "id": "8147",
-      "contained": "12"
     },
     {
       "name": "Carbon County Flood",
@@ -194,19 +207,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "100"
-    },
-    {
-      "name": "Contact Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Contact Creek Fire (#151), burning 40 miles southeast of King...",
-      "state": "ALASKA",
-      "updated": "2022-06-14 19:14:03",
-      "lat": "58.219",
-      "lng": "-155.966",
-      "size": "10,321 Acres",
-      "url": "/incident/8131/",
-      "id": "8131",
-      "contained": "0"
     },
     {
       "name": "Fish Fire",
