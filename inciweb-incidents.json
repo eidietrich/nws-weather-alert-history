@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "McBride Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-15 13:19:56",
+      "lat": "33.4",
+      "lng": "-105.568",
+      "size": "0 Acres",
+      "url": "/incident/8080/",
+      "id": "8080",
+      "contained": "0"
+    },
+    {
+      "name": "East Fork Fire ",
+      "type": "Wildfire",
+      "summary": "The East fork Fire started on May 31st in a limited protection area...",
+      "state": "ALASKA",
+      "updated": "2022-06-15 13:19:47",
+      "lat": "62.366",
+      "lng": "-162.799",
+      "size": "184,992 Acres",
+      "url": "/incident/8148/",
+      "id": "8148",
+      "contained": "0"
+    },
+    {
+      "name": "Nogal Canyon Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-15 13:17:20",
+      "lat": "33.577",
+      "lng": "-105.68",
+      "size": "0 Acres",
+      "url": "/incident/8072/",
+      "id": "8072",
+      "contained": "0"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-15 13:13:56",
+      "lat": "35.372",
+      "lng": "-111.437",
+      "size": "4,052 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "0"
+    },
+    {
       "name": "Pipeline Fire",
       "type": "Wildfire",
       "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
       "state": "ARIZONA",
-      "updated": "2022-06-15 12:42:53",
+      "updated": "2022-06-15 13:10:40",
       "lat": "35.282",
       "lng": "-111.681",
       "size": "20,178 Acres",
@@ -14,17 +66,30 @@
       "contained": "0"
     },
     {
-      "name": "Haywire Fire",
+      "name": "Cerro Pelado",
       "type": "Wildfire",
-      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-15 12:39:53",
-      "lat": "35.372",
-      "lng": "-111.437",
-      "size": "4,052 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "0"
+      "summary": "The Northern New Mexico Type 3 Incident Management Team will...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-15 12:57:19",
+      "lat": "35.775",
+      "lng": "-106.584",
+      "size": "45,605 Acres",
+      "url": "/incident/8075/",
+      "id": "8075",
+      "contained": "98"
+    },
+    {
+      "name": "Sheep Fire",
+      "type": "Wildfire",
+      "summary": "BACKGROUND:At 6:36 p.m. on June 11, 2022, a fire was reported to...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-15 12:56:12",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "865 Acres",
+      "url": "/incident/8151/",
+      "id": "8151",
+      "contained": "81"
     },
     {
       "name": "Contreras Fire ",
@@ -40,19 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Cerro Pelado",
-      "type": "Wildfire",
-      "summary": "The Northern New Mexico Type 3 Incident Management Team will...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-15 12:27:17",
-      "lat": "35.775",
-      "lng": "-106.584",
-      "size": "45,605 Acres",
-      "url": "/incident/8075/",
-      "id": "8075",
-      "contained": "100"
-    },
-    {
       "name": "Black Fire",
       "type": "Wildfire",
       "summary": "The Black Fire is currently burning mostly on National Forest lands...",
@@ -64,19 +116,6 @@
       "url": "/incident/8103/",
       "id": "8103",
       "contained": "48"
-    },
-    {
-      "name": "Sheep Fire",
-      "type": "Wildfire",
-      "summary": "The Sheep Fire is burning both in the Angeles National Forest and on...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-15 12:04:43",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "865 Acres",
-      "url": "/incident/8151/",
-      "id": "8151",
-      "contained": "81"
     },
     {
       "name": "Midnight Fire",
@@ -196,19 +235,6 @@
       "contained": "0"
     },
     {
-      "name": "East Fork Fire ",
-      "type": "Wildfire",
-      "summary": "The East fork Fire started on May 31st in a limited protection area...",
-      "state": "ALASKA",
-      "updated": "2022-06-14 19:53:39",
-      "lat": "62.366",
-      "lng": "-162.799",
-      "size": "173,017 Acres",
-      "url": "/incident/8148/",
-      "id": "8148",
-      "contained": "0"
-    },
-    {
       "name": "Fish Fire",
       "type": "Wildfire",
       "summary": " The fire was initially reported on the 10th of June at 4:28 PM. As...",
@@ -310,32 +336,6 @@
       "size": "0 Acres",
       "url": "/incident/8118/",
       "id": "8118",
-      "contained": "0"
-    },
-    {
-      "name": "Nogal Canyon Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-11 12:36:45",
-      "lat": "33.577",
-      "lng": "-105.68",
-      "size": "0 Acres",
-      "url": "/incident/8072/",
-      "id": "8072",
-      "contained": "0"
-    },
-    {
-      "name": "McBride Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-11 12:34:36",
-      "lat": "33.4",
-      "lng": "-105.568",
-      "size": "0 Acres",
-      "url": "/incident/8080/",
-      "id": "8080",
       "contained": "0"
     },
     {
