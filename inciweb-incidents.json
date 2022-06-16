@@ -5,7 +5,7 @@
       "type": "Wildfire",
       "summary": "The Black Fire is currently burning mostly on National Forest lands...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-16 09:14:49",
+      "updated": "2022-06-16 09:26:12",
       "lat": "33.204",
       "lng": "-108.059",
       "size": "320,971 Acres",
@@ -14,30 +14,43 @@
       "contained": "48"
     },
     {
-      "name": "Lucky Strike Fire",
-      "type": "Wildfire",
-      "summary": " On June 14, 2022, Texas A&amp;M Forest Service (TAMFS) was requested...",
-      "state": "TEXAS",
-      "updated": "2022-06-16 09:11:55",
-      "lat": "36.059",
-      "lng": "-100.954",
-      "size": "1,273 Acres",
-      "url": "/incident/8163/",
-      "id": "8163",
-      "contained": "80"
-    },
-    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-16 09:05:41",
+      "updated": "2022-06-16 09:23:16",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "336,638 Acres",
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "72"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
+      "state": "ARIZONA",
+      "updated": "2022-06-16 09:22:16",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "24,815 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "27"
+    },
+    {
+      "name": "Lucky Strike Fire",
+      "type": "Wildfire",
+      "summary": " On June 14, 2022, Texas A&amp;M Forest Service (TAMFS) was requested...",
+      "state": "TEXAS",
+      "updated": "2022-06-16 09:20:30",
+      "lat": "36.059",
+      "lng": "-100.954",
+      "size": "1,273 Acres",
+      "url": "/incident/8163/",
+      "id": "8163",
+      "contained": "80"
     },
     {
       "name": "Midnight Fire",
@@ -64,19 +77,6 @@
       "url": "/incident/8155/",
       "id": "8155",
       "contained": "11"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
-      "state": "ARIZONA",
-      "updated": "2022-06-16 08:13:50",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "24,815 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "27"
     },
     {
       "name": "Sierra Fire",
