@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-16 13:24:07",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,372 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "11"
+    },
+    {
       "name": "Pipeline Fire",
       "type": "Wildfire",
       "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
       "state": "ARIZONA",
-      "updated": "2022-06-16 12:43:33",
+      "updated": "2022-06-16 13:21:36",
       "lat": "35.27",
       "lng": "-111.666",
       "size": "24,815 Acres",
@@ -14,17 +27,69 @@
       "contained": "27"
     },
     {
+      "name": "Fish Fire",
+      "type": "Wildfire",
+      "summary": " The fire was initially reported on the 10th of June at 4:28 PM. As...",
+      "state": "ARIZONA",
+      "updated": "2022-06-16 13:19:21",
+      "lat": "33.635",
+      "lng": "-109.393",
+      "size": "909 Acres",
+      "url": "/incident/8160/",
+      "id": "8160",
+      "contained": "0"
+    },
+    {
+      "name": "Graham Fire",
+      "type": "Wildfire",
+      "summary": "The Graham Fire started on June 9, 2022 at approximately 1800 hours...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-16 13:06:16",
+      "lat": "40.05",
+      "lng": "-121.776",
+      "size": "175 Acres",
+      "url": "/incident/8150/",
+      "id": "8150",
+      "contained": "70"
+    },
+    {
       "name": "Contreras Fire ",
       "type": "Wildfire",
       "summary": "",
       "state": "ARIZONA",
-      "updated": "2022-06-16 12:41:26",
+      "updated": "2022-06-16 12:58:48",
       "lat": "31.849",
       "lng": "-111.574",
       "size": "6,662 Acres",
       "url": "/incident/8154/",
       "id": "8154",
       "contained": "0"
+    },
+    {
+      "name": "Sierra Fire",
+      "type": "Wildfire",
+      "summary": "A new fire was reported to the Angeles National Forest Emergency...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-16 12:55:39",
+      "lat": "34.554",
+      "lng": "-118.414",
+      "size": "11 Acres",
+      "url": "/incident/8164/",
+      "id": "8164",
+      "contained": "0"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-16 12:49:23",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "320,971 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "48"
     },
     {
       "name": "Midnight Fire",
@@ -38,19 +103,6 @@
       "url": "/incident/8147/",
       "id": "8147",
       "contained": "16"
-    },
-    {
-      "name": "Sierra Fire",
-      "type": "Wildfire",
-      "summary": "A new fire was reported to the Angeles National Forest Emergency...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-16 12:33:29",
-      "lat": "34.554",
-      "lng": "-118.414",
-      "size": "11 Acres",
-      "url": "/incident/8164/",
-      "id": "8164",
-      "contained": "0"
     },
     {
       "name": "Tharps-Hazelwood Prescribed Burn",
@@ -196,32 +248,6 @@
       "contained": "100"
     },
     {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-16 11:12:10",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "320,971 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "48"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-16 11:05:16",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,372 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "11"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -258,19 +284,6 @@
       "size": "0 Square Miles",
       "url": "/incident/8161/",
       "id": "8161",
-      "contained": "0"
-    },
-    {
-      "name": "Fish Fire",
-      "type": "Wildfire",
-      "summary": " The fire was initially reported on the 10th of June at 4:28 PM. As...",
-      "state": "ARIZONA",
-      "updated": "2022-06-15 19:44:11",
-      "lat": "33.635",
-      "lng": "-109.393",
-      "size": "909 Acres",
-      "url": "/incident/8160/",
-      "id": "8160",
       "contained": "0"
     },
     {
@@ -337,19 +350,6 @@
       "url": "/incident/8145/",
       "id": "8145",
       "contained": "85"
-    },
-    {
-      "name": "Graham Fire",
-      "type": "Wildfire",
-      "summary": "The Graham Fire started on June 9, 2022 at approximately 1800 hours...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-14 14:34:56",
-      "lat": "40.05",
-      "lng": "-121.776",
-      "size": "173 Acres",
-      "url": "/incident/8150/",
-      "id": "8150",
-      "contained": "50"
     },
     {
       "name": "Diamond Y Spring",
