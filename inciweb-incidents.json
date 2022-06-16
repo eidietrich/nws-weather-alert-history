@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Graham Fire",
+      "type": "Wildfire",
+      "summary": "The Graham Fire started on June 9, 2022 at approximately 1800 hours...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-16 17:42:35",
+      "lat": "40.05",
+      "lng": "-121.776",
+      "size": "100 Acres",
+      "url": "/incident/8150/",
+      "id": "8150",
+      "contained": "100"
+    },
+    {
+      "name": "Fish Fire",
+      "type": "Wildfire",
+      "summary": " The fire was initially reported on the 10th of June at 4:28 PM. As...",
+      "state": "ARIZONA",
+      "updated": "2022-06-16 17:35:52",
+      "lat": "33.635",
+      "lng": "-109.393",
+      "size": "1,900 Acres",
+      "url": "/incident/8160/",
+      "id": "8160",
+      "contained": "0"
+    },
+    {
       "name": "East Fork Fire ",
       "type": "Wildfire",
       "summary": "The East fork Fire started on May 31st in a limited protection area...",
@@ -24,19 +50,6 @@
       "size": "11,489 Acres",
       "url": "/incident/8154/",
       "id": "8154",
-      "contained": "0"
-    },
-    {
-      "name": "Fish Fire",
-      "type": "Wildfire",
-      "summary": " The fire was initially reported on the 10th of June at 4:28 PM. As...",
-      "state": "ARIZONA",
-      "updated": "2022-06-16 16:49:28",
-      "lat": "33.635",
-      "lng": "-109.393",
-      "size": "1,900 Acres",
-      "url": "/incident/8160/",
-      "id": "8160",
       "contained": "0"
     },
     {
@@ -155,19 +168,6 @@
       "url": "/incident/8159/",
       "id": "8159",
       "contained": "100"
-    },
-    {
-      "name": "Graham Fire",
-      "type": "Wildfire",
-      "summary": "The Graham Fire started on June 9, 2022 at approximately 1800 hours...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-16 13:06:16",
-      "lat": "40.05",
-      "lng": "-121.776",
-      "size": "175 Acres",
-      "url": "/incident/8150/",
-      "id": "8150",
-      "contained": "70"
     },
     {
       "name": "Midnight Fire",
