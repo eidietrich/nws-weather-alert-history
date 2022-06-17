@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Carbon County Flood",
+      "type": "Flood",
+      "summary": "On June 12th, 2022 Rock Creek and the Clarks Fork of the Yellowstone...",
+      "state": "MONTANA",
+      "updated": "2022-06-16 23:09:41",
+      "lat": "45.186",
+      "lng": "-109.247",
+      "size": "0 Square Miles",
+      "url": "/incident/8161/",
+      "id": "8161",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-16 22:31:30",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "336,638 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "72"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-16 22:23:33",
+      "updated": "2022-06-16 22:25:42",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "336,638 Acres",
@@ -131,19 +157,6 @@
       "contained": "98"
     },
     {
-      "name": "Carbon County Flood",
-      "type": "Flood",
-      "summary": "On June 12th, 2022 Rock Creek and the Clarks Fork of the Yellowstone...",
-      "state": "MONTANA",
-      "updated": "2022-06-16 20:08:41",
-      "lat": "45.186",
-      "lng": "-109.247",
-      "size": "0 Square Miles",
-      "url": "/incident/8161/",
-      "id": "8161",
-      "contained": "0"
-    },
-    {
       "name": "Lucky Strike Fire",
       "type": "Wildfire",
       "summary": " On June 14, 2022, Texas A&amp;M Forest Service (TAMFS) was requested...",
@@ -155,19 +168,6 @@
       "url": "/incident/8163/",
       "id": "8163",
       "contained": "100"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-16 19:49:59",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "336,638 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "72"
     },
     {
       "name": "Graham Fire",
