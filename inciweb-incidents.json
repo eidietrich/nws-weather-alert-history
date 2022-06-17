@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Haywire Fire",
+      "name": "Contreras Fire ",
       "type": "Wildfire",
-      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "summary": "INCIDENT STATISTICSFire start date: June 11, 2022Cause:...",
       "state": "ARIZONA",
-      "updated": "2022-06-16 18:45:42",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,372 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "11"
+      "updated": "2022-06-16 20:48:28",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "11,489 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "0"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-16 20:44:08",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "321,681 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "50"
     },
     {
       "name": "Pipeline Fire",
       "type": "Wildfire",
       "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
       "state": "ARIZONA",
-      "updated": "2022-06-16 18:43:49",
+      "updated": "2022-06-16 20:33:00",
       "lat": "35.27",
       "lng": "-111.666",
       "size": "24,815 Acres",
@@ -27,11 +40,50 @@
       "contained": "27"
     },
     {
+      "name": "Yogi Fire",
+      "type": "Wildfire",
+      "summary": "The Texas A&amp;M Forest Service was requested to the Yogi Fire for...",
+      "state": "TEXAS",
+      "updated": "2022-06-16 20:18:15",
+      "lat": "30.128",
+      "lng": "-97.148",
+      "size": "123 Acres",
+      "url": "/incident/8157/",
+      "id": "8157",
+      "contained": "98"
+    },
+    {
+      "name": "Carbon County Flood",
+      "type": "Flood",
+      "summary": "On June 12th, 2022 Rock Creek and the Clarks Fork of the Yellowstone...",
+      "state": "MONTANA",
+      "updated": "2022-06-16 20:08:41",
+      "lat": "45.186",
+      "lng": "-109.247",
+      "size": "0 Square Miles",
+      "url": "/incident/8161/",
+      "id": "8161",
+      "contained": "0"
+    },
+    {
+      "name": "Lucky Strike Fire",
+      "type": "Wildfire",
+      "summary": " On June 14, 2022, Texas A&amp;M Forest Service (TAMFS) was requested...",
+      "state": "TEXAS",
+      "updated": "2022-06-16 20:04:22",
+      "lat": "36.059",
+      "lng": "-100.954",
+      "size": "1,273 Acres",
+      "url": "/incident/8163/",
+      "id": "8163",
+      "contained": "100"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-16 18:24:12",
+      "updated": "2022-06-16 19:49:59",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "336,638 Acres",
@@ -44,7 +96,7 @@
       "type": "Wildfire",
       "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-16 18:22:10",
+      "updated": "2022-06-16 19:48:54",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "336,638 Acres",
@@ -53,30 +105,30 @@
       "contained": "72"
     },
     {
-      "name": "Black Fire",
+      "name": "Midnight Fire",
       "type": "Wildfire",
-      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
+      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-16 18:17:31",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "321,681 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "50"
+      "updated": "2022-06-16 19:06:26",
+      "lat": "36.45",
+      "lng": "-106.224",
+      "size": "4,896 Acres",
+      "url": "/incident/8147/",
+      "id": "8147",
+      "contained": "69"
     },
     {
-      "name": "Contreras Fire ",
+      "name": "Haywire Fire",
       "type": "Wildfire",
-      "summary": "INCIDENT STATISTICSFire start date: June 11, 2022Cause:...",
+      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
       "state": "ARIZONA",
-      "updated": "2022-06-16 18:04:20",
-      "lat": "31.849",
-      "lng": "-111.574",
-      "size": "11,489 Acres",
-      "url": "/incident/8154/",
-      "id": "8154",
-      "contained": "0"
+      "updated": "2022-06-16 18:48:48",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,372 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "11"
     },
     {
       "name": "Graham Fire",
@@ -131,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Yogi Fire",
-      "type": "Wildfire",
-      "summary": "The Texas A&amp;M Forest Service was requested to the Yogi Fire for...",
-      "state": "TEXAS",
-      "updated": "2022-06-16 14:58:20",
-      "lat": "30.128",
-      "lng": "-97.148",
-      "size": "123 Acres",
-      "url": "/incident/8157/",
-      "id": "8157",
-      "contained": "95"
-    },
-    {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
@@ -155,19 +194,6 @@
       "url": "/incident/8104/",
       "id": "8104",
       "contained": "0"
-    },
-    {
-      "name": "Lucky Strike Fire",
-      "type": "Wildfire",
-      "summary": " On June 14, 2022, Texas A&amp;M Forest Service (TAMFS) was requested...",
-      "state": "TEXAS",
-      "updated": "2022-06-16 13:46:09",
-      "lat": "36.059",
-      "lng": "-100.954",
-      "size": "1,273 Acres",
-      "url": "/incident/8163/",
-      "id": "8163",
-      "contained": "90"
     },
     {
       "name": "Cerro Pelado Post-Fire BAER",
@@ -194,19 +220,6 @@
       "url": "/incident/8159/",
       "id": "8159",
       "contained": "100"
-    },
-    {
-      "name": "Midnight Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-16 12:36:07",
-      "lat": "36.45",
-      "lng": "-106.224",
-      "size": "4,919 Acres",
-      "url": "/incident/8147/",
-      "id": "8147",
-      "contained": "16"
     },
     {
       "name": "Tharps-Hazelwood Prescribed Burn",
@@ -311,19 +324,6 @@
       "url": "/incident/8158/",
       "id": "8158",
       "contained": "25"
-    },
-    {
-      "name": "Carbon County Flood",
-      "type": "Flood",
-      "summary": "On June 12th, 2022 Rock Creek and the Clarks Fork of the Yellowstone...",
-      "state": "MONTANA",
-      "updated": "2022-06-15 19:58:44",
-      "lat": "45.186",
-      "lng": "-109.247",
-      "size": "0 Square Miles",
-      "url": "/incident/8161/",
-      "id": "8161",
-      "contained": "0"
     },
     {
       "name": "Cerro Pelado",
