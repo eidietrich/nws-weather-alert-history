@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "East Fork Fire ",
+      "type": "Wildfire",
+      "summary": "The East fork Fire started on May 31st in a limited protection area...",
+      "state": "ALASKA",
+      "updated": "2022-06-17 16:44:41",
+      "lat": "62.366",
+      "lng": "-162.799",
+      "size": "220,610 Acres",
+      "url": "/incident/8148/",
+      "id": "8148",
+      "contained": "67"
+    },
+    {
+      "name": "Sheep Fire",
+      "type": "Wildfire",
+      "summary": " BACKGROUND: At 6:36 p.m. on June 11, 2022, a fire was reported to...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-17 16:44:24",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "865 Acres",
+      "url": "/incident/8151/",
+      "id": "8151",
+      "contained": "90"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": " The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
+      "state": "ARIZONA",
+      "updated": "2022-06-17 16:36:14",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,297 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "27"
+    },
+    {
       "name": "Haywire Fire",
       "type": "Wildfire",
       "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
@@ -53,19 +92,6 @@
       "contained": "0"
     },
     {
-      "name": "East Fork Fire ",
-      "type": "Wildfire",
-      "summary": "The East fork Fire started on May 31st in a limited protection area...",
-      "state": "ALASKA",
-      "updated": "2022-06-17 14:22:41",
-      "lat": "62.366",
-      "lng": "-162.799",
-      "size": "220,610 Acres",
-      "url": "/incident/8148/",
-      "id": "8148",
-      "contained": "67"
-    },
-    {
       "name": "Contreras Fire ",
       "type": "Wildfire",
       "summary": " INCIDENT...",
@@ -77,32 +103,6 @@
       "url": "/incident/8154/",
       "id": "8154",
       "contained": "0"
-    },
-    {
-      "name": "Sheep Fire",
-      "type": "Wildfire",
-      "summary": " BACKGROUND: At 6:36 p.m. on June 11, 2022, a fire was reported to...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-17 13:42:38",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "865 Acres",
-      "url": "/incident/8151/",
-      "id": "8151",
-      "contained": "90"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": " The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
-      "state": "ARIZONA",
-      "updated": "2022-06-17 13:35:07",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,297 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "27"
     },
     {
       "name": "Tonto Canyon Fire",
