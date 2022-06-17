@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-16 22:23:33",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "336,638 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "72"
+    },
+    {
+      "name": "Sheep Fire",
+      "type": "Wildfire",
+      "summary": " BACKGROUND: At 6:36 p.m. on June 11, 2022, a fire was reported to...",
+      "state": "CALIFORNIA",
+      "updated": "2022-06-16 22:13:33",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "865 Acres",
+      "url": "/incident/8151/",
+      "id": "8151",
+      "contained": "90"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
+      "state": "ARIZONA",
+      "updated": "2022-06-16 22:07:52",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "24,815 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "27"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-16 21:59:04",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,372 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "11"
+    },
+    {
+      "name": "Midnight Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-16 21:38:29",
+      "lat": "36.45",
+      "lng": "-106.224",
+      "size": "4,896 Acres",
+      "url": "/incident/8147/",
+      "id": "8147",
+      "contained": "69"
+    },
+    {
+      "name": "Tonto Canyon Fire",
+      "type": "Wildfire",
+      "summary": "On Sunday, June 12, 2022, the Coronado National Forest responded to...",
+      "state": "ARIZONA",
+      "updated": "2022-06-16 21:34:47",
+      "lat": "31.381",
+      "lng": "-111.198",
+      "size": "9,550 Acres",
+      "url": "/incident/8158/",
+      "id": "8158",
+      "contained": "25"
+    },
+    {
+      "name": "Raspberry Fire",
+      "type": "Wildfire",
+      "summary": "The Coronado National Forest is responding to a lightning caused...",
+      "state": "ARIZONA",
+      "updated": "2022-06-16 21:31:36",
+      "lat": "31.824",
+      "lng": "-109.285",
+      "size": "489 Acres",
+      "url": "/incident/8162/",
+      "id": "8162",
+      "contained": "0"
+    },
+    {
       "name": "Contreras Fire ",
       "type": "Wildfire",
       "summary": "INCIDENT STATISTICSFire start date: June 11, 2022Cause:...",
       "state": "ARIZONA",
-      "updated": "2022-06-16 20:48:28",
+      "updated": "2022-06-16 21:30:02",
       "lat": "31.849",
       "lng": "-111.574",
       "size": "11,489 Acres",
@@ -25,19 +116,6 @@
       "url": "/incident/8103/",
       "id": "8103",
       "contained": "50"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire, located 6 miles north of Flagstaff, was reported...",
-      "state": "ARIZONA",
-      "updated": "2022-06-16 20:33:00",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "24,815 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "27"
     },
     {
       "name": "Yogi Fire",
@@ -90,45 +168,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "72"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-16 19:48:54",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "336,638 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "72"
-    },
-    {
-      "name": "Midnight Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-16 19:06:26",
-      "lat": "36.45",
-      "lng": "-106.224",
-      "size": "4,896 Acres",
-      "url": "/incident/8147/",
-      "id": "8147",
-      "contained": "69"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": "The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-16 18:48:48",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,372 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "11"
     },
     {
       "name": "Graham Fire",
@@ -235,32 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "Raspberry Fire",
-      "type": "Wildfire",
-      "summary": "The Coronado National Forest is responding to a lightning caused...",
-      "state": "ARIZONA",
-      "updated": "2022-06-16 12:21:33",
-      "lat": "31.824",
-      "lng": "-109.285",
-      "size": "489 Acres",
-      "url": "/incident/8162/",
-      "id": "8162",
-      "contained": "0"
-    },
-    {
-      "name": "Sheep Fire",
-      "type": "Wildfire",
-      "summary": "BACKGROUND: At 6:36 p.m. on June 11, 2022, a fire was reported to...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-16 11:33:35",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "865 Acres",
-      "url": "/incident/8151/",
-      "id": "8151",
-      "contained": "90"
-    },
-    {
       "name": "McBride Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
@@ -311,19 +324,6 @@
       "url": "/incident/8124/",
       "id": "8124",
       "contained": "100"
-    },
-    {
-      "name": "Tonto Canyon Fire",
-      "type": "Wildfire",
-      "summary": "On Sunday, June 12, 2022, the Coronado National Forest responded to...",
-      "state": "ARIZONA",
-      "updated": "2022-06-15 20:35:31",
-      "lat": "31.381",
-      "lng": "-111.198",
-      "size": "6,222 Acres",
-      "url": "/incident/8158/",
-      "id": "8158",
-      "contained": "25"
     },
     {
       "name": "Cerro Pelado",
