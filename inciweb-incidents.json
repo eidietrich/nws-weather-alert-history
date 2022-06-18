@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Carbon County Flood",
+      "type": "Flood",
+      "summary": "On June 12th, 2022 Rock Creek and the Clarks Fork of the Yellowstone...",
+      "state": "MONTANA",
+      "updated": "2022-06-18 08:45:21",
+      "lat": "45.186",
+      "lng": "-109.247",
+      "size": "0 Square Miles",
+      "url": "/incident/8161/",
+      "id": "8161",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-18 08:20:11",
+      "updated": "2022-06-18 08:39:47",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "341,314 Acres",
@@ -14,30 +27,43 @@
       "contained": "72"
     },
     {
-      "name": "Calf Canyon",
+      "name": "Black Fire",
       "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-18 08:18:22",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,314 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "72"
+      "updated": "2022-06-18 08:39:10",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "324,909 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "58"
     },
     {
       "name": "Midnight Fire",
       "type": "Wildfire",
       "summary": "Summary:  The Midnight Fire began June 9th approximately eight miles...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-18 08:14:53",
+      "updated": "2022-06-18 08:36:01",
       "lat": "36.45",
       "lng": "-106.224",
       "size": "4,896 Acres",
       "url": "/incident/8147/",
       "id": "8147",
       "contained": "79"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-18 08:34:21",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,314 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "72"
     },
     {
       "name": "Haywire Fire",
@@ -66,19 +92,6 @@
       "contained": "27"
     },
     {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is currently burning mostly on National Forest lands...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-18 07:41:26",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "324,909 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "58"
-    },
-    {
       "name": "Contreras Fire ",
       "type": "Wildfire",
       "summary": " INCIDENT...",
@@ -89,19 +102,6 @@
       "size": "17,646 Acres",
       "url": "/incident/8154/",
       "id": "8154",
-      "contained": "0"
-    },
-    {
-      "name": "Carbon County Flood",
-      "type": "Flood",
-      "summary": "On June 12th, 2022 Rock Creek and the Clarks Fork of the Yellowstone...",
-      "state": "MONTANA",
-      "updated": "2022-06-17 23:43:29",
-      "lat": "45.186",
-      "lng": "-109.247",
-      "size": "0 Square Miles",
-      "url": "/incident/8161/",
-      "id": "8161",
       "contained": "0"
     },
     {
