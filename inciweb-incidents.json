@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Contreras Fire ",
+      "type": "Wildfire",
+      "summary": "The Contreras Fire started June 11 on a remote ridge of the...",
+      "state": "ARIZONA",
+      "updated": "2022-06-20 13:22:45",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "20,360 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "40"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
+      "state": "ARIZONA",
+      "updated": "2022-06-20 12:55:41",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,528 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "50"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-20 12:54:13",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,575 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "40"
+    },
+    {
       "name": "Carbon County Flood",
       "type": "Flood",
       "summary": "On June 12th, 2022, Rock Creek and the Clarks Fork of the Yellowstone...",
@@ -12,19 +51,6 @@
       "url": "/incident/8161/",
       "id": "8161",
       "contained": "0"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-20 12:41:40",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,575 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "40"
     },
     {
       "name": "Black Fire",
@@ -79,19 +105,6 @@
       "contained": "95"
     },
     {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
-      "state": "ARIZONA",
-      "updated": "2022-06-20 07:44:07",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,528 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "50"
-    },
-    {
       "name": "Sheep Fire",
       "type": "Wildfire",
       "summary": "BACKGROUND: At 6:36 p.m. on June 11, 2022, a fire was reported to...",
@@ -103,19 +116,6 @@
       "url": "/incident/8151/",
       "id": "8151",
       "contained": "100"
-    },
-    {
-      "name": "Contreras Fire ",
-      "type": "Wildfire",
-      "summary": "The Contreras Fire started June 11 on a remote ridge of the...",
-      "state": "ARIZONA",
-      "updated": "2022-06-19 20:56:28",
-      "lat": "31.849",
-      "lng": "-111.574",
-      "size": "20,360 Acres",
-      "url": "/incident/8154/",
-      "id": "8154",
-      "contained": "40"
     },
     {
       "name": "Raspberry Fire",
