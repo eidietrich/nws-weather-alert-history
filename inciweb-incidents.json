@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-21 17:10:32",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,575 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "45"
+    },
+    {
+      "name": "Kinsley Fire",
+      "type": "Wildfire",
+      "summary": "The 3,209-acre Kinsley Fire is 80-percent contained with full...",
+      "state": "NEVADA",
+      "updated": "2022-06-21 17:09:35",
+      "lat": "40.081",
+      "lng": "-114.422",
+      "size": "3,209 Acres",
+      "url": "/incident/8167/",
+      "id": "8167",
+      "contained": "80"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
+      "state": "ARIZONA",
+      "updated": "2022-06-21 17:09:16",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,528 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "60"
+    },
+    {
       "name": "Black Fire",
       "type": "Wildfire",
       "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
@@ -131,32 +170,6 @@
       "contained": "30"
     },
     {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-21 12:23:57",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,575 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "45"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
-      "state": "ARIZONA",
-      "updated": "2022-06-21 12:23:34",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,528 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "60"
-    },
-    {
       "name": "Bear Trap Fire",
       "type": "Wildfire",
       "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
@@ -194,19 +207,6 @@
       "url": "/incident/8144/",
       "id": "8144",
       "contained": "0"
-    },
-    {
-      "name": "Kinsley Fire",
-      "type": "Wildfire",
-      "summary": "The Kinsley Fire on the Elko-White Pine County line 60 miles...",
-      "state": "NEVADA",
-      "updated": "2022-06-20 18:33:04",
-      "lat": "40.081",
-      "lng": "-114.422",
-      "size": "3,209 Acres",
-      "url": "/incident/8167/",
-      "id": "8167",
-      "contained": "60"
     },
     {
       "name": "Tharps-Hazelwood Prescribed Burn",
