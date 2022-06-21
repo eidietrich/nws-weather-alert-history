@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-21 06:44:09",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,575 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "45"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
+      "state": "ARIZONA",
+      "updated": "2022-06-21 06:42:56",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,528 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "50"
+    },
+    {
       "name": "Black Fire",
       "type": "Wildfire",
       "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
@@ -64,32 +90,6 @@
       "url": "/incident/8154/",
       "id": "8154",
       "contained": "50"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
-      "state": "ARIZONA",
-      "updated": "2022-06-20 21:13:58",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,528 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "50"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-20 21:13:07",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,575 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "45"
     },
     {
       "name": "Midnight Fire",
