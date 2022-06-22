@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Carbon County Flood",
+      "type": "Flood",
+      "summary": "On June 12th, 2022, Rock Creek and the Clarks Fork of the Yellowstone...",
+      "state": "MONTANA",
+      "updated": "2022-06-22 10:18:46",
+      "lat": "45.186",
+      "lng": "-109.247",
+      "size": "0 Square Miles",
+      "url": "/incident/8161/",
+      "id": "8161",
+      "contained": "0"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-22 09:50:41",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "325,128 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "68"
+    },
+    {
       "name": "Haywire Fire",
       "type": "Wildfire",
       "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
@@ -53,19 +79,6 @@
       "contained": "72"
     },
     {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-22 08:24:07",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "325,128 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "68"
-    },
-    {
       "name": "Pipeline Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team,led by Eric Schroeder,...",
@@ -90,19 +103,6 @@
       "url": "/incident/8154/",
       "id": "8154",
       "contained": "50"
-    },
-    {
-      "name": "Carbon County Flood",
-      "type": "Flood",
-      "summary": "On June 12th, 2022, Rock Creek and the Clarks Fork of the Yellowstone...",
-      "state": "MONTANA",
-      "updated": "2022-06-21 18:25:01",
-      "lat": "45.186",
-      "lng": "-109.247",
-      "size": "0 Square Miles",
-      "url": "/incident/8161/",
-      "id": "8161",
-      "contained": "0"
     },
     {
       "name": "Kinsley Fire",
