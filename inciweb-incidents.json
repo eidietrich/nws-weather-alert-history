@@ -1,30 +1,56 @@
 {
   "markers": [
     {
-      "name": "Black Fire",
+      "name": "Left Fork Fire",
       "type": "Wildfire",
-      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-22 10:47:25",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "325,128 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "68"
+      "summary": " The Left Fork Fire ignited on June 18, 2022 on the Dixie National...",
+      "state": "UTAH",
+      "updated": "2022-06-22 11:28:22",
+      "lat": "37.483",
+      "lng": "-112.358",
+      "size": "0 Acres",
+      "url": "/incident/8169/",
+      "id": "8169",
+      "contained": "0"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
+      "state": "ARIZONA",
+      "updated": "2022-06-22 11:27:30",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,532 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "70"
     },
     {
       "name": "Carbon County Flood",
       "type": "Flood",
       "summary": "On June 12th, 2022, Rock Creek and the Clarks Fork of the Yellowstone...",
       "state": "MONTANA",
-      "updated": "2022-06-22 10:46:48",
+      "updated": "2022-06-22 11:23:15",
       "lat": "45.186",
       "lng": "-109.247",
       "size": "0 Square Miles",
       "url": "/incident/8161/",
       "id": "8161",
       "contained": "0"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-22 11:08:07",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "325,128 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "68"
     },
     {
       "name": "Haywire Fire",
@@ -38,19 +64,6 @@
       "url": "/incident/8155/",
       "id": "8155",
       "contained": "50"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
-      "state": "ARIZONA",
-      "updated": "2022-06-22 09:23:42",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,532 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "70"
     },
     {
       "name": "Calf Canyon",
