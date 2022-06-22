@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-21 20:46:42",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,575 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "50"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
+      "state": "ARIZONA",
+      "updated": "2022-06-21 20:33:00",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,532 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "70"
+    },
+    {
+      "name": "Contreras Fire ",
+      "type": "Wildfire",
+      "summary": "The Contreras Fire started June 11 on a remote ridge of the...",
+      "state": "ARIZONA",
+      "updated": "2022-06-21 20:25:22",
+      "lat": "31.849",
+      "lng": "-111.574",
+      "size": "27,791 Acres",
+      "url": "/incident/8154/",
+      "id": "8154",
+      "contained": "50"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-21 20:11:50",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "325,128 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "68"
+    },
+    {
       "name": "Carbon County Flood",
       "type": "Flood",
       "summary": "On June 12th, 2022, Rock Creek and the Clarks Fork of the Yellowstone...",
@@ -14,19 +66,6 @@
       "contained": "0"
     },
     {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-21 17:10:32",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,575 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "45"
-    },
-    {
       "name": "Kinsley Fire",
       "type": "Wildfire",
       "summary": "The 3,209-acre Kinsley Fire is 80-percent contained with full...",
@@ -38,32 +77,6 @@
       "url": "/incident/8167/",
       "id": "8167",
       "contained": "80"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire 6 miles north of Flagstaff was reported at 10:15...",
-      "state": "ARIZONA",
-      "updated": "2022-06-21 17:09:16",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,528 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "60"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-21 16:24:07",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "325,115 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "68"
     },
     {
       "name": "Hermits Peak Fire",
@@ -129,19 +142,6 @@
       "url": "/incident/8148/",
       "id": "8148",
       "contained": "100"
-    },
-    {
-      "name": "Contreras Fire ",
-      "type": "Wildfire",
-      "summary": "The Contreras Fire started June 11 on a remote ridge of the...",
-      "state": "ARIZONA",
-      "updated": "2022-06-21 13:35:30",
-      "lat": "31.849",
-      "lng": "-111.574",
-      "size": "24,761 Acres",
-      "url": "/incident/8154/",
-      "id": "8154",
-      "contained": "50"
     },
     {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
