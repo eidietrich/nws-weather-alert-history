@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
+      "state": "ARIZONA",
+      "updated": "2022-06-25 08:37:51",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,532 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "95"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-25 08:31:22",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,575 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "95"
+    },
+    {
       "name": "Contreras Fire ",
       "type": "Wildfire",
       "summary": " The Contreras Fire started June 11 on a remote ridge of the...",
       "state": "ARIZONA",
-      "updated": "2022-06-25 08:27:49",
+      "updated": "2022-06-25 08:28:47",
       "lat": "31.849",
       "lng": "-111.574",
       "size": "29,482 Acres",
@@ -155,32 +181,6 @@
       "url": "/incident/8174/",
       "id": "8174",
       "contained": "12"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-24 20:27:17",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,575 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "95"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
-      "state": "ARIZONA",
-      "updated": "2022-06-24 20:01:32",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,532 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "95"
     },
     {
       "name": "River Fire",
