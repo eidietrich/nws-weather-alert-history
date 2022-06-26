@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "East Fork Fire ",
+      "type": "Wildfire",
+      "summary": "The East fork Fire started on May 31st in a limited protection area...",
+      "state": "ALASKA",
+      "updated": "2022-06-25 21:03:33",
+      "lat": "62.366",
+      "lng": "-162.799",
+      "size": "250,725 Acres",
+      "url": "/incident/8148/",
+      "id": "8148",
+      "contained": "100"
+    },
+    {
+      "name": "Black Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-25 20:16:28",
+      "lat": "33.204",
+      "lng": "-108.009",
+      "size": "0 Acres",
+      "url": "/incident/8144/",
+      "id": "8144",
+      "contained": "0"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-25 19:49:54",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,575 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "95"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
+      "state": "ARIZONA",
+      "updated": "2022-06-25 19:45:43",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,532 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "90"
+    },
+    {
+      "name": "Lime Complex",
+      "type": "Wildfire",
+      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
+      "state": "ALASKA",
+      "updated": "2022-06-25 19:43:25",
+      "lat": "61.57",
+      "lng": "-158.006",
+      "size": "528,260 Acres",
+      "url": "/incident/8173/",
+      "id": "8173",
+      "contained": "0"
+    },
+    {
       "name": "Black Fire",
       "type": "Wildfire",
       "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-25 18:37:45",
+      "updated": "2022-06-25 19:22:13",
       "lat": "33.204",
       "lng": "-108.059",
       "size": "325,133 Acres",
@@ -18,7 +83,7 @@
       "type": "Wildfire",
       "summary": "On June 23, 2022 at approximately 2:30 pm the Texas A&amp;M Forest...",
       "state": "TEXAS",
-      "updated": "2022-06-25 17:45:58",
+      "updated": "2022-06-25 19:17:25",
       "lat": "32.801",
       "lng": "-98.251",
       "size": "8,000 Acres",
@@ -27,17 +92,17 @@
       "contained": "12"
     },
     {
-      "name": "Lime Complex",
+      "name": "Left Fork Fire",
       "type": "Wildfire",
-      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
-      "state": "ALASKA",
-      "updated": "2022-06-25 17:03:34",
-      "lat": "61.57",
-      "lng": "-158.006",
-      "size": "528,260 Acres",
-      "url": "/incident/8173/",
-      "id": "8173",
-      "contained": "0"
+      "summary": " The Left Fork Fire ignited on May 9, 2022 on the Dixie National...",
+      "state": "UTAH",
+      "updated": "2022-06-25 19:16:40",
+      "lat": "37.483",
+      "lng": "-112.358",
+      "size": "4,259 Acres",
+      "url": "/incident/8169/",
+      "id": "8169",
+      "contained": "5"
     },
     {
       "name": "Pipeline Fire BAER",
@@ -118,45 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Left Fork Fire",
-      "type": "Wildfire",
-      "summary": " The Left Fork Fire ignited on May 9, 2022 on the Dixie National...",
-      "state": "UTAH",
-      "updated": "2022-06-25 11:19:16",
-      "lat": "37.483",
-      "lng": "-112.358",
-      "size": "4,241 Acres",
-      "url": "/incident/8169/",
-      "id": "8169",
-      "contained": "5"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-25 11:16:10",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,575 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "95"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
-      "state": "ARIZONA",
-      "updated": "2022-06-25 11:11:36",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,532 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "95"
-    },
-    {
       "name": "Contreras Fire ",
       "type": "Wildfire",
       "summary": " The Contreras Fire started June 11 on a remote ridge of the...",
@@ -193,19 +219,6 @@
       "size": "0 Acres",
       "url": "/incident/8072/",
       "id": "8072",
-      "contained": "0"
-    },
-    {
-      "name": "Black Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-24 22:44:28",
-      "lat": "33.204",
-      "lng": "-108.009",
-      "size": "0 Acres",
-      "url": "/incident/8144/",
-      "id": "8144",
       "contained": "0"
     },
     {
@@ -350,19 +363,6 @@
       "url": "/incident/8165/",
       "id": "8165",
       "contained": "0"
-    },
-    {
-      "name": "East Fork Fire ",
-      "type": "Wildfire",
-      "summary": "The East fork Fire started on May 31st in a limited protection area...",
-      "state": "ALASKA",
-      "updated": "2022-06-21 13:38:49",
-      "lat": "62.366",
-      "lng": "-162.799",
-      "size": "250,725 Acres",
-      "url": "/incident/8148/",
-      "id": "8148",
-      "contained": "100"
     },
     {
       "name": "Tharps-Hazelwood Prescribed Burn",
