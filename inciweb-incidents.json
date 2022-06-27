@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-26 19:54:39",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "85"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-26 18:43:17",
+      "updated": "2022-06-26 19:47:51",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "341,735 Acres",
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "85"
+    },
+    {
+      "name": "Black Fire",
+      "type": "Wildfire",
+      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-26 19:22:06",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "325,136 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "70"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-06-26 19:16:03",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,575 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "95"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
+      "state": "ARIZONA",
+      "updated": "2022-06-26 19:12:47",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,532 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "90"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "The Clear Fire is located 6.5 miles northwest of the City of...",
+      "state": "ALASKA",
+      "updated": "2022-06-26 19:12:13",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "5,500 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "5"
     },
     {
       "name": "Archer Fire",
@@ -40,19 +105,6 @@
       "contained": "95"
     },
     {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-26 16:26:03",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "85"
-    },
-    {
       "name": "Left Fork Fire",
       "type": "Wildfire",
       "summary": " The Left Fork Fire ignited on May 9, 2022 on the Dixie National...",
@@ -77,19 +129,6 @@
       "url": "/incident/8168/",
       "id": "8168",
       "contained": "95"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "The Clear Fire is located 6.5 miles northwest of the City of...",
-      "state": "ALASKA",
-      "updated": "2022-06-26 13:30:35",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "5,500 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "5"
     },
     {
       "name": "Pineland Drive Fire",
@@ -129,45 +168,6 @@
       "url": "/incident/8174/",
       "id": "8174",
       "contained": "18"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-26 10:40:51",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "325,133 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "70"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
-      "state": "ARIZONA",
-      "updated": "2022-06-26 09:02:35",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,532 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "90"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-06-26 08:57:31",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,575 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "95"
     },
     {
       "name": "East Fork Fire ",
