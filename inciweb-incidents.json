@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Dempsey Fire",
+      "type": "Wildfire",
+      "summary": "On June 23, 2022 at approximately 2:30 pm the Texas A&amp;M Forest...",
+      "state": "TEXAS",
+      "updated": "2022-06-27 10:40:29",
+      "lat": "32.801",
+      "lng": "-98.251",
+      "size": "11,597 Acres",
+      "url": "/incident/8174/",
+      "id": "8174",
+      "contained": "27"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
       "state": "NEW MEXICO",
-      "updated": "2022-06-27 10:21:51",
+      "updated": "2022-06-27 10:28:57",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "341,735 Acres",
@@ -14,24 +27,11 @@
       "contained": "92"
     },
     {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-27 10:20:10",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "325,136 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "70"
-    },
-    {
       "name": "Left Fork Fire",
       "type": "Wildfire",
       "summary": " The Left Fork Fire ignited on May 9, 2022 on the Dixie National...",
       "state": "UTAH",
-      "updated": "2022-06-27 10:17:06",
+      "updated": "2022-06-27 10:27:18",
       "lat": "37.483",
       "lng": "-112.358",
       "size": "4,254 Acres",
@@ -40,17 +40,17 @@
       "contained": "13"
     },
     {
-      "name": "Dempsey Fire",
+      "name": "Black Fire",
       "type": "Wildfire",
-      "summary": "On June 23, 2022 at approximately 2:30 pm the Texas A&amp;M Forest...",
-      "state": "TEXAS",
-      "updated": "2022-06-27 10:16:42",
-      "lat": "32.801",
-      "lng": "-98.251",
-      "size": "11,597 Acres",
-      "url": "/incident/8174/",
-      "id": "8174",
-      "contained": "27"
+      "summary": "The Black Fire is mostly on National Forest lands in extremely rugged...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-27 10:25:39",
+      "lat": "33.204",
+      "lng": "-108.059",
+      "size": "325,136 Acres",
+      "url": "/incident/8103/",
+      "id": "8103",
+      "contained": "70"
     },
     {
       "name": "Crooks Fire",
