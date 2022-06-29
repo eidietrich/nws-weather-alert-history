@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Buckshot Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
+      "state": "TEXAS",
+      "updated": "2022-06-29 18:07:28",
+      "lat": "30.013",
+      "lng": "-99.46",
+      "size": "150 Acres",
+      "url": "/incident/8194/",
+      "id": "8194",
+      "contained": "15"
+    },
+    {
+      "name": "Antelope Valley",
+      "type": "Wildfire",
+      "summary": " Fire Fact Sheet BLM, Arizona Strip District Media Contact: Rachel...",
+      "state": "ARIZONA",
+      "updated": "2022-06-29 18:03:02",
+      "lat": "36.5",
+      "lng": "-113.012",
+      "size": "102 Acres",
+      "url": "/incident/8181/",
+      "id": "8181",
+      "contained": "75"
+    },
+    {
       "name": "Pipeline Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "Burned Area Emergency Response (BAER) Limitations While many...",
@@ -168,19 +194,6 @@
       "url": "/incident/8174/",
       "id": "8174",
       "contained": "55"
-    },
-    {
-      "name": "Antelope Valley",
-      "type": "Wildfire",
-      "summary": " Fire Fact SheetBLM, Arizona Strip District Media Contact: Rachel...",
-      "state": "ARIZONA",
-      "updated": "2022-06-28 18:18:39",
-      "lat": "36.5",
-      "lng": "-113.012",
-      "size": "102 Acres",
-      "url": "/incident/8181/",
-      "id": "8181",
-      "contained": "50"
     },
     {
       "name": "Black Post-Fire BAER",
