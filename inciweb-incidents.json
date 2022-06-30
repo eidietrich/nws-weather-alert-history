@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Goshute Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are suppressing the Goshute Fire west of U.S. Highway 93...",
+      "state": "NEVADA",
+      "updated": "2022-06-29 20:48:48",
+      "lat": "40.514",
+      "lng": "-114.287",
+      "size": "2,000 Acres",
+      "url": "/incident/8180/",
+      "id": "8180",
+      "contained": "20"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-29 19:10:46",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-29 18:49:56",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
       "name": "Buckshot Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
       "state": "TEXAS",
-      "updated": "2022-06-29 18:07:28",
+      "updated": "2022-06-29 18:48:06",
       "lat": "30.013",
       "lng": "-99.46",
-      "size": "150 Acres",
+      "size": "200 Acres",
       "url": "/incident/8194/",
       "id": "8194",
-      "contained": "15"
+      "contained": "20"
     },
     {
       "name": "Antelope Valley",
@@ -79,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Goshute Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are fully suppressing the Goshute Fire west of U.S....",
-      "state": "NEVADA",
-      "updated": "2022-06-29 13:15:51",
-      "lat": "40.514",
-      "lng": "-114.287",
-      "size": "1,800 Acres",
-      "url": "/incident/8180/",
-      "id": "8180",
-      "contained": "12"
-    },
-    {
       "name": "Minto Lakes",
       "type": "Wildfire",
       "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
@@ -103,19 +129,6 @@
       "url": "/incident/8182/",
       "id": "8182",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-29 12:48:06",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
     },
     {
       "name": "Clear Fire",
@@ -168,19 +181,6 @@
       "url": "/incident/8155/",
       "id": "8155",
       "contained": "95"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-29 09:31:52",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
     },
     {
       "name": "Dempsey Fire",
