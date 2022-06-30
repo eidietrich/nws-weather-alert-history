@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-06-29 22:20:11",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
+      "name": "Dempsey Fire",
+      "type": "Wildfire",
+      "summary": "On June 23, 2022, Texas A&amp;M Forest Service responded to a request for...",
+      "state": "TEXAS",
+      "updated": "2022-06-29 21:14:36",
+      "lat": "32.801",
+      "lng": "-98.251",
+      "size": "11,598 Acres",
+      "url": "/incident/8174/",
+      "id": "8174",
+      "contained": "60"
+    },
+    {
+      "name": "Buckshot Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
+      "state": "TEXAS",
+      "updated": "2022-06-29 21:14:17",
+      "lat": "30.013",
+      "lng": "-99.46",
+      "size": "300 Acres",
+      "url": "/incident/8194/",
+      "id": "8194",
+      "contained": "25"
+    },
+    {
       "name": "Goshute Fire",
       "type": "Wildfire",
       "summary": "Firefighters are suppressing the Goshute Fire west of U.S. Highway 93...",
@@ -25,32 +64,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "93"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-29 18:49:56",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
-    },
-    {
-      "name": "Buckshot Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
-      "state": "TEXAS",
-      "updated": "2022-06-29 18:48:06",
-      "lat": "30.013",
-      "lng": "-99.46",
-      "size": "200 Acres",
-      "url": "/incident/8194/",
-      "id": "8194",
-      "contained": "20"
     },
     {
       "name": "Antelope Valley",
@@ -181,19 +194,6 @@
       "url": "/incident/8155/",
       "id": "8155",
       "contained": "95"
-    },
-    {
-      "name": "Dempsey Fire",
-      "type": "Wildfire",
-      "summary": "On June 23, 2022, Texas A&amp;M Forest Service responded to a request for...",
-      "state": "TEXAS",
-      "updated": "2022-06-29 09:13:45",
-      "lat": "32.801",
-      "lng": "-98.251",
-      "size": "11,598 Acres",
-      "url": "/incident/8174/",
-      "id": "8174",
-      "contained": "55"
     },
     {
       "name": "Black Post-Fire BAER",
