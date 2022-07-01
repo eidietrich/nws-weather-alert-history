@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Dempsey Fire",
+      "type": "Wildfire",
+      "summary": "On June 23, 2022, Texas A&amp;M Forest Service responded to a request for...",
+      "state": "TEXAS",
+      "updated": "2022-07-01 10:20:13",
+      "lat": "32.801",
+      "lng": "-98.251",
+      "size": "11,598 Acres",
+      "url": "/incident/8174/",
+      "id": "8174",
+      "contained": "77"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "The Clear Fire is located 6.5 miles northwest of the City of...",
+      "state": "ALASKA",
+      "updated": "2022-07-01 10:19:49",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "25,822 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "8"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-01 10:18:10",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": " The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-01 10:01:30",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "88,629 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "0"
+    },
+    {
+      "name": "Lime Complex",
+      "type": "Wildfire",
+      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
+      "state": "ALASKA",
+      "updated": "2022-07-01 09:59:41",
+      "lat": "61.57",
+      "lng": "-158.006",
+      "size": "715,595 Acres",
+      "url": "/incident/8173/",
+      "id": "8173",
+      "contained": "0"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "    Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -27,19 +92,6 @@
       "contained": "65"
     },
     {
-      "name": "Lime Complex",
-      "type": "Wildfire",
-      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
-      "state": "ALASKA",
-      "updated": "2022-07-01 01:45:05",
-      "lat": "61.57",
-      "lng": "-158.006",
-      "size": "715,595 Acres",
-      "url": "/incident/8173/",
-      "id": "8173",
-      "contained": "0"
-    },
-    {
       "name": "Minto Lakes",
       "type": "Wildfire",
       "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
@@ -51,19 +103,6 @@
       "url": "/incident/8182/",
       "id": "8182",
       "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": " Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-06-30 21:44:03",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
     },
     {
       "name": "Gas Plant 2 Fire",
@@ -118,19 +157,6 @@
       "contained": "90"
     },
     {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "The Clear Fire is located 6.5 miles northwest of the City of...",
-      "state": "ALASKA",
-      "updated": "2022-06-30 12:47:19",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "23,512 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "8"
-    },
-    {
       "name": "Goshute Fire",
       "type": "Wildfire",
       "summary": "Firefighters are suppressing the Goshute Fire west of U.S. Highway 93...",
@@ -142,32 +168,6 @@
       "url": "/incident/8180/",
       "id": "8180",
       "contained": "20"
-    },
-    {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": " The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-06-30 12:28:10",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "64,091 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "0"
-    },
-    {
-      "name": "Dempsey Fire",
-      "type": "Wildfire",
-      "summary": "On June 23, 2022, Texas A&amp;M Forest Service responded to a request for...",
-      "state": "TEXAS",
-      "updated": "2022-06-30 11:04:33",
-      "lat": "32.801",
-      "lng": "-98.251",
-      "size": "11,598 Acres",
-      "url": "/incident/8174/",
-      "id": "8174",
-      "contained": "60"
     },
     {
       "name": "Antelope Valley",
