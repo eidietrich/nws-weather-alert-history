@@ -1,17 +1,134 @@
 {
   "markers": [
     {
+      "name": "Gatlin Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Gatlin Creek Fire began on July 6th, 2022 in the area of Gatlin...",
+      "state": "TEXAS",
+      "updated": "2022-07-06 20:55:32",
+      "lat": "30.119",
+      "lng": "-98.142",
+      "size": "100 Acres",
+      "url": "/incident/8207/",
+      "id": "8207",
+      "contained": "20"
+    },
+    {
+      "name": "Deer",
+      "type": "Wildfire",
+      "summary": " Crews continue to patrol and mop up along containment lines. ...",
+      "state": "TEXAS",
+      "updated": "2022-07-06 20:42:36",
+      "lat": "27.004",
+      "lng": "-97.956",
+      "size": "1,062 Acres",
+      "url": "/incident/8204/",
+      "id": "8204",
+      "contained": "80"
+    },
+    {
+      "name": "DPS Fire",
+      "type": "Wildfire",
+      "summary": "On Sunday July 3rd, shortly before 4:00pm The Texas A&amp;M Forest...",
+      "state": "TEXAS",
+      "updated": "2022-07-06 20:12:53",
+      "lat": "30.772",
+      "lng": "-97.746",
+      "size": "600 Acres",
+      "url": "/incident/8198/",
+      "id": "8198",
+      "contained": "100"
+    },
+    {
+      "name": "Lime Complex",
+      "type": "Wildfire",
+      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
+      "state": "ALASKA",
+      "updated": "2022-07-06 19:35:16",
+      "lat": "61.57",
+      "lng": "-158.006",
+      "size": "782,468 Acres",
+      "url": "/incident/8173/",
+      "id": "8173",
+      "contained": "0"
+    },
+    {
+      "name": "Post Oak Fire",
+      "type": "Wildfire",
+      "summary": " On Wednesday, July 6th at approximately 3:00pm, Texas A&amp;M Forest...",
+      "state": "TEXAS",
+      "updated": "2022-07-06 19:11:43",
+      "lat": "31.391",
+      "lng": "-97.544",
+      "size": "35 Acres",
+      "url": "/incident/8206/",
+      "id": "8206",
+      "contained": "15"
+    },
+    {
+      "name": "Hurd",
+      "type": "Wildfire",
+      "summary": " .Texas A&amp;M Forest Service (TAMFS) received a request for assistance...",
+      "state": "TEXAS",
+      "updated": "2022-07-06 19:06:59",
+      "lat": "28.793",
+      "lng": "-98.933",
+      "size": "90 Acres",
+      "url": "/incident/8205/",
+      "id": "8205",
+      "contained": "95"
+    },
+    {
       "name": "Koonce Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service (TAMFS) was requested to assist with the...",
       "state": "TEXAS",
-      "updated": "2022-07-06 18:44:46",
+      "updated": "2022-07-06 19:02:43",
       "lat": "33.917",
       "lng": "-98.77",
-      "size": "0 Acres",
+      "size": "1,000 Acres",
       "url": "/incident/8203/",
       "id": "8203",
       "contained": "0"
+    },
+    {
+      "name": "Sparkling Fallen Fire",
+      "type": "Wildfire",
+      "summary": " The Sparkling Fallen Fire started late on the night of July 4th in...",
+      "state": "TEXAS",
+      "updated": "2022-07-06 19:02:12",
+      "lat": "32.493",
+      "lng": "-99.834",
+      "size": "172 Acres",
+      "url": "/incident/8202/",
+      "id": "8202",
+      "contained": "100"
+    },
+    {
+      "name": "Cotton Field Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service (TAMFS) received a request for assistance...",
+      "state": "TEXAS",
+      "updated": "2022-07-06 18:52:37",
+      "lat": "32.243",
+      "lng": "-99.099",
+      "size": "119 Acres",
+      "url": "/incident/8200/",
+      "id": "8200",
+      "contained": "100"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-06 18:45:55",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
     },
     {
       "name": "Cerro Pelado Post-Fire BAER",
@@ -53,19 +170,6 @@
       "contained": "93"
     },
     {
-      "name": "Lime Complex",
-      "type": "Wildfire",
-      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
-      "state": "ALASKA",
-      "updated": "2022-07-06 17:26:27",
-      "lat": "61.57",
-      "lng": "-158.006",
-      "size": "782,468 Acres",
-      "url": "/incident/8173/",
-      "id": "8173",
-      "contained": "0"
-    },
-    {
       "name": "Bean Complex",
       "type": "Wildfire",
       "summary": " The Bean Complex fires began from lightning between June 19 and June...",
@@ -77,19 +181,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-06 16:33:10",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
     },
     {
       "name": "Clear Fire",
@@ -170,19 +261,6 @@
       "contained": "100"
     },
     {
-      "name": "DPS Fire",
-      "type": "Wildfire",
-      "summary": "On Sunday July 3rd, shortly before 4:00pm The Texas A&amp;M Forest...",
-      "state": "TEXAS",
-      "updated": "2022-07-06 09:09:08",
-      "lat": "30.772",
-      "lng": "-97.746",
-      "size": "600 Acres",
-      "url": "/incident/8198/",
-      "id": "8198",
-      "contained": "98"
-    },
-    {
       "name": "Goshute Fire",
       "type": "Wildfire",
       "summary": "The status is improving along the east and southeast side, ENA and...",
@@ -207,32 +285,6 @@
       "url": "/incident/8179/",
       "id": "8179",
       "contained": "95"
-    },
-    {
-      "name": "Cotton Field Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service (TAMFS) received a request for assistance...",
-      "state": "TEXAS",
-      "updated": "2022-07-05 19:23:43",
-      "lat": "32.243",
-      "lng": "-99.099",
-      "size": "119 Acres",
-      "url": "/incident/8200/",
-      "id": "8200",
-      "contained": "95"
-    },
-    {
-      "name": "Sparkling Fallen Fire",
-      "type": "Wildfire",
-      "summary": " The Sparkling Fallen Fire started late on the night of July 4th in...",
-      "state": "TEXAS",
-      "updated": "2022-07-05 19:21:24",
-      "lat": "32.493",
-      "lng": "-99.834",
-      "size": "172 Acres",
-      "url": "/incident/8202/",
-      "id": "8202",
-      "contained": "80"
     },
     {
       "name": "Midnight Fire",
