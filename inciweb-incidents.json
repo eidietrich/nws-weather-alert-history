@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": " The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-09 14:46:14",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "155,302 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "0"
+    },
+    {
+      "name": "Koonce Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service (TAMFS) was requested to assist with the...",
+      "state": "TEXAS",
+      "updated": "2022-07-09 14:36:54",
+      "lat": "33.917",
+      "lng": "-98.77",
+      "size": "3,794 Acres",
+      "url": "/incident/8203/",
+      "id": "8203",
+      "contained": "90"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
+      "state": "ALASKA",
+      "updated": "2022-07-09 14:31:20",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "69,748 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "15"
+    },
+    {
       "name": "Middle Tanana Complex",
       "type": "Wildfire",
       "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
@@ -131,32 +170,6 @@
       "contained": "93"
     },
     {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": " The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-09 10:47:28",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "155,302 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "0"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
-      "state": "ALASKA",
-      "updated": "2022-07-09 00:55:23",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "65,884 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "15"
-    },
-    {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
       "type": "Wildfire",
       "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
@@ -207,19 +220,6 @@
       "url": "/incident/8118/",
       "id": "8118",
       "contained": "0"
-    },
-    {
-      "name": "Koonce Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service (TAMFS) was requested to assist with the...",
-      "state": "TEXAS",
-      "updated": "2022-07-07 19:54:16",
-      "lat": "33.917",
-      "lng": "-98.77",
-      "size": "3,794 Acres",
-      "url": "/incident/8203/",
-      "id": "8203",
-      "contained": "85"
     },
     {
       "name": "Haywire Fire BAER",
