@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Becky Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Becky Peak Fire has increased to an estimated 600 acres....",
+      "state": "NEVADA",
+      "updated": "2022-07-09 20:34:09",
+      "lat": "39.93",
+      "lng": "-114.588",
+      "size": "600 Acres",
+      "url": "/incident/8210/",
+      "id": "8210",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-09 19:57:32",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-09 19:56:26",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
+      "name": "Koonce Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service (TAMFS) was requested to assist with the...",
+      "state": "TEXAS",
+      "updated": "2022-07-09 19:36:03",
+      "lat": "33.917",
+      "lng": "-98.77",
+      "size": "3,794 Acres",
+      "url": "/incident/8203/",
+      "id": "8203",
+      "contained": "100"
+    },
+    {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "Facebook @YosemiteFire    |     Twitter @YosemiteFire     | ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-09 19:05:59",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "1,190 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "0"
+    },
+    {
+      "name": "Blanket Fire",
+      "type": "Wildfire",
+      "summary": "The Blanket Fire began on July 9th, 2022, approximately 15 miles...",
+      "state": "TEXAS",
+      "updated": "2022-07-09 18:55:32",
+      "lat": "27.049",
+      "lng": "-98.294",
+      "size": "1,000 Acres",
+      "url": "/incident/8211/",
+      "id": "8211",
+      "contained": "0"
+    },
+    {
+      "name": "Middle Tanana Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
+      "state": "ALASKA",
+      "updated": "2022-07-09 18:51:25",
+      "lat": "64.37",
+      "lng": "-144.95",
+      "size": "50,276 Acres",
+      "url": "/incident/8201/",
+      "id": "8201",
+      "contained": "0"
+    },
+    {
       "name": "Post Oak Fire",
       "type": "Wildfire",
       "summary": "The Post Oak fire has transitioned command back to the local...",
@@ -12,32 +103,6 @@
       "url": "/incident/8206/",
       "id": "8206",
       "contained": "100"
-    },
-    {
-      "name": "Blanket Fire",
-      "type": "Wildfire",
-      "summary": " At 15:00 hours on July 9th, 2022, Texas A&amp;M Forest Service received...",
-      "state": "TEXAS",
-      "updated": "2022-07-09 18:25:03",
-      "lat": "27.049",
-      "lng": "-98.294",
-      "size": "500 Acres",
-      "url": "/incident/8211/",
-      "id": "8211",
-      "contained": "0"
-    },
-    {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "Facebook @YosemiteFire    |     Twitter @YosemiteFire     | ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-09 18:24:10",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "1,384 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "0"
     },
     {
       "name": "Lime Complex",
@@ -53,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Koonce Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service (TAMFS) was requested to assist with the...",
-      "state": "TEXAS",
-      "updated": "2022-07-09 17:18:28",
-      "lat": "33.917",
-      "lng": "-98.77",
-      "size": "3,794 Acres",
-      "url": "/incident/8203/",
-      "id": "8203",
-      "contained": "100"
-    },
-    {
       "name": "Bean Complex",
       "type": "Wildfire",
       "summary": " The Bean Complex fires began from lightning between June 19 and June...",
@@ -76,32 +128,6 @@
       "size": "155,302 Acres",
       "url": "/incident/8183/",
       "id": "8183",
-      "contained": "0"
-    },
-    {
-      "name": "Middle Tanana Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
-      "state": "ALASKA",
-      "updated": "2022-07-09 16:39:34",
-      "lat": "64.37",
-      "lng": "-144.95",
-      "size": "50,276 Acres",
-      "url": "/incident/8201/",
-      "id": "8201",
-      "contained": "0"
-    },
-    {
-      "name": "Becky Peak Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are fully suppressing the Becky Peak Fire burning within...",
-      "state": "NEVADA",
-      "updated": "2022-07-09 15:47:56",
-      "lat": "39.93",
-      "lng": "-114.588",
-      "size": "0 Acres",
-      "url": "/incident/8210/",
-      "id": "8210",
       "contained": "0"
     },
     {
@@ -168,32 +194,6 @@
       "url": "/incident/8208/",
       "id": "8208",
       "contained": "60"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-09 10:47:57",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-09 10:47:33",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
     },
     {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
