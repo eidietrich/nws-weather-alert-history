@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Antelope Valley",
+      "type": "Wildfire",
+      "summary": "As of July 1, 2022 the fire is 100% contained. The fire will be put...",
+      "state": "ARIZONA",
+      "updated": "2022-07-11 17:15:53",
+      "lat": "36.5",
+      "lng": "-113.012",
+      "size": "102 Acres",
+      "url": "/incident/8181/",
+      "id": "8181",
+      "contained": "100"
+    },
+    {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": " The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-11 17:15:42",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "172,268 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "0"
+    },
+    {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-11 17:11:34",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "2,340 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "25"
+    },
+    {
+      "name": "Nethery Road",
+      "type": "Wildfire",
+      "summary": "On July 10, 2022 at approximately 5:15 p.m., the Texas A&amp;M Forest...",
+      "state": "TEXAS",
+      "updated": "2022-07-11 16:51:52",
+      "lat": "30.403",
+      "lng": "-100.041",
+      "size": "0 Acres",
+      "url": "/incident/8222/",
+      "id": "8222",
+      "contained": "10"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-11 16:51:11",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
@@ -14,32 +79,6 @@
       "contained": "93"
     },
     {
-      "name": "Netherly Road",
-      "type": "Wildfire",
-      "summary": "On July 10, 2022 at approximately 5:15 p.m., the Texas A&amp;M Forest...",
-      "state": "TEXAS",
-      "updated": "2022-07-11 16:42:37",
-      "lat": "30.403",
-      "lng": "-100.041",
-      "size": "300 Acres",
-      "url": "/incident/8222/",
-      "id": "8222",
-      "contained": "10"
-    },
-    {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-11 16:39:43",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "2,340 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "25"
-    },
-    {
       "name": "Henke Cot Fire",
       "type": "Wildfire",
       "summary": " Crews are continuing to improve line, monitor and patrol the fire....",
@@ -51,19 +90,6 @@
       "url": "/incident/8218/",
       "id": "8218",
       "contained": "60"
-    },
-    {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": " The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-11 16:09:21",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "172,268 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "0"
     },
     {
       "name": "Blanket Fire",
@@ -90,19 +116,6 @@
       "url": "/incident/8214/",
       "id": "8214",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-11 15:29:53",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
     },
     {
       "name": "Minto Lakes",
@@ -469,19 +482,6 @@
       "contained": "70"
     },
     {
-      "name": "Antelope Valley",
-      "type": "Wildfire",
-      "summary": "As of July 1, 2022 the fire is 100% contained. The fire will be put...",
-      "state": "ARIZONA",
-      "updated": "2022-07-01 16:40:50",
-      "lat": "36.5",
-      "lng": "-113.012",
-      "size": "102 Acres",
-      "url": "/incident/8181/",
-      "id": "8181",
-      "contained": "100"
-    },
-    {
       "name": "Raspberry Fire",
       "type": "Wildfire",
       "summary": "The Raspberry Fire that was reported on June 14, 2022, at 11:51 AM in...",
@@ -805,19 +805,6 @@
       "url": "/incident/8100/",
       "id": "8100",
       "contained": "100"
-    },
-    {
-      "name": "Jim Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY  There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-05-12 19:12:43",
-      "lat": "33.741",
-      "lng": "-117.462",
-      "size": "0 Acres",
-      "url": "/incident/8000/",
-      "id": "8000",
-      "contained": "0"
     },
     {
       "name": "Hoosier National Forest Prescribed Fire ",
