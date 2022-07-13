@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Monday Creek Fire",
+      "type": "Wildfire",
+      "summary": "A Type III Incident Management Team assumed management of the fire on...",
+      "state": "WYOMING",
+      "updated": "2022-07-12 21:57:29",
+      "lat": "42.336",
+      "lng": "-105.497",
+      "size": "653 Acres",
+      "url": "/incident/8214/",
+      "id": "8214",
+      "contained": "38"
+    },
+    {
+      "name": "Nethery Road Fire",
+      "type": "Wildfire",
+      "summary": " Crews made good progress today on the East flank. Containment lines...",
+      "state": "TEXAS",
+      "updated": "2022-07-12 21:39:52",
+      "lat": "30.403",
+      "lng": "-100.041",
+      "size": "3,500 Acres",
+      "url": "/incident/8222/",
+      "id": "8222",
+      "contained": "30"
+    },
+    {
+      "name": "Cemetery Fire",
+      "type": "Wildfire",
+      "summary": "At 2:30 pm, Texas A&amp;M Forest Service received a request for...",
+      "state": "TEXAS",
+      "updated": "2022-07-12 21:29:28",
+      "lat": "32.786",
+      "lng": "-98.119",
+      "size": "13 Acres",
+      "url": "/incident/8225/",
+      "id": "8225",
+      "contained": "80"
+    },
+    {
+      "name": "Blanket Fire",
+      "type": "Wildfire",
+      "summary": "Fire is completely tied in with roads and dozer line. Aerial...",
+      "state": "TEXAS",
+      "updated": "2022-07-12 21:27:01",
+      "lat": "27.049",
+      "lng": "-98.294",
+      "size": "5,900 Acres",
+      "url": "/incident/8211/",
+      "id": "8211",
+      "contained": "95"
+    },
+    {
+      "name": "Henke Cot Fire",
+      "type": "Wildfire",
+      "summary": " Burnout complete and was successful to mitigate pockets there were...",
+      "state": "TEXAS",
+      "updated": "2022-07-12 21:18:31",
+      "lat": "30.143",
+      "lng": "-99.089",
+      "size": "390 Acres",
+      "url": "/incident/8218/",
+      "id": "8218",
+      "contained": "95"
+    },
+    {
       "name": "Double G Fire",
       "type": "Wildfire",
       "summary": " On the afternoon of July 12, 2022, a fire started 4 miles west of...",
@@ -77,19 +142,6 @@
       "url": "/incident/8224/",
       "id": "8224",
       "contained": "28"
-    },
-    {
-      "name": "Cemetery Fire",
-      "type": "Wildfire",
-      "summary": "At 2:30 pm, Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-07-12 19:34:25",
-      "lat": "32.786",
-      "lng": "-98.119",
-      "size": "13 Acres",
-      "url": "/incident/8225/",
-      "id": "8225",
-      "contained": "80"
     },
     {
       "name": "Becky Peak Fire",
@@ -170,19 +222,6 @@
       "contained": "18"
     },
     {
-      "name": "Monday Creek Fire",
-      "type": "Wildfire",
-      "summary": "A Type III Incident Management Team assumed management of the fire on...",
-      "state": "WYOMING",
-      "updated": "2022-07-12 12:09:36",
-      "lat": "42.336",
-      "lng": "-105.497",
-      "size": "653 Acres",
-      "url": "/incident/8214/",
-      "id": "8214",
-      "contained": "0"
-    },
-    {
       "name": "Three Aces Fire",
       "type": "Wildfire",
       "summary": "On the evening of July 10, 2022, fire started 4.5 miles northeast of...",
@@ -222,32 +261,6 @@
       "contained": "75"
     },
     {
-      "name": "Blanket Fire",
-      "type": "Wildfire",
-      "summary": "Fire is completely tied in with roads and dozer line. Aerial...",
-      "state": "TEXAS",
-      "updated": "2022-07-12 11:28:12",
-      "lat": "27.049",
-      "lng": "-98.294",
-      "size": "5,900 Acres",
-      "url": "/incident/8211/",
-      "id": "8211",
-      "contained": "85"
-    },
-    {
-      "name": "Henke Cot Fire",
-      "type": "Wildfire",
-      "summary": " Crews are patrolling and checking perimeter for heat.  No...",
-      "state": "TEXAS",
-      "updated": "2022-07-12 11:22:22",
-      "lat": "30.143",
-      "lng": "-99.089",
-      "size": "390 Acres",
-      "url": "/incident/8218/",
-      "id": "8218",
-      "contained": "75"
-    },
-    {
       "name": "Dry Rice Fire",
       "type": "Wildfire",
       "summary": "The Dry Rice Fire was reported on July 11, 2022 at 1:00 pm...",
@@ -259,19 +272,6 @@
       "url": "/incident/8223/",
       "id": "8223",
       "contained": "60"
-    },
-    {
-      "name": "Nethery Road Fire",
-      "type": "Wildfire",
-      "summary": " Update-July 12, 2022 at 11:00 am, crews are working the fire.  The...",
-      "state": "TEXAS",
-      "updated": "2022-07-12 11:13:41",
-      "lat": "30.403",
-      "lng": "-100.041",
-      "size": "2,000 Acres",
-      "url": "/incident/8222/",
-      "id": "8222",
-      "contained": "10"
     },
     {
       "name": "Spade Ranch Fire",
