@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-13 16:16:43",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "178,582 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "0"
+    },
+    {
+      "name": "Hardcastle Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service Responded to a request for assistance in...",
+      "state": "TEXAS",
+      "updated": "2022-07-13 16:14:29",
+      "lat": "32.004",
+      "lng": "-97.695",
+      "size": "540 Acres",
+      "url": "/incident/8208/",
+      "id": "8208",
+      "contained": "80"
+    },
+    {
+      "name": "Post Oak Fire",
+      "type": "Wildfire",
+      "summary": "The Post Oak fire has transitioned command back to the local...",
+      "state": "TEXAS",
+      "updated": "2022-07-13 16:13:51",
+      "lat": "31.391",
+      "lng": "-97.544",
+      "size": "40 Acres",
+      "url": "/incident/8206/",
+      "id": "8206",
+      "contained": "100"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
+      "state": "ALASKA",
+      "updated": "2022-07-13 16:07:07",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "70,896 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "22"
+    },
+    {
+      "name": "Monday Creek Fire",
+      "type": "Wildfire",
+      "summary": "Fire size is 653 acres on July 13 - reduction in acreage reflects...",
+      "state": "WYOMING",
+      "updated": "2022-07-13 15:58:57",
+      "lat": "42.336",
+      "lng": "-105.497",
+      "size": "653 Acres",
+      "url": "/incident/8214/",
+      "id": "8214",
+      "contained": "38"
+    },
+    {
+      "name": "Double G Fire",
+      "type": "Wildfire",
+      "summary": " On the afternoon of July 12, 2022, a fire started 4 miles west of...",
+      "state": "TEXAS",
+      "updated": "2022-07-13 15:53:38",
+      "lat": "34.026",
+      "lng": "-98.315",
+      "size": "320 Acres",
+      "url": "/incident/8226/",
+      "id": "8226",
+      "contained": "90"
+    },
+    {
       "name": "Jacob City",
       "type": "Wildfire",
       "summary": "A Fire Prevention Order was put in place on July 13th restrict public...",
@@ -25,19 +103,6 @@
       "url": "/incident/8227/",
       "id": "8227",
       "contained": "0"
-    },
-    {
-      "name": "Monday Creek Fire",
-      "type": "Wildfire",
-      "summary": "Fire size is 653 acres on July 13 - reduction in acreage reflects...",
-      "state": "WYOMING",
-      "updated": "2022-07-13 15:35:03",
-      "lat": "42.336",
-      "lng": "-105.497",
-      "size": "653 Acres",
-      "url": "/incident/8214/",
-      "id": "8214",
-      "contained": "38"
     },
     {
       "name": "Nethery Road Fire",
@@ -261,58 +326,6 @@
       "contained": "80"
     },
     {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-13 09:17:51",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "178,582 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "0"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
-      "state": "ALASKA",
-      "updated": "2022-07-13 01:39:25",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "70,613 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "22"
-    },
-    {
-      "name": "Double G Fire",
-      "type": "Wildfire",
-      "summary": " On the afternoon of July 12, 2022, a fire started 4 miles west of...",
-      "state": "TEXAS",
-      "updated": "2022-07-12 20:56:53",
-      "lat": "34.026",
-      "lng": "-98.315",
-      "size": "300 Acres",
-      "url": "/incident/8226/",
-      "id": "8226",
-      "contained": "10"
-    },
-    {
-      "name": "Hardcastle Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service Responded to a request for assistance in...",
-      "state": "TEXAS",
-      "updated": "2022-07-12 20:54:59",
-      "lat": "32.004",
-      "lng": "-97.695",
-      "size": "540 Acres",
-      "url": "/incident/8208/",
-      "id": "8208",
-      "contained": "80"
-    },
-    {
       "name": "Becky Peak Fire",
       "type": "Wildfire",
       "summary": "The 5,989-acre Becky Peak Fire is 40-percent contained. Full...",
@@ -376,19 +389,6 @@
       "url": "/incident/8213/",
       "id": "8213",
       "contained": "100"
-    },
-    {
-      "name": "Post Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Post Oak fire has transitioned command back to the local...",
-      "state": "TEXAS",
-      "updated": "2022-07-10 21:18:04",
-      "lat": "31.391",
-      "lng": "-97.544",
-      "size": "40 Acres",
-      "url": "/incident/8206/",
-      "id": "8206",
-      "contained": "90"
     },
     {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
