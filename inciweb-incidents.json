@@ -1,16 +1,42 @@
 {
   "markers": [
     {
+      "name": "Monday Creek Fire",
+      "type": "Wildfire",
+      "summary": "Fire size is 653 acres on July 13 - reduction in acreage reflects...",
+      "state": "WYOMING",
+      "updated": "2022-07-14 09:53:25",
+      "lat": "42.336",
+      "lng": "-105.497",
+      "size": "653 Acres",
+      "url": "/incident/8214/",
+      "id": "8214",
+      "contained": "73"
+    },
+    {
       "name": "Halfway Hill Fire",
       "type": "Wildfire",
       "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
       "state": "UTAH",
-      "updated": "2022-07-14 09:06:05",
+      "updated": "2022-07-14 09:49:25",
       "lat": "38.915",
       "lng": "-112.339",
       "size": "11,637 Acres",
       "url": "/incident/8215/",
       "id": "8215",
+      "contained": "10"
+    },
+    {
+      "name": "Jellison Fire",
+      "type": "Wildfire",
+      "summary": "The Jellison Fire was reported the evening of July 12. Fire is...",
+      "state": "MONTANA",
+      "updated": "2022-07-14 09:40:09",
+      "lat": "46.696",
+      "lng": "-110.082",
+      "size": "5 Acres",
+      "url": "/incident/8227/",
+      "id": "8227",
       "contained": "10"
     },
     {
@@ -38,19 +64,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "23"
-    },
-    {
-      "name": "Monday Creek Fire",
-      "type": "Wildfire",
-      "summary": "Fire size is 653 acres on July 13 - reduction in acreage reflects...",
-      "state": "WYOMING",
-      "updated": "2022-07-14 07:38:06",
-      "lat": "42.336",
-      "lng": "-105.497",
-      "size": "653 Acres",
-      "url": "/incident/8214/",
-      "id": "8214",
-      "contained": "73"
     },
     {
       "name": "Lime Complex",
@@ -219,19 +232,6 @@
       "size": "50 Acres",
       "url": "/incident/8231/",
       "id": "8231",
-      "contained": "0"
-    },
-    {
-      "name": "Jellison Fire",
-      "type": "Wildfire",
-      "summary": "The Jellison Fire was reported the evening of July 12. Fire is...",
-      "state": "MONTANA",
-      "updated": "2022-07-13 17:34:46",
-      "lat": "46.696",
-      "lng": "-110.082",
-      "size": "5 Acres",
-      "url": "/incident/8227/",
-      "id": "8227",
       "contained": "0"
     },
     {
