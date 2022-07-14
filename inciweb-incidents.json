@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Tatum Fire",
+      "type": "Wildfire",
+      "summary": "On the afternoon of July 13, 2022 a fire started in southeast side of...",
+      "state": "TEXAS",
+      "updated": "2022-07-14 13:51:41",
+      "lat": "32.515",
+      "lng": "-99.111",
+      "size": "300 Acres",
+      "url": "/incident/8230/",
+      "id": "8230",
+      "contained": "85"
+    },
+    {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-14 13:32:55",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "186,245 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "0"
+    },
+    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
       "state": "ALASKA",
-      "updated": "2022-07-14 13:23:34",
+      "updated": "2022-07-14 13:29:48",
       "lat": "64.405",
       "lng": "-149.506",
       "size": "71,113 Acres",
@@ -38,19 +64,6 @@
       "url": "/incident/8182/",
       "id": "8182",
       "contained": "52"
-    },
-    {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-14 12:43:46",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "186,245 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "0"
     },
     {
       "name": "Lime Complex",
@@ -285,19 +298,6 @@
       "url": "/incident/8226/",
       "id": "8226",
       "contained": "100"
-    },
-    {
-      "name": "Tatum Fire",
-      "type": "Wildfire",
-      "summary": "On the afternoon of July 13, 2022 a fire started in southeast side of...",
-      "state": "TEXAS",
-      "updated": "2022-07-13 19:11:56",
-      "lat": "32.515",
-      "lng": "-99.111",
-      "size": "100 Acres",
-      "url": "/incident/8230/",
-      "id": "8230",
-      "contained": "50"
     },
     {
       "name": "Becky Peak Fire",
