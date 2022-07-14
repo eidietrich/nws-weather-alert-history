@@ -1,6 +1,136 @@
 {
   "markers": [
     {
+      "name": "Minto Lakes",
+      "type": "Wildfire",
+      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
+      "state": "ALASKA",
+      "updated": "2022-07-14 12:05:19",
+      "lat": "65.01",
+      "lng": "-148.747",
+      "size": "37,523 Acres",
+      "url": "/incident/8182/",
+      "id": "8182",
+      "contained": "52"
+    },
+    {
+      "name": "Texas Forts Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
+      "state": "TEXAS",
+      "updated": "2022-07-14 12:05:16",
+      "lat": "32.626",
+      "lng": "-98.501",
+      "size": "122 Acres",
+      "url": "/incident/8228/",
+      "id": "8228",
+      "contained": "40"
+    },
+    {
+      "name": "Schlinke",
+      "type": "Wildfire",
+      "summary": " Fire is 100% contained.  Local fire department will",
+      "state": "TEXAS",
+      "updated": "2022-07-14 12:05:01",
+      "lat": "29.106",
+      "lng": "-97.387",
+      "size": "50 Acres",
+      "url": "/incident/8231/",
+      "id": "8231",
+      "contained": "0"
+    },
+    {
+      "name": "River Bottom Fire",
+      "type": "Wildfire",
+      "summary": " At 2:00 pm on July 13, 2022 resources from Texas A&amp;M Forest Service...",
+      "state": "TEXAS",
+      "updated": "2022-07-14 12:02:51",
+      "lat": "32.322",
+      "lng": "-97.916",
+      "size": "100 Acres",
+      "url": "/incident/8229/",
+      "id": "8229",
+      "contained": "50"
+    },
+    {
+      "name": "2022 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2022-07-14 11:53:27",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/8170/",
+      "id": "8170",
+      "contained": "0"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
+      "state": "ARIZONA",
+      "updated": "2022-07-14 11:47:35",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,532 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "90"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-07-14 11:47:27",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,575 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "95"
+    },
+    {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-14 11:45:17",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,375 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "23"
+    },
+    {
+      "name": "Middle Tanana Complex",
+      "type": "Wildfire",
+      "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
+      "state": "ALASKA",
+      "updated": "2022-07-14 11:40:28",
+      "lat": "64.37",
+      "lng": "-144.95",
+      "size": "57,934 Acres",
+      "url": "/incident/8201/",
+      "id": "8201",
+      "contained": "0"
+    },
+    {
+      "name": "Lime Complex",
+      "type": "Wildfire",
+      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
+      "state": "ALASKA",
+      "updated": "2022-07-14 11:36:16",
+      "lat": "61.57",
+      "lng": "-158.006",
+      "size": "865,620 Acres",
+      "url": "/incident/8173/",
+      "id": "8173",
+      "contained": "38"
+    },
+    {
       "name": "Jacob City",
       "type": "Wildfire",
       "summary": "A Fire Prevention Order was put in place on July 13th restrict public...",
@@ -12,19 +142,6 @@
       "url": "/incident/8224/",
       "id": "8224",
       "contained": "28"
-    },
-    {
-      "name": "Lime Complex",
-      "type": "Wildfire",
-      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
-      "state": "ALASKA",
-      "updated": "2022-07-14 10:54:10",
-      "lat": "61.57",
-      "lng": "-158.006",
-      "size": "865,620 Acres",
-      "url": "/incident/8173/",
-      "id": "8173",
-      "contained": "38"
     },
     {
       "name": "Monday Creek Fire",
@@ -79,32 +196,6 @@
       "contained": "10"
     },
     {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-14 08:28:11",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,375 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "23"
-    },
-    {
-      "name": "Middle Tanana Complex",
-      "type": "Wildfire",
-      "summary": "The Middle Tanana Complex includes nine fires: Yukon Creek (#296),...",
-      "state": "ALASKA",
-      "updated": "2022-07-14 00:44:16",
-      "lat": "64.37",
-      "lng": "-144.95",
-      "size": "57,934 Acres",
-      "url": "/incident/8201/",
-      "id": "8201",
-      "contained": "0"
-    },
-    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
@@ -157,19 +248,6 @@
       "contained": "93"
     },
     {
-      "name": "Texas Forts Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
-      "state": "TEXAS",
-      "updated": "2022-07-13 20:33:21",
-      "lat": "32.626",
-      "lng": "-98.501",
-      "size": "122 Acres",
-      "url": "/incident/8228/",
-      "id": "8228",
-      "contained": "40"
-    },
-    {
       "name": "Cemetery Fire",
       "type": "Wildfire",
       "summary": "At 2:30 pm, Texas A&amp;M Forest Service received a request for...",
@@ -196,19 +274,6 @@
       "contained": "100"
     },
     {
-      "name": "River Bottom Fire",
-      "type": "Wildfire",
-      "summary": " At 2:00 pm on July 13, 2022 resources from Texas A&amp;M Forest Service...",
-      "state": "TEXAS",
-      "updated": "2022-07-13 19:31:38",
-      "lat": "32.322",
-      "lng": "-97.916",
-      "size": "100 Acres",
-      "url": "/incident/8229/",
-      "id": "8229",
-      "contained": "10"
-    },
-    {
       "name": "Tatum Fire",
       "type": "Wildfire",
       "summary": "On the afternoon of July 13, 2022 a fire started in southeast side of...",
@@ -233,19 +298,6 @@
       "url": "/incident/8210/",
       "id": "8210",
       "contained": "60"
-    },
-    {
-      "name": "Schlinke",
-      "type": "Wildfire",
-      "summary": " On the afternoon of July 13, 2022, a request was made to Texas A&amp;M...",
-      "state": "TEXAS",
-      "updated": "2022-07-13 18:35:52",
-      "lat": "29.106",
-      "lng": "-97.387",
-      "size": "50 Acres",
-      "url": "/incident/8231/",
-      "id": "8231",
-      "contained": "0"
     },
     {
       "name": "Hardcastle Fire",
@@ -339,19 +391,6 @@
       "contained": "95"
     },
     {
-      "name": "Minto Lakes",
-      "type": "Wildfire",
-      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
-      "state": "ALASKA",
-      "updated": "2022-07-13 11:41:30",
-      "lat": "65.01",
-      "lng": "-148.747",
-      "size": "37,523 Acres",
-      "url": "/incident/8182/",
-      "id": "8182",
-      "contained": "52"
-    },
-    {
       "name": "Mesa Fire",
       "type": "Wildfire",
       "summary": " The fire is burning in rugged terrain near Deer Lake Canyon, a...",
@@ -376,32 +415,6 @@
       "url": "/incident/8220/",
       "id": "8220",
       "contained": "100"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-07-11 18:35:57",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,575 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "95"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
-      "state": "ARIZONA",
-      "updated": "2022-07-11 18:35:30",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,532 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "90"
     },
     {
       "name": "Antelope Valley",
@@ -506,19 +519,6 @@
       "url": "/incident/8203/",
       "id": "8203",
       "contained": "100"
-    },
-    {
-      "name": "2022 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2022-07-08 15:35:17",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/8170/",
-      "id": "8170",
-      "contained": "0"
     },
     {
       "name": "Goshute Fire",
