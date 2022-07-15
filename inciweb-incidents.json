@@ -1,16 +1,42 @@
 {
   "markers": [
     {
+      "name": "South Bend Fire",
+      "type": "Wildfire",
+      "summary": "The South Bend Fire was reported the afternoon of July 14. Fire is...",
+      "state": "TEXAS",
+      "updated": "2022-07-15 14:31:21",
+      "lat": "32.966",
+      "lng": "-98.808",
+      "size": "500 Acres",
+      "url": "/incident/8233/",
+      "id": "8233",
+      "contained": "35"
+    },
+    {
       "name": "Texas Forts Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
       "state": "TEXAS",
-      "updated": "2022-07-15 14:22:46",
+      "updated": "2022-07-15 14:29:48",
       "lat": "32.626",
       "lng": "-98.501",
       "size": "122 Acres",
       "url": "/incident/8228/",
       "id": "8228",
+      "contained": "100"
+    },
+    {
+      "name": "River Bottom Fire",
+      "type": "Wildfire",
+      "summary": " At 2:00 pm on July 13, 2022 resources from Texas A&amp;M Forest Service...",
+      "state": "TEXAS",
+      "updated": "2022-07-15 14:29:40",
+      "lat": "32.322",
+      "lng": "-97.916",
+      "size": "100 Acres",
+      "url": "/incident/8229/",
+      "id": "8229",
       "contained": "100"
     },
     {
@@ -64,19 +90,6 @@
       "url": "/incident/8230/",
       "id": "8230",
       "contained": "95"
-    },
-    {
-      "name": "South Bend Fire",
-      "type": "Wildfire",
-      "summary": "The South Bend Fire was reported the afternoon of July 14. Fire is...",
-      "state": "TEXAS",
-      "updated": "2022-07-15 12:36:26",
-      "lat": "32.162",
-      "lng": "-98.164",
-      "size": "500 Acres",
-      "url": "/incident/8233/",
-      "id": "8233",
-      "contained": "35"
     },
     {
       "name": "Bean Complex",
@@ -233,19 +246,6 @@
       "url": "/incident/8222/",
       "id": "8222",
       "contained": "50"
-    },
-    {
-      "name": "River Bottom Fire",
-      "type": "Wildfire",
-      "summary": " At 2:00 pm on July 13, 2022 resources from Texas A&amp;M Forest Service...",
-      "state": "TEXAS",
-      "updated": "2022-07-14 21:00:39",
-      "lat": "32.322",
-      "lng": "-97.916",
-      "size": "100 Acres",
-      "url": "/incident/8229/",
-      "id": "8229",
-      "contained": "100"
     },
     {
       "name": "Becky Peak Fire",
