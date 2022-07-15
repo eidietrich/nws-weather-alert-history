@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "South Bend Fire",
+      "type": "Wildfire",
+      "summary": "The South Bend Fire was reported the afternoon of July 14. Fire is...",
+      "state": "TEXAS",
+      "updated": "2022-07-14 22:50:44",
+      "lat": "32.162",
+      "lng": "-98.164",
+      "size": "0 Acres",
+      "url": "/incident/8233/",
+      "id": "8233",
+      "contained": "0"
+    },
+    {
+      "name": "Wildcat",
+      "type": "Wildfire",
+      "summary": "Firefighters are suppressing the Wildcat Fire approximately 40 miles...",
+      "state": "NEVADA",
+      "updated": "2022-07-14 22:26:05",
+      "lat": "41.646",
+      "lng": "-115.294",
+      "size": "0 Acres",
+      "url": "/incident/8232/",
+      "id": "8232",
+      "contained": "0"
+    },
+    {
+      "name": "Jacob City",
+      "type": "Wildfire",
+      "summary": "A Fire Prevention Order was put in place on July 13th restrict public...",
+      "state": "UTAH",
+      "updated": "2022-07-14 21:48:00",
+      "lat": "40.423",
+      "lng": "-112.323",
+      "size": "4,185 Acres",
+      "url": "/incident/8224/",
+      "id": "8224",
+      "contained": "35"
+    },
+    {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
+      "state": "UTAH",
+      "updated": "2022-07-14 21:41:05",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "11,637 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "15"
+    },
+    {
       "name": "Washburn Fire",
       "type": "Wildfire",
       "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
       "state": "CALIFORNIA",
-      "updated": "2022-07-14 21:13:33",
+      "updated": "2022-07-14 21:35:02",
       "lat": "37.499",
       "lng": "-119.614",
       "size": "4,375 Acres",
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "27"
+    },
+    {
+      "name": "Nethery Road Fire",
+      "type": "Wildfire",
+      "summary": " Containment lines are almost complete.  Had a slop-over in the SW...",
+      "state": "TEXAS",
+      "updated": "2022-07-14 21:25:17",
+      "lat": "30.403",
+      "lng": "-100.041",
+      "size": "3,500 Acres",
+      "url": "/incident/8222/",
+      "id": "8222",
+      "contained": "50"
     },
     {
       "name": "Middle Tanana Complex",
@@ -51,19 +116,6 @@
       "url": "/incident/8229/",
       "id": "8229",
       "contained": "100"
-    },
-    {
-      "name": "Jacob City",
-      "type": "Wildfire",
-      "summary": "A Fire Prevention Order was put in place on July 13th restrict public...",
-      "state": "UTAH",
-      "updated": "2022-07-14 20:05:26",
-      "lat": "40.423",
-      "lng": "-112.323",
-      "size": "4,185 Acres",
-      "url": "/incident/8224/",
-      "id": "8224",
-      "contained": "35"
     },
     {
       "name": "Hermits Peak Fire",
@@ -129,19 +181,6 @@
       "url": "/incident/8223/",
       "id": "8223",
       "contained": "100"
-    },
-    {
-      "name": "Nethery Road Fire",
-      "type": "Wildfire",
-      "summary": " Fire remains within the containment lines. Dozers working on west...",
-      "state": "TEXAS",
-      "updated": "2022-07-14 16:46:02",
-      "lat": "30.403",
-      "lng": "-100.041",
-      "size": "3,500 Acres",
-      "url": "/incident/8222/",
-      "id": "8222",
-      "contained": "50"
     },
     {
       "name": "Schlinke Fire",
@@ -298,19 +337,6 @@
       "url": "/incident/8155/",
       "id": "8155",
       "contained": "95"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
-      "state": "UTAH",
-      "updated": "2022-07-14 09:49:25",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "11,637 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "10"
     },
     {
       "name": "Cemetery Fire",
