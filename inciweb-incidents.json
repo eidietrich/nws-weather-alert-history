@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Big Sandy Fire ",
+      "type": "Wildfire",
+      "summary": "The Big Sandy Fire started Saturday night, July 16, within the Big...",
+      "state": "ARIZONA",
+      "updated": "2022-07-17 15:28:50",
+      "lat": "34.705",
+      "lng": "-113.612",
+      "size": "75 Acres",
+      "url": "/incident/8244/",
+      "id": "8244",
+      "contained": "0"
+    },
+    {
+      "name": "Fence Line",
+      "type": "Wildfire",
+      "summary": "Fire is looking good.  Engines continue patrol and mop",
+      "state": "TEXAS",
+      "updated": "2022-07-17 15:21:10",
+      "lat": "32.004",
+      "lng": "-97.695",
+      "size": "42 Acres",
+      "url": "/incident/8237/",
+      "id": "8237",
+      "contained": "80"
+    },
+    {
+      "name": "Pipeline Fire",
+      "type": "Wildfire",
+      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
+      "state": "ARIZONA",
+      "updated": "2022-07-17 15:20:26",
+      "lat": "35.27",
+      "lng": "-111.666",
+      "size": "26,532 Acres",
+      "url": "/incident/8152/",
+      "id": "8152",
+      "contained": "90"
+    },
+    {
+      "name": "Haywire Fire",
+      "type": "Wildfire",
+      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
+      "state": "ARIZONA",
+      "updated": "2022-07-17 15:20:13",
+      "lat": "35.37",
+      "lng": "-111.436",
+      "size": "5,575 Acres",
+      "url": "/incident/8155/",
+      "id": "8155",
+      "contained": "95"
+    },
+    {
       "name": "Nethery Road Fire",
       "type": "Wildfire",
       "summary": " Crews have found several areas on the west side of the fire holding...",
@@ -25,19 +77,6 @@
       "url": "/incident/8236/",
       "id": "8236",
       "contained": "100"
-    },
-    {
-      "name": "Fence Line",
-      "type": "Wildfire",
-      "summary": "Fire is looking good.  Engines continue patrol and mop",
-      "state": "TEXAS",
-      "updated": "2022-07-17 15:09:31",
-      "lat": "32.004",
-      "lng": "-97.695",
-      "size": "42 Acres",
-      "url": "/incident/8237/",
-      "id": "8237",
-      "contained": "80"
     },
     {
       "name": "Bean Complex",
@@ -506,32 +545,6 @@
       "url": "/incident/8231/",
       "id": "8231",
       "contained": "100"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
-      "state": "ARIZONA",
-      "updated": "2022-07-14 11:47:35",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,532 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "90"
-    },
-    {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-07-14 11:47:27",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,575 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "95"
     },
     {
       "name": "Double G Fire",
