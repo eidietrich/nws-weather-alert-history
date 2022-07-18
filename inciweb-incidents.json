@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "2022 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2022-07-18 18:17:52",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/8170/",
+      "id": "8170",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-18 18:12:45",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-18 18:12:16",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
+      "name": "Stanifer Branch",
+      "type": "Wildfire",
+      "summary": " Fire started on July 18, 2022 and is near Meridian, Bosque County...",
+      "state": "TEXAS",
+      "updated": "2022-07-18 18:11:31",
+      "lat": "31.903",
+      "lng": "-97.62",
+      "size": "100 Acres",
+      "url": "/incident/8256/",
+      "id": "8256",
+      "contained": "0"
+    },
+    {
+      "name": "Holly Fire",
+      "type": "Wildfire",
+      "summary": "Acres: 200Containment: 90%Cause: Unknown On Sunday, July 17th 2022...",
+      "state": "TEXAS",
+      "updated": "2022-07-18 18:02:18",
+      "lat": "31.073",
+      "lng": "-95.354",
+      "size": "200 Acres",
+      "url": "/incident/8242/",
+      "id": "8242",
+      "contained": "90"
+    },
+    {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-18 18:02:01",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,911 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "50"
+    },
+    {
+      "name": "1148 Fire",
+      "type": "Wildfire",
+      "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
+      "state": "TEXAS",
+      "updated": "2022-07-18 18:01:29",
+      "lat": "32.896",
+      "lng": "-98.52",
+      "size": "200 Acres",
+      "url": "/incident/8251/",
+      "id": "8251",
+      "contained": "0"
+    },
+    {
+      "name": "Chalk Mountain",
+      "type": "Wildfire",
+      "summary": " Fire started on July 18, 2022 and is located at 8200 block of U Hwy...",
+      "state": "TEXAS",
+      "updated": "2022-07-18 17:58:51",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "50 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "0"
+    },
+    {
       "name": "Woodtick",
       "type": "Wildfire",
       "summary": "The lightning fires are located approximately six (6) miles west...",
@@ -11,32 +115,6 @@
       "size": "25 Acres",
       "url": "/incident/8253/",
       "id": "8253",
-      "contained": "0"
-    },
-    {
-      "name": "Chalk Mountain",
-      "type": "Wildfire",
-      "summary": " Fire started on July 18, 2022 and is located at 8200 block of U Hwy...",
-      "state": "TEXAS",
-      "updated": "2022-07-18 17:46:07",
-      "lat": "31.903",
-      "lng": "-97.62",
-      "size": "50 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "0"
-    },
-    {
-      "name": "1148 Fire",
-      "type": "Wildfire",
-      "summary": " Wildfire started on July 18,2022 in the 5200 block of Moore Lane...",
-      "state": "TEXAS",
-      "updated": "2022-07-18 17:37:42",
-      "lat": "32.896",
-      "lng": "-98.52",
-      "size": "300 Acres",
-      "url": "/incident/8251/",
-      "id": "8251",
       "contained": "0"
     },
     {
@@ -170,19 +248,6 @@
       "contained": "56"
     },
     {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-18 14:58:58",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,911 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "50"
-    },
-    {
       "name": "Bean Complex",
       "type": "Wildfire",
       "summary": "The Bean Complex fires began from lightning between June 19 and June...",
@@ -259,32 +324,6 @@
       "url": "/incident/8173/",
       "id": "8173",
       "contained": "56"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-18 10:28:07",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-18 10:26:34",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
     },
     {
       "name": "Water Canyon Fire",
@@ -417,19 +456,6 @@
       "contained": "100"
     },
     {
-      "name": "Holly Fire",
-      "type": "Wildfire",
-      "summary": "Acres: 200Containment: 90%Cause: Unknown On Sunday, July 17th 2022...",
-      "state": "TEXAS",
-      "updated": "2022-07-17 20:19:07",
-      "lat": "31.073",
-      "lng": "-95.354",
-      "size": "200 Acres",
-      "url": "/incident/8242/",
-      "id": "8242",
-      "contained": "90"
-    },
-    {
       "name": "Becky Peak Fire",
       "type": "Wildfire",
       "summary": "The 5,989-acre Becky Peak Fire in the Schell Creek Range, about 50...",
@@ -454,19 +480,6 @@
       "url": "/incident/8243/",
       "id": "8243",
       "contained": "75"
-    },
-    {
-      "name": "2022 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2022-07-17 16:05:51",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/8170/",
-      "id": "8170",
-      "contained": "0"
     },
     {
       "name": "Pipeline Fire",
