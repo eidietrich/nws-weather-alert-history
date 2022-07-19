@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "1148 Fire",
+      "type": "Wildfire",
+      "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
+      "state": "TEXAS",
+      "updated": "2022-07-18 22:51:43",
+      "lat": "32.896",
+      "lng": "-98.52",
+      "size": "500 Acres",
+      "url": "/incident/8251/",
+      "id": "8251",
+      "contained": "10"
+    },
+    {
+      "name": "Jacob City",
+      "type": "Wildfire",
+      "summary": "A Fire Prevention Order was put in place on July 13th restrict public...",
+      "state": "UTAH",
+      "updated": "2022-07-18 22:05:43",
+      "lat": "40.423",
+      "lng": "-112.323",
+      "size": "4,185 Acres",
+      "url": "/incident/8224/",
+      "id": "8224",
+      "contained": "93"
+    },
+    {
       "name": "Nelson Creek Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
       "state": "TEXAS",
-      "updated": "2022-07-18 21:12:39",
+      "updated": "2022-07-18 22:04:29",
       "lat": "30.856",
       "lng": "-95.553",
       "size": "1,000 Acres",
@@ -14,11 +40,50 @@
       "contained": "10"
     },
     {
+      "name": "Wildcat",
+      "type": "Wildfire",
+      "summary": " Fire is located 40 miles northwest of Wells, NV. Wildcat Fire is...",
+      "state": "NEVADA",
+      "updated": "2022-07-18 21:49:45",
+      "lat": "41.646",
+      "lng": "-115.294",
+      "size": "21,440 Acres",
+      "url": "/incident/8234/",
+      "id": "8234",
+      "contained": "55"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-18 21:42:20",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-18 21:38:57",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
       "name": "Moors Mountain Fire",
       "type": "Wildfire",
       "summary": "Moors Mountain Fire was reported on Saturday, July 16 burning near...",
       "state": "MONTANA",
-      "updated": "2022-07-18 20:58:11",
+      "updated": "2022-07-18 21:31:37",
       "lat": "46.887",
       "lng": "-111.733",
       "size": "150 Acres",
@@ -92,19 +157,6 @@
       "contained": "100"
     },
     {
-      "name": "Wildcat",
-      "type": "Wildfire",
-      "summary": " Fire is located 40 miles northwest of Wells, NV. Wildcat Fire is...",
-      "state": "NEVADA",
-      "updated": "2022-07-18 19:55:14",
-      "lat": "41.646",
-      "lng": "-115.294",
-      "size": "21,440 Acres",
-      "url": "/incident/8234/",
-      "id": "8234",
-      "contained": "55"
-    },
-    {
       "name": "Stanifer Branch Fire",
       "type": "Wildfire",
       "summary": " Fire started on July 18, 2022 and is near Meridian, Bosque County...",
@@ -115,19 +167,6 @@
       "size": "100 Acres",
       "url": "/incident/8256/",
       "id": "8256",
-      "contained": "0"
-    },
-    {
-      "name": "1148 Fire",
-      "type": "Wildfire",
-      "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
-      "state": "TEXAS",
-      "updated": "2022-07-18 19:44:49",
-      "lat": "32.896",
-      "lng": "-98.52",
-      "size": "300 Acres",
-      "url": "/incident/8251/",
-      "id": "8251",
       "contained": "0"
     },
     {
@@ -155,32 +194,6 @@
       "url": "/incident/8170/",
       "id": "8170",
       "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-18 18:12:45",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-18 18:12:16",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
     },
     {
       "name": "Holly Fire",
@@ -389,19 +402,6 @@
       "url": "/incident/8214/",
       "id": "8214",
       "contained": "90"
-    },
-    {
-      "name": "Jacob City",
-      "type": "Wildfire",
-      "summary": "A Fire Prevention Order was put in place on July 13th restrict public...",
-      "state": "UTAH",
-      "updated": "2022-07-18 09:25:53",
-      "lat": "40.423",
-      "lng": "-112.323",
-      "size": "4,185 Acres",
-      "url": "/incident/8224/",
-      "id": "8224",
-      "contained": "92"
     },
     {
       "name": "Powerhouse Fire",
