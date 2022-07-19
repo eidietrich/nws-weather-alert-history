@@ -1,29 +1,55 @@
 {
   "markers": [
     {
+      "name": "Hog Trough",
+      "type": "Wildfire",
+      "summary": "The lighting-caused Hog Trough Fire burning 17 miles east of Hamilton...",
+      "state": "MONTANA",
+      "updated": "2022-07-19 14:26:55",
+      "lat": "46.152",
+      "lng": "-113.811",
+      "size": "50 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "West Bend Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service (TAMFS) was requested by Lake City VFD for...",
+      "state": "TEXAS",
+      "updated": "2022-07-19 14:24:14",
+      "lat": "33.843",
+      "lng": "-98.44",
+      "size": "400 Acres",
+      "url": "/incident/8259/",
+      "id": "8259",
+      "contained": "0"
+    },
+    {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
+      "state": "UTAH",
+      "updated": "2022-07-19 14:21:49",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "11,773 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "46"
+    },
+    {
       "name": "Pine Peak Fire",
       "type": "Wildfire",
       "summary": "July 19, 2022, Morning Activity Update: Area firefighters remain...",
       "state": "ARIZONA",
-      "updated": "2022-07-19 14:13:40",
+      "updated": "2022-07-19 14:20:25",
       "lat": "34.881",
       "lng": "-113.863",
       "size": "55 Acres",
       "url": "/incident/8257/",
       "id": "8257",
-      "contained": "0"
-    },
-    {
-      "name": "Hog Trough",
-      "type": "Wildfire",
-      "summary": "The lighting-caused Hog Trough Fire burning 17 miles east of Hamilton...",
-      "state": "MONTANA",
-      "updated": "2022-07-19 14:13:11",
-      "lat": "46.152",
-      "lng": "-113.811",
-      "size": "0 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
       "contained": "0"
     },
     {
@@ -220,19 +246,6 @@
       "url": "/incident/8173/",
       "id": "8173",
       "contained": "56"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
-      "state": "UTAH",
-      "updated": "2022-07-19 10:48:03",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "11,773 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "46"
     },
     {
       "name": "Mesa Fire",
@@ -960,19 +973,6 @@
       "size": "106 Acres",
       "url": "/incident/8120/",
       "id": "8120",
-      "contained": "100"
-    },
-    {
-      "name": "Lost Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Lost Lake Fire started May 26th on the Colorado River Indian...",
-      "state": "ARIZONA",
-      "updated": "2022-06-07 18:12:26",
-      "lat": "33.993",
-      "lng": "-114.481",
-      "size": "5,856 Acres",
-      "url": "/incident/8122/",
-      "id": "8122",
       "contained": "100"
     },
     {
