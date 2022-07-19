@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Moors Mountain Fire",
+      "type": "Wildfire",
+      "summary": "Moors Mountain Fire was reported on Saturday, July 16 burning near...",
+      "state": "MONTANA",
+      "updated": "2022-07-19 12:40:02",
+      "lat": "46.887",
+      "lng": "-111.733",
+      "size": "88 Acres",
+      "url": "/incident/8238/",
+      "id": "8238",
+      "contained": "0"
+    },
+    {
       "name": "Chalk Mountain Fire",
       "type": "Wildfire",
       "summary": " Fire started on July 18, 2022 and is located at 8200 block of U Hwy...",
       "state": "TEXAS",
-      "updated": "2022-07-19 11:59:55",
+      "updated": "2022-07-19 12:39:13",
       "lat": "32.188",
       "lng": "-97.868",
       "size": "4,000 Acres",
       "url": "/incident/8255/",
       "id": "8255",
       "contained": "10"
+    },
+    {
+      "name": "Pine Peak ",
+      "type": "Wildfire",
+      "summary": "Fire Name -   Pine Peak Discovery Date  -  7/16 at 0900 hours....",
+      "state": "ARIZONA",
+      "updated": "2022-07-19 12:38:41",
+      "lat": "34.881",
+      "lng": "-113.863",
+      "size": "55 Acres",
+      "url": "/incident/8257/",
+      "id": "8257",
+      "contained": "0"
+    },
+    {
+      "name": "Nelson Creek Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-19 12:36:39",
+      "lat": "30.856",
+      "lng": "-95.553",
+      "size": "1,800 Acres",
+      "url": "/incident/8250/",
+      "id": "8250",
+      "contained": "35"
+    },
+    {
+      "name": "Big Sandy Fire ",
+      "type": "Wildfire",
+      "summary": "Firefighters continue to deal with spot fires overnight and high fire...",
+      "state": "ARIZONA",
+      "updated": "2022-07-19 12:31:57",
+      "lat": "34.705",
+      "lng": "-113.612",
+      "size": "150 Acres",
+      "url": "/incident/8244/",
+      "id": "8244",
+      "contained": "0"
+    },
+    {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "Tuesday, July 19, 2022 (last edited at 8 a.m.)The Dalton Highway...",
+      "state": "ALASKA",
+      "updated": "2022-07-19 12:24:15",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "0"
     },
     {
       "name": "Honey Creek Fire",
@@ -40,19 +105,6 @@
       "contained": "58"
     },
     {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "Tuesday, July 19, 2022 (last edited at 8 a.m.)The Dalton Highway...",
-      "state": "ALASKA",
-      "updated": "2022-07-19 11:53:21",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "0"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " The fire is located approximately five (5) miles southwest of the...",
@@ -63,19 +115,6 @@
       "size": "12,238 Acres",
       "url": "/incident/8249/",
       "id": "8249",
-      "contained": "0"
-    },
-    {
-      "name": "Pine Peak ",
-      "type": "Wildfire",
-      "summary": "Fire Name -   Pine Peak Discovery Date  -  7/16 at 0900 hours....",
-      "state": "ARIZONA",
-      "updated": "2022-07-19 11:42:38",
-      "lat": "34.881",
-      "lng": "-113.863",
-      "size": "55 Acres",
-      "url": "/incident/8257/",
-      "id": "8257",
       "contained": "0"
     },
     {
@@ -129,19 +168,6 @@
       "url": "/incident/8224/",
       "id": "8224",
       "contained": "93"
-    },
-    {
-      "name": "Nelson Creek Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-19 09:42:15",
-      "lat": "30.856",
-      "lng": "-95.553",
-      "size": "1,500 Acres",
-      "url": "/incident/8250/",
-      "id": "8250",
-      "contained": "35"
     },
     {
       "name": "Holly Fire",
@@ -326,19 +352,6 @@
       "contained": "93"
     },
     {
-      "name": "Moors Mountain Fire",
-      "type": "Wildfire",
-      "summary": "Moors Mountain Fire was reported on Saturday, July 16 burning near...",
-      "state": "MONTANA",
-      "updated": "2022-07-18 21:31:37",
-      "lat": "46.887",
-      "lng": "-111.733",
-      "size": "150 Acres",
-      "url": "/incident/8238/",
-      "id": "8238",
-      "contained": "0"
-    },
-    {
       "name": "Woodtick",
       "type": "Wildfire",
       "summary": "The lightning fires are located approximately six (6) miles west...",
@@ -402,19 +415,6 @@
       "url": "/incident/8227/",
       "id": "8227",
       "contained": "100"
-    },
-    {
-      "name": "Big Sandy Fire ",
-      "type": "Wildfire",
-      "summary": " The Big Sandy Fire remained active overnight, especially on the...",
-      "state": "ARIZONA",
-      "updated": "2022-07-18 13:03:44",
-      "lat": "34.705",
-      "lng": "-113.612",
-      "size": "150 Acres",
-      "url": "/incident/8244/",
-      "id": "8244",
-      "contained": "0"
     },
     {
       "name": "Minto Lakes",
