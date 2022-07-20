@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "West Bend Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Lake City VFD for a fire...",
+      "state": "TEXAS",
+      "updated": "2022-07-20 00:09:16",
+      "lat": "33.843",
+      "lng": "-98.44",
+      "size": "6,522 Acres",
+      "url": "/incident/8259/",
+      "id": "8259",
+      "contained": "80"
+    },
+    {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-20 00:08:48",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "193,668 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "0"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
+      "state": "ALASKA",
+      "updated": "2022-07-20 00:02:42",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,157 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "56"
+    },
+    {
       "name": "Dalton Highway Complex",
       "type": "Wildfire",
       "summary": "Tuesday, July 19, 2022 (last edited at 8:30 p.m.)The Dalton Highway...",
       "state": "ALASKA",
-      "updated": "2022-07-19 23:41:34",
+      "updated": "2022-07-19 23:46:22",
       "lat": "66.876",
       "lng": "-150.522",
       "size": "89,100 Acres",
@@ -116,19 +155,6 @@
       "url": "/incident/8234/",
       "id": "8234",
       "contained": "85"
-    },
-    {
-      "name": "West Bend Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Lake City VFD for a fire...",
-      "state": "TEXAS",
-      "updated": "2022-07-19 20:30:29",
-      "lat": "33.843",
-      "lng": "-98.44",
-      "size": "5,000 Acres",
-      "url": "/incident/8259/",
-      "id": "8259",
-      "contained": "50"
     },
     {
       "name": "Moose Fire",
@@ -300,19 +326,6 @@
       "contained": "10"
     },
     {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "The Clear Fire is located 6 miles northwest of the City of Anderson,...",
-      "state": "ALASKA",
-      "updated": "2022-07-19 15:31:24",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,157 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "56"
-    },
-    {
       "name": "Minto Lakes",
       "type": "Wildfire",
       "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
@@ -324,19 +337,6 @@
       "url": "/incident/8182/",
       "id": "8182",
       "contained": "53"
-    },
-    {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-19 14:53:48",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "193,670 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "0"
     },
     {
       "name": "Pine Peak Fire",
