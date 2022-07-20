@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Church Rd Fire",
+      "type": "Wildfire",
+      "summary": "On the afternoon of July 20, 2022, a wildfire started approximately 2...",
+      "state": "TEXAS",
+      "updated": "2022-07-20 18:16:00",
+      "lat": "33.993",
+      "lng": "-98.46",
+      "size": "30 Acres",
+      "url": "/incident/8263/",
+      "id": "8263",
+      "contained": "0"
+    },
+    {
+      "name": "Sheep Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-20 18:07:44",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "0 Acres",
+      "url": "/incident/8261/",
+      "id": "8261",
+      "contained": "0"
+    },
+    {
+      "name": "Stayman",
+      "type": "Wildfire",
+      "summary": "The Stayman Flats Fire was first reported on July 18 at approximately...",
+      "state": "WASHINGTON",
+      "updated": "2022-07-20 18:06:20",
+      "lat": "47.776",
+      "lng": "-120.083",
+      "size": "1,200 Acres",
+      "url": "/incident/8260/",
+      "id": "8260",
+      "contained": "80"
+    },
+    {
+      "name": "West Bend Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Lake City VFD for a fire...",
+      "state": "TEXAS",
+      "updated": "2022-07-20 18:03:22",
+      "lat": "33.843",
+      "lng": "-98.44",
+      "size": "6,522 Acres",
+      "url": "/incident/8259/",
+      "id": "8259",
+      "contained": "98"
+    },
+    {
+      "name": "Minto Lakes",
+      "type": "Wildfire",
+      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
+      "state": "ALASKA",
+      "updated": "2022-07-20 17:59:26",
+      "lat": "65.01",
+      "lng": "-148.747",
+      "size": "37,554 Acres",
+      "url": "/incident/8182/",
+      "id": "8182",
+      "contained": "53"
+    },
+    {
       "name": "Wildcat",
       "type": "Wildfire",
       "summary": " Fire is located 40 miles northwest of Wells, NV. Wildcat Fire is...",
       "state": "NEVADA",
-      "updated": "2022-07-20 17:45:10",
+      "updated": "2022-07-20 17:45:42",
       "lat": "41.646",
       "lng": "-115.294",
       "size": "21,429 Acres",
@@ -38,19 +103,6 @@
       "url": "/incident/8251/",
       "id": "8251",
       "contained": "15"
-    },
-    {
-      "name": "Minto Lakes",
-      "type": "Wildfire",
-      "summary": " The Minto Lakes Fire (#349) started on June 21st and is a...",
-      "state": "ALASKA",
-      "updated": "2022-07-20 15:58:13",
-      "lat": "65.01",
-      "lng": "-148.747",
-      "size": "37,554 Acres",
-      "url": "/incident/8182/",
-      "id": "8182",
-      "contained": "53"
     },
     {
       "name": "Chalk Mountain Fire",
@@ -222,19 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "West Bend Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Lake City VFD for a fire...",
-      "state": "TEXAS",
-      "updated": "2022-07-20 12:05:30",
-      "lat": "33.843",
-      "lng": "-98.44",
-      "size": "6,522 Acres",
-      "url": "/incident/8259/",
-      "id": "8259",
-      "contained": "95"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
@@ -259,19 +298,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "0"
-    },
-    {
-      "name": "Stayman",
-      "type": "Wildfire",
-      "summary": "The Stayman Flats Fire was first reported on July 18 at approximately...",
-      "state": "WASHINGTON",
-      "updated": "2022-07-20 11:11:03",
-      "lat": "47.776",
-      "lng": "-120.083",
-      "size": "1,200 Acres",
-      "url": "/incident/8260/",
-      "id": "8260",
-      "contained": "30"
     },
     {
       "name": "Calf Canyon",
@@ -350,19 +376,6 @@
       "url": "/incident/8222/",
       "id": "8222",
       "contained": "90"
-    },
-    {
-      "name": "Sheep Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-19 23:18:51",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "0 Acres",
-      "url": "/incident/8261/",
-      "id": "8261",
-      "contained": "0"
     },
     {
       "name": "Water Canyon Fire",
