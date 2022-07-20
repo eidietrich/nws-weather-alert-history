@@ -1,30 +1,95 @@
 {
   "markers": [
     {
-      "name": "Calf Canyon",
+      "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
       "state": "NEW MEXICO",
-      "updated": "2022-07-20 10:49:15",
-      "lat": "35.759",
-      "lng": "-105.503",
+      "updated": "2022-07-20 11:21:42",
+      "lat": "35.718",
+      "lng": "-105.399",
       "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
+      "url": "/incident/8049/",
+      "id": "8049",
       "contained": "93"
+    },
+    {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-20 11:19:03",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,863 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "58"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The fire is located approximately five (5) miles southwest of the...",
+      "state": "IDAHO",
+      "updated": "2022-07-20 11:17:22",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "16,581 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "0"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-20 11:15:29",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,339 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "10"
+    },
+    {
+      "name": "Stayman",
+      "type": "Wildfire",
+      "summary": "The Stayman Flats Fire was first reported on July 18 at approximately...",
+      "state": "WASHINGTON",
+      "updated": "2022-07-20 11:11:03",
+      "lat": "47.776",
+      "lng": "-120.083",
+      "size": "1,200 Acres",
+      "url": "/incident/8260/",
+      "id": "8260",
+      "contained": "30"
     },
     {
       "name": "Dalton Highway Complex",
       "type": "Wildfire",
       "summary": "Tuesday, July 19, 2022 (last edited at 8:30 p.m.)The Dalton Highway...",
       "state": "ALASKA",
-      "updated": "2022-07-20 10:47:13",
+      "updated": "2022-07-20 11:05:22",
       "lat": "66.876",
       "lng": "-150.522",
       "size": "89,100 Acres",
       "url": "/incident/8240/",
       "id": "8240",
       "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-20 10:56:56",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
     },
     {
       "name": "Clear Fire",
@@ -53,32 +118,6 @@
       "contained": "56"
     },
     {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-20 10:42:51",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-20 10:40:12",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,000 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "10"
-    },
-    {
       "name": "Honey Creek Fire",
       "type": "Wildfire",
       "summary": " LOCATION CORRECTION- fire is located off Hwy 55 and CR 416 on the...",
@@ -90,19 +129,6 @@
       "url": "/incident/8245/",
       "id": "8245",
       "contained": "25"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The fire is located approximately five (5) miles southwest of the...",
-      "state": "IDAHO",
-      "updated": "2022-07-20 09:48:09",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "16,581 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "0"
     },
     {
       "name": "1148 Fire",
@@ -142,19 +168,6 @@
       "url": "/incident/8250/",
       "id": "8250",
       "contained": "80"
-    },
-    {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-20 09:11:41",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,859 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "58"
     },
     {
       "name": "Hidden Shores Fire",
@@ -207,19 +220,6 @@
       "url": "/incident/8222/",
       "id": "8222",
       "contained": "90"
-    },
-    {
-      "name": "Stayman",
-      "type": "Wildfire",
-      "summary": "The Stayman Flats Fire was first reported on July 18 at approximately...",
-      "state": "WASHINGTON",
-      "updated": "2022-07-20 08:27:09",
-      "lat": "47.776",
-      "lng": "-120.083",
-      "size": "1,200 Acres",
-      "url": "/incident/8260/",
-      "id": "8260",
-      "contained": "30"
     },
     {
       "name": "Bean Complex",
