@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Committee Fire",
+      "type": "Wildfire",
+      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
+      "state": "ARIZONA",
+      "updated": "2022-07-20 12:03:15",
+      "lat": "34.857",
+      "lng": "-111.713",
+      "size": "281 Acres",
+      "url": "/incident/8241/",
+      "id": "8241",
+      "contained": "0"
+    },
+    {
+      "name": "West Bend Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Lake City VFD for a fire...",
+      "state": "TEXAS",
+      "updated": "2022-07-20 12:03:12",
+      "lat": "33.843",
+      "lng": "-98.44",
+      "size": "6,522 Acres",
+      "url": "/incident/8259/",
+      "id": "8259",
+      "contained": "95"
+    },
+    {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "Wednesday, July 20, 2022 (last edited at 8:30 a.m.)The wet weather...",
+      "state": "ALASKA",
+      "updated": "2022-07-20 12:01:13",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "0"
+    },
+    {
+      "name": "1148 Fire",
+      "type": "Wildfire",
+      "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
+      "state": "TEXAS",
+      "updated": "2022-07-20 11:47:53",
+      "lat": "32.896",
+      "lng": "-98.52",
+      "size": "500 Acres",
+      "url": "/incident/8251/",
+      "id": "8251",
+      "contained": "15"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-20 11:41:22",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,339 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "10"
+    },
+    {
+      "name": "Hog Trough",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire   was discovered July 17th.  The lightning-caused...",
+      "state": "MONTANA",
+      "updated": "2022-07-20 11:32:06",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "263 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
@@ -40,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-20 11:15:29",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,339 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "10"
-    },
-    {
       "name": "Stayman",
       "type": "Wildfire",
       "summary": "The Stayman Flats Fire was first reported on July 18 at approximately...",
@@ -64,19 +129,6 @@
       "url": "/incident/8260/",
       "id": "8260",
       "contained": "30"
-    },
-    {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "Tuesday, July 19, 2022 (last edited at 8:30 p.m.)The Dalton Highway...",
-      "state": "ALASKA",
-      "updated": "2022-07-20 11:05:22",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "0"
     },
     {
       "name": "Calf Canyon",
@@ -129,19 +181,6 @@
       "url": "/incident/8245/",
       "id": "8245",
       "contained": "25"
-    },
-    {
-      "name": "1148 Fire",
-      "type": "Wildfire",
-      "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
-      "state": "TEXAS",
-      "updated": "2022-07-20 09:43:51",
-      "lat": "32.896",
-      "lng": "-98.52",
-      "size": "500 Acres",
-      "url": "/incident/8251/",
-      "id": "8251",
-      "contained": "15"
     },
     {
       "name": "Woodtick",
@@ -235,19 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "West Bend Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Lake City VFD for a fire...",
-      "state": "TEXAS",
-      "updated": "2022-07-20 00:09:16",
-      "lat": "33.843",
-      "lng": "-98.44",
-      "size": "6,522 Acres",
-      "url": "/incident/8259/",
-      "id": "8259",
-      "contained": "80"
-    },
-    {
       "name": "Sheep Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
@@ -258,19 +284,6 @@
       "size": "0 Acres",
       "url": "/incident/8261/",
       "id": "8261",
-      "contained": "0"
-    },
-    {
-      "name": "Committee Fire",
-      "type": "Wildfire",
-      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
-      "state": "ARIZONA",
-      "updated": "2022-07-19 22:05:30",
-      "lat": "34.857",
-      "lng": "-111.713",
-      "size": "281 Acres",
-      "url": "/incident/8241/",
-      "id": "8241",
       "contained": "0"
     },
     {
@@ -298,19 +311,6 @@
       "url": "/incident/8234/",
       "id": "8234",
       "contained": "85"
-    },
-    {
-      "name": "Hog Trough",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire   was discovered July 17th.  The lightning-caused...",
-      "state": "MONTANA",
-      "updated": "2022-07-19 18:31:26",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "300 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
     },
     {
       "name": "Powerhouse Fire",
