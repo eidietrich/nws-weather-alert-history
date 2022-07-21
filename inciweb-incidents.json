@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. The Western Montana All...",
+      "state": "MONTANA",
+      "updated": "2022-07-21 13:23:54",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "500 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Honey Creek Fire",
+      "type": "Wildfire",
+      "summary": "Fire crews expect more hot and dry conditions as they continue to...",
+      "state": "TEXAS",
+      "updated": "2022-07-21 13:21:08",
+      "lat": "29.538",
+      "lng": "-99.851",
+      "size": "273 Acres",
+      "url": "/incident/8245/",
+      "id": "8245",
+      "contained": "60"
+    },
+    {
+      "name": "Pine Peak Fire",
+      "type": "Wildfire",
+      "summary": "  UPDATE - July 20, 2022   The most active of the fires is the...",
+      "state": "ARIZONA",
+      "updated": "2022-07-21 13:16:57",
+      "lat": "34.881",
+      "lng": "-113.863",
+      "size": "400 Acres",
+      "url": "/incident/8257/",
+      "id": "8257",
+      "contained": "0"
+    },
+    {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "Thursday, July 21, 2022 (last edited at 8:00 a.m.)After completing...",
+      "state": "ALASKA",
+      "updated": "2022-07-21 13:11:33",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "0"
+    },
+    {
+      "name": "Lime Complex",
+      "type": "Wildfire",
+      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
+      "state": "ALASKA",
+      "updated": "2022-07-21 12:59:31",
+      "lat": "61.57",
+      "lng": "-158.006",
+      "size": "865,620 Acres",
+      "url": "/incident/8173/",
+      "id": "8173",
+      "contained": "56"
+    },
+    {
+      "name": "Big Sandy Fire ",
+      "type": "Wildfire",
+      "summary": "Crews assigned continue to patrol and monitor the perimeter of the...",
+      "state": "ARIZONA",
+      "updated": "2022-07-21 12:56:52",
+      "lat": "34.705",
+      "lng": "-113.612",
+      "size": "150 Acres",
+      "url": "/incident/8244/",
+      "id": "8244",
+      "contained": "40"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "The Moose Fire was very active yesterday, with uphill runs, short...",
@@ -11,19 +89,6 @@
       "size": "20,648 Acres",
       "url": "/incident/8249/",
       "id": "8249",
-      "contained": "0"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. The Western Montana All...",
-      "state": "MONTANA",
-      "updated": "2022-07-21 12:38:39",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "500 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
       "contained": "0"
     },
     {
@@ -51,32 +116,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "58"
-    },
-    {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "Thursday, July 21, 2022 (last edited at 8:00 a.m.)After completing...",
-      "state": "ALASKA",
-      "updated": "2022-07-21 11:46:11",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "0"
-    },
-    {
-      "name": "Pine Peak Fire",
-      "type": "Wildfire",
-      "summary": "  UPDATE - July 20, 2022   The most active of the fires is the...",
-      "state": "ARIZONA",
-      "updated": "2022-07-21 11:36:28",
-      "lat": "34.881",
-      "lng": "-113.863",
-      "size": "300 Acres",
-      "url": "/incident/8257/",
-      "id": "8257",
-      "contained": "0"
     },
     {
       "name": "Nethery Road Fire",
@@ -287,32 +326,6 @@
       "contained": "61"
     },
     {
-      "name": "Lime Complex",
-      "type": "Wildfire",
-      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
-      "state": "ALASKA",
-      "updated": "2022-07-20 21:58:18",
-      "lat": "61.57",
-      "lng": "-158.006",
-      "size": "865,620 Acres",
-      "url": "/incident/8173/",
-      "id": "8173",
-      "contained": "56"
-    },
-    {
-      "name": "Honey Creek Fire",
-      "type": "Wildfire",
-      "summary": "Today fire crews strengthened existing lines using a combination of...",
-      "state": "TEXAS",
-      "updated": "2022-07-20 20:23:13",
-      "lat": "29.538",
-      "lng": "-99.851",
-      "size": "273 Acres",
-      "url": "/incident/8245/",
-      "id": "8245",
-      "contained": "60"
-    },
-    {
       "name": "Clover Fire",
       "type": "Wildfire",
       "summary": "On 13JUL22, at 18:47, Dillon interagency Dispatch received...",
@@ -376,19 +389,6 @@
       "url": "/incident/8182/",
       "id": "8182",
       "contained": "53"
-    },
-    {
-      "name": "Big Sandy Fire ",
-      "type": "Wildfire",
-      "summary": "Despite the increased nighttime activity over the last few days,...",
-      "state": "ARIZONA",
-      "updated": "2022-07-20 12:17:07",
-      "lat": "34.705",
-      "lng": "-113.612",
-      "size": "150 Acres",
-      "url": "/incident/8244/",
-      "id": "8244",
-      "contained": "40"
     },
     {
       "name": "Hidden Shores Fire",
@@ -1054,19 +1054,6 @@
       "contained": "100"
     },
     {
-      "name": "Elgin Bridge Fire ",
-      "type": "Wildfire",
-      "summary": "The Elgin Bridge Fire is 100% contained at 2,149 acres. While the...",
-      "state": "ARIZONA",
-      "updated": "2022-05-31 11:13:53",
-      "lat": "31.663",
-      "lng": "-110.522",
-      "size": "2,149 Acres",
-      "url": "/incident/8119/",
-      "id": "8119",
-      "contained": "100"
-    },
-    {
       "name": "Simms",
       "type": "Wildfire",
       "summary": "The Simms Fire was reported at approximately 3:45 p.m. on May 19,...",
@@ -1091,19 +1078,6 @@
       "url": "/incident/7310/",
       "id": "7310",
       "contained": "0"
-    },
-    {
-      "name": "San Rafael Fire ",
-      "type": "Wildfire",
-      "summary": "As of 9am on Saturday, 5/15, 2022 the San Rafael is 100% contained at...",
-      "state": "ARIZONA",
-      "updated": "2022-05-15 11:14:52",
-      "lat": "31.353",
-      "lng": "-110.614",
-      "size": "11,620 Acres",
-      "url": "/incident/8100/",
-      "id": "8100",
-      "contained": "100"
     },
     {
       "name": "Hoosier National Forest Prescribed Fire ",
