@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
+      "state": "UTAH",
+      "updated": "2022-07-21 09:48:59",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "11,725 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "55"
+    },
+    {
+      "name": "Moors Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Moors Mountain Fire was reported on Saturday, July 16, and is...",
+      "state": "MONTANA",
+      "updated": "2022-07-21 09:48:10",
+      "lat": "46.887",
+      "lng": "-111.733",
+      "size": "94 Acres",
+      "url": "/incident/8238/",
+      "id": "8238",
+      "contained": "0"
+    },
+    {
+      "name": "Wildcat",
+      "type": "Wildfire",
+      "summary": " Fire is located 40 miles northwest of Wells, NV. Wildcat Fire is...",
+      "state": "NEVADA",
+      "updated": "2022-07-21 09:38:18",
+      "lat": "41.646",
+      "lng": "-115.294",
+      "size": "21,429 Acres",
+      "url": "/incident/8234/",
+      "id": "8234",
+      "contained": "98"
+    },
+    {
       "name": "Woodtick",
       "type": "Wildfire",
       "summary": "The lightning fires are located approximately six (6) miles west...",
@@ -248,32 +287,6 @@
       "contained": "100"
     },
     {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
-      "state": "UTAH",
-      "updated": "2022-07-20 18:46:09",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "11,725 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "55"
-    },
-    {
-      "name": "Wildcat",
-      "type": "Wildfire",
-      "summary": " Fire is located 40 miles northwest of Wells, NV. Wildcat Fire is...",
-      "state": "NEVADA",
-      "updated": "2022-07-20 18:27:52",
-      "lat": "41.646",
-      "lng": "-115.294",
-      "size": "21,429 Acres",
-      "url": "/incident/8234/",
-      "id": "8234",
-      "contained": "98"
-    },
-    {
       "name": "Sheep Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERYThere are three phases of...",
@@ -363,19 +376,6 @@
       "url": "/incident/8244/",
       "id": "8244",
       "contained": "40"
-    },
-    {
-      "name": "Moors Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Moors Mountain Fire was reported on Saturday, July 16, and is...",
-      "state": "MONTANA",
-      "updated": "2022-07-20 12:10:09",
-      "lat": "46.887",
-      "lng": "-111.733",
-      "size": "94 Acres",
-      "url": "/incident/8238/",
-      "id": "8238",
-      "contained": "0"
     },
     {
       "name": "Hidden Shores Fire",
