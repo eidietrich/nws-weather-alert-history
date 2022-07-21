@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
+      "state": "UTAH",
+      "updated": "2022-07-21 13:50:37",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "11,725 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "55"
+    },
+    {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-21 13:46:13",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "193,670 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "0"
+    },
+    {
+      "name": "Honey Creek Fire",
+      "type": "Wildfire",
+      "summary": "Fire crews expect more hot and dry conditions as they continue to...",
+      "state": "TEXAS",
+      "updated": "2022-07-21 13:45:27",
+      "lat": "29.538",
+      "lng": "-99.851",
+      "size": "273 Acres",
+      "url": "/incident/8245/",
+      "id": "8245",
+      "contained": "70"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-21 13:39:49",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
+      "name": "1148 Fire",
+      "type": "Wildfire",
+      "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
+      "state": "TEXAS",
+      "updated": "2022-07-21 13:38:10",
+      "lat": "32.896",
+      "lng": "-98.52",
+      "size": "500 Acres",
+      "url": "/incident/8251/",
+      "id": "8251",
+      "contained": "45"
+    },
+    {
+      "name": "Monday Creek Fire",
+      "type": "Wildfire",
+      "summary": "Fire size is 653 acres and has not seen any growth in several...",
+      "state": "WYOMING",
+      "updated": "2022-07-21 13:34:28",
+      "lat": "42.336",
+      "lng": "-105.497",
+      "size": "653 Acres",
+      "url": "/incident/8214/",
+      "id": "8214",
+      "contained": "95"
+    },
+    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. The Western Montana All...",
       "state": "MONTANA",
-      "updated": "2022-07-21 13:23:54",
+      "updated": "2022-07-21 13:31:35",
       "lat": "46.152",
       "lng": "-113.813",
       "size": "500 Acres",
@@ -14,30 +92,30 @@
       "contained": "0"
     },
     {
-      "name": "Honey Creek Fire",
-      "type": "Wildfire",
-      "summary": "Fire crews expect more hot and dry conditions as they continue to...",
-      "state": "TEXAS",
-      "updated": "2022-07-21 13:21:08",
-      "lat": "29.538",
-      "lng": "-99.851",
-      "size": "273 Acres",
-      "url": "/incident/8245/",
-      "id": "8245",
-      "contained": "60"
-    },
-    {
       "name": "Pine Peak Fire",
       "type": "Wildfire",
       "summary": "  UPDATE - July 20, 2022   The most active of the fires is the...",
       "state": "ARIZONA",
-      "updated": "2022-07-21 13:16:57",
+      "updated": "2022-07-21 13:29:44",
       "lat": "34.881",
       "lng": "-113.863",
       "size": "400 Acres",
       "url": "/incident/8257/",
       "id": "8257",
       "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-21 13:28:36",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
     },
     {
       "name": "Dalton Highway Complex",
@@ -144,19 +222,6 @@
       "contained": "100"
     },
     {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-21 10:29:29",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
-    },
-    {
       "name": "Moors Mountain Fire",
       "type": "Wildfire",
       "summary": "The Moors Mountain Fire was reported on Saturday, July 16, and is...",
@@ -168,45 +233,6 @@
       "url": "/incident/8238/",
       "id": "8238",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "Summary:  The Hermits Peak Fire began April 6 as a result of the Las...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-21 10:15:12",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
-    },
-    {
-      "name": "1148 Fire",
-      "type": "Wildfire",
-      "summary": " On July 18, 2022, a wildfire started in the 5200 block of Moore...",
-      "state": "TEXAS",
-      "updated": "2022-07-21 10:02:01",
-      "lat": "32.896",
-      "lng": "-98.52",
-      "size": "500 Acres",
-      "url": "/incident/8251/",
-      "id": "8251",
-      "contained": "45"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
-      "state": "UTAH",
-      "updated": "2022-07-21 09:48:59",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "11,725 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "55"
     },
     {
       "name": "Wildcat",
@@ -285,19 +311,6 @@
       "url": "/incident/8246/",
       "id": "8246",
       "contained": "100"
-    },
-    {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-21 00:02:32",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "193,670 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "0"
     },
     {
       "name": "Diamond Watch Fire",
@@ -545,19 +558,6 @@
       "url": "/incident/8227/",
       "id": "8227",
       "contained": "100"
-    },
-    {
-      "name": "Monday Creek Fire",
-      "type": "Wildfire",
-      "summary": "Fire size is 653 acres and has not seen any growth in several...",
-      "state": "WYOMING",
-      "updated": "2022-07-18 09:39:59",
-      "lat": "42.336",
-      "lng": "-105.497",
-      "size": "653 Acres",
-      "url": "/incident/8214/",
-      "id": "8214",
-      "contained": "90"
     },
     {
       "name": "South Bend Fire",
