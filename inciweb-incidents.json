@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Nelson Creek Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-22 10:19:28",
+      "lat": "30.856",
+      "lng": "-95.553",
+      "size": "1,887 Acres",
+      "url": "/incident/8250/",
+      "id": "8250",
+      "contained": "90"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "",
       "state": "IDAHO",
-      "updated": "2022-07-22 09:47:12",
+      "updated": "2022-07-22 10:16:34",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "23,620 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "0"
+    },
+    {
+      "name": "Moors Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Moors Mountain Fire was reported on Saturday, July 16, and is...",
+      "state": "MONTANA",
+      "updated": "2022-07-22 10:13:19",
+      "lat": "46.887",
+      "lng": "-111.733",
+      "size": "94 Acres",
+      "url": "/incident/8238/",
+      "id": "8238",
+      "contained": "25"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-22 10:12:44",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-22 10:08:44",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "Thursday, July 21, 2022 (last edited at 9:45 p.m.)Crews on the Idaho...",
+      "state": "ALASKA",
+      "updated": "2022-07-22 09:58:25",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "40"
     },
     {
       "name": "Halfway Hill Fire",
@@ -51,45 +116,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "79"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-22 06:51:40",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-22 06:50:04",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
-    },
-    {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "Thursday, July 21, 2022 (last edited at 9:45 p.m.)Crews on the Idaho...",
-      "state": "ALASKA",
-      "updated": "2022-07-22 01:03:18",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "40"
     },
     {
       "name": "Bean Complex",
@@ -168,19 +194,6 @@
       "url": "/incident/8245/",
       "id": "8245",
       "contained": "80"
-    },
-    {
-      "name": "Nelson Creek Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-21 20:45:44",
-      "lat": "30.856",
-      "lng": "-95.553",
-      "size": "1,887 Acres",
-      "url": "/incident/8250/",
-      "id": "8250",
-      "contained": "90"
     },
     {
       "name": "Committee Fire",
@@ -285,19 +298,6 @@
       "url": "/incident/8256/",
       "id": "8256",
       "contained": "100"
-    },
-    {
-      "name": "Moors Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Moors Mountain Fire was reported on Saturday, July 16, and is...",
-      "state": "MONTANA",
-      "updated": "2022-07-21 10:25:39",
-      "lat": "46.887",
-      "lng": "-111.733",
-      "size": "94 Acres",
-      "url": "/incident/8238/",
-      "id": "8238",
-      "contained": "0"
     },
     {
       "name": "Wildcat",
