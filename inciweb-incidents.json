@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-22 12:41:16",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,705 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "10"
+    },
+    {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-22 12:40:56",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,856 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "79"
+    },
+    {
+      "name": "Middle Tanana Complex",
+      "type": "Wildfire",
+      "summary": "Tuesday, July 19, 2022, is the last day this Inciweb page will be...",
+      "state": "ALASKA",
+      "updated": "2022-07-22 12:40:20",
+      "lat": "64.37",
+      "lng": "-144.95",
+      "size": "60,861 Acres",
+      "url": "/incident/8201/",
+      "id": "8201",
+      "contained": "0"
+    },
+    {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-22 12:38:33",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "193,766 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "44"
+    },
+    {
       "name": "Big Sandy Fire ",
       "type": "Wildfire",
-      "summary": "Crews assigned continue to patrol and monitor the perimeter of the...",
+      "summary": "Today, crews will focus on the southern edge of the fire as interior...",
       "state": "ARIZONA",
-      "updated": "2022-07-22 12:08:42",
+      "updated": "2022-07-22 12:32:31",
       "lat": "34.705",
       "lng": "-113.612",
       "size": "150 Acres",
@@ -14,30 +66,30 @@
       "contained": "50"
     },
     {
-      "name": "Lime Complex",
-      "type": "Wildfire",
-      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
-      "state": "ALASKA",
-      "updated": "2022-07-22 12:07:42",
-      "lat": "61.57",
-      "lng": "-158.006",
-      "size": "865,620 Acres",
-      "url": "/incident/8173/",
-      "id": "8173",
-      "contained": "56"
-    },
-    {
       "name": "Dalton Highway Complex",
       "type": "Wildfire",
-      "summary": "Friday, July 22, 2022 (last edited at 7:30 a.m.)Yesterday, crews on...",
+      "summary": "Friday, July 22, 2022 (last edited at 9:30 a.m.)Yesterday, crews on...",
       "state": "ALASKA",
-      "updated": "2022-07-22 12:01:59",
+      "updated": "2022-07-22 12:20:10",
       "lat": "66.876",
       "lng": "-150.522",
       "size": "89,100 Acres",
       "url": "/incident/8240/",
       "id": "8240",
       "contained": "40"
+    },
+    {
+      "name": "Lime Complex",
+      "type": "Wildfire",
+      "summary": "The Lime Complex start is logged as June 14, 2022 at 8:00 PM. The 21...",
+      "state": "ALASKA",
+      "updated": "2022-07-22 12:12:08",
+      "lat": "61.57",
+      "lng": "-158.006",
+      "size": "865,620 Acres",
+      "url": "/incident/8173/",
+      "id": "8173",
+      "contained": "56"
     },
     {
       "name": "Pine Peak Fire",
@@ -157,32 +209,6 @@
       "contained": "95"
     },
     {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-22 08:17:03",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,856 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "79"
-    },
-    {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-22 00:25:06",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "193,766 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "44"
-    },
-    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "                                 Summary:...",
@@ -259,19 +285,6 @@
       "url": "/incident/8251/",
       "id": "8251",
       "contained": "50"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-21 20:22:07",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,705 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "10"
     },
     {
       "name": "Nethery Road Fire",
@@ -466,19 +479,6 @@
       "size": "1 Acres",
       "url": "/incident/8170/",
       "id": "8170",
-      "contained": "0"
-    },
-    {
-      "name": "Middle Tanana Complex",
-      "type": "Wildfire",
-      "summary": "As of Tuesday July 19, updates will no longer be made to this page....",
-      "state": "ALASKA",
-      "updated": "2022-07-19 13:19:26",
-      "lat": "64.37",
-      "lng": "-144.95",
-      "size": "60,861 Acres",
-      "url": "/incident/8201/",
-      "id": "8201",
       "contained": "0"
     },
     {
