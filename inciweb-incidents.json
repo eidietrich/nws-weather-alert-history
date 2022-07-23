@@ -1,6 +1,123 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2022-07-22 22:36:55",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "23,620 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "0"
+    },
+    {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "July 22nd, 2022 - The Clover Fire is still assessed to be burning at...",
+      "state": "MONTANA",
+      "updated": "2022-07-22 22:19:30",
+      "lat": "45.036",
+      "lng": "-111.867",
+      "size": "3 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "0"
+    },
+    {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "Friday, July 22, 2022 (last edited at 9:30 a.m.)Yesterday, crews on...",
+      "state": "ALASKA",
+      "updated": "2022-07-22 22:09:36",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "40"
+    },
+    {
+      "name": "Dodge Springs Fire",
+      "type": "Wildfire",
+      "summary": "The Dodge Springs Fire in Lincoln (Nevada) and Washington (Utah)...",
+      "state": "NEVADA",
+      "updated": "2022-07-22 22:03:17",
+      "lat": "37.325",
+      "lng": "-114.059",
+      "size": "6,000 Acres",
+      "url": "/incident/8268/",
+      "id": "8268",
+      "contained": "5"
+    },
+    {
+      "name": "Nelson Creek Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-22 21:46:39",
+      "lat": "30.856",
+      "lng": "-95.553",
+      "size": "1,887 Acres",
+      "url": "/incident/8250/",
+      "id": "8250",
+      "contained": "95"
+    },
+    {
+      "name": "1148 Fire",
+      "type": "Wildfire",
+      "summary": "On July 18, 2022, a wildfire started in the 5200 block of Moore Lane...",
+      "state": "TEXAS",
+      "updated": "2022-07-22 21:40:51",
+      "lat": "32.896",
+      "lng": "-98.52",
+      "size": "457 Acres",
+      "url": "/incident/8251/",
+      "id": "8251",
+      "contained": "50"
+    },
+    {
+      "name": "Committee Fire",
+      "type": "Wildfire",
+      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
+      "state": "ARIZONA",
+      "updated": "2022-07-22 21:39:11",
+      "lat": "34.857",
+      "lng": "-111.713",
+      "size": "335 Acres",
+      "url": "/incident/8241/",
+      "id": "8241",
+      "contained": "57"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-22 21:33:41",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,727 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "10"
+    },
+    {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-22 21:01:00",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,856 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "79"
+    },
+    {
       "name": "Honey Creek Fire",
       "type": "Wildfire",
       "summary": "On Friday fire crews continued to secure and monitor fire lines along...",
@@ -12,58 +129,6 @@
       "url": "/incident/8245/",
       "id": "8245",
       "contained": "95"
-    },
-    {
-      "name": "Dodge Springs Fire",
-      "type": "Wildfire",
-      "summary": " Firefighters continue to fully suppress the lightning-ignited Dodge...",
-      "state": "NEVADA",
-      "updated": "2022-07-22 20:49:39",
-      "lat": "37.325",
-      "lng": "-114.059",
-      "size": "6,000 Acres",
-      "url": "/incident/8268/",
-      "id": "8268",
-      "contained": "5"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2022-07-22 20:20:05",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "23,620 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "0"
-    },
-    {
-      "name": "1148 Fire",
-      "type": "Wildfire",
-      "summary": "On July 18, 2022, a wildfire started in the 5200 block of Moore Lane...",
-      "state": "TEXAS",
-      "updated": "2022-07-22 20:04:34",
-      "lat": "32.896",
-      "lng": "-98.52",
-      "size": "457 Acres",
-      "url": "/incident/8251/",
-      "id": "8251",
-      "contained": "50"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-22 19:51:48",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,727 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "10"
     },
     {
       "name": "Halfway Hill Fire",
@@ -196,19 +261,6 @@
       "contained": "90"
     },
     {
-      "name": "Committee Fire",
-      "type": "Wildfire",
-      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
-      "state": "ARIZONA",
-      "updated": "2022-07-22 15:00:28",
-      "lat": "34.857",
-      "lng": "-111.713",
-      "size": "281 Acres",
-      "url": "/incident/8241/",
-      "id": "8241",
-      "contained": "49"
-    },
-    {
       "name": "Stayman",
       "type": "Wildfire",
       "summary": "The Stayman Flats Fire was first reported on July 18 at approximately...",
@@ -233,19 +285,6 @@
       "url": "/incident/8257/",
       "id": "8257",
       "contained": "0"
-    },
-    {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "Friday, July 22, 2022 (last edited at 9:30 a.m.)Yesterday, crews on...",
-      "state": "ALASKA",
-      "updated": "2022-07-22 13:38:49",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "40"
     },
     {
       "name": "Hog Trough Fire",
@@ -274,19 +313,6 @@
       "contained": "0"
     },
     {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "Quick Links:  Daily Update (pdf)     |     Daily Map...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-22 12:41:45",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,856 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "79"
-    },
-    {
       "name": "Big Sandy Fire ",
       "type": "Wildfire",
       "summary": "Today, crews will focus on the southern edge of the fire as interior...",
@@ -298,19 +324,6 @@
       "url": "/incident/8244/",
       "id": "8244",
       "contained": "50"
-    },
-    {
-      "name": "Nelson Creek Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service has been requested to a fire approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-22 10:37:32",
-      "lat": "30.856",
-      "lng": "-95.553",
-      "size": "1,887 Acres",
-      "url": "/incident/8250/",
-      "id": "8250",
-      "contained": "95"
     },
     {
       "name": "Moors Mountain Fire",
@@ -337,19 +350,6 @@
       "url": "/incident/8214/",
       "id": "8214",
       "contained": "95"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "MONTANA",
-      "updated": "2022-07-21 22:18:23",
-      "lat": "45.036",
-      "lng": "-111.867",
-      "size": "3 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "0"
     },
     {
       "name": "Nethery Road Fire",
