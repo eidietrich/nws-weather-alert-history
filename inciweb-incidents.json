@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-07-23 09:29:15",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "557 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "9"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2022-07-23 09:26:12",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "28,839 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "0"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-07-23 09:15:26",
+      "updated": "2022-07-23 09:25:55",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "341,735 Acres",
@@ -14,17 +40,30 @@
       "contained": "94"
     },
     {
-      "name": "Hog Trough Fire",
+      "name": "Halfway Hill Fire",
       "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-07-23 09:12:20",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "557 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "9"
+      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
+      "state": "UTAH",
+      "updated": "2022-07-23 09:24:50",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "11,728 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "70"
+    },
+    {
+      "name": "Woodtick",
+      "type": "Wildfire",
+      "summary": "The lightning fires are located approximately six (6) miles west...",
+      "state": "IDAHO",
+      "updated": "2022-07-23 09:21:53",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "436 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
     },
     {
       "name": "Calf Canyon",
@@ -38,32 +77,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "94"
-    },
-    {
-      "name": "Woodtick",
-      "type": "Wildfire",
-      "summary": "The lightning fires are located approximately six (6) miles west...",
-      "state": "IDAHO",
-      "updated": "2022-07-23 09:06:34",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "299 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2022-07-23 08:43:00",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "28,839 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "0"
     },
     {
       "name": "Washburn Fire",
@@ -220,19 +233,6 @@
       "url": "/incident/8245/",
       "id": "8245",
       "contained": "95"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
-      "state": "UTAH",
-      "updated": "2022-07-22 19:43:58",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "11,728 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "70"
     },
     {
       "name": "Dragon Fire ",
