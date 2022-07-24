@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "San Gabriel Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
+      "state": "TEXAS",
+      "updated": "2022-07-24 10:35:15",
+      "lat": "30.678",
+      "lng": "-97.806",
+      "size": "500 Acres",
+      "url": "/incident/8271/",
+      "id": "8271",
+      "contained": "25"
+    },
+    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "                                 Summary:...",
       "state": "ALASKA",
-      "updated": "2022-07-24 10:15:05",
+      "updated": "2022-07-24 10:28:16",
       "lat": "64.405",
       "lng": "-149.506",
       "size": "72,171 Acres",
@@ -90,19 +103,6 @@
       "url": "/incident/8238/",
       "id": "8238",
       "contained": "74"
-    },
-    {
-      "name": "San Gabriel Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
-      "state": "TEXAS",
-      "updated": "2022-07-24 08:57:57",
-      "lat": "30.678",
-      "lng": "-97.806",
-      "size": "500 Acres",
-      "url": "/incident/8271/",
-      "id": "8271",
-      "contained": "25"
     },
     {
       "name": "Washburn Fire",
