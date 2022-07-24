@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2022-07-23 22:42:39",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "28,839 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "0"
+    },
+    {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "NEW- Forest Order 05-15-51-22-17 (Supercedes previous Forest...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-23 22:42:18",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,857 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "79"
+    },
+    {
+      "name": "Pine Peak Fire",
+      "type": "Wildfire",
+      "summary": " UPDATE - July 23, 2022   The most active fire currently is Pine...",
+      "state": "ARIZONA",
+      "updated": "2022-07-23 22:29:06",
+      "lat": "34.881",
+      "lng": "-113.863",
+      "size": "1,602 Acres",
+      "url": "/incident/8257/",
+      "id": "8257",
+      "contained": "0"
+    },
+    {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-23 22:26:41",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "194,503 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "45"
+    },
+    {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "Saturday, July 23, 2022 (last edited at 11:30 a.m.)After Friday's...",
+      "state": "ALASKA",
+      "updated": "2022-07-23 22:08:18",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "40"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-23 21:33:46",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,735 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "20"
+    },
+    {
+      "name": "1148 Fire",
+      "type": "Wildfire",
+      "summary": "On July 18, 2022, a wildfire started in the 5200 block of Moore Lane...",
+      "state": "TEXAS",
+      "updated": "2022-07-23 21:32:18",
+      "lat": "32.896",
+      "lng": "-98.52",
+      "size": "457 Acres",
+      "url": "/incident/8251/",
+      "id": "8251",
+      "contained": "80"
+    },
+    {
       "name": "Dodge Springs Fire",
       "type": "Wildfire",
       "summary": "The 5,078-acre Dodge Springs Fire today made runs to the northeast...",
@@ -12,19 +103,6 @@
       "url": "/incident/8268/",
       "id": "8268",
       "contained": "5"
-    },
-    {
-      "name": "Pine Peak Fire",
-      "type": "Wildfire",
-      "summary": " UPDATE - July 23, 2022   The most active fire currently is Pine...",
-      "state": "ARIZONA",
-      "updated": "2022-07-23 20:58:01",
-      "lat": "34.881",
-      "lng": "-113.863",
-      "size": "1,600 Acres",
-      "url": "/incident/8257/",
-      "id": "8257",
-      "contained": "0"
     },
     {
       "name": "San Gabriel Fire",
@@ -105,32 +183,6 @@
       "contained": "9"
     },
     {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "Saturday, July 23, 2022 (last edited at 11:30 a.m.)After Friday's...",
-      "state": "ALASKA",
-      "updated": "2022-07-23 16:29:26",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "40"
-    },
-    {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "NEW- Forest Order 05-15-51-22-17 (Supercedes previous Forest...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-23 16:10:26",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,856 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "79"
-    },
-    {
       "name": "Woodtick",
       "type": "Wildfire",
       "summary": "The Woodtick fire is currently 436 acres with the primary spread to...",
@@ -142,32 +194,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2022-07-23 13:58:10",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "28,839 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "0"
-    },
-    {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-23 13:56:46",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "194,336 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "44"
     },
     {
       "name": "Dragon Fire ",
@@ -207,32 +233,6 @@
       "url": "/incident/8241/",
       "id": "8241",
       "contained": "57"
-    },
-    {
-      "name": "1148 Fire",
-      "type": "Wildfire",
-      "summary": "On July 18, 2022, a wildfire started in the 5200 block of Moore Lane...",
-      "state": "TEXAS",
-      "updated": "2022-07-23 12:14:09",
-      "lat": "32.896",
-      "lng": "-98.52",
-      "size": "457 Acres",
-      "url": "/incident/8251/",
-      "id": "8251",
-      "contained": "50"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-23 12:14:02",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,727 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "10"
     },
     {
       "name": "Moors Mountain Fire",
