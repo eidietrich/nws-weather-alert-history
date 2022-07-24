@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Dodge Springs Fire",
+      "type": "Wildfire",
+      "summary": "The 5,078-acre Dodge Springs Fire today made runs to the northeast...",
+      "state": "NEVADA",
+      "updated": "2022-07-23 20:58:42",
+      "lat": "37.325",
+      "lng": "-114.059",
+      "size": "5,078 Acres",
+      "url": "/incident/8268/",
+      "id": "8268",
+      "contained": "5"
+    },
+    {
+      "name": "Pine Peak Fire",
+      "type": "Wildfire",
+      "summary": " UPDATE - July 23, 2022   The most active fire currently is Pine...",
+      "state": "ARIZONA",
+      "updated": "2022-07-23 20:58:01",
+      "lat": "34.881",
+      "lng": "-113.863",
+      "size": "1,600 Acres",
+      "url": "/incident/8257/",
+      "id": "8257",
+      "contained": "0"
+    },
+    {
+      "name": "San Gabriel Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
+      "state": "TEXAS",
+      "updated": "2022-07-23 20:51:26",
+      "lat": "30.678",
+      "lng": "-97.806",
+      "size": "250 Acres",
+      "url": "/incident/8271/",
+      "id": "8271",
+      "contained": "10"
+    },
+    {
+      "name": "Pipeline Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER) Limitations While many...",
+      "state": "ARIZONA",
+      "updated": "2022-07-23 19:16:41",
+      "lat": "35.336",
+      "lng": "-111.633",
+      "size": "26,770 Acres",
+      "url": "/incident/8168/",
+      "id": "8168",
+      "contained": "90"
+    },
+    {
       "name": "Diamond Watch Fire",
       "type": "Wildfire",
       "summary": "Started by lightning and initially detected on the evening of July...",
@@ -11,19 +63,6 @@
       "size": "7 Acres",
       "url": "/incident/8264/",
       "id": "8264",
-      "contained": "0"
-    },
-    {
-      "name": "San Gabriel Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
-      "state": "TEXAS",
-      "updated": "2022-07-23 18:20:48",
-      "lat": "30.678",
-      "lng": "-97.806",
-      "size": "100 Acres",
-      "url": "/incident/8271/",
-      "id": "8271",
       "contained": "0"
     },
     {
@@ -64,32 +103,6 @@
       "url": "/incident/8258/",
       "id": "8258",
       "contained": "9"
-    },
-    {
-      "name": "Dodge Springs Fire",
-      "type": "Wildfire",
-      "summary": "The Dodge Springs Fire was aerially mapped overnight at 5,100 acres....",
-      "state": "NEVADA",
-      "updated": "2022-07-23 16:57:58",
-      "lat": "37.325",
-      "lng": "-114.059",
-      "size": "6,000 Acres",
-      "url": "/incident/8268/",
-      "id": "8268",
-      "contained": "5"
-    },
-    {
-      "name": "Pine Peak Fire",
-      "type": "Wildfire",
-      "summary": " UPDATE - July 23, 2022   The most active fire currently is Pine...",
-      "state": "ARIZONA",
-      "updated": "2022-07-23 16:51:50",
-      "lat": "34.881",
-      "lng": "-113.863",
-      "size": "1,295 Acres",
-      "url": "/incident/8257/",
-      "id": "8257",
-      "contained": "0"
     },
     {
       "name": "Dalton Highway Complex",
@@ -350,19 +363,6 @@
       "url": "/incident/8269/",
       "id": "8269",
       "contained": "0"
-    },
-    {
-      "name": "Pipeline Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER) Limitations While many...",
-      "state": "ARIZONA",
-      "updated": "2022-07-22 16:33:22",
-      "lat": "35.336",
-      "lng": "-111.633",
-      "size": "26,770 Acres",
-      "url": "/incident/8168/",
-      "id": "8168",
-      "contained": "90"
     },
     {
       "name": "Stayman",
