@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "San Gabriel Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
+      "state": "TEXAS",
+      "updated": "2022-07-24 07:10:37",
+      "lat": "30.678",
+      "lng": "-97.806",
+      "size": "500 Acres",
+      "url": "/incident/8271/",
+      "id": "8271",
+      "contained": "25"
+    },
+    {
       "name": "Washburn Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -51,19 +64,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "79"
-    },
-    {
-      "name": "San Gabriel Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
-      "state": "TEXAS",
-      "updated": "2022-07-23 22:55:47",
-      "lat": "30.678",
-      "lng": "-97.806",
-      "size": "500 Acres",
-      "url": "/incident/8271/",
-      "id": "8271",
-      "contained": "25"
     },
     {
       "name": "Moose Fire",
