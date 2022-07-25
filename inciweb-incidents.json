@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "Location: Yosemite National Park, Mariposa Grove             ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-25 09:00:47",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,866 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "87"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "IDAHO",
+      "updated": "2022-07-25 08:52:40",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "35,739 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "7"
+    },
+    {
+      "name": "Escalera Fire",
+      "type": "Wildfire",
+      "summary": " Crews responded to the Escalera Fire at about 4pm on Sunday, July...",
+      "state": "TEXAS",
+      "updated": "2022-07-25 08:51:30",
+      "lat": "33.659",
+      "lng": "-99.078",
+      "size": "227 Acres",
+      "url": "/incident/8274/",
+      "id": "8274",
+      "contained": "92"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-07-25 08:48:55",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "584 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "9"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-07-25 08:40:10",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "751 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
       "name": "Woodtick",
       "type": "Wildfire",
       "summary": "The lightning fires are located approximately six (6) miles west...",
@@ -12,32 +77,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "0"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-07-25 08:16:42",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "751 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "IDAHO",
-      "updated": "2022-07-25 08:09:41",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "35,739 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "7"
     },
     {
       "name": "Hermits Peak Fire",
@@ -105,19 +144,6 @@
       "contained": "48"
     },
     {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "NEW- Forest Order 05-15-51-22-17 (Supercedes previous Forest...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-25 00:09:53",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,866 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "87"
-    },
-    {
       "name": "C3",
       "type": "Wildfire",
       "summary": " On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
@@ -142,19 +168,6 @@
       "url": "/incident/8178/",
       "id": "8178",
       "contained": "73"
-    },
-    {
-      "name": "Escalera Fire",
-      "type": "Wildfire",
-      "summary": " Crews responded to the Escalera Fire at about 4pm on Sunday, July...",
-      "state": "TEXAS",
-      "updated": "2022-07-24 21:59:54",
-      "lat": "33.659",
-      "lng": "-99.078",
-      "size": "227 Acres",
-      "url": "/incident/8274/",
-      "id": "8274",
-      "contained": "92"
     },
     {
       "name": "San Gabriel Fire",
@@ -233,19 +246,6 @@
       "url": "/incident/8275/",
       "id": "8275",
       "contained": "0"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-07-24 18:34:37",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "582 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "9"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
