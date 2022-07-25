@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Woodtick",
+      "type": "Wildfire",
+      "summary": "The lightning fires are located approximately six (6) miles west...",
+      "state": "IDAHO",
+      "updated": "2022-07-25 10:38:08",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "1,673 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "Location: Yosemite National Park, Mariposa...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-25 10:37:48",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,866 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "87"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "",
       "state": "IDAHO",
-      "updated": "2022-07-25 10:19:26",
+      "updated": "2022-07-25 10:33:06",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "35,739 Acres",
@@ -40,19 +66,6 @@
       "contained": "0"
     },
     {
-      "name": "Woodtick",
-      "type": "Wildfire",
-      "summary": "The lightning fires are located approximately six (6) miles west...",
-      "state": "IDAHO",
-      "updated": "2022-07-25 10:01:40",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "1,673 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
       "name": "Moors Mountain Fire",
       "type": "Wildfire",
       "summary": "The Moors Mountain Fire was reported on Saturday, July 16, near Moors...",
@@ -64,19 +77,6 @@
       "url": "/incident/8238/",
       "id": "8238",
       "contained": "100"
-    },
-    {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "Location: Yosemite National Park, Mariposa Grove             ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-25 09:46:19",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,866 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "87"
     },
     {
       "name": "Cat Fire",
