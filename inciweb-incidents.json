@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "C3",
+      "type": "Wildfire",
+      "summary": " On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
+      "state": "ARIZONA",
+      "updated": "2022-07-24 22:28:11",
+      "lat": "35.859",
+      "lng": "-113.228",
+      "size": "1,007 Acres",
+      "url": "/incident/8276/",
+      "id": "8276",
+      "contained": "5"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "                                 Summary:...",
+      "state": "ALASKA",
+      "updated": "2022-07-24 22:15:24",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,185 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "73"
+    },
+    {
       "name": "Cat Fire",
       "type": "Wildfire",
       "summary": "The Cat Fire began at about 7:15pm in Clay County, Texas. By 8:30pm,...",
       "state": "TEXAS",
-      "updated": "2022-07-24 20:56:28",
+      "updated": "2022-07-24 22:01:25",
       "lat": "33.943",
       "lng": "-98.42",
       "size": "60 Acres",
       "url": "/incident/8277/",
       "id": "8277",
-      "contained": "15"
+      "contained": "0"
+    },
+    {
+      "name": "Escalera Fire",
+      "type": "Wildfire",
+      "summary": " Crews responded to the Escalera Fire at about 4pm on Sunday, July...",
+      "state": "TEXAS",
+      "updated": "2022-07-24 21:59:54",
+      "lat": "33.659",
+      "lng": "-99.078",
+      "size": "227 Acres",
+      "url": "/incident/8274/",
+      "id": "8274",
+      "contained": "92"
+    },
+    {
+      "name": "San Gabriel Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
+      "state": "TEXAS",
+      "updated": "2022-07-24 21:31:58",
+      "lat": "30.678",
+      "lng": "-97.806",
+      "size": "500 Acres",
+      "url": "/incident/8271/",
+      "id": "8271",
+      "contained": "75"
+    },
+    {
+      "name": "Dodge Springs Fire",
+      "type": "Wildfire",
+      "summary": "The Dodge Springs Fire has increased in size to 5,612 acres. The fire...",
+      "state": "NEVADA",
+      "updated": "2022-07-24 21:28:00",
+      "lat": "37.325",
+      "lng": "-114.059",
+      "size": "5,612 Acres",
+      "url": "/incident/8268/",
+      "id": "8268",
+      "contained": "10"
+    },
+    {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "Sunday, July 24, 2022 (last edited at 6 p.m.)Over the past week, all...",
+      "state": "ALASKA",
+      "updated": "2022-07-24 21:20:27",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "40"
     },
     {
       "name": "Chalk Mountain Fire",
@@ -40,32 +118,6 @@
       "contained": "95"
     },
     {
-      "name": "Dodge Springs Fire",
-      "type": "Wildfire",
-      "summary": "The Dodge Springs Fire has increased in size to 5,612 acres. The fire...",
-      "state": "NEVADA",
-      "updated": "2022-07-24 20:24:07",
-      "lat": "37.325",
-      "lng": "-114.059",
-      "size": "5,612 Acres",
-      "url": "/incident/8268/",
-      "id": "8268",
-      "contained": "5"
-    },
-    {
-      "name": "San Gabriel Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
-      "state": "TEXAS",
-      "updated": "2022-07-24 20:22:15",
-      "lat": "30.678",
-      "lng": "-97.806",
-      "size": "500 Acres",
-      "url": "/incident/8271/",
-      "id": "8271",
-      "contained": "25"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "",
@@ -92,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "C3",
-      "type": "Wildfire",
-      "summary": " On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
-      "state": "ARIZONA",
-      "updated": "2022-07-24 20:01:32",
-      "lat": "35.859",
-      "lng": "-113.228",
-      "size": "0 Acres",
-      "url": "/incident/8276/",
-      "id": "8276",
-      "contained": "0"
-    },
-    {
       "name": "Avalanche Fire",
       "type": "Wildfire",
       "summary": "Discovered on July 18, 2022, the lightning-caused Avalanche Fire is...",
@@ -116,32 +155,6 @@
       "url": "/incident/8275/",
       "id": "8275",
       "contained": "0"
-    },
-    {
-      "name": "Escalera Fire",
-      "type": "Wildfire",
-      "summary": " Crews responded to the Escalera Fire at about 4pm on Sunday, July...",
-      "state": "TEXAS",
-      "updated": "2022-07-24 19:30:55",
-      "lat": "33.659",
-      "lng": "-99.078",
-      "size": "175 Acres",
-      "url": "/incident/8274/",
-      "id": "8274",
-      "contained": "0"
-    },
-    {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "Sunday, July 24, 2022 (last edited at 11 a.m.)Over the past week, all...",
-      "state": "ALASKA",
-      "updated": "2022-07-24 19:19:55",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "40"
     },
     {
       "name": "Calf Canyon",
@@ -298,19 +311,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "79"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "                                 Summary:...",
-      "state": "ALASKA",
-      "updated": "2022-07-24 10:37:57",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,171 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "71"
     },
     {
       "name": "Mountain Fire",
