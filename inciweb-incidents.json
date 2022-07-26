@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-07-26 10:12:55",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "587 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "9"
+    },
+    {
+      "name": "C3",
+      "type": "Wildfire",
+      "summary": " On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
+      "state": "ARIZONA",
+      "updated": "2022-07-26 10:11:54",
+      "lat": "35.859",
+      "lng": "-113.228",
+      "size": "1,242 Acres",
+      "url": "/incident/8276/",
+      "id": "8276",
+      "contained": "5"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "                                 Summary:...",
+      "state": "ALASKA",
+      "updated": "2022-07-26 10:11:36",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,185 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "73"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-26 10:03:45",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,746 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "20"
+    },
+    {
+      "name": "1148 Fire",
+      "type": "Wildfire",
+      "summary": "On July 18, 2022, a wildfire started in the 5200 block of Moore Lane...",
+      "state": "TEXAS",
+      "updated": "2022-07-26 09:56:21",
+      "lat": "32.896",
+      "lng": "-98.52",
+      "size": "457 Acres",
+      "url": "/incident/8251/",
+      "id": "8251",
+      "contained": "100"
+    },
+    {
+      "name": "Moors Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Moors Mountain Fire was reported on Saturday, July 16, near Moors...",
+      "state": "MONTANA",
+      "updated": "2022-07-26 09:46:59",
+      "lat": "46.887",
+      "lng": "-111.733",
+      "size": "98 Acres",
+      "url": "/incident/8238/",
+      "id": "8238",
+      "contained": "100"
+    },
+    {
       "name": "Woodtick",
       "type": "Wildfire",
       "summary": "The fire has grown slightly to an estimated 1,721 acres. Fire...",
@@ -12,19 +90,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "0"
-    },
-    {
-      "name": "Moors Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Moors Mountain Fire was reported on Saturday, July 16, near Moors...",
-      "state": "MONTANA",
-      "updated": "2022-07-26 09:42:37",
-      "lat": "46.887",
-      "lng": "-111.733",
-      "size": "98 Acres",
-      "url": "/incident/8238/",
-      "id": "8238",
-      "contained": "100"
     },
     {
       "name": "Moose Fire",
@@ -66,19 +131,6 @@
       "contained": "92"
     },
     {
-      "name": "C3",
-      "type": "Wildfire",
-      "summary": " On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
-      "state": "ARIZONA",
-      "updated": "2022-07-26 09:22:39",
-      "lat": "35.859",
-      "lng": "-113.228",
-      "size": "1,242 Acres",
-      "url": "/incident/8276/",
-      "id": "8276",
-      "contained": "5"
-    },
-    {
       "name": "Cat Fire",
       "type": "Wildfire",
       "summary": "The Cat Fire began at about 7:15pm in Clay County, Texas. By 8:30pm,...",
@@ -90,19 +142,6 @@
       "url": "/incident/8277/",
       "id": "8277",
       "contained": "90"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-07-26 09:14:42",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "587 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "9"
     },
     {
       "name": "Washburn Fire",
@@ -144,32 +183,6 @@
       "contained": "93"
     },
     {
-      "name": "1148 Fire",
-      "type": "Wildfire",
-      "summary": "On July 18, 2022, a wildfire started in the 5200 block of Moore Lane...",
-      "state": "TEXAS",
-      "updated": "2022-07-26 07:27:17",
-      "lat": "32.896",
-      "lng": "-98.52",
-      "size": "457 Acres",
-      "url": "/incident/8251/",
-      "id": "8251",
-      "contained": "100"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-26 07:19:38",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,735 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "20"
-    },
-    {
       "name": "Dodge Springs Fire",
       "type": "Wildfire",
       "summary": "Rain was falling over much of the Dodge Springs Fire area Monday...",
@@ -194,19 +207,6 @@
       "url": "/incident/8240/",
       "id": "8240",
       "contained": "57"
-    },
-    {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "                                 Summary:...",
-      "state": "ALASKA",
-      "updated": "2022-07-25 22:55:00",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,185 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "73"
     },
     {
       "name": "Nelson Creek Fire",
