@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-26 15:31:43",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,746 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "20"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-07-26 15:27:45",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "755 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "San Gabriel Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
+      "state": "TEXAS",
+      "updated": "2022-07-26 15:25:40",
+      "lat": "30.678",
+      "lng": "-97.806",
+      "size": "451 Acres",
+      "url": "/incident/8271/",
+      "id": "8271",
+      "contained": "90"
+    },
+    {
       "name": "Dragon Fire ",
       "type": "Wildfire",
       "summary": "The Dragon Fire, located on the North Rim of Grand Canyon National...",
       "state": "ARIZONA",
-      "updated": "2022-07-26 15:18:27",
+      "updated": "2022-07-26 15:24:28",
       "lat": "36.203",
       "lng": "-112.138",
       "size": "1,306 Acres",
@@ -105,19 +144,6 @@
       "contained": "80"
     },
     {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-26 12:55:12",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,746 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "20"
-    },
-    {
       "name": "Big Sandy Fire ",
       "type": "Wildfire",
       "summary": "The fire received a half an inch of rain over the last 24 hours and...",
@@ -129,19 +155,6 @@
       "url": "/incident/8244/",
       "id": "8244",
       "contained": "80"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-07-26 12:02:00",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "755 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
     },
     {
       "name": "Washburn Fire",
@@ -350,19 +363,6 @@
       "url": "/incident/8278/",
       "id": "8278",
       "contained": "100"
-    },
-    {
-      "name": "San Gabriel Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
-      "state": "TEXAS",
-      "updated": "2022-07-25 16:54:28",
-      "lat": "30.678",
-      "lng": "-97.806",
-      "size": "500 Acres",
-      "url": "/incident/8271/",
-      "id": "8271",
-      "contained": "90"
     },
     {
       "name": "Committee Fire",
