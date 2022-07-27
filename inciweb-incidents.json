@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
+      "state": "UTAH",
+      "updated": "2022-07-27 18:45:46",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "11,701 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "83"
+    },
+    {
       "name": "Sheep Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "FOREST SERVICE BAER PROGRAM OVERVIEWThe Burned Area Emergency...",
       "state": "CALIFORNIA",
-      "updated": "2022-07-27 18:31:50",
+      "updated": "2022-07-27 18:45:08",
       "lat": "34.354",
       "lng": "-117.609",
       "size": "0 Acres",
       "url": "/incident/8261/",
       "id": "8261",
       "contained": "0"
+    },
+    {
+      "name": "Haywire Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY There are three phases of...",
+      "state": "ARIZONA",
+      "updated": "2022-07-27 18:44:31",
+      "lat": "35.392",
+      "lng": "-111.408",
+      "size": "5,600 Acres",
+      "url": "/incident/8179/",
+      "id": "8179",
+      "contained": "100"
+    },
+    {
+      "name": "Pipeline Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER) Limitations While many...",
+      "state": "ARIZONA",
+      "updated": "2022-07-27 18:43:32",
+      "lat": "35.336",
+      "lng": "-111.633",
+      "size": "26,770 Acres",
+      "url": "/incident/8168/",
+      "id": "8168",
+      "contained": "90"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-07-27 18:32:50",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "587 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "9"
     },
     {
       "name": "Long Creek Fire",
@@ -155,32 +207,6 @@
       "url": "/incident/8255/",
       "id": "8255",
       "contained": "40"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
-      "state": "UTAH",
-      "updated": "2022-07-27 13:48:40",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "11,701 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "80"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-07-27 13:31:10",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "587 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "9"
     },
     {
       "name": "Washburn Fire",
@@ -547,19 +573,6 @@
       "contained": "0"
     },
     {
-      "name": "Pipeline Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER) Limitations While many...",
-      "state": "ARIZONA",
-      "updated": "2022-07-23 19:16:41",
-      "lat": "35.336",
-      "lng": "-111.633",
-      "size": "26,770 Acres",
-      "url": "/incident/8168/",
-      "id": "8168",
-      "contained": "90"
-    },
-    {
       "name": "West Bend Fire",
       "type": "Wildfire",
       "summary": " Texas A&amp;M Forest Service was requested by Lake City VFD for a fire...",
@@ -857,19 +870,6 @@
       "url": "/incident/8093/",
       "id": "8093",
       "contained": "100"
-    },
-    {
-      "name": "Haywire Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY There are three phases of...",
-      "state": "ARIZONA",
-      "updated": "2022-07-05 21:24:08",
-      "lat": "35.392",
-      "lng": "-111.408",
-      "size": "5,600 Acres",
-      "url": "/incident/8179/",
-      "id": "8179",
-      "contained": "95"
     },
     {
       "name": "Left Fork Fire",
