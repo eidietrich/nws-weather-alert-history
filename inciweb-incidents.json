@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Dodge Springs Fire",
+      "type": "Wildfire",
+      "summary": "Rain fell over much of the Dodge Springs Fire area Monday afternoon...",
+      "state": "NEVADA",
+      "updated": "2022-07-27 14:05:04",
+      "lat": "37.325",
+      "lng": "-114.059",
+      "size": "5,635 Acres",
+      "url": "/incident/8268/",
+      "id": "8268",
+      "contained": "49"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire, now over 38,000 acres, is burning in the...",
+      "state": "IDAHO",
+      "updated": "2022-07-27 14:02:08",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "38,321 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "15"
+    },
+    {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-27 13:56:54",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "196,786 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "85"
+    },
+    {
       "name": "Chalk Mountain Fire",
       "type": "Wildfire",
       "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
@@ -12,19 +51,6 @@
       "url": "/incident/8255/",
       "id": "8255",
       "contained": "40"
-    },
-    {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-27 13:51:49",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "196,786 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "85"
     },
     {
       "name": "Halfway Hill Fire",
@@ -142,32 +168,6 @@
       "url": "/incident/8279/",
       "id": "8279",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire, now over 38,000 acres, is burning in the...",
-      "state": "IDAHO",
-      "updated": "2022-07-27 11:09:44",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "38,321 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "15"
-    },
-    {
-      "name": "Dodge Springs Fire",
-      "type": "Wildfire",
-      "summary": "Rain fell over much of the Dodge Springs Fire area Monday afternoon...",
-      "state": "NEVADA",
-      "updated": "2022-07-27 10:47:18",
-      "lat": "37.325",
-      "lng": "-114.059",
-      "size": "5,635 Acres",
-      "url": "/incident/8268/",
-      "id": "8268",
-      "contained": "49"
     },
     {
       "name": "Wolf Fang Fire",
