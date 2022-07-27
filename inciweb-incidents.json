@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Oak Fire",
+      "type": "Wildfire",
+      "summary": " The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-26 22:53:30",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "18,532 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "26"
+    },
+    {
+      "name": "C3",
+      "type": "Wildfire",
+      "summary": "On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
+      "state": "ARIZONA",
+      "updated": "2022-07-26 22:28:29",
+      "lat": "35.859",
+      "lng": "-113.228",
+      "size": "1,378 Acres",
+      "url": "/incident/8276/",
+      "id": "8276",
+      "contained": "48"
+    },
+    {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "July 23rd, 2022 - Fire Crews continued with targeted burning...",
+      "state": "MONTANA",
+      "updated": "2022-07-26 21:50:51",
+      "lat": "45.036",
+      "lng": "-111.867",
+      "size": "546 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "10"
+    },
+    {
+      "name": "Washburn Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-26 21:48:37",
+      "lat": "37.499",
+      "lng": "-119.514",
+      "size": "0 Acres",
+      "url": "/incident/8272/",
+      "id": "8272",
+      "contained": "0"
+    },
+    {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-07-26 21:44:34",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "196,786 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "85"
+    },
+    {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "Tuesday, July 26, 2022 (last edited at 6:30 p.m.)In the last 24...",
+      "state": "ALASKA",
+      "updated": "2022-07-26 21:38:34",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "57"
+    },
+    {
+      "name": "Dodge Springs Fire",
+      "type": "Wildfire",
+      "summary": "Rain was falling over much of the Dodge Springs Fire area Monday...",
+      "state": "NEVADA",
+      "updated": "2022-07-26 21:08:53",
+      "lat": "37.325",
+      "lng": "-114.059",
+      "size": "5,635 Acres",
+      "url": "/incident/8268/",
+      "id": "8268",
+      "contained": "49"
+    },
+    {
       "name": "Washburn Fire",
       "type": "Wildfire",
       "summary": "  The map for the Washburn Fire incident also shows the perimeter...",
@@ -38,32 +129,6 @@
       "url": "/incident/8255/",
       "id": "8255",
       "contained": "40"
-    },
-    {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "Tuesday, July 26, 2022 (last edited at 8 a.m.)The Idaho Bar Fire...",
-      "state": "ALASKA",
-      "updated": "2022-07-26 20:18:09",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "57"
-    },
-    {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": " The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-26 20:13:53",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "18,087 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "26"
     },
     {
       "name": "Calf Canyon",
@@ -118,19 +183,6 @@
       "contained": "15"
     },
     {
-      "name": "Dodge Springs Fire",
-      "type": "Wildfire",
-      "summary": "Rain was falling over much of the Dodge Springs Fire area Monday...",
-      "state": "NEVADA",
-      "updated": "2022-07-26 19:43:49",
-      "lat": "37.325",
-      "lng": "-114.059",
-      "size": "5,635 Acres",
-      "url": "/incident/8268/",
-      "id": "8268",
-      "contained": "49"
-    },
-    {
       "name": "Clear Fire",
       "type": "Wildfire",
       "summary": "                                 Summary:...",
@@ -155,19 +207,6 @@
       "url": "/incident/8273/",
       "id": "8273",
       "contained": "0"
-    },
-    {
-      "name": "C3",
-      "type": "Wildfire",
-      "summary": "On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
-      "state": "ARIZONA",
-      "updated": "2022-07-26 17:37:20",
-      "lat": "35.859",
-      "lng": "-113.228",
-      "size": "1,242 Acres",
-      "url": "/incident/8276/",
-      "id": "8276",
-      "contained": "5"
     },
     {
       "name": "Halfway Hill Fire",
@@ -246,32 +285,6 @@
       "url": "/incident/8245/",
       "id": "8245",
       "contained": "95"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "July 23rd, 2022 - Fire Crews continued with targeted burning...",
-      "state": "MONTANA",
-      "updated": "2022-07-26 14:03:40",
-      "lat": "45.036",
-      "lng": "-111.867",
-      "size": "546 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "5"
-    },
-    {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-07-26 13:25:11",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "196,786 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "80"
     },
     {
       "name": "Big Sandy Fire ",
@@ -427,19 +440,6 @@
       "size": "0 Acres",
       "url": "/incident/8144/",
       "id": "8144",
-      "contained": "0"
-    },
-    {
-      "name": "Washburn Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-25 13:24:34",
-      "lat": "37.499",
-      "lng": "-119.514",
-      "size": "0 Acres",
-      "url": "/incident/8272/",
-      "id": "8272",
       "contained": "0"
     },
     {
