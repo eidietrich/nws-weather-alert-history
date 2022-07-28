@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "Tuesday, July 27, 2022 (last edited at 9 a.m.)As fire containment...",
+      "state": "ALASKA",
+      "updated": "2022-07-27 20:54:32",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "57"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-27 20:43:51",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,746 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "53"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-27 20:08:56",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "93"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-27 20:08:40",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "93"
+    },
+    {
+      "name": "Long Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Long Creek Fire began at about 1245pm on Wednesday, July 27....",
+      "state": "TEXAS",
+      "updated": "2022-07-27 20:06:51",
+      "lat": "33.892",
+      "lng": "-98.09",
+      "size": "215 Acres",
+      "url": "/incident/8282/",
+      "id": "8282",
+      "contained": "50"
+    },
+    {
+      "name": "Sheep Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "FOREST SERVICE BAER PROGRAM OVERVIEWThe Burned Area Emergency...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-27 19:33:43",
+      "lat": "34.354",
+      "lng": "-117.609",
+      "size": "0 Acres",
+      "url": "/incident/8261/",
+      "id": "8261",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire, now over 38,000 acres, is burning in the...",
+      "state": "IDAHO",
+      "updated": "2022-07-27 19:06:23",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "38,321 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "15"
+    },
+    {
+      "name": "Dodge Springs Fire",
+      "type": "Wildfire",
+      "summary": "Rain fell over much of the Dodge Springs Fire area Monday afternoon...",
+      "state": "NEVADA",
+      "updated": "2022-07-27 18:53:17",
+      "lat": "37.325",
+      "lng": "-114.059",
+      "size": "5,635 Acres",
+      "url": "/incident/8268/",
+      "id": "8268",
+      "contained": "90"
+    },
+    {
       "name": "Halfway Hill Fire",
       "type": "Wildfire",
       "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
@@ -12,19 +116,6 @@
       "url": "/incident/8215/",
       "id": "8215",
       "contained": "83"
-    },
-    {
-      "name": "Sheep Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "FOREST SERVICE BAER PROGRAM OVERVIEWThe Burned Area Emergency...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-27 18:45:08",
-      "lat": "34.354",
-      "lng": "-117.609",
-      "size": "0 Acres",
-      "url": "/incident/8261/",
-      "id": "8261",
-      "contained": "0"
     },
     {
       "name": "Haywire Fire BAER",
@@ -66,19 +157,6 @@
       "contained": "9"
     },
     {
-      "name": "Long Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Long Creek Fire began at about 1245pm on Wednesday, July 27. By...",
-      "state": "TEXAS",
-      "updated": "2022-07-27 17:55:40",
-      "lat": "33.892",
-      "lng": "-98.09",
-      "size": "150 Acres",
-      "url": "/incident/8282/",
-      "id": "8282",
-      "contained": "18"
-    },
-    {
       "name": "Oak Fire",
       "type": "Wildfire",
       "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
@@ -90,58 +168,6 @@
       "url": "/incident/8280/",
       "id": "8280",
       "contained": "32"
-    },
-    {
-      "name": "Dodge Springs Fire",
-      "type": "Wildfire",
-      "summary": "Rain fell over much of the Dodge Springs Fire area Monday afternoon...",
-      "state": "NEVADA",
-      "updated": "2022-07-27 17:03:44",
-      "lat": "37.325",
-      "lng": "-114.059",
-      "size": "5,635 Acres",
-      "url": "/incident/8268/",
-      "id": "8268",
-      "contained": "51"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire, now over 38,000 acres, is burning in the...",
-      "state": "IDAHO",
-      "updated": "2022-07-27 16:23:01",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "38,321 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "15"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-27 16:04:48",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "93"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-27 15:54:57",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "93"
     },
     {
       "name": "Woodtick",
@@ -196,19 +222,6 @@
       "contained": "85"
     },
     {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-27 13:51:49",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,746 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "40"
-    },
-    {
       "name": "Washburn Fire",
       "type": "Wildfire",
       "summary": "The map for the Washburn Fire incident also shows the perimeter for...",
@@ -233,19 +246,6 @@
       "url": "/incident/8178/",
       "id": "8178",
       "contained": "77"
-    },
-    {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "Tuesday, July 27, 2022 (last edited at 9 a.m.)As fire containment...",
-      "state": "ALASKA",
-      "updated": "2022-07-27 12:48:38",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "57"
     },
     {
       "name": "Diamond Watch Fire",
