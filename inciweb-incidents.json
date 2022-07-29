@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 510 acresScattered showers and thunderstorms have impacted...",
+      "state": "WYOMING",
+      "updated": "2022-07-29 09:12:34",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "510 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "0"
+    },
+    {
+      "name": "Dog Ridge Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service responded to a request for assistance on a...",
+      "state": "TEXAS",
+      "updated": "2022-07-29 09:04:25",
+      "lat": "31.051",
+      "lng": "-97.518",
+      "size": "235 Acres",
+      "url": "/incident/8285/",
+      "id": "8285",
+      "contained": "15"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "The Moose Fire, now over 43,000 acres, is burning in the...",
       "state": "IDAHO",
-      "updated": "2022-07-29 08:55:32",
+      "updated": "2022-07-29 09:02:52",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "43,226 Acres",
@@ -18,26 +44,13 @@
       "type": "Wildfire",
       "summary": " UPDATE: Texas A&amp;M Forest Service crews have returned to the...",
       "state": "TEXAS",
-      "updated": "2022-07-29 08:55:16",
+      "updated": "2022-07-29 09:00:18",
       "lat": "29.602",
       "lng": "-97.901",
       "size": "30 Acres",
       "url": "/incident/8283/",
       "id": "8283",
       "contained": "95"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 510 acresScattered showers and thunderstorms have impacted...",
-      "state": "WYOMING",
-      "updated": "2022-07-29 08:46:55",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "510 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "0"
     },
     {
       "name": "Woodtick",
@@ -90,19 +103,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "85"
-    },
-    {
-      "name": "Dog Ridge Fire",
-      "type": "Wildfire",
-      "summary": "The Dog Ridge Fire started on Thursday, July 28th. The Central Bell...",
-      "state": "TEXAS",
-      "updated": "2022-07-28 22:39:22",
-      "lat": "31.051",
-      "lng": "-97.518",
-      "size": "235 Acres",
-      "url": "/incident/8285/",
-      "id": "8285",
-      "contained": "15"
     },
     {
       "name": "C3",
