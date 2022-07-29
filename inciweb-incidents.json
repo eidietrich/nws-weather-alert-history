@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Washburn Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-29 12:26:23",
-      "lat": "37.499",
-      "lng": "-119.514",
-      "size": "0 Acres",
-      "url": "/incident/8272/",
-      "id": "8272",
-      "contained": "0"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-07-29 11:56:55",
+      "updated": "2022-07-29 12:45:21",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "341,735 Acres",
@@ -27,11 +14,76 @@
       "contained": "94"
     },
     {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-29 12:44:09",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,746 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "67"
+    },
+    {
+      "name": "Clear Fire",
+      "type": "Wildfire",
+      "summary": "The Clear Fire has been transitioned to the home unit.  Local...",
+      "state": "ALASKA",
+      "updated": "2022-07-29 12:41:08",
+      "lat": "64.405",
+      "lng": "-149.506",
+      "size": "72,191 Acres",
+      "url": "/incident/8178/",
+      "id": "8178",
+      "contained": "77"
+    },
+    {
+      "name": "Dalton Highway Complex",
+      "type": "Wildfire",
+      "summary": "As of July 27, the Dalton Highway Complex InciWeb pages will be...",
+      "state": "ALASKA",
+      "updated": "2022-07-29 12:38:46",
+      "lat": "66.876",
+      "lng": "-150.522",
+      "size": "89,100 Acres",
+      "url": "/incident/8240/",
+      "id": "8240",
+      "contained": "57"
+    },
+    {
+      "name": "Washburn Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-29 12:31:38",
+      "lat": "37.499",
+      "lng": "-119.514",
+      "size": "0 Acres",
+      "url": "/incident/8272/",
+      "id": "8272",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-07-29 12:31:33",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "611 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "9"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-07-29 11:56:30",
+      "updated": "2022-07-29 12:26:39",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "341,735 Acres",
@@ -77,19 +129,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "95"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-29 11:46:15",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,746 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "67"
     },
     {
       "name": "Moose Fire",
@@ -196,19 +235,6 @@
       "contained": "98"
     },
     {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-07-29 09:42:58",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "611 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "9"
-    },
-    {
       "name": "Woodtick",
       "type": "Wildfire",
       "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
@@ -274,19 +300,6 @@
       "contained": "83"
     },
     {
-      "name": "Clear Fire",
-      "type": "Wildfire",
-      "summary": "Suppression efforts continue on the Clear Fire, with firefighters...",
-      "state": "ALASKA",
-      "updated": "2022-07-28 16:08:46",
-      "lat": "64.405",
-      "lng": "-149.506",
-      "size": "72,188 Acres",
-      "url": "/incident/8178/",
-      "id": "8178",
-      "contained": "77"
-    },
-    {
       "name": "Pine Peak Fire",
       "type": "Wildfire",
       "summary": " UPDATE - July 23, 2022   The most active fire currently is Pine...",
@@ -350,19 +363,6 @@
       "url": "/incident/8271/",
       "id": "8271",
       "contained": "100"
-    },
-    {
-      "name": "Dalton Highway Complex",
-      "type": "Wildfire",
-      "summary": "As of Wednesday July 27, the Dalton Highway Complex InciWeb pages...",
-      "state": "ALASKA",
-      "updated": "2022-07-28 00:54:36",
-      "lat": "66.876",
-      "lng": "-150.522",
-      "size": "89,100 Acres",
-      "url": "/incident/8240/",
-      "id": "8240",
-      "contained": "57"
     },
     {
       "name": "Haywire Fire",
