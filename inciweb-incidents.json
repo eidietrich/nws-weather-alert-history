@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Washburn Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-29 12:00:25",
+      "lat": "37.499",
+      "lng": "-119.514",
+      "size": "0 Acres",
+      "url": "/incident/8272/",
+      "id": "8272",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-29 11:56:55",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "94"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-29 11:56:30",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "94"
+    },
+    {
+      "name": "East Fork Fire ",
+      "type": "Wildfire",
+      "summary": "The East fork Fire started on May 31st in a limited protection area...",
+      "state": "ALASKA",
+      "updated": "2022-07-29 11:50:55",
+      "lat": "62.366",
+      "lng": "-162.799",
+      "size": "250,725 Acres",
+      "url": "/incident/8148/",
+      "id": "8148",
+      "contained": "100"
+    },
+    {
+      "name": "C3",
+      "type": "Wildfire",
+      "summary": "On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
+      "state": "ARIZONA",
+      "updated": "2022-07-29 11:47:49",
+      "lat": "35.859",
+      "lng": "-113.228",
+      "size": "1,378 Acres",
+      "url": "/incident/8276/",
+      "id": "8276",
+      "contained": "72"
+    },
+    {
       "name": "Washburn Fire",
       "type": "Wildfire",
       "summary": "The map for the Washburn Fire incident also shows the perimeter for...",
       "state": "CALIFORNIA",
-      "updated": "2022-07-29 11:24:16",
+      "updated": "2022-07-29 11:46:55",
       "lat": "37.499",
       "lng": "-119.614",
       "size": "4,886 Acres",
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "95"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-29 11:46:15",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,746 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "67"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire, now over 43,000 acres, is burning in the...",
+      "state": "IDAHO",
+      "updated": "2022-07-29 11:46:15",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "43,226 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "15"
     },
     {
       "name": "Wolf Fang Fire",
@@ -51,19 +142,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "20"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire, now over 43,000 acres, is burning in the...",
-      "state": "IDAHO",
-      "updated": "2022-07-29 11:02:30",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "43,226 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "15"
     },
     {
       "name": "Dog Ridge Fire",
@@ -118,19 +196,6 @@
       "contained": "98"
     },
     {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-29 10:00:43",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,746 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "67"
-    },
-    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
@@ -181,45 +246,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "85"
-    },
-    {
-      "name": "C3",
-      "type": "Wildfire",
-      "summary": "On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
-      "state": "ARIZONA",
-      "updated": "2022-07-28 22:26:34",
-      "lat": "35.859",
-      "lng": "-113.228",
-      "size": "1,378 Acres",
-      "url": "/incident/8276/",
-      "id": "8276",
-      "contained": "72"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-28 20:38:26",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "94"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-28 20:31:52",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "94"
     },
     {
       "name": "Payette Wilderness Fires",
@@ -337,19 +363,6 @@
       "url": "/incident/8240/",
       "id": "8240",
       "contained": "57"
-    },
-    {
-      "name": "Washburn Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-27 23:22:31",
-      "lat": "37.499",
-      "lng": "-119.514",
-      "size": "0 Acres",
-      "url": "/incident/8272/",
-      "id": "8272",
-      "contained": "0"
     },
     {
       "name": "Haywire Fire",
@@ -947,19 +960,6 @@
       "size": "9,402 Acres",
       "url": "/incident/8067/",
       "id": "8067",
-      "contained": "100"
-    },
-    {
-      "name": "East Fork Fire ",
-      "type": "Wildfire",
-      "summary": "The East fork Fire started on May 31st in a limited protection area...",
-      "state": "ALASKA",
-      "updated": "2022-06-25 22:57:45",
-      "lat": "62.366",
-      "lng": "-162.799",
-      "size": "250,725 Acres",
-      "url": "/incident/8148/",
-      "id": "8148",
       "contained": "100"
     },
     {
