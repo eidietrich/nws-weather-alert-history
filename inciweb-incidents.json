@@ -1,16 +1,29 @@
 {
   "markers": [
     {
-      "name": "Sugarloaf Fire",
+      "name": "Oak Fire",
       "type": "Wildfire",
-      "summary": "Fire is 510 acresScattered showers and thunderstorms have impacted...",
-      "state": "WYOMING",
-      "updated": "2022-07-29 09:12:34",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "510 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
+      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-29 09:30:23",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "19,191 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "42"
+    },
+    {
+      "name": "Woodtick",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
+      "state": "IDAHO",
+      "updated": "2022-07-29 09:30:01",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "1,902 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
       "contained": "0"
     },
     {
@@ -18,7 +31,7 @@
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service responded to a request for assistance on a...",
       "state": "TEXAS",
-      "updated": "2022-07-29 09:04:25",
+      "updated": "2022-07-29 09:28:29",
       "lat": "31.051",
       "lng": "-97.518",
       "size": "235 Acres",
@@ -31,13 +44,26 @@
       "type": "Wildfire",
       "summary": "The Moose Fire, now over 43,000 acres, is burning in the...",
       "state": "IDAHO",
-      "updated": "2022-07-29 09:02:52",
+      "updated": "2022-07-29 09:26:43",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "43,226 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "15"
+    },
+    {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 510 acresScattered showers and thunderstorms have impacted...",
+      "state": "WYOMING",
+      "updated": "2022-07-29 09:18:28",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "510 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "0"
     },
     {
       "name": "Ameritex",
@@ -51,19 +77,6 @@
       "url": "/incident/8283/",
       "id": "8283",
       "contained": "95"
-    },
-    {
-      "name": "Woodtick",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
-      "state": "IDAHO",
-      "updated": "2022-07-29 07:41:13",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "1,902 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
     },
     {
       "name": "Dodge Springs Fire",
@@ -142,19 +155,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "95"
-    },
-    {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-28 21:44:50",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "19,191 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "42"
     },
     {
       "name": "Clover Fire",
