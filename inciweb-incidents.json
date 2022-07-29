@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "The map for the Washburn Fire incident also shows the perimeter for...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-29 11:24:16",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,886 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "95"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-07-29 11:23:22",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "779 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 512 acresScattered showers and thunderstorms have impacted...",
+      "state": "WYOMING",
+      "updated": "2022-07-29 11:19:14",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "512 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "0"
+    },
+    {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "July 29, 2022 - Unmanned aerial drones continue to support the Clover...",
+      "state": "MONTANA",
+      "updated": "2022-07-29 11:14:49",
+      "lat": "45.036",
+      "lng": "-111.867",
+      "size": "798 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "20"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire, now over 43,000 acres, is burning in the...",
+      "state": "IDAHO",
+      "updated": "2022-07-29 11:02:30",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "43,226 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "15"
+    },
+    {
       "name": "Dog Ridge Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service responded to a request for assistance on a...",
       "state": "TEXAS",
-      "updated": "2022-07-29 10:49:56",
+      "updated": "2022-07-29 11:02:12",
       "lat": "31.051",
       "lng": "-97.518",
       "size": "235 Acres",
@@ -25,32 +90,6 @@
       "url": "/incident/8280/",
       "id": "8280",
       "contained": "45"
-    },
-    {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "The map for the Washburn Fire incident also shows the perimeter for...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-29 10:48:30",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,886 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "95"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 510 acresScattered showers and thunderstorms have impacted...",
-      "state": "WYOMING",
-      "updated": "2022-07-29 10:22:38",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "510 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "0"
     },
     {
       "name": "Long Creek Fire",
@@ -105,19 +144,6 @@
       "contained": "9"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire, now over 43,000 acres, is burning in the...",
-      "state": "IDAHO",
-      "updated": "2022-07-29 09:40:41",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "43,226 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "15"
-    },
-    {
       "name": "Woodtick",
       "type": "Wildfire",
       "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
@@ -168,19 +194,6 @@
       "url": "/incident/8276/",
       "id": "8276",
       "contained": "72"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "July 28, 2022 -  Fire size has increased as warm, dry weather...",
-      "state": "MONTANA",
-      "updated": "2022-07-28 20:40:25",
-      "lat": "45.036",
-      "lng": "-111.867",
-      "size": "798 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "20"
     },
     {
       "name": "Hermits Peak Fire",
@@ -259,19 +272,6 @@
       "url": "/incident/8257/",
       "id": "8257",
       "contained": "25"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-07-28 11:33:12",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "768 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
     },
     {
       "name": "Dragon Fire ",
