@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 510 acresScattered showers and thunderstorms have impacted...",
+      "state": "WYOMING",
+      "updated": "2022-07-29 10:22:38",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "510 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "0"
+    },
+    {
+      "name": "Long Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Long Creek Fire began at about 1245pm on Wednesday, July 27....",
+      "state": "TEXAS",
+      "updated": "2022-07-29 10:17:28",
+      "lat": "33.892",
+      "lng": "-98.09",
+      "size": "215 Acres",
+      "url": "/incident/8282/",
+      "id": "8282",
+      "contained": "100"
+    },
+    {
+      "name": "Dodge Springs Fire",
+      "type": "Wildfire",
+      "summary": "After heavy rain fell over the area Wednesday the fire is now 98%...",
+      "state": "NEVADA",
+      "updated": "2022-07-29 10:05:04",
+      "lat": "37.325",
+      "lng": "-114.059",
+      "size": "5,635 Acres",
+      "url": "/incident/8268/",
+      "id": "8268",
+      "contained": "98"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-29 10:00:43",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,746 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "67"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-07-29 09:42:58",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "611 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "9"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire, now over 43,000 acres, is burning in the...",
+      "state": "IDAHO",
+      "updated": "2022-07-29 09:40:41",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "43,226 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "15"
+    },
+    {
       "name": "Oak Fire",
       "type": "Wildfire",
       "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
       "state": "CALIFORNIA",
-      "updated": "2022-07-29 09:30:23",
+      "updated": "2022-07-29 09:37:12",
       "lat": "37.549",
       "lng": "-119.921",
-      "size": "19,191 Acres",
+      "size": "19,208 Acres",
       "url": "/incident/8280/",
       "id": "8280",
-      "contained": "42"
+      "contained": "45"
     },
     {
       "name": "Woodtick",
@@ -40,32 +118,6 @@
       "contained": "15"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire, now over 43,000 acres, is burning in the...",
-      "state": "IDAHO",
-      "updated": "2022-07-29 09:26:43",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "43,226 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "15"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 510 acresScattered showers and thunderstorms have impacted...",
-      "state": "WYOMING",
-      "updated": "2022-07-29 09:18:28",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "510 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "0"
-    },
-    {
       "name": "Ameritex",
       "type": "Wildfire",
       "summary": " UPDATE: Texas A&amp;M Forest Service crews have returned to the...",
@@ -77,32 +129,6 @@
       "url": "/incident/8283/",
       "id": "8283",
       "contained": "95"
-    },
-    {
-      "name": "Dodge Springs Fire",
-      "type": "Wildfire",
-      "summary": "After heavy rain fell over the area Wednesday the fire is now 98%...",
-      "state": "NEVADA",
-      "updated": "2022-07-29 07:07:03",
-      "lat": "37.325",
-      "lng": "-114.059",
-      "size": "5,635 Acres",
-      "url": "/incident/8268/",
-      "id": "8268",
-      "contained": "98"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-29 06:36:32",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,746 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "67"
     },
     {
       "name": "Bean Complex",
@@ -129,19 +155,6 @@
       "url": "/incident/8276/",
       "id": "8276",
       "contained": "72"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-07-28 22:24:46",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "592 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "9"
     },
     {
       "name": "Washburn Fire",
@@ -285,19 +298,6 @@
       "url": "/incident/8245/",
       "id": "8245",
       "contained": "100"
-    },
-    {
-      "name": "Long Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Long Creek Fire began at about 1245pm on Wednesday, July 27....",
-      "state": "TEXAS",
-      "updated": "2022-07-28 08:46:37",
-      "lat": "33.892",
-      "lng": "-98.09",
-      "size": "215 Acres",
-      "url": "/incident/8282/",
-      "id": "8282",
-      "contained": "90"
     },
     {
       "name": "Dog House Two",
