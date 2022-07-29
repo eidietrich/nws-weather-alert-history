@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Dog Ridge Fire",
+      "type": "Wildfire",
+      "summary": "The Dog Ridge Fire started on Thursday, July 28th. The Central Bell...",
+      "state": "TEXAS",
+      "updated": "2022-07-28 22:39:22",
+      "lat": "31.051",
+      "lng": "-97.518",
+      "size": "235 Acres",
+      "url": "/incident/8285/",
+      "id": "8285",
+      "contained": "15"
+    },
+    {
+      "name": "C3",
+      "type": "Wildfire",
+      "summary": "On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
+      "state": "ARIZONA",
+      "updated": "2022-07-28 22:26:34",
+      "lat": "35.859",
+      "lng": "-113.228",
+      "size": "1,378 Acres",
+      "url": "/incident/8276/",
+      "id": "8276",
+      "contained": "72"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-07-28 22:24:46",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "592 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "9"
+    },
+    {
       "name": "Washburn Fire",
       "type": "Wildfire",
       "summary": "The map for the Washburn Fire incident also shows the perimeter for...",
       "state": "CALIFORNIA",
-      "updated": "2022-07-28 21:08:13",
+      "updated": "2022-07-28 21:49:55",
       "lat": "37.499",
       "lng": "-119.614",
       "size": "4,883 Acres",
       "url": "/incident/8209/",
       "id": "8209",
-      "contained": "94"
+      "contained": "95"
+    },
+    {
+      "name": "Oak Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-28 21:44:50",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "19,191 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "42"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-28 21:31:52",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,746 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "67"
     },
     {
       "name": "Clover Fire",
@@ -66,19 +131,6 @@
       "contained": "15"
     },
     {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-28 19:30:05",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "19,156 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "39"
-    },
-    {
       "name": "Dodge Springs Fire",
       "type": "Wildfire",
       "summary": "After heavy rain fell over the area Wednesday the fire is now 98%...",
@@ -103,19 +155,6 @@
       "url": "/incident/8283/",
       "id": "8283",
       "contained": "95"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-28 17:58:04",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,746 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "53"
     },
     {
       "name": "Payette Wilderness Fires",
@@ -168,19 +207,6 @@
       "url": "/incident/8257/",
       "id": "8257",
       "contained": "25"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-07-28 14:57:00",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "592 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "9"
     },
     {
       "name": "Bean Complex",
@@ -350,19 +376,6 @@
       "url": "/incident/8152/",
       "id": "8152",
       "contained": "100"
-    },
-    {
-      "name": "C3",
-      "type": "Wildfire",
-      "summary": "On Thursday morning, July 21, 2022, Hualapai Tribal Forestry...",
-      "state": "ARIZONA",
-      "updated": "2022-07-27 22:09:52",
-      "lat": "35.859",
-      "lng": "-113.228",
-      "size": "1,378 Acres",
-      "url": "/incident/8276/",
-      "id": "8276",
-      "contained": "60"
     },
     {
       "name": "Sheep Post-Fire BAER",
