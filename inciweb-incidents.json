@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are responding to a newly reported wildfire on the Oak...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-29 20:36:05",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "0 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "0"
+    },
+    {
+      "name": "Halfway Hill Fire",
+      "type": "Wildfire",
+      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
+      "state": "UTAH",
+      "updated": "2022-07-29 20:33:22",
+      "lat": "38.915",
+      "lng": "-112.339",
+      "size": "11,701 Acres",
+      "url": "/incident/8215/",
+      "id": "8215",
+      "contained": "83"
+    },
+    {
       "name": "Brook Mole Fire",
       "type": "Wildfire",
       "summary": "The Brook Mole Fire began at about 2:20pm on Friday, July 29. Fire...",
       "state": "TEXAS",
-      "updated": "2022-07-29 18:47:06",
+      "updated": "2022-07-29 20:29:24",
       "lat": "33.761",
       "lng": "-97.782",
-      "size": "300 Acres",
+      "size": "482 Acres",
       "url": "/incident/8286/",
       "id": "8286",
-      "contained": "40"
+      "contained": "75"
+    },
+    {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "July 29, 2022 - Unmanned aerial drones continue to support the Clover...",
+      "state": "MONTANA",
+      "updated": "2022-07-29 20:12:33",
+      "lat": "45.036",
+      "lng": "-111.867",
+      "size": "798 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "20"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-29 19:39:26",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,746 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "78"
+    },
+    {
+      "name": "Pine Peak Fire",
+      "type": "Wildfire",
+      "summary": "7/29 Pine Peak Fire Update:  Fire continues to smolder in the heavy...",
+      "state": "ARIZONA",
+      "updated": "2022-07-29 19:05:34",
+      "lat": "34.881",
+      "lng": "-113.863",
+      "size": "1,631 Acres",
+      "url": "/incident/8257/",
+      "id": "8257",
+      "contained": "77"
+    },
+    {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 512 acresScattered showers and thunderstorms have impacted...",
+      "state": "WYOMING",
+      "updated": "2022-07-29 19:03:20",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "512 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "0"
     },
     {
       "name": "Hog Trough Fire",
@@ -105,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Pine Peak Fire",
-      "type": "Wildfire",
-      "summary": " 7/29 Pine Peak Fire Update:  Fire continues to smolder in the...",
-      "state": "ARIZONA",
-      "updated": "2022-07-29 16:51:47",
-      "lat": "34.881",
-      "lng": "-113.863",
-      "size": "1,631 Acres",
-      "url": "/incident/8257/",
-      "id": "8257",
-      "contained": "77"
-    },
-    {
       "name": "Washburn Fire",
       "type": "Wildfire",
       "summary": "The map for the Washburn Fire incident also shows the perimeter for...",
@@ -129,19 +194,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "95"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-29 15:35:27",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,746 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "67"
     },
     {
       "name": "Dog Ridge Fire",
@@ -287,32 +339,6 @@
       "contained": "0"
     },
     {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 512 acresScattered showers and thunderstorms have impacted...",
-      "state": "WYOMING",
-      "updated": "2022-07-29 11:19:14",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "512 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "0"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "July 29, 2022 - Unmanned aerial drones continue to support the Clover...",
-      "state": "MONTANA",
-      "updated": "2022-07-29 11:14:49",
-      "lat": "45.036",
-      "lng": "-111.867",
-      "size": "798 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "20"
-    },
-    {
       "name": "Long Creek Fire",
       "type": "Wildfire",
       "summary": " The Long Creek Fire began at about 1245pm on Wednesday, July 27....",
@@ -337,19 +363,6 @@
       "url": "/incident/8284/",
       "id": "8284",
       "contained": "0"
-    },
-    {
-      "name": "Halfway Hill Fire",
-      "type": "Wildfire",
-      "summary": "The Halfway Hill Fire was detected on July 8, 2022, at about 2:00...",
-      "state": "UTAH",
-      "updated": "2022-07-28 16:42:00",
-      "lat": "38.915",
-      "lng": "-112.339",
-      "size": "11,701 Acres",
-      "url": "/incident/8215/",
-      "id": "8215",
-      "contained": "83"
     },
     {
       "name": "Dragon Fire ",
