@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are responding to a newly reported wildfire on the Oak...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-29 23:23:15",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "300 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "0"
+    },
+    {
+      "name": "Oak Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-29 23:12:09",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "19,221 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "48"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-29 23:03:01",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "94"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-07-29 23:01:33",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "94"
+    },
+    {
       "name": "Bean Complex",
       "type": "Wildfire",
       "summary": "The Bean Complex fires began from lightning between June 19 and June...",
@@ -25,19 +77,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "17"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are responding to a newly reported wildfire on the Oak...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-29 22:44:26",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "300 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "0"
     },
     {
       "name": "Hog Trough Fire",
@@ -170,19 +209,6 @@
       "contained": "100"
     },
     {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-29 18:09:14",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "19,208 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "45"
-    },
-    {
       "name": "Washburn Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -233,32 +259,6 @@
       "url": "/incident/8283/",
       "id": "8283",
       "contained": "100"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-29 13:23:47",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "94"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-29 13:22:58",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "94"
     },
     {
       "name": "Lime Complex",
