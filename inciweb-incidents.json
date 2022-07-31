@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-07-31 10:10:26",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,755 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "83"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates| Maps | PhotosOn Friday, July 29, 2022 at approximately...",
+      "state": "CALIFORNIA",
+      "updated": "2022-07-31 10:03:29",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "51,468 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "0"
+    },
+    {
+      "name": "Brook Mole Fire",
+      "type": "Wildfire",
+      "summary": "The Brook Mole Fire began at about 2:20pm on Friday, July 29. Fire...",
+      "state": "TEXAS",
+      "updated": "2022-07-31 09:56:49",
+      "lat": "33.761",
+      "lng": "-97.782",
+      "size": "482 Acres",
+      "url": "/incident/8286/",
+      "id": "8286",
+      "contained": "100"
+    },
+    {
       "name": "Oak Fire",
       "type": "Wildfire",
       "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
@@ -105,32 +144,6 @@
       "contained": "75"
     },
     {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-07-31 06:08:30",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,755 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "83"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates| Maps | PhotosOn Friday, July 29, 2022 at approximately...",
-      "state": "CALIFORNIA",
-      "updated": "2022-07-30 23:16:50",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "30,000 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "1"
-    },
-    {
       "name": "Bean Complex",
       "type": "Wildfire",
       "summary": "The Bean Complex fires began from lightning between June 19 and June...",
@@ -168,19 +181,6 @@
       "url": "/incident/8268/",
       "id": "8268",
       "contained": "98"
-    },
-    {
-      "name": "Brook Mole Fire",
-      "type": "Wildfire",
-      "summary": "The Brook Mole Fire began at about 2:20pm on Friday, July 29. Fire...",
-      "state": "TEXAS",
-      "updated": "2022-07-30 16:50:29",
-      "lat": "33.761",
-      "lng": "-97.782",
-      "size": "482 Acres",
-      "url": "/incident/8286/",
-      "id": "8286",
-      "contained": "100"
     },
     {
       "name": "Halfway Hill Fire",
