@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Washburn Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-02 17:43:48",
+      "lat": "37.499",
+      "lng": "-119.614",
+      "size": "4,886 Acres",
+      "url": "/incident/8209/",
+      "id": "8209",
+      "contained": "97"
+    },
+    {
       "name": "Big Sky",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
@@ -233,19 +246,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "0"
-    },
-    {
-      "name": "Washburn Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-02 10:58:55",
-      "lat": "37.499",
-      "lng": "-119.614",
-      "size": "4,886 Acres",
-      "url": "/incident/8209/",
-      "id": "8209",
-      "contained": "97"
     },
     {
       "name": "Clover Fire",
@@ -560,32 +560,6 @@
       "contained": "100"
     },
     {
-      "name": "Haywire Fire",
-      "type": "Wildfire",
-      "summary": " The Haywire Fire was reported at 5:30 a.m. June 13, 2022. It...",
-      "state": "ARIZONA",
-      "updated": "2022-07-27 22:31:25",
-      "lat": "35.37",
-      "lng": "-111.436",
-      "size": "5,575 Acres",
-      "url": "/incident/8155/",
-      "id": "8155",
-      "contained": "100"
-    },
-    {
-      "name": "Pipeline Fire",
-      "type": "Wildfire",
-      "summary": "The Pipeline Fire was reported on June 12, 2022 and is approximately...",
-      "state": "ARIZONA",
-      "updated": "2022-07-27 22:31:09",
-      "lat": "35.27",
-      "lng": "-111.666",
-      "size": "26,532 Acres",
-      "url": "/incident/8152/",
-      "id": "8152",
-      "contained": "100"
-    },
-    {
       "name": "Sheep Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "FOREST SERVICE BAER PROGRAM OVERVIEWThe Burned Area Emergency...",
@@ -597,32 +571,6 @@
       "url": "/incident/8261/",
       "id": "8261",
       "contained": "0"
-    },
-    {
-      "name": "Haywire Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY There are three phases of...",
-      "state": "ARIZONA",
-      "updated": "2022-07-27 18:44:31",
-      "lat": "35.392",
-      "lng": "-111.408",
-      "size": "5,600 Acres",
-      "url": "/incident/8179/",
-      "id": "8179",
-      "contained": "100"
-    },
-    {
-      "name": "Pipeline Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER) Limitations While many...",
-      "state": "ARIZONA",
-      "updated": "2022-07-27 18:43:32",
-      "lat": "35.336",
-      "lng": "-111.633",
-      "size": "26,770 Acres",
-      "url": "/incident/8168/",
-      "id": "8168",
-      "contained": "90"
     },
     {
       "name": "Big Sandy Fire ",
