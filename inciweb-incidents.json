@@ -1,30 +1,95 @@
 {
   "markers": [
     {
-      "name": "Washburn Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-01 21:08:42",
-      "lat": "37.499",
-      "lng": "-119.514",
-      "size": "0 Acres",
-      "url": "/incident/8272/",
-      "id": "8272",
-      "contained": "0"
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-01 22:55:43",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-01 22:45:09",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
     },
     {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "The Moose Fire, now over 56,000 acres, is burning in the...",
       "state": "IDAHO",
-      "updated": "2022-08-01 20:59:16",
+      "updated": "2022-08-01 22:23:02",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "56,049 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "23"
+    },
+    {
+      "name": "Bean Complex",
+      "type": "Wildfire",
+      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
+      "state": "ALASKA",
+      "updated": "2022-08-01 22:11:09",
+      "lat": "64.875",
+      "lng": "-151.641",
+      "size": "197,661 Acres",
+      "url": "/incident/8183/",
+      "id": "8183",
+      "contained": "98"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "EVENING UPDATE 9 PM 8.1.2022: Mandatory evacuations are in place for...",
+      "state": "MONTANA",
+      "updated": "2022-08-01 22:10:14",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "12,975 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "0"
+    },
+    {
+      "name": "Oak Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-01 21:52:07",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "19,244 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "74"
+    },
+    {
+      "name": "Washburn Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-01 21:42:42",
+      "lat": "37.499",
+      "lng": "-119.514",
+      "size": "0 Acres",
+      "url": "/incident/8272/",
+      "id": "8272",
+      "contained": "0"
     },
     {
       "name": "Sugarloaf Fire",
@@ -79,32 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-01 20:08:40",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-01 20:08:07",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
-    },
-    {
       "name": "Dodge Springs Fire",
       "type": "Wildfire",
       "summary": "This page will no longer be updated unless there are significant new...",
@@ -116,19 +155,6 @@
       "url": "/incident/8268/",
       "id": "8268",
       "contained": "98"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "The Elmo Fire started on July 29th, 2022 off of Highway 28 around...",
-      "state": "MONTANA",
-      "updated": "2022-08-01 18:02:41",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "12,975 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "0"
     },
     {
       "name": "Payette Wilderness Fires",
@@ -170,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Bean Complex",
-      "type": "Wildfire",
-      "summary": "The Bean Complex fires began from lightning between June 19 and June...",
-      "state": "ALASKA",
-      "updated": "2022-08-01 13:25:30",
-      "lat": "64.875",
-      "lng": "-151.641",
-      "size": "197,255 Acres",
-      "url": "/incident/8183/",
-      "id": "8183",
-      "contained": "98"
-    },
-    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
@@ -220,19 +233,6 @@
       "url": "/incident/8241/",
       "id": "8241",
       "contained": "90"
-    },
-    {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-01 10:39:01",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "19,244 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "72"
     },
     {
       "name": "Woodtick",
