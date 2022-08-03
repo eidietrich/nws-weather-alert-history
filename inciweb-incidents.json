@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Yeti and Alex Fires",
+      "type": "Wildfire",
+      "summary": "The Yeti Fire began on July 29, 2022, at approximately 8:58 pm. The...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-03 10:23:12",
+      "lat": "41.868",
+      "lng": "-123.278",
+      "size": "2,986 Acres",
+      "url": "/incident/8299/",
+      "id": "8299",
+      "contained": "0"
+    },
+    {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "August 1st, 2022  Firefighters will continue to strengthen...",
+      "state": "MONTANA",
+      "updated": "2022-08-03 10:23:10",
+      "lat": "45.048",
+      "lng": "-111.87",
+      "size": "1,098 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "24"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Maps | Photos | ClosuresOn Friday, July 29, 2022 at...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-03 10:20:07",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "57,519 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-03 10:19:18",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "97 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Oak Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-03 10:15:26",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "19,244 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "81"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-03 09:56:30",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire, now over 62,000 acres, is burning in the...",
+      "state": "IDAHO",
+      "updated": "2022-08-03 09:53:44",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "62,410 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "20"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-03 09:53:19",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "UPDATE 6:30 PM 8.2.22CHANGE IN EVACUATIONS: The Lake County Sheriff...",
@@ -12,19 +116,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "16"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Maps | Photos | ClosuresOn Friday, July 29, 2022 at...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-03 09:41:53",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "57,519 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "0"
     },
     {
       "name": "Windigo Fire",
@@ -53,32 +144,6 @@
       "contained": "70"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-03 09:35:18",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
-    },
-    {
-      "name": "Yeti and Alex Fires",
-      "type": "Wildfire",
-      "summary": "The Yeti Fire began on July 29, 2022, at approximately 8:58 pm. The...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-03 09:20:24",
-      "lat": "41.868",
-      "lng": "-123.278",
-      "size": "3,137 Acres",
-      "url": "/incident/8299/",
-      "id": "8299",
-      "contained": "0"
-    },
-    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "Weather is changing over the fire area today with a slight cooling...",
@@ -92,19 +157,6 @@
       "contained": "0"
     },
     {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-03 09:17:14",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
-    },
-    {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
@@ -116,19 +168,6 @@
       "url": "/incident/8273/",
       "id": "8273",
       "contained": "0"
-    },
-    {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-03 09:14:50",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "19,244 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "79"
     },
     {
       "name": "Fish Fire",
@@ -155,19 +194,6 @@
       "url": "/incident/8295/",
       "id": "8295",
       "contained": "30"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire, now over 62,000 acres, is burning in the...",
-      "state": "IDAHO",
-      "updated": "2022-08-03 08:43:02",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "62,410 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "20"
     },
     {
       "name": "Blue Bluff Fire",
@@ -220,32 +246,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "98"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-02 22:40:11",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "85 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "August 1st, 2022  Firefighters will continue to strengthen...",
-      "state": "MONTANA",
-      "updated": "2022-08-02 20:53:19",
-      "lat": "45.048",
-      "lng": "-111.87",
-      "size": "955 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "24"
     },
     {
       "name": "Washburn Fire",
@@ -1181,19 +1181,6 @@
       "size": "0 Acres",
       "url": "/incident/7887/",
       "id": "7887",
-      "contained": "0"
-    },
-    {
-      "name": "Southwest District BLM Prescribed Fire ",
-      "type": "Prescribed Fire",
-      "summary": "The Bureau of Land Management Southwest District plans to conduct...",
-      "state": "COLORADO",
-      "updated": "2022-05-05 10:20:40",
-      "lat": "37.903",
-      "lng": "-108.826",
-      "size": "0 Acres",
-      "url": "/incident/7852/",
-      "id": "7852",
       "contained": "0"
     }
   ]
