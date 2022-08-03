@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-03 17:47:07",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "57,515 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "0"
+    },
+    {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 699 acresContainment is at 19%Aerial ignition will continue...",
+      "state": "WYOMING",
+      "updated": "2022-08-03 17:43:32",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "839 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "19"
+    },
+    {
+      "name": "Smoke Rider Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
+      "state": "TEXAS",
+      "updated": "2022-08-03 17:37:46",
+      "lat": "30.162",
+      "lng": "-98.244",
+      "size": "800 Acres",
+      "url": "/incident/8295/",
+      "id": "8295",
+      "contained": "60"
+    },
+    {
       "name": "Colony Fire",
       "type": "Wildfire",
       "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
@@ -157,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Smoke Rider Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
-      "state": "TEXAS",
-      "updated": "2022-08-03 14:36:56",
-      "lat": "30.162",
-      "lng": "-98.244",
-      "size": "800 Acres",
-      "url": "/incident/8295/",
-      "id": "8295",
-      "contained": "30"
-    },
-    {
       "name": "Boldt Fire",
       "type": "Wildfire",
       "summary": "UPDATE: Crews will continue working to mop up and strengthen...",
@@ -233,32 +259,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "98"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 699 acresContainment is at 19%Aerial ignition will continue...",
-      "state": "WYOMING",
-      "updated": "2022-08-03 12:14:00",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "839 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "19"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-03 12:07:42",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "57,515 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "0"
     },
     {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
