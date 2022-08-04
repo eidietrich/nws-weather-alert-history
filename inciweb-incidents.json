@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 839 acresContainment is at 23%In Divisions Alpha and Zulu...",
+      "state": "WYOMING",
+      "updated": "2022-08-04 15:10:08",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "839 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "23"
+    },
+    {
+      "name": "Diamond Watch Fire",
+      "type": "Wildfire",
+      "summary": "Started by lightning and initially detected on the evening of July...",
+      "state": "IDAHO",
+      "updated": "2022-08-04 14:59:31",
+      "lat": "48.636",
+      "lng": "-117.065",
+      "size": "120 Acres",
+      "url": "/incident/8264/",
+      "id": "8264",
+      "contained": "0"
+    },
+    {
+      "name": "Payette Wilderness Fires",
+      "type": "Wildfire",
+      "summary": " Lightning Starts Wilderness Fires on the Payette National...",
+      "state": "IDAHO",
+      "updated": "2022-08-04 14:50:55",
+      "lat": "45.384",
+      "lng": "-114.96",
+      "size": "580 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
       "name": "Smoke Rider Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
@@ -64,19 +103,6 @@
       "url": "/incident/8258/",
       "id": "8258",
       "contained": "0"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 839 acresContainment is at 23%In Divisions Alpha and Zulu...",
-      "state": "WYOMING",
-      "updated": "2022-08-04 12:40:57",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "839 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "23"
     },
     {
       "name": "Redhorn Fire",
@@ -480,32 +506,6 @@
       "url": "/incident/8093/",
       "id": "8093",
       "contained": "100"
-    },
-    {
-      "name": "Payette Wilderness Fires",
-      "type": "Wildfire",
-      "summary": " Lightning Starts Wilderness Fires on the Payette National...",
-      "state": "IDAHO",
-      "updated": "2022-08-02 16:05:25",
-      "lat": "45.384",
-      "lng": "-114.96",
-      "size": "434 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
-    },
-    {
-      "name": "Diamond Watch Fire",
-      "type": "Wildfire",
-      "summary": "Started by lightning and initially detected on the evening of July...",
-      "state": "IDAHO",
-      "updated": "2022-08-02 15:49:32",
-      "lat": "48.636",
-      "lng": "-117.065",
-      "size": "25 Acres",
-      "url": "/incident/8264/",
-      "id": "8264",
-      "contained": "0"
     },
     {
       "name": "Wildcat BAER",
