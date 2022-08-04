@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 839 acresContainment is at 23%In Divisions Alpha and Zulu...",
+      "state": "WYOMING",
+      "updated": "2022-08-04 11:28:45",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "839 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "23"
+    },
+    {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
       "summary": "The Yeti Fire began on July 29, 2022, at approximately 8:58 pm. The...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-04 10:51:21",
+      "updated": "2022-08-04 11:19:31",
       "lat": "41.868",
       "lng": "-123.278",
       "size": "4,626 Acres",
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "0"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "NOTICE - 10:00 AM 8.4.22 Per Lake County Sheriff's Office, Lake Mary...",
+      "state": "MONTANA",
+      "updated": "2022-08-04 11:15:00",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "20,616 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "6"
+    },
+    {
+      "name": "Gem Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Gem Lake Fire started the afternoon of July 14, 2022, when a...",
+      "state": "WYOMING",
+      "updated": "2022-08-04 11:05:47",
+      "lat": "44.422",
+      "lng": "-107",
+      "size": "21 Acres",
+      "url": "/incident/8269/",
+      "id": "8269",
+      "contained": "100"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-04 11:02:28",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "58,668 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "10"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "There will be an in-person community meeting tonight at 6pm, held...",
+      "state": "IDAHO",
+      "updated": "2022-08-04 11:02:03",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "64,078 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "20"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "  The Vantage Highway fire started on August 1, 2022 at 1205 PM...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-04 11:01:41",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "26,490 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "21"
     },
     {
       "name": "Washburn Fire",
@@ -25,45 +103,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "100"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-04 10:49:46",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "58,668 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "10"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE 4:00 PM 8.3.22The fire has been very active on the north end,...",
-      "state": "MONTANA",
-      "updated": "2022-08-04 10:48:46",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "20,616 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "6"
-    },
-    {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "  The Vantage Highway fire started on August 1, 2022 at 1205 PM...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-04 10:42:26",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "26,490 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "21"
     },
     {
       "name": "Windigo Fire",
@@ -90,19 +129,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "There will be an in-person community meeting tonight at 6pm, held...",
-      "state": "IDAHO",
-      "updated": "2022-08-04 10:25:44",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "64,078 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "20"
     },
     {
       "name": "Clover Fire",
@@ -259,19 +285,6 @@
       "url": "/incident/8305/",
       "id": "8305",
       "contained": "0"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 839 acresContainment is at 23%In Divisions Alpha and Zulu...",
-      "state": "WYOMING",
-      "updated": "2022-08-04 08:27:55",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "839 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "23"
     },
     {
       "name": "Smoke Rider Fire",
@@ -571,19 +584,6 @@
       "url": "/incident/8257/",
       "id": "8257",
       "contained": "77"
-    },
-    {
-      "name": "Gem Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Gem Lake Fire started the afternoon of July 14, 2022, when a...",
-      "state": "WYOMING",
-      "updated": "2022-07-29 18:14:26",
-      "lat": "44.422",
-      "lng": "-107",
-      "size": "21 Acres",
-      "url": "/incident/8269/",
-      "id": "8269",
-      "contained": "100"
     },
     {
       "name": "Ameritex",
