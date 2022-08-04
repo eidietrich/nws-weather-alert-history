@@ -1,16 +1,133 @@
 {
   "markers": [
     {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-04 10:22:52",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,668 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "20"
+    },
+    {
+      "name": "Big Sky Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
+      "state": "TEXAS",
+      "updated": "2022-08-04 10:20:31",
+      "lat": "30.389",
+      "lng": "-98.789",
+      "size": "1,400 Acres",
+      "url": "/incident/8296/",
+      "id": "8296",
+      "contained": "50"
+    },
+    {
       "name": "Beech Creek Fire",
       "type": "Wildfire",
       "summary": "At 2:20 pm, on August 1, a fire was detected 8.9 miles south of Long...",
       "state": "OREGON",
-      "updated": "2022-08-04 09:44:10",
+      "updated": "2022-08-04 10:13:06",
       "lat": "44.572",
       "lng": "-119.116",
       "size": "0 Acres",
       "url": "/incident/8301/",
       "id": "8301",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "There will be an in-person community meeting tonight at 6pm, held...",
+      "state": "IDAHO",
+      "updated": "2022-08-04 10:12:23",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "64,078 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "20"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-04 10:11:46",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "125 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-04 10:07:22",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "749 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Oak Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-04 09:57:54",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "19,244 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "86"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-04 09:56:30",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "57,519 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "10"
+    },
+    {
+      "name": "Colony Fire",
+      "type": "Wildfire",
+      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
+      "state": "TEXAS",
+      "updated": "2022-08-04 09:55:56",
+      "lat": "32.416",
+      "lng": "-97.918",
+      "size": "467 Acres",
+      "url": "/incident/8300/",
+      "id": "8300",
+      "contained": "50"
+    },
+    {
+      "name": "Yeti and Alex Fires",
+      "type": "Wildfire",
+      "summary": "The Yeti Fire began on July 29, 2022, at approximately 8:58 pm. The...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-04 09:50:30",
+      "lat": "41.868",
+      "lng": "-123.278",
+      "size": "4,626 Acres",
+      "url": "/incident/8299/",
+      "id": "8299",
       "contained": "0"
     },
     {
@@ -38,58 +155,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "98"
-    },
-    {
-      "name": "Colony Fire",
-      "type": "Wildfire",
-      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
-      "state": "TEXAS",
-      "updated": "2022-08-04 09:38:11",
-      "lat": "32.416",
-      "lng": "-97.918",
-      "size": "467 Acres",
-      "url": "/incident/8300/",
-      "id": "8300",
-      "contained": "50"
-    },
-    {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-04 09:34:34",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "19,244 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "86"
-    },
-    {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-04 09:34:24",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,668 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "20"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire, now over 62,000 acres, is burning in the...",
-      "state": "IDAHO",
-      "updated": "2022-08-04 09:29:32",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "64,078 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "20"
     },
     {
       "name": "Wolf Fang Fire",
@@ -131,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-04 09:12:55",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "125 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "Fire behavior picked up most of the day as temperatures started to...",
@@ -181,19 +233,6 @@
       "url": "/incident/8279/",
       "id": "8279",
       "contained": "23"
-    },
-    {
-      "name": "Yeti and Alex Fires",
-      "type": "Wildfire",
-      "summary": "The Yeti Fire began on July 29, 2022, at approximately 8:58 pm. The...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-04 08:14:44",
-      "lat": "41.868",
-      "lng": "-123.278",
-      "size": "4,626 Acres",
-      "url": "/incident/8299/",
-      "id": "8299",
-      "contained": "0"
     },
     {
       "name": "Smoke Rider Fire",
@@ -261,19 +300,6 @@
       "contained": "5"
     },
     {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-03 21:48:13",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "749 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
-    },
-    {
       "name": "Dodge Springs Fire",
       "type": "Wildfire",
       "summary": "The 5,644-acre Dodge Springs Fire is 100-percent contained. The fire...",
@@ -285,19 +311,6 @@
       "url": "/incident/8268/",
       "id": "8268",
       "contained": "100"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-03 20:24:50",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "57,519 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "10"
     },
     {
       "name": "Clover Fire",
@@ -324,19 +337,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "0"
-    },
-    {
-      "name": "Big Sky Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
-      "state": "TEXAS",
-      "updated": "2022-08-03 18:40:34",
-      "lat": "30.389",
-      "lng": "-98.789",
-      "size": "1,400 Acres",
-      "url": "/incident/8296/",
-      "id": "8296",
-      "contained": "25"
     },
     {
       "name": "Black Ranch Fire",
