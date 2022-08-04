@@ -1,30 +1,95 @@
 {
   "markers": [
     {
-      "name": "Oak Fire",
-      "type": "Wildfire",
-      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-03 20:53:06",
-      "lat": "37.549",
-      "lng": "-119.921",
-      "size": "19,244 Acres",
-      "url": "/incident/8280/",
-      "id": "8280",
-      "contained": "83"
-    },
-    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
       "state": "MONTANA",
-      "updated": "2022-08-03 20:41:55",
+      "updated": "2022-08-03 21:48:13",
       "lat": "46.152",
       "lng": "-113.813",
       "size": "749 Acres",
       "url": "/incident/8258/",
       "id": "8258",
       "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-03 21:27:04",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "978 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-03 21:26:43",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "97 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Dodge Springs Fire",
+      "type": "Wildfire",
+      "summary": "The 5,644-acre Dodge Springs Fire is 100-percent contained. The fire...",
+      "state": "NEVADA",
+      "updated": "2022-08-03 21:18:11",
+      "lat": "37.325",
+      "lng": "-114.059",
+      "size": "5,644 Acres",
+      "url": "/incident/8268/",
+      "id": "8268",
+      "contained": "100"
+    },
+    {
+      "name": "Colony Fire",
+      "type": "Wildfire",
+      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
+      "state": "TEXAS",
+      "updated": "2022-08-03 21:10:23",
+      "lat": "32.416",
+      "lng": "-97.918",
+      "size": "450 Acres",
+      "url": "/incident/8300/",
+      "id": "8300",
+      "contained": "20"
+    },
+    {
+      "name": "Hermosa Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service was requested to assist on the Hermosa Fire...",
+      "state": "TEXAS",
+      "updated": "2022-08-03 21:10:09",
+      "lat": "30.003",
+      "lng": "-98.01",
+      "size": "20 Acres",
+      "url": "/incident/8302/",
+      "id": "8302",
+      "contained": "0"
+    },
+    {
+      "name": "Oak Fire",
+      "type": "Wildfire",
+      "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-03 21:08:58",
+      "lat": "37.549",
+      "lng": "-119.921",
+      "size": "19,244 Acres",
+      "url": "/incident/8280/",
+      "id": "8280",
+      "contained": "83"
     },
     {
       "name": "Sugarloaf Fire",
@@ -38,19 +103,6 @@
       "url": "/incident/8279/",
       "id": "8279",
       "contained": "23"
-    },
-    {
-      "name": "Hermosa Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to assist on the Hermosa Fire...",
-      "state": "TEXAS",
-      "updated": "2022-08-03 20:33:21",
-      "lat": "32.418",
-      "lng": "-97.919",
-      "size": "20 Acres",
-      "url": "/incident/8302/",
-      "id": "8302",
-      "contained": "0"
     },
     {
       "name": "McKinney Fire",
@@ -92,19 +144,6 @@
       "contained": "32"
     },
     {
-      "name": "Colony Fire",
-      "type": "Wildfire",
-      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
-      "state": "TEXAS",
-      "updated": "2022-08-03 20:01:09",
-      "lat": "32.416",
-      "lng": "-97.918",
-      "size": "300 Acres",
-      "url": "/incident/8300/",
-      "id": "8300",
-      "contained": "0"
-    },
-    {
       "name": "Weasel Fire",
       "type": "Wildfire",
       "summary": "The Weasel Fire was discovered on July 30, 2022. Aerial and ground...",
@@ -115,32 +154,6 @@
       "size": "155 Acres",
       "url": "/incident/8290/",
       "id": "8290",
-      "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-03 19:44:45",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "978 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "0"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-03 19:43:25",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "97 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
       "contained": "0"
     },
     {
@@ -467,19 +480,6 @@
       "url": "/incident/8272/",
       "id": "8272",
       "contained": "0"
-    },
-    {
-      "name": "Dodge Springs Fire",
-      "type": "Wildfire",
-      "summary": "This page will no longer be updated unless there are significant new...",
-      "state": "NEVADA",
-      "updated": "2022-08-01 18:05:30",
-      "lat": "37.325",
-      "lng": "-114.059",
-      "size": "5,644 Acres",
-      "url": "/incident/8268/",
-      "id": "8268",
-      "contained": "98"
     },
     {
       "name": "Dog Ridge Fire",
