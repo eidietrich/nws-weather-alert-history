@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Cow Canyon",
+      "type": "Wildfire",
+      "summary": "The Cow Canyon Fire was first reported at 2:45 p.m. approximately 1...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-04 12:00:23",
+      "lat": "46.868",
+      "lng": "-120.81",
+      "size": "5,600 Acres",
+      "url": "/incident/8305/",
+      "id": "8305",
+      "contained": "0"
+    },
+    {
+      "name": "Hermosa Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service was requested to assist on the Hermosa Fire...",
+      "state": "TEXAS",
+      "updated": "2022-08-04 11:57:17",
+      "lat": "30.003",
+      "lng": "-98.01",
+      "size": "60 Acres",
+      "url": "/incident/8302/",
+      "id": "8302",
+      "contained": "5"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "  The Vantage Highway fire started on August 1, 2022 at 1205 PM...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-04 11:54:07",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "26,490 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "21"
+    },
+    {
       "name": "Sugarloaf Fire",
       "type": "Wildfire",
       "summary": "Fire is 839 acresContainment is at 23%In Divisions Alpha and Zulu...",
       "state": "WYOMING",
-      "updated": "2022-08-04 11:28:45",
+      "updated": "2022-08-04 11:49:58",
       "lat": "42.205",
       "lng": "-105.591",
       "size": "839 Acres",
@@ -14,17 +53,56 @@
       "contained": "23"
     },
     {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-04 11:49:26",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "125 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-04 11:48:55",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,093 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "0"
+    },
+    {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
-      "summary": "The Yeti Fire began on July 29, 2022, at approximately 8:58 pm. The...",
+      "summary": "The Yeti Fire is burning on the Klamath National Forest in between...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-04 11:19:31",
+      "updated": "2022-08-04 11:47:40",
       "lat": "41.868",
       "lng": "-123.278",
       "size": "4,626 Acres",
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "0"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-04 11:41:43",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "58,668 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "10"
     },
     {
       "name": "Elmo Fire",
@@ -53,19 +131,6 @@
       "contained": "100"
     },
     {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-04 11:02:28",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "58,668 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "10"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "There will be an in-person community meeting tonight at 6pm, held...",
@@ -79,19 +144,6 @@
       "contained": "20"
     },
     {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "  The Vantage Highway fire started on August 1, 2022 at 1205 PM...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-04 11:01:41",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "26,490 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "21"
-    },
-    {
       "name": "Washburn Fire",
       "type": "Wildfire",
       "summary": "The map for the Washburn Fire incident also shows the perimeter for...",
@@ -103,32 +155,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "100"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-04 10:32:51",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,093 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "0"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-04 10:26:31",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "125 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
     },
     {
       "name": "Clover Fire",
@@ -274,19 +300,6 @@
       "contained": "0"
     },
     {
-      "name": "Cow Canyon",
-      "type": "Wildfire",
-      "summary": "The Cow Canyon Fire was first reported at 2:45 p.m. approximately 1...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-04 08:54:35",
-      "lat": "46.868",
-      "lng": "-120.81",
-      "size": "1,500 Acres",
-      "url": "/incident/8305/",
-      "id": "8305",
-      "contained": "0"
-    },
-    {
       "name": "Smoke Rider Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
@@ -324,19 +337,6 @@
       "url": "/incident/8304/",
       "id": "8304",
       "contained": "0"
-    },
-    {
-      "name": "Hermosa Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to assist on the Hermosa Fire...",
-      "state": "TEXAS",
-      "updated": "2022-08-03 23:01:33",
-      "lat": "30.003",
-      "lng": "-98.01",
-      "size": "35 Acres",
-      "url": "/incident/8302/",
-      "id": "8302",
-      "contained": "5"
     },
     {
       "name": "Dodge Springs Fire",
