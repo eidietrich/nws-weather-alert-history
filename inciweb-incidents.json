@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-04 13:50:37",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,668 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "20"
+    },
+    {
+      "name": "Big Sky Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
+      "state": "TEXAS",
+      "updated": "2022-08-04 13:44:50",
+      "lat": "30.389",
+      "lng": "-98.789",
+      "size": "1,400 Acres",
+      "url": "/incident/8296/",
+      "id": "8296",
+      "contained": "50"
+    },
+    {
       "name": "Weasel Fire",
       "type": "Wildfire",
       "summary": "The Weasel Fire was discovered on July 30, 2022. Aerial and ground...",
@@ -207,32 +233,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "32"
-    },
-    {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-04 10:22:52",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,668 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "20"
-    },
-    {
-      "name": "Big Sky Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
-      "state": "TEXAS",
-      "updated": "2022-08-04 10:20:31",
-      "lat": "30.389",
-      "lng": "-98.789",
-      "size": "1,400 Acres",
-      "url": "/incident/8296/",
-      "id": "8296",
-      "contained": "50"
     },
     {
       "name": "Beech Creek Fire",
