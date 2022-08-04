@@ -1,16 +1,94 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire, now over 62,000 acres, is burning in the...",
+      "state": "IDAHO",
+      "updated": "2022-08-04 09:15:07",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "64,078 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "20"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-04 09:14:42",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "871 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-04 09:13:15",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,093 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-04 09:12:55",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "125 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "Fire behavior picked up most of the day as temperatures started to...",
       "state": "IDAHO",
-      "updated": "2022-08-04 08:48:46",
+      "updated": "2022-08-04 09:09:53",
       "lat": "44.854",
       "lng": "-114.632",
       "size": "4,595 Acres",
       "url": "/incident/8253/",
       "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-04 09:06:27",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,668 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "20"
+    },
+    {
+      "name": "Cow Canyon",
+      "type": "Wildfire",
+      "summary": "The Cow Canyon Fire was first reported at 2:45 p.m. approximately 1...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-04 08:54:35",
+      "lat": "46.868",
+      "lng": "-120.81",
+      "size": "1,500 Acres",
+      "url": "/incident/8305/",
+      "id": "8305",
       "contained": "0"
     },
     {
@@ -53,19 +131,6 @@
       "contained": "23"
     },
     {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-04 08:20:04",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "871 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
-    },
-    {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
       "summary": "The Yeti Fire began on July 29, 2022, at approximately 8:58 pm. The...",
@@ -77,19 +142,6 @@
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "0"
-    },
-    {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-04 08:07:36",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,668 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "20"
     },
     {
       "name": "Elmo Fire",
@@ -116,32 +168,6 @@
       "url": "/incident/8295/",
       "id": "8295",
       "contained": "60"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire, now over 62,000 acres, is burning in the...",
-      "state": "IDAHO",
-      "updated": "2022-08-04 07:38:17",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "64,078 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "17"
-    },
-    {
-      "name": "Cow Canyon",
-      "type": "Wildfire",
-      "summary": "The Cow Canyon Fire was first reported at 2:45 p.m. approximately 1...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-04 03:37:54",
-      "lat": "46.868",
-      "lng": "-120.81",
-      "size": "1,500 Acres",
-      "url": "/incident/8305/",
-      "id": "8305",
-      "contained": "0"
     },
     {
       "name": "Bean Complex",
@@ -180,32 +206,6 @@
       "size": "100 Acres",
       "url": "/incident/8304/",
       "id": "8304",
-      "contained": "0"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-03 23:56:24",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "110 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-03 23:54:30",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "978 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
       "contained": "0"
     },
     {
