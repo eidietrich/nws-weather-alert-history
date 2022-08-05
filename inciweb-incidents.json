@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-05 18:43:32",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "0 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-05 18:34:53",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,793 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "73"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -25,19 +51,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "98"
-    },
-    {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-05 18:12:09",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,668 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "44"
     },
     {
       "name": "Hog Trough Fire",
@@ -181,19 +194,6 @@
       "url": "/incident/8296/",
       "id": "8296",
       "contained": "80"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-05 14:52:00",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "0 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Black Ranch Fire",
