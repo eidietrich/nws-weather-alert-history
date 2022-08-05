@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-05 12:33:01",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "59,636 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "10"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-05 12:30:36",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "771 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately seven (7) miles northwest...",
+      "state": "IDAHO",
+      "updated": "2022-08-05 12:23:48",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "104 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": " Firefighters made good progress working the north and west...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-05 12:18:51",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "26,490 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "35"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-05 12:15:08",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,072 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "5"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-05 12:09:56",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "149 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
       "name": "Cow Canyon",
       "type": "Wildfire",
       "summary": "",
@@ -40,32 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately seven (7) miles northwest...",
-      "state": "IDAHO",
-      "updated": "2022-08-05 11:52:10",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "104 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": " Firefighters made good progress working the north and west...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-05 11:48:57",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "26,490 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "35"
-    },
-    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -90,32 +142,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "98"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-05 11:22:22",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "771 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-05 11:14:45",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "59,636 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "10"
     },
     {
       "name": "Yeti and Alex Fires",
@@ -168,32 +194,6 @@
       "url": "/incident/8280/",
       "id": "8280",
       "contained": "90"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-05 10:39:27",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,072 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "5"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-05 10:36:11",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "149 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
     },
     {
       "name": "Moose Fire",
