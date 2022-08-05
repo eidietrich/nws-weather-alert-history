@@ -1,30 +1,108 @@
 {
   "markers": [
     {
-      "name": "Woodtick Fire",
+      "name": "Yeti and Alex Fires",
       "type": "Wildfire",
-      "summary": "Fire behavior picked up most of the day as temperatures started to...",
+      "summary": "The Yeti Fire is burning on the Klamath National Forest in between...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-05 08:24:57",
+      "lat": "41.868",
+      "lng": "-123.278",
+      "size": "5,036 Acres",
+      "url": "/incident/8299/",
+      "id": "8299",
+      "contained": "0"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "NOTICE - 8:30 PM 8.4.22Evening Update: High winds and low humidity...",
+      "state": "MONTANA",
+      "updated": "2022-08-05 08:24:33",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,282 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "15"
+    },
+    {
+      "name": "Camp Seal Fire",
+      "type": "Wildfire",
+      "summary": "On August 4th, at approximately 1:30 PM, Texas A&amp;M Forest Service was...",
+      "state": "TEXAS",
+      "updated": "2022-08-05 08:23:51",
+      "lat": "30.544",
+      "lng": "-94.556",
+      "size": "251 Acres",
+      "url": "/incident/8306/",
+      "id": "8306",
+      "contained": "100"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
       "state": "IDAHO",
-      "updated": "2022-08-05 07:37:29",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "4,800 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
+      "updated": "2022-08-05 08:19:07",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "904 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
       "contained": "0"
     },
     {
       "name": "Moose Fire",
       "type": "Wildfire",
-      "summary": "There will be an in-person community meeting tonight at 6pm, held...",
+      "summary": " Steep terrain and extremely dry fuel conditions continue to pose...",
       "state": "IDAHO",
-      "updated": "2022-08-05 07:21:46",
+      "updated": "2022-08-05 08:12:56",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "67,466 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "11"
+    },
+    {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-05 08:11:17",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,668 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "44"
+    },
+    {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 839 acresContainment is at 23%In Divisions Alpha and Zulu...",
+      "state": "WYOMING",
+      "updated": "2022-08-05 07:45:15",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "839 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "31"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "Fire behavior picked up most of the day yesterday with strong gusty...",
+      "state": "IDAHO",
+      "updated": "2022-08-05 07:43:00",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "4,800 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
     },
     {
       "name": "Smoke Rider Fire",
@@ -64,19 +142,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "0"
-    },
-    {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-05 05:57:31",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,668 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "44"
     },
     {
       "name": "Potter Fire",
@@ -183,32 +248,6 @@
       "contained": "35"
     },
     {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "NOTICE - 8:30 PM 8.4.22Evening Update: High winds and low humidity...",
-      "state": "MONTANA",
-      "updated": "2022-08-04 21:11:53",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "20,616 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "6"
-    },
-    {
-      "name": "Yeti and Alex Fires",
-      "type": "Wildfire",
-      "summary": "The Yeti Fire is burning on the Klamath National Forest in between...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-04 20:58:31",
-      "lat": "41.868",
-      "lng": "-123.278",
-      "size": "5,036 Acres",
-      "url": "/incident/8299/",
-      "id": "8299",
-      "contained": "0"
-    },
-    {
       "name": "Diamond Watch Fire",
       "type": "Wildfire",
       "summary": "Started by lightning and initially detected on the evening of July...",
@@ -246,19 +285,6 @@
       "url": "/incident/8258/",
       "id": "8258",
       "contained": "0"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 839 acresContainment is at 23%In Divisions Alpha and Zulu...",
-      "state": "WYOMING",
-      "updated": "2022-08-04 20:42:13",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "839 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "31"
     },
     {
       "name": "Cow Canyon",
@@ -339,19 +365,6 @@
       "contained": "60"
     },
     {
-      "name": "Polk 4613 Fire",
-      "type": "Wildfire",
-      "summary": "On August 4th, at approximately 1:30 PM, Texas A&amp;M Forest Service was...",
-      "state": "TEXAS",
-      "updated": "2022-08-04 16:00:17",
-      "lat": "30.544",
-      "lng": "-94.556",
-      "size": "300 Acres",
-      "url": "/incident/8306/",
-      "id": "8306",
-      "contained": "0"
-    },
-    {
       "name": "Payette Wilderness Fires",
       "type": "Wildfire",
       "summary": " Lightning Starts Wilderness Fires on the Payette National...",
@@ -414,19 +427,6 @@
       "size": "0 Acres",
       "url": "/incident/8301/",
       "id": "8301",
-      "contained": "0"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-04 09:25:08",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "871 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
       "contained": "0"
     },
     {
