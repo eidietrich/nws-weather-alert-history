@@ -1,17 +1,147 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "There will be an in-person community meeting tonight at 6pm, held...",
+      "state": "IDAHO",
+      "updated": "2022-08-04 22:34:18",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "64,078 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "17"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-04 22:17:23",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "0 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": "The Weasel Fire was discovered on July 30, 2022. Aerial and ground...",
+      "state": "MONTANA",
+      "updated": "2022-08-04 22:04:12",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "1,100 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-04 21:58:38",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "58,668 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "10"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-08-04 21:45:36",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,755 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "96"
+    },
+    {
+      "name": "Black Ranch Fire",
+      "type": "Wildfire",
+      "summary": "A fire started in southern Palo Pinto county on Tuesday July 2nd and...",
+      "state": "TEXAS",
+      "updated": "2022-08-04 21:44:34",
+      "lat": "32.561",
+      "lng": "-98.124",
+      "size": "13 Acres",
+      "url": "/incident/8297/",
+      "id": "8297",
+      "contained": "98"
+    },
+    {
+      "name": "Colony Fire",
+      "type": "Wildfire",
+      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
+      "state": "TEXAS",
+      "updated": "2022-08-04 21:42:47",
+      "lat": "32.416",
+      "lng": "-97.918",
+      "size": "467 Acres",
+      "url": "/incident/8300/",
+      "id": "8300",
+      "contained": "65"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": " Firefighters made good progress working the north and west...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-04 21:14:38",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "26,490 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "35"
+    },
+    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "NOTICE - 8:30 PM 8.4.22Evening Update: High winds and low humidity...",
       "state": "MONTANA",
-      "updated": "2022-08-04 20:53:27",
+      "updated": "2022-08-04 21:11:53",
       "lat": "47.818",
       "lng": "-114.507",
       "size": "20,616 Acres",
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "6"
+    },
+    {
+      "name": "Yeti and Alex Fires",
+      "type": "Wildfire",
+      "summary": "The Yeti Fire is burning on the Klamath National Forest in between...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-04 20:58:31",
+      "lat": "41.868",
+      "lng": "-123.278",
+      "size": "5,036 Acres",
+      "url": "/incident/8299/",
+      "id": "8299",
+      "contained": "0"
+    },
+    {
+      "name": "Diamond Watch Fire",
+      "type": "Wildfire",
+      "summary": "Started by lightning and initially detected on the evening of July...",
+      "state": "IDAHO",
+      "updated": "2022-08-04 20:58:05",
+      "lat": "48.636",
+      "lng": "-117.065",
+      "size": "120 Acres",
+      "url": "/incident/8264/",
+      "id": "8264",
+      "contained": "0"
     },
     {
       "name": "Oak Fire",
@@ -40,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "  The Vantage Highway fire started on August 1, 2022 at 1205 PM...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-04 20:43:52",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "26,490 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "35"
-    },
-    {
       "name": "Sugarloaf Fire",
       "type": "Wildfire",
       "summary": "Fire is 839 acresContainment is at 23%In Divisions Alpha and Zulu...",
@@ -66,45 +183,6 @@
       "contained": "31"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "There will be an in-person community meeting tonight at 6pm, held...",
-      "state": "IDAHO",
-      "updated": "2022-08-04 20:22:17",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "64,078 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "17"
-    },
-    {
-      "name": "Yeti and Alex Fires",
-      "type": "Wildfire",
-      "summary": "The Yeti Fire is burning on the Klamath National Forest in between...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-04 20:16:50",
-      "lat": "41.868",
-      "lng": "-123.278",
-      "size": "5,036 Acres",
-      "url": "/incident/8299/",
-      "id": "8299",
-      "contained": "0"
-    },
-    {
-      "name": "Diamond Watch Fire",
-      "type": "Wildfire",
-      "summary": "Started by lightning and initially detected on the evening of July...",
-      "state": "IDAHO",
-      "updated": "2022-08-04 20:13:51",
-      "lat": "48.636",
-      "lng": "-117.065",
-      "size": "120 Acres",
-      "url": "/incident/8264/",
-      "id": "8264",
-      "contained": "0"
-    },
-    {
       "name": "Fish",
       "type": "Wildfire",
       "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
@@ -116,19 +194,6 @@
       "url": "/incident/8294/",
       "id": "8294",
       "contained": "44"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-04 19:52:17",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "58,668 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "10"
     },
     {
       "name": "Cow Canyon",
@@ -155,19 +220,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "33"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-04 18:20:03",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "0 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Halfway Hill Fire",
@@ -274,19 +326,6 @@
       "contained": "0"
     },
     {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": "The Weasel Fire was discovered on July 30, 2022. Aerial and ground...",
-      "state": "MONTANA",
-      "updated": "2022-08-04 13:06:00",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "160 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "0"
-    },
-    {
       "name": "Redhorn Fire",
       "type": "Wildfire",
       "summary": "Redhorn Fire Update for August 3, 2022Community Meeting: There will...",
@@ -365,19 +404,6 @@
       "contained": "0"
     },
     {
-      "name": "Colony Fire",
-      "type": "Wildfire",
-      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
-      "state": "TEXAS",
-      "updated": "2022-08-04 09:55:56",
-      "lat": "32.416",
-      "lng": "-97.918",
-      "size": "467 Acres",
-      "url": "/incident/8300/",
-      "id": "8300",
-      "contained": "50"
-    },
-    {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
@@ -443,19 +469,6 @@
       "contained": "100"
     },
     {
-      "name": "Black Ranch Fire",
-      "type": "Wildfire",
-      "summary": "A fire started in southern Palo Pinto county on Tuesday July 2nd and...",
-      "state": "TEXAS",
-      "updated": "2022-08-03 16:28:08",
-      "lat": "32.561",
-      "lng": "-98.124",
-      "size": "13 Acres",
-      "url": "/incident/8297/",
-      "id": "8297",
-      "contained": "95"
-    },
-    {
       "name": "Dalton Highway Complex",
       "type": "Wildfire",
       "summary": "As of Aug. 3, the Dalton Highway Complex InciWeb pages will no...",
@@ -519,19 +532,6 @@
       "url": "/incident/8170/",
       "id": "8170",
       "contained": "0"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-08-02 18:01:24",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,755 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "93"
     },
     {
       "name": "Bear Trap Fire",
