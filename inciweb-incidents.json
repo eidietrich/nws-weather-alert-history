@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-05 17:17:27",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "59,636 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "10"
+    },
+    {
+      "name": "Hermosa Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service was requested to assist on the Hermosa Fire...",
+      "state": "TEXAS",
+      "updated": "2022-08-05 17:08:50",
+      "lat": "30.003",
+      "lng": "-98.01",
+      "size": "60 Acres",
+      "url": "/incident/8302/",
+      "id": "8302",
+      "contained": "35"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-05 16:57:32",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "26,490 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "35"
+    },
+    {
+      "name": "Cow Canyon",
+      "type": "Wildfire",
+      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-05 16:55:18",
+      "lat": "46.868",
+      "lng": "-120.81",
+      "size": "5,600 Acres",
+      "url": "/incident/8305/",
+      "id": "8305",
+      "contained": "0"
+    },
+    {
       "name": "Matt Staff Rd Fire ",
       "type": "Wildfire",
       "summary": " MATT STAFF RD FIRE Update 8/5/22, 2:00 PMThe Matt Staff RD Fire was...",
@@ -38,32 +90,6 @@
       "url": "/incident/8300/",
       "id": "8300",
       "contained": "80"
-    },
-    {
-      "name": "Cow Canyon",
-      "type": "Wildfire",
-      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-05 16:19:31",
-      "lat": "46.868",
-      "lng": "-120.81",
-      "size": "5,600 Acres",
-      "url": "/incident/8305/",
-      "id": "8305",
-      "contained": "0"
-    },
-    {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-05 16:12:02",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "26,490 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "35"
     },
     {
       "name": "Redhorn Fire",
@@ -155,19 +181,6 @@
       "url": "/incident/8296/",
       "id": "8296",
       "contained": "80"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-05 15:06:01",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "59,636 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "10"
     },
     {
       "name": "Cedar Creek Fire",
@@ -350,19 +363,6 @@
       "url": "/incident/8295/",
       "id": "8295",
       "contained": "70"
-    },
-    {
-      "name": "Hermosa Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to assist on the Hermosa Fire...",
-      "state": "TEXAS",
-      "updated": "2022-08-05 07:09:06",
-      "lat": "30.003",
-      "lng": "-98.01",
-      "size": "60 Acres",
-      "url": "/incident/8302/",
-      "id": "8302",
-      "contained": "35"
     },
     {
       "name": "Weasel Fire",
