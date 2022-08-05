@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-05 14:15:28",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "59,636 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "10"
+    },
+    {
+      "name": "Matt Staff Rd Fire ",
+      "type": "Wildfire",
+      "summary": " Matt Staff Rd. Fire Information 8/5/2022The Matt Staff Rd. Fire...",
+      "state": "MONTANA",
+      "updated": "2022-08-05 14:14:58",
+      "lat": "46.573",
+      "lng": "-111.783",
+      "size": "1,538 Acres",
+      "url": "/incident/8309/",
+      "id": "8309",
+      "contained": "0"
+    },
+    {
+      "name": "Colony Fire",
+      "type": "Wildfire",
+      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
+      "state": "TEXAS",
+      "updated": "2022-08-05 14:14:17",
+      "lat": "32.416",
+      "lng": "-97.918",
+      "size": "467 Acres",
+      "url": "/incident/8300/",
+      "id": "8300",
+      "contained": "75"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -77,19 +116,6 @@
       "url": "/incident/8294/",
       "id": "8294",
       "contained": "44"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-05 12:33:01",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "59,636 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "10"
     },
     {
       "name": "Norton Fire",
@@ -352,19 +378,6 @@
       "contained": "98"
     },
     {
-      "name": "Colony Fire",
-      "type": "Wildfire",
-      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
-      "state": "TEXAS",
-      "updated": "2022-08-04 21:42:47",
-      "lat": "32.416",
-      "lng": "-97.918",
-      "size": "467 Acres",
-      "url": "/incident/8300/",
-      "id": "8300",
-      "contained": "65"
-    },
-    {
       "name": "Diamond Watch Fire",
       "type": "Wildfire",
       "summary": "Started by lightning and initially detected on the evening of July...",
@@ -467,19 +480,6 @@
       "url": "/incident/8183/",
       "id": "8183",
       "contained": "98"
-    },
-    {
-      "name": "Deep Creek Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to assist on a fast moving...",
-      "state": "TEXAS",
-      "updated": "2022-08-04 00:11:39",
-      "lat": "33.07",
-      "lng": "-97.474",
-      "size": "100 Acres",
-      "url": "/incident/8304/",
-      "id": "8304",
-      "contained": "0"
     },
     {
       "name": "Dodge Springs Fire",
@@ -599,19 +599,6 @@
       "contained": "0"
     },
     {
-      "name": "Dog Ridge Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service responded to a request for assistance on a...",
-      "state": "TEXAS",
-      "updated": "2022-08-01 11:14:00",
-      "lat": "31.051",
-      "lng": "-97.518",
-      "size": "150 Acres",
-      "url": "/incident/8285/",
-      "id": "8285",
-      "contained": "100"
-    },
-    {
       "name": "Committee Fire",
       "type": "Wildfire",
       "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
@@ -623,19 +610,6 @@
       "url": "/incident/8241/",
       "id": "8241",
       "contained": "90"
-    },
-    {
-      "name": "Ameritex",
-      "type": "Wildfire",
-      "summary": " UPDATE: The Ameritex fire has reached 100 percent containment....",
-      "state": "TEXAS",
-      "updated": "2022-07-29 14:58:45",
-      "lat": "29.602",
-      "lng": "-97.901",
-      "size": "30 Acres",
-      "url": "/incident/8283/",
-      "id": "8283",
-      "contained": "100"
     },
     {
       "name": "Lime Complex",
@@ -703,32 +677,6 @@
       "contained": "0"
     },
     {
-      "name": "Honey Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Honey Creek fire remains at an estimated 353 acres and is now...",
-      "state": "TEXAS",
-      "updated": "2022-07-28 10:16:55",
-      "lat": "29.538",
-      "lng": "-99.851",
-      "size": "353 Acres",
-      "url": "/incident/8245/",
-      "id": "8245",
-      "contained": "100"
-    },
-    {
-      "name": "San Gabriel Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance on...",
-      "state": "TEXAS",
-      "updated": "2022-07-28 06:49:19",
-      "lat": "30.678",
-      "lng": "-97.806",
-      "size": "445 Acres",
-      "url": "/incident/8271/",
-      "id": "8271",
-      "contained": "100"
-    },
-    {
       "name": "Sheep Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "FOREST SERVICE BAER PROGRAM OVERVIEWThe Burned Area Emergency...",
@@ -779,19 +727,6 @@
       "url": "/incident/8201/",
       "id": "8201",
       "contained": "0"
-    },
-    {
-      "name": "1148 Fire",
-      "type": "Wildfire",
-      "summary": "On July 18, 2022, a wildfire started in the 5200 block of Moore Lane...",
-      "state": "TEXAS",
-      "updated": "2022-07-26 09:56:21",
-      "lat": "32.896",
-      "lng": "-98.52",
-      "size": "457 Acres",
-      "url": "/incident/8251/",
-      "id": "8251",
-      "contained": "100"
     },
     {
       "name": "Moors Mountain Fire",
@@ -882,19 +817,6 @@
       "size": "1,200 Acres",
       "url": "/incident/8260/",
       "id": "8260",
-      "contained": "100"
-    },
-    {
-      "name": "King Creek Fire",
-      "type": "Wildfire",
-      "summary": "At 4:30pm Texas A&amp;M Forest Service received a request for assistance...",
-      "state": "TEXAS",
-      "updated": "2022-07-21 08:15:38",
-      "lat": "32.449",
-      "lng": "-96.316",
-      "size": "458 Acres",
-      "url": "/incident/8246/",
-      "id": "8246",
       "contained": "100"
     },
     {
