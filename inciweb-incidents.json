@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-05 10:20:30",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "771 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-05 10:15:30",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,072 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "5"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-05 09:45:25",
+      "updated": "2022-08-05 10:15:07",
       "lat": "41.819",
       "lng": "-122.885",
-      "size": "58,668 Acres",
+      "size": "59,636 Acres",
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "10"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-05 10:12:10",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-05 10:02:56",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,668 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "44"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-05 10:00:48",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "149 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "NOTICE - 8:30 PM 8.4.22Evening Update: High winds and low humidity...",
+      "state": "MONTANA",
+      "updated": "2022-08-05 09:59:15",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,182 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "15"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-05 09:57:44",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
     },
     {
       "name": "Moose Fire",
@@ -27,19 +118,6 @@
       "contained": "11"
     },
     {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-05 09:31:36",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "771 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
-    },
-    {
       "name": "Oak Fire",
       "type": "Wildfire",
       "summary": "The Oak Fire started on July 22, 2022. The fire is being managed...",
@@ -51,19 +129,6 @@
       "url": "/incident/8280/",
       "id": "8280",
       "contained": "90"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "NOTICE - 8:30 PM 8.4.22Evening Update: High winds and low humidity...",
-      "state": "MONTANA",
-      "updated": "2022-08-05 09:25:02",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,182 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "15"
     },
     {
       "name": "Woodtick Fire",
@@ -131,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-05 08:11:17",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,668 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "44"
-    },
-    {
       "name": "Smoke Rider Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
@@ -181,32 +233,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "0"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-04 23:16:07",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "125 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-04 23:03:49",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,093 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "5"
     },
     {
       "name": "Cedar Creek Fire",
@@ -324,32 +350,6 @@
       "url": "/incident/8215/",
       "id": "8215",
       "contained": "90"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-04 18:00:21",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-04 17:59:37",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
     },
     {
       "name": "Big Sky Fire",
