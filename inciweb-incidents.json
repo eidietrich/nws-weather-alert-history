@@ -1,30 +1,95 @@
 {
   "markers": [
     {
-      "name": "Clover Fire",
+      "name": "Beech Creek Fire",
       "type": "Wildfire",
-      "summary": "The Clover Wildfire started on July 13, 2022 as a result of a...",
-      "state": "MONTANA",
-      "updated": "2022-08-06 12:44:06",
-      "lat": "45.048",
-      "lng": "-111.87",
-      "size": "1,099 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "33"
+      "summary": "On the afternoon of August 1, 2022, numerous air and ground resources...",
+      "state": "OREGON",
+      "updated": "2022-08-06 13:23:09",
+      "lat": "44.572",
+      "lng": "-119.116",
+      "size": "155 Acres",
+      "url": "/incident/8301/",
+      "id": "8301",
+      "contained": "45"
+    },
+    {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 13:09:27",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "1,800 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "65"
+    },
+    {
+      "name": "High Point Fire",
+      "type": "Wildfire",
+      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 13:07:19",
+      "lat": "32.325",
+      "lng": "-98.586",
+      "size": "175 Acres",
+      "url": "/incident/8310/",
+      "id": "8310",
+      "contained": "80"
     },
     {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-08-06 12:41:00",
+      "updated": "2022-08-06 13:01:21",
       "lat": "43.74",
       "lng": "-122.166",
       "size": "1,438 Acres",
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-06 12:59:55",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-06 12:58:49",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "The Clover Fire started on July 13, 2022 as a result of a lightning...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 12:49:48",
+      "lat": "45.048",
+      "lng": "-111.87",
+      "size": "1,099 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "33"
     },
     {
       "name": "Colony Fire",
@@ -38,32 +103,6 @@
       "url": "/incident/8300/",
       "id": "8300",
       "contained": "100"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 12:25:07",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "1,800 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "65"
-    },
-    {
-      "name": "High Point Fire",
-      "type": "Wildfire",
-      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 12:20:53",
-      "lat": "32.325",
-      "lng": "-98.586",
-      "size": "175 Acres",
-      "url": "/incident/8310/",
-      "id": "8310",
-      "contained": "80"
     },
     {
       "name": "Chalk Mountain Fire",
@@ -90,19 +129,6 @@
       "url": "/incident/8294/",
       "id": "8294",
       "contained": "73"
-    },
-    {
-      "name": "Beech Creek Fire",
-      "type": "Wildfire",
-      "summary": "On the afternoon of August 1, 2022, numerous air and ground resources...",
-      "state": "OREGON",
-      "updated": "2022-08-06 12:06:22",
-      "lat": "44.572",
-      "lng": "-119.116",
-      "size": "155 Acres",
-      "url": "/incident/8301/",
-      "id": "8301",
-      "contained": "37"
     },
     {
       "name": "Cow Canyon",
@@ -285,32 +311,6 @@
       "url": "/incident/8296/",
       "id": "8296",
       "contained": "80"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-06 09:05:20",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-06 09:03:37",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
     },
     {
       "name": "Smoke Rider Fire",
