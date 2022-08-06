@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 15:38:56",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "3,244 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "75"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-06 15:33:31",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "167 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
       "name": "High Point Fire",
       "type": "Wildfire",
       "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
@@ -12,32 +38,6 @@
       "url": "/incident/8310/",
       "id": "8310",
       "contained": "80"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 15:29:42",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "3,244 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "65"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-06 15:27:07",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "167 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
     },
     {
       "name": "Windigo Fire",
