@@ -1,30 +1,134 @@
 {
   "markers": [
     {
-      "name": "Fish",
+      "name": "Cedar Creek Fire",
       "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-06 09:45:26",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,793 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "73"
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-06 10:16:53",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "1,438 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Matt Staff Rd Fire ",
+      "type": "Wildfire",
+      "summary": " MATT STAFF RD FIRE Update 8/6/22, 9:00 AMAll evacuations have now...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 10:15:51",
+      "lat": "46.573",
+      "lng": "-111.783",
+      "size": "1,538 Acres",
+      "url": "/incident/8309/",
+      "id": "8309",
+      "contained": "0"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 10:15:50",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "2,274 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Since Thursday afternoon’s windy conditions, the weather on the...",
+      "state": "IDAHO",
+      "updated": "2022-08-06 10:15:03",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "68,166 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "14"
+    },
+    {
+      "name": "Big Sky Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 10:13:28",
+      "lat": "30.389",
+      "lng": "-98.789",
+      "size": "1,459 Acres",
+      "url": "/incident/8296/",
+      "id": "8296",
+      "contained": "80"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-06 10:13:03",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "30,021 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "45"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-06 10:10:01",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "167 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-06 10:04:19",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "60,004 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "30"
     },
     {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
-      "summary": "The Yeti Fire is burning on the Klamath National Forest in between...",
+      "summary": "  The Yeti Fire is burning on the Klamath National Forest in between...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-06 09:44:24",
+      "updated": "2022-08-06 09:49:55",
       "lat": "41.868",
       "lng": "-123.278",
       "size": "7,721 Acres",
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "0"
+    },
+    {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-06 09:47:53",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,793 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "73"
     },
     {
       "name": "Elmo Fire",
@@ -51,19 +155,6 @@
       "url": "/incident/8310/",
       "id": "8310",
       "contained": "75"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Since Thursday afternoon’s windy conditions, the weather on the...",
-      "state": "IDAHO",
-      "updated": "2022-08-06 09:22:45",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "68,166 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "14"
     },
     {
       "name": "Hog Trough Fire",
@@ -105,19 +196,6 @@
       "contained": "5"
     },
     {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-06 09:07:29",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "167 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -129,19 +207,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "98"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-06 09:04:41",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "1,054 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Calf Canyon",
@@ -183,19 +248,6 @@
       "contained": "40"
     },
     {
-      "name": "Matt Staff Rd Fire ",
-      "type": "Wildfire",
-      "summary": " MATT STAFF RD FIRE Update 8/5/22, 9:30 PMAll evacuations have now...",
-      "state": "MONTANA",
-      "updated": "2022-08-06 08:35:51",
-      "lat": "46.573",
-      "lng": "-111.783",
-      "size": "1,538 Acres",
-      "url": "/incident/8309/",
-      "id": "8309",
-      "contained": "0"
-    },
-    {
       "name": "Smoke Rider Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
@@ -207,19 +259,6 @@
       "url": "/incident/8295/",
       "id": "8295",
       "contained": "80"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-05 22:47:30",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "59,666 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "30"
     },
     {
       "name": "Cow Canyon",
@@ -235,19 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-05 22:36:58",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "26,490 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "35"
-    },
-    {
       "name": "Clover Fire",
       "type": "Wildfire",
       "summary": "The Clover Wildfire started on July 13, 2022 as a result of a...",
@@ -259,19 +285,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "33"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
-      "state": "MONTANA",
-      "updated": "2022-08-05 21:55:08",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "2,180 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "0"
     },
     {
       "name": "Beech Creek Fire",
@@ -350,19 +363,6 @@
       "url": "/incident/8293/",
       "id": "8293",
       "contained": "0"
-    },
-    {
-      "name": "Big Sky Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
-      "state": "TEXAS",
-      "updated": "2022-08-05 15:09:47",
-      "lat": "30.389",
-      "lng": "-98.789",
-      "size": "1,459 Acres",
-      "url": "/incident/8296/",
-      "id": "8296",
-      "contained": "80"
     },
     {
       "name": "Black Ranch Fire",
