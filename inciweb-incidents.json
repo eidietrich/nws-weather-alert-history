@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-06 18:40:40",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,793 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "94"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Twelve lightning caused fires were identified on August 5th and are a...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-06 18:40:26",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "470 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "0"
+    },
+    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.6.2022 10:00 AM Edit: 8.6.22...",
       "state": "MONTANA",
-      "updated": "2022-08-06 18:30:46",
+      "updated": "2022-08-06 18:39:52",
       "lat": "47.818",
       "lng": "-114.507",
       "size": "21,198 Acres",
@@ -14,17 +40,17 @@
       "contained": "18"
     },
     {
-      "name": "Six Rivers Lightning Complex",
+      "name": "Hog Trough Fire",
       "type": "Wildfire",
-      "summary": "Twelve lightning caused fires were identified on August 5th and are a...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-06 18:20:23",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "470 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "0"
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 18:34:50",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "791 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "34"
     },
     {
       "name": "Hermits Peak Fire",
@@ -170,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-06 14:08:08",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,793 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "73"
-    },
-    {
       "name": "Beech Creek Fire",
       "type": "Wildfire",
       "summary": "On the afternoon of August 1, 2022, numerous air and ground resources...",
@@ -311,19 +324,6 @@
       "url": "/incident/8309/",
       "id": "8309",
       "contained": "0"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-06 10:31:41",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "779 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "9"
     },
     {
       "name": "Big Sky Fire",
