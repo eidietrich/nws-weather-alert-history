@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Cow Canyon",
+      "type": "Wildfire",
+      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-06 17:37:37",
+      "lat": "46.868",
+      "lng": "-120.81",
+      "size": "4,633 Acres",
+      "url": "/incident/8305/",
+      "id": "8305",
+      "contained": "15"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-06 17:37:32",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "1,438 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-06 17:35:50",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "60,044 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "30"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Twelve lightning caused fires were identified on August 5th and are a...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-06 17:31:12",
+      "updated": "2022-08-06 17:34:33",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "470 Acres",
@@ -38,19 +77,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "18"
-    },
-    {
-      "name": "Cow Canyon",
-      "type": "Wildfire",
-      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-06 16:14:29",
-      "lat": "46.868",
-      "lng": "-120.81",
-      "size": "4,633 Acres",
-      "url": "/incident/8305/",
-      "id": "8305",
-      "contained": "15"
     },
     {
       "name": "Ranger Creek Fire",
@@ -103,19 +129,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "5"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-06 14:56:43",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "1,438 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Redhorn Fire",
@@ -233,19 +246,6 @@
       "url": "/incident/8303/",
       "id": "8303",
       "contained": "45"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-06 11:16:18",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "60,044 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "30"
     },
     {
       "name": "Norton Fire",
