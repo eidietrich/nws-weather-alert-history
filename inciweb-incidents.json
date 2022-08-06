@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 11:57:00",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "1,800 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "50"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-06 11:56:38",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "30,021 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "45"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-06 11:56:00",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "167 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-06 11:53:10",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,046 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "5"
+    },
+    {
+      "name": "High Point Fire",
+      "type": "Wildfire",
+      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 11:51:37",
+      "lat": "32.325",
+      "lng": "-98.586",
+      "size": "175 Acres",
+      "url": "/incident/8310/",
+      "id": "8310",
+      "contained": "75"
+    },
+    {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-06 11:50:32",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,793 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "73"
+    },
+    {
       "name": "Cow Canyon",
       "type": "Wildfire",
       "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
       "state": "WASHINGTON",
-      "updated": "2022-08-06 11:25:27",
+      "updated": "2022-08-06 11:30:29",
       "lat": "46.868",
       "lng": "-120.81",
       "size": "4,633 Acres",
@@ -38,19 +116,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "18"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-06 11:11:42",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "167 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
     },
     {
       "name": "Norton Fire",
@@ -118,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-06 10:48:56",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "30,021 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "45"
-    },
-    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "Fire behavior has been remaining slightly active through the night...",
@@ -142,19 +194,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-06 10:36:11",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,046 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "5"
     },
     {
       "name": "Matt Staff Rd Fire ",
@@ -196,32 +235,6 @@
       "contained": "80"
     },
     {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-06 09:47:53",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,793 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "73"
-    },
-    {
-      "name": "High Point Fire",
-      "type": "Wildfire",
-      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 09:23:31",
-      "lat": "32.325",
-      "lng": "-98.586",
-      "size": "175 Acres",
-      "url": "/incident/8310/",
-      "id": "8310",
-      "contained": "75"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -246,19 +259,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "98"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 08:40:41",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "1,800 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "40"
     },
     {
       "name": "Smoke Rider Fire",
