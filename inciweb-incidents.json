@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-06 12:29:58",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "1,438 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Ranger Creek Fire",
       "type": "Wildfire",
       "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
       "state": "TEXAS",
-      "updated": "2022-08-06 12:16:21",
+      "updated": "2022-08-06 12:25:07",
       "lat": "33.123",
       "lng": "-99.379",
       "size": "1,800 Acres",
       "url": "/incident/8311/",
       "id": "8311",
-      "contained": "50"
+      "contained": "65"
+    },
+    {
+      "name": "High Point Fire",
+      "type": "Wildfire",
+      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 12:20:53",
+      "lat": "32.325",
+      "lng": "-98.586",
+      "size": "175 Acres",
+      "url": "/incident/8310/",
+      "id": "8310",
+      "contained": "80"
+    },
+    {
+      "name": "Colony Fire",
+      "type": "Wildfire",
+      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
+      "state": "TEXAS",
+      "updated": "2022-08-06 12:19:22",
+      "lat": "32.416",
+      "lng": "-97.918",
+      "size": "467 Acres",
+      "url": "/incident/8300/",
+      "id": "8300",
+      "contained": "100"
+    },
+    {
+      "name": "Chalk Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 12:18:35",
+      "lat": "32.188",
+      "lng": "-97.868",
+      "size": "6,755 Acres",
+      "url": "/incident/8255/",
+      "id": "8255",
+      "contained": "100"
     },
     {
       "name": "Fish",
@@ -105,19 +157,6 @@
       "contained": "5"
     },
     {
-      "name": "High Point Fire",
-      "type": "Wildfire",
-      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 11:51:37",
-      "lat": "32.325",
-      "lng": "-98.586",
-      "size": "175 Acres",
-      "url": "/incident/8310/",
-      "id": "8310",
-      "contained": "75"
-    },
-    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
@@ -155,19 +194,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "14"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-06 11:00:15",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "1,438 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Yeti and Alex Fires",
@@ -339,19 +365,6 @@
       "contained": "35"
     },
     {
-      "name": "Colony Fire",
-      "type": "Wildfire",
-      "summary": " On August 3, 2022 a wildfire started just north of Tolar, Texas....",
-      "state": "TEXAS",
-      "updated": "2022-08-05 16:25:41",
-      "lat": "32.416",
-      "lng": "-97.918",
-      "size": "467 Acres",
-      "url": "/incident/8300/",
-      "id": "8300",
-      "contained": "80"
-    },
-    {
       "name": "Redhorn Fire",
       "type": "Wildfire",
       "summary": "Redhorn Fire Update for August 5, 2022Community Meeting: There will...",
@@ -428,19 +441,6 @@
       "url": "/incident/8306/",
       "id": "8306",
       "contained": "100"
-    },
-    {
-      "name": "Chalk Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Chalk Mountain Fire started on July 18, 2022 at approximately...",
-      "state": "TEXAS",
-      "updated": "2022-08-04 21:45:36",
-      "lat": "32.188",
-      "lng": "-97.868",
-      "size": "6,755 Acres",
-      "url": "/incident/8255/",
-      "id": "8255",
-      "contained": "96"
     },
     {
       "name": "Halfway Hill Fire",
