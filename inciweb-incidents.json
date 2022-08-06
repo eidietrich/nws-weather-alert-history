@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-06 08:46:32",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,793 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "73"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "Fire behavior has been remaining slightly active through the night...",
+      "state": "IDAHO",
+      "updated": "2022-08-06 08:45:39",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "4,953 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "High Point Fire",
+      "type": "Wildfire",
+      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 08:42:36",
+      "lat": "32.325",
+      "lng": "-98.586",
+      "size": "175 Acres",
+      "url": "/incident/8310/",
+      "id": "8310",
+      "contained": "75"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Since Thursday afternoon’s windy conditions, the weather on the...",
+      "state": "IDAHO",
+      "updated": "2022-08-06 08:41:38",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "68,166 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "14"
+    },
+    {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 08:40:41",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "1,800 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "40"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-06 08:39:17",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-06 08:38:35",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
       "summary": "The Yeti Fire is burning on the Klamath National Forest in between...",
@@ -24,19 +115,6 @@
       "size": "1,538 Acres",
       "url": "/incident/8309/",
       "id": "8309",
-      "contained": "0"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 08:30:15",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "0 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
       "contained": "0"
     },
     {
@@ -66,19 +144,6 @@
       "contained": "18"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Steep terrain and extremely dry fuel conditions continue to pose...",
-      "state": "IDAHO",
-      "updated": "2022-08-06 08:05:47",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "68,166 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "14"
-    },
-    {
       "name": "Smoke Rider Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
@@ -90,19 +155,6 @@
       "url": "/incident/8295/",
       "id": "8295",
       "contained": "80"
-    },
-    {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-06 06:09:31",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,793 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "73"
     },
     {
       "name": "Potter Fire",
@@ -129,19 +181,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "5"
-    },
-    {
-      "name": "High Point Fire",
-      "type": "Wildfire",
-      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-08-05 22:55:07",
-      "lat": "32.325",
-      "lng": "-98.586",
-      "size": "175 Acres",
-      "url": "/incident/8310/",
-      "id": "8310",
-      "contained": "75"
     },
     {
       "name": "McKinney Fire",
@@ -220,32 +259,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-05 19:47:53",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-05 19:47:31",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
     },
     {
       "name": "Beech Creek Fire",
@@ -389,19 +402,6 @@
       "url": "/incident/8280/",
       "id": "8280",
       "contained": "90"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "Fire behavior picked up most of the day yesterday with strong gusty...",
-      "state": "IDAHO",
-      "updated": "2022-08-05 09:24:48",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "4,800 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
     },
     {
       "name": "Wolf Fang Fire",
