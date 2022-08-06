@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "The Clover Wildfire started on July 13, 2022 as a result of a...",
+      "state": "MONTANA",
+      "updated": "2022-08-05 22:18:53",
+      "lat": "45.048",
+      "lng": "-111.87",
+      "size": "1,099 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "33"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-05 22:02:21",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,072 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "5"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-05 21:59:28",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "779 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "9"
+    },
+    {
       "name": "Weasel Fire",
       "type": "Wildfire",
-      "summary": "The Weasel Fire was discovered on July 30, 2022. Aerial and ground...",
+      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
       "state": "MONTANA",
-      "updated": "2022-08-05 20:51:39",
+      "updated": "2022-08-05 21:55:08",
       "lat": "48.977",
       "lng": "-114.748",
       "size": "2,180 Acres",
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-05 21:51:50",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "0 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Steep terrain and extremely dry fuel conditions continue to pose...",
+      "state": "IDAHO",
+      "updated": "2022-08-05 21:47:08",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "67,466 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "11"
     },
     {
       "name": "VANTAGE HIGHWAY",
@@ -40,19 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-05 20:01:16",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "0 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "High Point Fire",
       "type": "Wildfire",
       "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
@@ -77,19 +129,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "30"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Steep terrain and extremely dry fuel conditions continue to pose...",
-      "state": "IDAHO",
-      "updated": "2022-08-05 19:49:45",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "67,466 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "11"
     },
     {
       "name": "Hermits Peak Fire",
@@ -181,19 +220,6 @@
       "url": "/incident/8279/",
       "id": "8279",
       "contained": "48"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-05 18:00:18",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "771 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
     },
     {
       "name": "Hermosa Fire",
@@ -300,19 +326,6 @@
       "contained": "100"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-05 12:15:08",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,072 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "5"
-    },
-    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
@@ -415,19 +428,6 @@
       "url": "/incident/8255/",
       "id": "8255",
       "contained": "96"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "The Clover Wildfire started on July 13, 2022 as a result of a...",
-      "state": "MONTANA",
-      "updated": "2022-08-04 19:31:38",
-      "lat": "45.048",
-      "lng": "-111.87",
-      "size": "1,098 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "33"
     },
     {
       "name": "Halfway Hill Fire",
