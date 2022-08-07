@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-07 12:02:39",
+      "lat": "43.74",
+      "lng": "-122.166",
+      "size": "1,822 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-07 11:55:27",
+      "updated": "2022-08-07 12:00:59",
       "lat": "41.819",
       "lng": "-122.885",
       "size": "60,271 Acres",
@@ -90,19 +103,6 @@
       "url": "/incident/8294/",
       "id": "8294",
       "contained": "94"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-07 11:02:12",
-      "lat": "43.74",
-      "lng": "-122.166",
-      "size": "1,822 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Moose Fire",
