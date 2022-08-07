@@ -1,17 +1,134 @@
 {
   "markers": [
     {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.6.2022 10:00 AM Edit: 8.6.22...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 22:24:35",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,198 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "18"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
+      "state": "MONTANA",
+      "updated": "2022-08-06 22:04:22",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "2,384 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
+      "name": "Payette Wilderness Fires",
+      "type": "Wildfire",
+      "summary": " Lightning Starts Wilderness Fires on the Payette National...",
+      "state": "IDAHO",
+      "updated": "2022-08-06 21:54:01",
+      "lat": "45.384",
+      "lng": "-114.96",
+      "size": "772 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 21:53:36",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "3,244 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "90"
+    },
+    {
+      "name": "High Point Fire",
+      "type": "Wildfire",
+      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 21:51:49",
+      "lat": "32.325",
+      "lng": "-98.586",
+      "size": "235 Acres",
+      "url": "/incident/8310/",
+      "id": "8310",
+      "contained": "90"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-06 20:57:03",
+      "updated": "2022-08-06 21:32:09",
       "lat": "41.819",
       "lng": "-122.885",
       "size": "60,109 Acres",
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "40"
+    },
+    {
+      "name": "Smoke Rider Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
+      "state": "TEXAS",
+      "updated": "2022-08-06 21:19:16",
+      "lat": "30.162",
+      "lng": "-98.244",
+      "size": "1,210 Acres",
+      "url": "/incident/8295/",
+      "id": "8295",
+      "contained": "90"
+    },
+    {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-06 21:18:29",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,793 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "94"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-06 21:15:44",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "31,000 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "60"
+    },
+    {
+      "name": "Cow Canyon",
+      "type": "Wildfire",
+      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-06 21:12:18",
+      "lat": "46.868",
+      "lng": "-120.81",
+      "size": "4,633 Acres",
+      "url": "/incident/8305/",
+      "id": "8305",
+      "contained": "20"
     },
     {
       "name": "Matt Staff Rd Fire ",
@@ -118,32 +235,6 @@
       "contained": "5"
     },
     {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-06 18:40:40",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,793 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "94"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.6.2022 10:00 AM Edit: 8.6.22...",
-      "state": "MONTANA",
-      "updated": "2022-08-06 18:39:52",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,198 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "18"
-    },
-    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -170,19 +261,6 @@
       "contained": "98"
     },
     {
-      "name": "Cow Canyon",
-      "type": "Wildfire",
-      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-06 17:46:06",
-      "lat": "46.868",
-      "lng": "-120.81",
-      "size": "4,633 Acres",
-      "url": "/incident/8305/",
-      "id": "8305",
-      "contained": "15"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -194,45 +272,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": "The Weasel Fire was discovered on July 30, 2022.  The fire was...",
-      "state": "MONTANA",
-      "updated": "2022-08-06 17:19:35",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "2,274 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "0"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 15:38:56",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "3,244 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "75"
-    },
-    {
-      "name": "High Point Fire",
-      "type": "Wildfire",
-      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 15:30:22",
-      "lat": "32.325",
-      "lng": "-98.586",
-      "size": "235 Acres",
-      "url": "/incident/8310/",
-      "id": "8310",
-      "contained": "80"
     },
     {
       "name": "Redhorn Fire",
@@ -287,19 +326,6 @@
       "contained": "100"
     },
     {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-06 11:56:38",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "30,021 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "45"
-    },
-    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
@@ -336,19 +362,6 @@
       "size": "1,459 Acres",
       "url": "/incident/8296/",
       "id": "8296",
-      "contained": "80"
-    },
-    {
-      "name": "Smoke Rider Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
-      "state": "TEXAS",
-      "updated": "2022-08-06 07:50:45",
-      "lat": "30.162",
-      "lng": "-98.244",
-      "size": "1,210 Acres",
-      "url": "/incident/8295/",
-      "id": "8295",
       "contained": "80"
     },
     {
@@ -467,19 +480,6 @@
       "url": "/incident/8215/",
       "id": "8215",
       "contained": "90"
-    },
-    {
-      "name": "Payette Wilderness Fires",
-      "type": "Wildfire",
-      "summary": " Lightning Starts Wilderness Fires on the Payette National...",
-      "state": "IDAHO",
-      "updated": "2022-08-04 14:50:55",
-      "lat": "45.384",
-      "lng": "-114.96",
-      "size": "580 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
     },
     {
       "name": "Gem Lake Fire",
