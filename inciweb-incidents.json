@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-07 11:55:27",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "60,271 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "40"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-07 11:49:30",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "185 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-07 11:44:24",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,052 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "15"
+    },
+    {
       "name": "Cow Canyon",
       "type": "Wildfire",
       "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
       "state": "WASHINGTON",
-      "updated": "2022-08-07 11:25:28",
+      "updated": "2022-08-07 11:37:28",
       "lat": "46.868",
       "lng": "-120.81",
       "size": "4,633 Acres",
@@ -18,7 +57,7 @@
       "type": "Wildfire",
       "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
       "state": "WASHINGTON",
-      "updated": "2022-08-07 11:24:25",
+      "updated": "2022-08-07 11:34:25",
       "lat": "46.967",
       "lng": "-120.184",
       "size": "31,000 Acres",
@@ -66,19 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-07 10:52:42",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "60,271 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "40"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " Spotty rain fell across the Moose Fire yesterday morning bringing...",
@@ -90,19 +116,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "16"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-07 10:39:37",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "185 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
     },
     {
       "name": "Elmo Fire",
@@ -155,19 +168,6 @@
       "url": "/incident/8309/",
       "id": "8309",
       "contained": "38"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-07 09:55:18",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,052 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "15"
     },
     {
       "name": "Clover Fire",
