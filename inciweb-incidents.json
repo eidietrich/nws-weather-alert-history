@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cow Canyon",
+      "type": "Wildfire",
+      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-08 15:47:32",
+      "lat": "46.868",
+      "lng": "-120.81",
+      "size": "5,832 Acres",
+      "url": "/incident/8305/",
+      "id": "8305",
+      "contained": "30"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-08 15:44:43",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-08 15:43:47",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Updates | Announcements | Maps | Photos  Twelve lightning...",
@@ -116,32 +155,6 @@
       "url": "/incident/8313/",
       "id": "8313",
       "contained": "50"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-08 13:37:13",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-08 13:34:01",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
     },
     {
       "name": "Committee Fire",
@@ -272,19 +285,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "55"
-    },
-    {
-      "name": "Cow Canyon",
-      "type": "Wildfire",
-      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-08 11:25:47",
-      "lat": "46.868",
-      "lng": "-120.81",
-      "size": "5,832 Acres",
-      "url": "/incident/8305/",
-      "id": "8305",
-      "contained": "30"
     },
     {
       "name": "VANTAGE HIGHWAY",
