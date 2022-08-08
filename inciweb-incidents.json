@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
+      "state": "IDAHO",
+      "updated": "2022-08-08 18:33:59",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "137 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-08 18:18:55",
+      "updated": "2022-08-08 18:33:11",
       "lat": "41.819",
       "lng": "-122.885",
       "size": "60,379 Acres",
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "40"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-08 18:27:50",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "30,635 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "75"
+    },
+    {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-08 18:27:05",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,793 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "98"
     },
     {
       "name": "Cedar Creek Fire",
@@ -64,19 +103,6 @@
       "url": "/incident/8284/",
       "id": "8284",
       "contained": "0"
-    },
-    {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-08 17:56:09",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,793 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "96"
     },
     {
       "name": "Weasel Fire",
@@ -365,19 +391,6 @@
       "contained": "55"
     },
     {
-      "name": "VANTAGE HIGHWAY",
-      "type": "Wildfire",
-      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-08 11:17:22",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "32,284 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "75"
-    },
-    {
       "name": "Beech Creek Fire",
       "type": "Wildfire",
       "summary": "On the afternoon of August 1, 2022, numerous air and ground resources...",
@@ -441,19 +454,6 @@
       "url": "/incident/8302/",
       "id": "8302",
       "contained": "90"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
-      "state": "IDAHO",
-      "updated": "2022-08-07 09:28:13",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "120 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
     },
     {
       "name": "Colony Fire",
