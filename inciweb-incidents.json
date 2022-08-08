@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Fish",
+      "type": "Wildfire",
+      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
+      "state": "WYOMING",
+      "updated": "2022-08-08 11:29:07",
+      "lat": "44.301",
+      "lng": "-104.294",
+      "size": "6,793 Acres",
+      "url": "/incident/8294/",
+      "id": "8294",
+      "contained": "96"
+    },
+    {
       "name": "Cow Canyon",
       "type": "Wildfire",
       "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
       "state": "WASHINGTON",
-      "updated": "2022-08-08 10:53:01",
+      "updated": "2022-08-08 11:25:47",
       "lat": "46.868",
       "lng": "-120.81",
       "size": "5,832 Acres",
@@ -14,11 +27,63 @@
       "contained": "30"
     },
     {
+      "name": "Hermits Peak &amp; Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-08 11:21:46",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.7.2022 9:30 AM8.7.2022 10:00...",
+      "state": "MONTANA",
+      "updated": "2022-08-08 11:21:08",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,345 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "55"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-08 11:18:27",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,053 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "25"
+    },
+    {
+      "name": "VANTAGE HIGHWAY",
+      "type": "Wildfire",
+      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-08 11:17:22",
+      "lat": "46.967",
+      "lng": "-120.184",
+      "size": "32,284 Acres",
+      "url": "/incident/8303/",
+      "id": "8303",
+      "contained": "75"
+    },
+    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
       "state": "OREGON",
-      "updated": "2022-08-08 10:48:12",
+      "updated": "2022-08-08 11:14:49",
       "lat": "43.375",
       "lng": "-122.343",
       "size": "234 Acres",
@@ -27,17 +92,30 @@
       "contained": "0"
     },
     {
-      "name": "VANTAGE HIGHWAY",
+      "name": "McKinney Fire",
       "type": "Wildfire",
-      "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-08 10:48:02",
-      "lat": "46.967",
-      "lng": "-120.184",
-      "size": "32,284 Acres",
-      "url": "/incident/8303/",
-      "id": "8303",
-      "contained": "75"
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-08 11:13:25",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "60,379 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "40"
+    },
+    {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": " Fire is 839 acres Containment is at 60% Significant moisture was...",
+      "state": "WYOMING",
+      "updated": "2022-08-08 11:09:45",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "839 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "60"
     },
     {
       "name": "Beech Creek Fire",
@@ -66,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.7.2022 9:30 AM8.7.2022 10:00...",
-      "state": "MONTANA",
-      "updated": "2022-08-08 10:22:20",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,345 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "55"
-    },
-    {
       "name": "Burns Creek Fire",
       "type": "Wildfire",
       "summary": " At 4:16pm on August 7th, The Texas A&amp;M Forest Service was requested...",
@@ -90,19 +155,6 @@
       "url": "/incident/8313/",
       "id": "8313",
       "contained": "20"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-08 10:11:33",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,053 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "25"
     },
     {
       "name": "Cedar Creek Fire",
@@ -196,32 +248,6 @@
       "contained": "41"
     },
     {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 839 acresContainment is at 23%In Divisions Alpha and Zulu...",
-      "state": "WYOMING",
-      "updated": "2022-08-08 09:21:04",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "839 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "60"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-08 09:08:36",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "60,379 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "40"
-    },
-    {
       "name": "Big Sky Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
@@ -285,19 +311,6 @@
       "url": "/incident/8295/",
       "id": "8295",
       "contained": "95"
-    },
-    {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-07 19:59:12",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,793 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "96"
     },
     {
       "name": "Hermosa Fire",
@@ -934,19 +947,6 @@
       "size": "0 Acres",
       "url": "/incident/8118/",
       "id": "8118",
-      "contained": "0"
-    },
-    {
-      "name": "Hermits Peak &amp; Calf Canyon BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-16 14:47:03",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
       "contained": "0"
     },
     {
