@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-08 13:51:11",
+      "lat": "41.819",
+      "lng": "-122.885",
+      "size": "60,379 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "40"
+    },
+    {
+      "name": "Burns Creek Fire",
+      "type": "Wildfire",
+      "summary": " At 4:16pm on August 7th, The Texas A&amp;M Forest Service was requested...",
+      "state": "TEXAS",
+      "updated": "2022-08-08 13:38:59",
+      "lat": "30.277",
+      "lng": "-96.589",
+      "size": "300 Acres",
+      "url": "/incident/8313/",
+      "id": "8313",
+      "contained": "50"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-08 13:37:13",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-08 13:36:48",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "3,244 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "95"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-08 13:34:01",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
+      "name": "Committee Fire",
+      "type": "Wildfire",
+      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
+      "state": "ARIZONA",
+      "updated": "2022-08-08 13:26:55",
+      "lat": "34.857",
+      "lng": "-111.713",
+      "size": "362 Acres",
+      "url": "/incident/8241/",
+      "id": "8241",
+      "contained": "90"
+    },
+    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
@@ -105,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-08 11:57:05",
-      "lat": "41.819",
-      "lng": "-122.885",
-      "size": "60,379 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "40"
-    },
-    {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
       "type": "Wildfire",
       "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
@@ -142,32 +207,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "55"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-08 11:30:29",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-08 11:29:46",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
     },
     {
       "name": "Cow Canyon",
@@ -220,19 +259,6 @@
       "url": "/incident/8301/",
       "id": "8301",
       "contained": "69"
-    },
-    {
-      "name": "Burns Creek Fire",
-      "type": "Wildfire",
-      "summary": " At 4:16pm on August 7th, The Texas A&amp;M Forest Service was requested...",
-      "state": "TEXAS",
-      "updated": "2022-08-08 10:20:24",
-      "lat": "30.277",
-      "lng": "-96.589",
-      "size": "300 Acres",
-      "url": "/incident/8313/",
-      "id": "8313",
-      "contained": "20"
     },
     {
       "name": "Cedar Creek Fire",
@@ -376,19 +402,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "0"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-07 14:59:29",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "3,244 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "90"
     },
     {
       "name": "Redhorn Fire",
@@ -662,19 +675,6 @@
       "url": "/incident/8272/",
       "id": "8272",
       "contained": "0"
-    },
-    {
-      "name": "Committee Fire",
-      "type": "Wildfire",
-      "summary": "The Committee Fire was reported at 12:20 p.m. Friday, July 15. It is...",
-      "state": "ARIZONA",
-      "updated": "2022-08-01 10:52:49",
-      "lat": "34.857",
-      "lng": "-111.713",
-      "size": "362 Acres",
-      "url": "/incident/8241/",
-      "id": "8241",
-      "contained": "90"
     },
     {
       "name": "Lime Complex",
