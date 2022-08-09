@@ -1,6 +1,123 @@
 {
   "markers": [
     {
+      "name": "Sarco",
+      "type": "Wildfire",
+      "summary": "Sunday - Aug 7, 6 PM Update: Air attack is underway to suppress fire...",
+      "state": "TEXAS",
+      "updated": "2022-08-09 08:47:28",
+      "lat": "28.464",
+      "lng": "-97.438",
+      "size": "515 Acres",
+      "url": "/incident/8314/",
+      "id": "8314",
+      "contained": "95"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.7.2022 9:30 AM8.7.2022 10:00...",
+      "state": "MONTANA",
+      "updated": "2022-08-09 08:41:57",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,349 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "61"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-09 08:40:19",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "934 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Public use is returning to the Salmon River corridor as...",
+      "state": "IDAHO",
+      "updated": "2022-08-09 08:39:10",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "72,710 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "21"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-09 08:38:08",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-09 08:37:18",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-09 08:26:36",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "824 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "44"
+    },
+    {
+      "name": "Yeti and Alex Fires",
+      "type": "Wildfire",
+      "summary": " Updates  l Maps  l  Smoke Outlook  l  Closures ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-09 08:24:18",
+      "lat": "41.868",
+      "lng": "-123.278",
+      "size": "7,886 Acres",
+      "url": "/incident/8299/",
+      "id": "8299",
+      "contained": "78"
+    },
+    {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-08-09 08:13:26",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "3,237 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "100"
+    },
+    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "Ground and aviation fire suppression resources responded to the...",
@@ -40,32 +157,6 @@
       "contained": "40"
     },
     {
-      "name": "Yeti and Alex Fires",
-      "type": "Wildfire",
-      "summary": " Updates  l Maps  l  Smoke Outlook  l  Closures ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-08 21:38:25",
-      "lat": "41.868",
-      "lng": "-123.278",
-      "size": "7,885 Acres",
-      "url": "/incident/8299/",
-      "id": "8299",
-      "contained": "50"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-08 21:15:27",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Updates | Announcements | Maps | Photos  Twelve lightning...",
@@ -79,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-08 21:13:36",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -103,19 +181,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
-    },
-    {
-      "name": "Sarco",
-      "type": "Wildfire",
-      "summary": "Sunday - Aug 7, 6 PM Update: Air attack is underway to suppress fire...",
-      "state": "TEXAS",
-      "updated": "2022-08-08 20:41:51",
-      "lat": "28.464",
-      "lng": "-97.438",
-      "size": "515 Acres",
-      "url": "/incident/8314/",
-      "id": "8314",
-      "contained": "95"
     },
     {
       "name": "Big Sky Fire",
@@ -144,19 +209,6 @@
       "contained": "60"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "&amp;#183;JOIN US: Virtual Community Meeting LIVE  on the Salmon-Challis...",
-      "state": "IDAHO",
-      "updated": "2022-08-08 20:13:51",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "71,346 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "18"
-    },
-    {
       "name": "Smoke Rider Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
@@ -168,19 +220,6 @@
       "url": "/incident/8295/",
       "id": "8295",
       "contained": "100"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-08 20:00:36",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "798 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "44"
     },
     {
       "name": "McKinney Fire",
@@ -287,19 +326,6 @@
       "contained": "100"
     },
     {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-08 16:53:26",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "934 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
-    },
-    {
       "name": "Williams Lake",
       "type": "Wildfire",
       "summary": " This a type 3 incident managed by North East Washington Incident...",
@@ -311,19 +337,6 @@
       "url": "/incident/8315/",
       "id": "8315",
       "contained": "0"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-08 15:16:28",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "3,244 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "95"
     },
     {
       "name": "Redhorn Fire",
@@ -415,19 +428,6 @@
       "url": "/incident/8170/",
       "id": "8170",
       "contained": "0"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.7.2022 9:30 AM8.7.2022 10:00...",
-      "state": "MONTANA",
-      "updated": "2022-08-08 11:32:43",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,345 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "55"
     },
     {
       "name": "Beech Creek Fire",
