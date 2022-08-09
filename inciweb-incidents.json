@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-09 09:45:16",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "234 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
       "state": "IDAHO",
-      "updated": "2022-08-09 09:35:25",
+      "updated": "2022-08-09 09:44:28",
       "lat": "44.857",
       "lng": "-114.927",
       "size": "180 Acres",
       "url": "/incident/8308/",
       "id": "8308",
       "contained": "0"
+    },
+    {
+      "name": "Cow Canyon",
+      "type": "Wildfire",
+      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
+      "state": "WASHINGTON",
+      "updated": "2022-08-09 09:42:29",
+      "lat": "46.868",
+      "lng": "-120.81",
+      "size": "5,832 Acres",
+      "url": "/incident/8305/",
+      "id": "8305",
+      "contained": "40"
+    },
+    {
+      "name": "Matt Staff Rd Fire ",
+      "type": "Wildfire",
+      "summary": " MATT STAFF RD FIRE - Final Update 8/8/22, 4:30 pmThe fire is now...",
+      "state": "MONTANA",
+      "updated": "2022-08-09 09:39:44",
+      "lat": "46.573",
+      "lng": "-111.783",
+      "size": "1,587 Acres",
+      "url": "/incident/8309/",
+      "id": "8309",
+      "contained": "100"
     },
     {
       "name": "Woodtick Fire",
@@ -209,32 +248,6 @@
       "contained": "25"
     },
     {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-08 23:00:27",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "234 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Cow Canyon",
-      "type": "Wildfire",
-      "summary": "The Cow Canyon Fire was first reported on August 3rd at 2:45 p.m....",
-      "state": "WASHINGTON",
-      "updated": "2022-08-08 21:53:11",
-      "lat": "46.868",
-      "lng": "-120.81",
-      "size": "5,832 Acres",
-      "url": "/incident/8305/",
-      "id": "8305",
-      "contained": "40"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -324,19 +337,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "0"
-    },
-    {
-      "name": "Matt Staff Rd Fire ",
-      "type": "Wildfire",
-      "summary": " MATT STAFF RD FIRE - Final Update 8/8/22, 4:30 pmThe fire is now...",
-      "state": "MONTANA",
-      "updated": "2022-08-08 17:36:14",
-      "lat": "46.573",
-      "lng": "-111.783",
-      "size": "1,587 Acres",
-      "url": "/incident/8309/",
-      "id": "8309",
-      "contained": "100"
     },
     {
       "name": "Williams Lake",
