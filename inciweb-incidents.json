@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.9.2022 6:00 PM Updates from...",
+      "state": "MONTANA",
+      "updated": "2022-08-10 09:45:54",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,348 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "61"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Despite the active smoke column that was visible from Salmon...",
+      "state": "IDAHO",
+      "updated": "2022-08-10 09:42:04",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "74,470 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "21"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
+      "state": "IDAHO",
+      "updated": "2022-08-10 09:38:20",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,492 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-10 09:36:40",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "279 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Big Sky Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
+      "state": "TEXAS",
+      "updated": "2022-08-10 09:33:26",
+      "lat": "30.389",
+      "lng": "-98.789",
+      "size": "1,459 Acres",
+      "url": "/incident/8296/",
+      "id": "8296",
+      "contained": "95"
+    },
+    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "Ground and aviation fire suppression resources responded to the...",
       "state": "OREGON",
-      "updated": "2022-08-10 09:29:55",
+      "updated": "2022-08-10 09:31:36",
       "lat": "43.363",
       "lng": "-122.052",
       "size": "1,053 Acres",
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "25"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
+      "state": "IDAHO",
+      "updated": "2022-08-10 09:30:24",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "180 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
     },
     {
       "name": "Indian Ridge",
@@ -27,32 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-10 09:29:08",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "279 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Big Sky Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
-      "state": "TEXAS",
-      "updated": "2022-08-10 09:28:32",
-      "lat": "30.389",
-      "lng": "-98.789",
-      "size": "1,459 Acres",
-      "url": "/incident/8296/",
-      "id": "8296",
-      "contained": "95"
-    },
-    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
@@ -64,32 +116,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "60"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
-      "state": "IDAHO",
-      "updated": "2022-08-10 09:18:39",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "180 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
-      "state": "IDAHO",
-      "updated": "2022-08-10 09:17:12",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,492 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
     },
     {
       "name": "Sarco",
@@ -129,19 +155,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "98"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Despite the active smoke column that was visible from Salmon...",
-      "state": "IDAHO",
-      "updated": "2022-08-10 08:47:01",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "74,470 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "21"
     },
     {
       "name": "TNT",
@@ -233,19 +246,6 @@
       "url": "/incident/8313/",
       "id": "8313",
       "contained": "90"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.9.2022 6:00 PM Updates from...",
-      "state": "MONTANA",
-      "updated": "2022-08-10 07:45:45",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,348 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "61"
     },
     {
       "name": "Six Rivers Lightning Complex",
