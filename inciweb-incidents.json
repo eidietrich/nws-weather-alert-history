@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning in July in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-08-11 11:03:44",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "2,562 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": " The Big Swamp Fire was started 8-1-2022 by lightning, at...",
+      "state": "OREGON",
+      "updated": "2022-08-11 11:01:50",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "117 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "0"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
+      "state": "IDAHO",
+      "updated": "2022-08-11 10:59:18",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "407 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
@@ -25,32 +64,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "75"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": " The Big Swamp Fire was started 8-1-2022 by lightning, at...",
-      "state": "OREGON",
-      "updated": "2022-08-11 10:43:52",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "117 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "0"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
-      "state": "IDAHO",
-      "updated": "2022-08-11 10:42:26",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "407 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
     },
     {
       "name": "Yeti and Alex Fires",
@@ -168,19 +181,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "25"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning in July in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-08-11 09:41:36",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "2,562 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
     },
     {
       "name": "Weasel Fire",
@@ -402,32 +402,6 @@
       "url": "/incident/8293/",
       "id": "8293",
       "contained": "0"
-    },
-    {
-      "name": "TNT",
-      "type": "Wildfire",
-      "summary": " On Tuesday, August 9th, 2022 at 10:45 am, Texas A&amp;M Forest Service...",
-      "state": "TEXAS",
-      "updated": "2022-08-10 08:41:05",
-      "lat": "30.974",
-      "lng": "-94.997",
-      "size": "380 Acres",
-      "url": "/incident/8320/",
-      "id": "8320",
-      "contained": "100"
-    },
-    {
-      "name": "Gate 6",
-      "type": "Wildfire",
-      "summary": " On Monday, August 9th at 12:50 pm, Texas A&amp;M Forest Service...",
-      "state": "TEXAS",
-      "updated": "2022-08-10 08:37:09",
-      "lat": "30.957",
-      "lng": "-94.895",
-      "size": "200 Acres",
-      "url": "/incident/8317/",
-      "id": "8317",
-      "contained": "100"
     },
     {
       "name": "Fountain Creek Fire",
