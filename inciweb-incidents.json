@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Pine Pond Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
+      "state": "TEXAS",
+      "updated": "2022-08-12 17:20:06",
+      "lat": "30.091",
+      "lng": "-97.159",
+      "size": "700 Acres",
+      "url": "/incident/8324/",
+      "id": "8324",
+      "contained": "20"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-12 16:45:00",
+      "updated": "2022-08-12 16:58:54",
       "lat": "41.819",
       "lng": "-122.895",
       "size": "60,389 Acres",
@@ -14,17 +27,56 @@
       "contained": "80"
     },
     {
-      "name": "Pine Pond Fire",
+      "name": "Hermits Peak Fire",
       "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
-      "state": "TEXAS",
-      "updated": "2022-08-12 16:38:45",
-      "lat": "30.091",
-      "lng": "-97.159",
-      "size": "700 Acres",
-      "url": "/incident/8324/",
-      "id": "8324",
-      "contained": "20"
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-12 16:53:06",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-12 16:52:34",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "UPDATE ON 8.12.2022 3:30 PM The new lightning-caused fire northwest...",
+      "state": "MONTANA",
+      "updated": "2022-08-12 16:52:24",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,349 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "75"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-12 16:47:10",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "3,948 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
     },
     {
       "name": "Yellow Brick",
@@ -38,19 +90,6 @@
       "url": "/incident/8327/",
       "id": "8327",
       "contained": "50"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE ON 8.12.2022 3:30 PM The new lightning-caused fire northwest...",
-      "state": "MONTANA",
-      "updated": "2022-08-12 16:29:34",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,349 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "75"
     },
     {
       "name": "Weasel Fire",
@@ -115,19 +154,6 @@
       "size": "515 Acres",
       "url": "/incident/8293/",
       "id": "8293",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-12 12:31:36",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "3,948 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
@@ -233,32 +259,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-12 10:24:01",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-12 10:23:03",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
     },
     {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
