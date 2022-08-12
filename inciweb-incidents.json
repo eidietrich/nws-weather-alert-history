@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-12 16:45:00",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,389 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "80"
+    },
+    {
+      "name": "Pine Pond Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
+      "state": "TEXAS",
+      "updated": "2022-08-12 16:38:45",
+      "lat": "30.091",
+      "lng": "-97.159",
+      "size": "700 Acres",
+      "url": "/incident/8324/",
+      "id": "8324",
+      "contained": "20"
+    },
+    {
+      "name": "Yellow Brick",
+      "type": "Wildfire",
+      "summary": "The Yellow Brick Fire, caused by a lightning strike on August 11,...",
+      "state": "TEXAS",
+      "updated": "2022-08-12 16:34:07",
+      "lat": "32.902",
+      "lng": "-98.368",
+      "size": "109 Acres",
+      "url": "/incident/8327/",
+      "id": "8327",
+      "contained": "50"
+    },
+    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "UPDATE ON 8.12.2022 3:30 PM The new lightning-caused fire northwest...",
@@ -12,32 +51,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "75"
-    },
-    {
-      "name": "Yellow Brick",
-      "type": "Wildfire",
-      "summary": "The Yellow Brick Fire, caused by a lightning strike on August 11,...",
-      "state": "TEXAS",
-      "updated": "2022-08-12 16:28:04",
-      "lat": "32.902",
-      "lng": "-98.368",
-      "size": "109 Acres",
-      "url": "/incident/8327/",
-      "id": "8327",
-      "contained": "50"
-    },
-    {
-      "name": "Pine Pond Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service is responding to a request for assistance in...",
-      "state": "TEXAS",
-      "updated": "2022-08-12 16:26:12",
-      "lat": "30.091",
-      "lng": "-97.159",
-      "size": "700 Acres",
-      "url": "/incident/8324/",
-      "id": "8324",
-      "contained": "20"
     },
     {
       "name": "Weasel Fire",
@@ -168,19 +181,6 @@
       "url": "/incident/8264/",
       "id": "8264",
       "contained": "0"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-12 11:31:43",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,389 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "80"
     },
     {
       "name": "Wolf Fang Fire",
