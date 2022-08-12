@@ -1,16 +1,42 @@
 {
   "markers": [
     {
-      "name": "Wolf Fang Fire",
+      "name": "Hermits Peak Fire",
       "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-12 08:23:52",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,068 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-12 08:58:03",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-12 08:56:29",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-12 08:51:50",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "13,968 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
       "contained": "0"
     },
     {
@@ -18,7 +44,7 @@
       "type": "Wildfire",
       "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
       "state": "IDAHO",
-      "updated": "2022-08-12 08:18:56",
+      "updated": "2022-08-12 08:45:48",
       "lat": "44.857",
       "lng": "-114.927",
       "size": "420 Acres",
@@ -31,13 +57,65 @@
       "type": "Wildfire",
       "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
       "state": "IDAHO",
-      "updated": "2022-08-12 08:18:08",
+      "updated": "2022-08-12 08:44:56",
       "lat": "44.854",
       "lng": "-114.632",
       "size": "5,538 Acres",
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "0"
+    },
+    {
+      "name": "Sugarloaf Fire",
+      "type": "Wildfire",
+      "summary": "Fire is 839 acresContainment is at 60%Significant moisture was...",
+      "state": "WYOMING",
+      "updated": "2022-08-12 08:42:04",
+      "lat": "42.205",
+      "lng": "-105.591",
+      "size": "839 Acres",
+      "url": "/incident/8279/",
+      "id": "8279",
+      "contained": "60"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Firefighters are working 16-hour days, aggressively taking...",
+      "state": "IDAHO",
+      "updated": "2022-08-12 08:38:09",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "74,953 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "21"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-12 08:26:09",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,068 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.9.2022 6:00 PM Updates from...",
+      "state": "MONTANA",
+      "updated": "2022-08-12 08:24:23",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,349 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "75"
     },
     {
       "name": "Weasel Fire",
@@ -92,19 +170,6 @@
       "contained": "10"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-11 23:08:26",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "13,111 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "0"
-    },
-    {
       "name": "Oak Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY There are three phases of...",
@@ -157,32 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-11 20:37:47",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Cloud cover is diminishing today, but moderated fire behavior is...",
-      "state": "IDAHO",
-      "updated": "2022-08-11 20:10:47",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "74,953 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "21"
-    },
-    {
       "name": "VANTAGE HIGHWAY",
       "type": "Wildfire",
       "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
@@ -220,19 +259,6 @@
       "url": "/incident/8296/",
       "id": "8296",
       "contained": "100"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-11 19:41:00",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
     },
     {
       "name": "Indian Ridge",
@@ -365,19 +391,6 @@
       "contained": "70"
     },
     {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "UPDATE ON EVACUATIONS AND CLOSURES - 8.9.2022 6:00 PM Updates from...",
-      "state": "MONTANA",
-      "updated": "2022-08-11 10:03:42",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,349 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "66"
-    },
-    {
       "name": "Burns Creek Fire",
       "type": "Wildfire",
       "summary": "At 4:16pm on August 7th, The Texas A&amp;M Forest Service was requested...",
@@ -454,19 +467,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "38"
-    },
-    {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "Fire is 839 acresContainment is at 60%Significant moisture was...",
-      "state": "WYOMING",
-      "updated": "2022-08-10 12:28:38",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "839 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "60"
     },
     {
       "name": "Fountain Creek Fire",
