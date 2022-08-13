@@ -1,16 +1,55 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-13 08:04:06",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-13 08:03:22",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-13 07:30:47",
+      "updated": "2022-08-13 07:41:35",
       "lat": "41.819",
       "lng": "-122.895",
       "size": "60,392 Acres",
       "url": "/incident/8287/",
       "id": "8287",
+      "contained": "90"
+    },
+    {
+      "name": "Yeti and Alex Fires",
+      "type": "Wildfire",
+      "summary": " Updates  l Maps  l  Smoke Outlook  l  Closures ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-13 07:35:37",
+      "lat": "41.868",
+      "lng": "-123.278",
+      "size": "7,886 Acres",
+      "url": "/incident/8299/",
+      "id": "8299",
       "contained": "90"
     },
     {
@@ -38,19 +77,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
-    },
-    {
-      "name": "Yeti and Alex Fires",
-      "type": "Wildfire",
-      "summary": " Updates  l Maps  l  Smoke Outlook  l  Closures ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-12 22:03:44",
-      "lat": "41.868",
-      "lng": "-123.278",
-      "size": "7,886 Acres",
-      "url": "/incident/8299/",
-      "id": "8299",
-      "contained": "90"
     },
     {
       "name": "Clover Fire",
@@ -103,32 +129,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "27"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-12 20:09:33",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-12 20:08:21",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
     },
     {
       "name": "Hog Trough Fire",
