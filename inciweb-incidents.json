@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-13 08:38:06",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,392 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "90"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Thunderstorms passed over the area throughout the past 24 hours and...",
+      "state": "IDAHO",
+      "updated": "2022-08-13 08:33:14",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "77,298 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "27"
+    },
+    {
+      "name": "Yellow Brick",
+      "type": "Wildfire",
+      "summary": "The Yellow Brick Fire, caused by a lightning strike on August 11,...",
+      "state": "TEXAS",
+      "updated": "2022-08-13 08:27:08",
+      "lat": "32.902",
+      "lng": "-98.368",
+      "size": "109 Acres",
+      "url": "/incident/8327/",
+      "id": "8327",
+      "contained": "75"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
+      "state": "IDAHO",
+      "updated": "2022-08-13 08:17:33",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,542 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
+      "state": "IDAHO",
+      "updated": "2022-08-13 08:16:19",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "431 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -25,19 +90,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "98"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-13 07:41:35",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,392 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "90"
     },
     {
       "name": "Yeti and Alex Fires",
@@ -118,19 +170,6 @@
       "contained": "12"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Firefighters are working 16-hour days, aggressively taking...",
-      "state": "IDAHO",
-      "updated": "2022-08-12 20:10:04",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "77,073 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "27"
-    },
-    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
@@ -157,32 +196,6 @@
       "contained": "20"
     },
     {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
-      "state": "IDAHO",
-      "updated": "2022-08-12 19:38:56",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "420 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
-      "state": "IDAHO",
-      "updated": "2022-08-12 19:38:14",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,538 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
       "name": "Hermits Peak &amp; Calf Canyon BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
@@ -194,19 +207,6 @@
       "url": "/incident/8104/",
       "id": "8104",
       "contained": "0"
-    },
-    {
-      "name": "Yellow Brick",
-      "type": "Wildfire",
-      "summary": "The Yellow Brick Fire, caused by a lightning strike on August 11,...",
-      "state": "TEXAS",
-      "updated": "2022-08-12 18:09:10",
-      "lat": "32.902",
-      "lng": "-98.368",
-      "size": "109 Acres",
-      "url": "/incident/8327/",
-      "id": "8327",
-      "contained": "50"
     },
     {
       "name": "Elmo Fire",
