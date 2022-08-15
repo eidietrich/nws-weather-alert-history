@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-15 18:46:24",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "5 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Elmo Fire",
+      "type": "Wildfire",
+      "summary": "The Elmo Fire was detected along Highway 28 on July 29, 2022, at...",
+      "state": "MONTANA",
+      "updated": "2022-08-15 18:45:53",
+      "lat": "47.818",
+      "lng": "-114.507",
+      "size": "21,349 Acres",
+      "url": "/incident/8289/",
+      "id": "8289",
+      "contained": "78"
+    },
+    {
+      "name": "Wishon Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters continue to respond to a wildfire in the Tule River...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-15 18:44:52",
+      "lat": "36.16",
+      "lng": "-118.707",
+      "size": "200 Acres",
+      "url": "/incident/8336/",
+      "id": "8336",
+      "contained": "0"
+    },
+    {
       "name": "Dismal Fire",
       "type": "Wildfire",
       "summary": " Lightning Starts Wilderness Fires on the Payette National...",
       "state": "IDAHO",
-      "updated": "2022-08-15 18:34:00",
+      "updated": "2022-08-15 18:40:23",
       "lat": "45.321",
       "lng": "-114.959",
       "size": "1,114 Acres",
@@ -18,7 +57,7 @@
       "type": "Wildfire",
       "summary": "The Porphyry Fire is within the Frank Church River of No Return...",
       "state": "IDAHO",
-      "updated": "2022-08-15 18:33:57",
+      "updated": "2022-08-15 18:38:42",
       "lat": "45.266",
       "lng": "-115.484",
       "size": "48 Acres",
@@ -31,12 +70,25 @@
       "type": "Wildfire",
       "summary": "Firefighters are conducting extended attack on the Four Corners...",
       "state": "IDAHO",
-      "updated": "2022-08-15 18:33:53",
+      "updated": "2022-08-15 18:38:08",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "73 Acres",
       "url": "/incident/8331/",
       "id": "8331",
+      "contained": "0"
+    },
+    {
+      "name": "Sutton Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "MONTANA",
+      "updated": "2022-08-15 18:36:59",
+      "lat": "48.675",
+      "lng": "-115.16",
+      "size": "0 Acres",
+      "url": "/incident/8335/",
+      "id": "8335",
       "contained": "0"
     },
     {
@@ -50,32 +102,6 @@
       "size": "4,422 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Wishon Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters continue to respond to a wildfire in the Tule River...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-15 18:17:25",
-      "lat": "36.16",
-      "lng": "-118.707",
-      "size": "200 Acres",
-      "url": "/incident/8336/",
-      "id": "8336",
-      "contained": "0"
-    },
-    {
-      "name": "Sutton Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "MONTANA",
-      "updated": "2022-08-15 18:11:33",
-      "lat": "48.675",
-      "lng": "-115.16",
-      "size": "0 Acres",
-      "url": "/incident/8335/",
-      "id": "8335",
       "contained": "0"
     },
     {
@@ -415,19 +441,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "0"
-    },
-    {
-      "name": "Elmo Fire",
-      "type": "Wildfire",
-      "summary": "The Elmo Fire was detected along Highway 28 on July 29, 2022, at...",
-      "state": "MONTANA",
-      "updated": "2022-08-14 12:15:55",
-      "lat": "47.818",
-      "lng": "-114.507",
-      "size": "21,349 Acres",
-      "url": "/incident/8289/",
-      "id": "8289",
-      "contained": "75"
     },
     {
       "name": "Yellow Brick Fire",
