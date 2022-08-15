@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-15 11:27:41",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "459 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-15 11:27:05",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "121 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-15 11:23:24",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,052 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "70"
+    },
+    {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": " Lightning Starts Wilderness Fires on the Payette National...",
+      "state": "IDAHO",
+      "updated": "2022-08-15 11:20:12",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "1,114 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-08-15 11:15:09",
+      "lat": "47.923",
+      "lng": "-113.215",
+      "size": "10 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
       "name": "White River ",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
       "state": "WASHINGTON",
-      "updated": "2022-08-15 10:50:39",
+      "updated": "2022-08-15 10:52:44",
       "lat": "47.885",
       "lng": "-120.917",
       "size": "516 Acres",
@@ -38,32 +103,6 @@
       "url": "/incident/8258/",
       "id": "8258",
       "contained": "71"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-15 10:33:39",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,052 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "70"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-08-15 10:33:30",
-      "lat": "47.923",
-      "lng": "-113.215",
-      "size": "10 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
     },
     {
       "name": "Red",
@@ -105,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": " Lightning Starts Wilderness Fires on the Payette National...",
-      "state": "IDAHO",
-      "updated": "2022-08-15 10:15:01",
-      "lat": "45.384",
-      "lng": "-114.96",
-      "size": "1,114 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
-    },
-    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "Firefighters are conducting extended initial attack on the Four...",
@@ -128,19 +154,6 @@
       "size": "73 Acres",
       "url": "/incident/8331/",
       "id": "8331",
-      "contained": "0"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-15 10:09:14",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "459 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
       "contained": "0"
     },
     {
@@ -220,19 +233,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "17"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-15 09:41:01",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "121 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "0"
     },
     {
       "name": "Cannon Fire",
@@ -1351,19 +1351,6 @@
       "url": "/incident/8117/",
       "id": "8117",
       "contained": "100"
-    },
-    {
-      "name": "2022 Humboldt-Toiyabe Prescribed Fire",
-      "type": "Prescribed Fire",
-      "summary": " Planned Projects | Current Projects | Current PhotosAs part of...",
-      "state": "NEVADA",
-      "updated": "2022-05-17 10:53:59",
-      "lat": "39.524",
-      "lng": "-119.769",
-      "size": "0 Acres",
-      "url": "/incident/7310/",
-      "id": "7310",
-      "contained": "0"
     }
   ]
 }
