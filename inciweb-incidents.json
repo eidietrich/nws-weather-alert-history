@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-15 10:33:39",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,052 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "70"
+    },
+    {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-08-15 10:33:30",
+      "lat": "47.923",
+      "lng": "-113.215",
+      "size": "10 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
       "name": "Red",
       "type": "Wildfire",
       "summary": "The Red fire was discovered on August 4, 2022 between Red Creek and...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-15 10:21:31",
+      "updated": "2022-08-15 10:32:37",
       "lat": "37.661",
       "lng": "-119.471",
       "size": "398 Acres",
@@ -14,16 +40,16 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
+      "name": "Rodgers",
       "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-15 10:20:16",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "4,422 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
+      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-15 10:31:54",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "25 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
       "contained": "0"
     },
     {
@@ -31,13 +57,39 @@
       "type": "Wildfire",
       "summary": "The Pine Pond Fire ignited on the afternoon of August 11th and is...",
       "state": "TEXAS",
-      "updated": "2022-08-15 10:19:49",
+      "updated": "2022-08-15 10:30:30",
       "lat": "30.091",
       "lng": "-97.159",
       "size": "700 Acres",
       "url": "/incident/8324/",
       "id": "8324",
       "contained": "50"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-15 10:27:26",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "516 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-15 10:24:27",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "4,422 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
     },
     {
       "name": "Dismal Fire",
@@ -77,19 +129,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-15 10:08:43",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "70"
     },
     {
       "name": "Calf Canyon",
@@ -209,19 +248,6 @@
       "contained": "0"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-15 08:48:59",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "516 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "0"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " Effective at 8:00 am today, Zone 5 and Zone 6 (Twin Creek south to...",
@@ -297,19 +323,6 @@
       "size": "1,598 Acres",
       "url": "/incident/8290/",
       "id": "8290",
-      "contained": "0"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-08-14 18:36:54",
-      "lat": "47.923",
-      "lng": "-113.215",
-      "size": "10 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
       "contained": "0"
     },
     {
