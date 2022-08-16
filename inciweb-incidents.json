@@ -1,6 +1,136 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Effective at 8:00 am today, Zone 5 and Zone 6 (Twin Creek south to...",
+      "state": "IDAHO",
+      "updated": "2022-08-16 09:12:27",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "78,084 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
+      "state": "IDAHO",
+      "updated": "2022-08-16 09:08:24",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,542 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-16 09:04:47",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,052 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "78"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-16 09:04:06",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "21,609 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "19"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "The Porphyry Fire is within the Frank Church River of No Return...",
+      "state": "IDAHO",
+      "updated": "2022-08-16 09:02:29",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "380 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "0"
+    },
+    {
+      "name": "Wishon Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters responded to the Wishon Fire yesterday afternoon,...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-16 08:59:37",
+      "lat": "36.16",
+      "lng": "-118.707",
+      "size": "350 Acres",
+      "url": "/incident/8336/",
+      "id": "8336",
+      "contained": "5"
+    },
+    {
+      "name": "Pine Pond Fire",
+      "type": "Wildfire",
+      "summary": "The Pine Pond Fire ignited on the afternoon of August 11th and is...",
+      "state": "TEXAS",
+      "updated": "2022-08-16 08:59:11",
+      "lat": "30.091",
+      "lng": "-97.159",
+      "size": "700 Acres",
+      "url": "/incident/8324/",
+      "id": "8324",
+      "contained": "50"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-16 08:58:43",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "459 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are conducting extended attack on the Four Corners...",
+      "state": "IDAHO",
+      "updated": "2022-08-16 08:57:29",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "1,757 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-16 08:49:56",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "121 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "0"
+    },
+    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "The Elmo Fire was detected along Highway 28 on July 29, 2022, at...",
@@ -14,19 +144,6 @@
       "contained": "78"
     },
     {
-      "name": "Pine Pond Fire",
-      "type": "Wildfire",
-      "summary": "The Pine Pond Fire ignited on the afternoon of August 11th and is...",
-      "state": "TEXAS",
-      "updated": "2022-08-16 08:44:03",
-      "lat": "30.091",
-      "lng": "-97.159",
-      "size": "700 Acres",
-      "url": "/incident/8324/",
-      "id": "8324",
-      "contained": "50"
-    },
-    {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
@@ -38,19 +155,6 @@
       "url": "/incident/8273/",
       "id": "8273",
       "contained": "0"
-    },
-    {
-      "name": "Wishon Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters continue to respond to a wildfire in the Tule River...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-16 08:39:28",
-      "lat": "36.16",
-      "lng": "-118.707",
-      "size": "350 Acres",
-      "url": "/incident/8336/",
-      "id": "8336",
-      "contained": "5"
     },
     {
       "name": "Calf Canyon",
@@ -79,45 +183,6 @@
       "contained": "98"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-15 23:52:09",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "20,052 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "19"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-15 23:34:53",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "459 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-15 23:21:08",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,052 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "78"
-    },
-    {
       "name": "Sutton Fire",
       "type": "Wildfire",
       "summary": " The Sutton fire originated 8/14/22 and is a lightning caused fire....",
@@ -131,32 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Effective at 8:00 am today, Zone 5 and Zone 6 (Twin Creek south to...",
-      "state": "IDAHO",
-      "updated": "2022-08-15 22:20:19",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "78,084 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "The Porphyry Fire is within the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2022-08-15 22:11:42",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "500 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "0"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -167,19 +206,6 @@
       "size": "4,422 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are conducting extended attack on the Four Corners...",
-      "state": "IDAHO",
-      "updated": "2022-08-15 21:20:10",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "200 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
       "contained": "0"
     },
     {
@@ -207,19 +233,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "95"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
-      "state": "IDAHO",
-      "updated": "2022-08-15 19:30:28",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,542 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
     },
     {
       "name": "Weasel Fire",
@@ -375,19 +388,6 @@
       "size": "0 Acres",
       "url": "/incident/8325/",
       "id": "8325",
-      "contained": "0"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-15 11:30:44",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "121 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
       "contained": "0"
     },
     {
