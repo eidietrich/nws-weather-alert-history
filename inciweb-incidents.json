@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-16 09:44:10",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "459 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-16 09:43:19",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "4,657 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "McKinney Fire",
       "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "summary": "Updates | Maps | Photos | Smoke Outlook | ClosuresOn Friday,...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-16 09:30:52",
+      "updated": "2022-08-16 09:42:49",
       "lat": "41.819",
       "lng": "-122.895",
       "size": "60,392 Acres",
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "95"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "Ground and aviation fire suppression resources responded to the...",
+      "state": "OREGON",
+      "updated": "2022-08-16 09:41:32",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,052 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "78"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
+      "state": "IDAHO",
+      "updated": "2022-08-16 09:34:07",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,542 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
     },
     {
       "name": "Moose Fire",
@@ -53,32 +105,6 @@
       "contained": "50"
     },
     {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
-      "state": "IDAHO",
-      "updated": "2022-08-16 09:08:24",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,542 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "Ground and aviation fire suppression resources responded to the...",
-      "state": "OREGON",
-      "updated": "2022-08-16 09:04:47",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,052 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "78"
-    },
-    {
       "name": "Porphyry Fire",
       "type": "Wildfire",
       "summary": "The Porphyry Fire is within the Frank Church River of No Return...",
@@ -103,19 +129,6 @@
       "url": "/incident/8336/",
       "id": "8336",
       "contained": "5"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-16 08:58:43",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "459 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
     },
     {
       "name": "Four Corners Fire",
@@ -206,19 +219,6 @@
       "size": "100 Acres",
       "url": "/incident/8335/",
       "id": "8335",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-15 21:39:01",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "4,422 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
