@@ -1,17 +1,173 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters are conducting extended attack on the Four Corners...",
+      "state": "IDAHO",
+      "updated": "2022-08-15 21:03:12",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "200 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-15 20:57:33",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-15 20:56:23",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
+      "name": "Sutton Fire",
+      "type": "Wildfire",
+      "summary": " The Sutton fire originated 8/14/22 and is a lightning caused fire....",
+      "state": "MONTANA",
+      "updated": "2022-08-15 20:51:45",
+      "lat": "48.675",
+      "lng": "-115.16",
+      "size": "0 Acres",
+      "url": "/incident/8335/",
+      "id": "8335",
+      "contained": "0"
+    },
+    {
+      "name": "Wishon Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters continue to respond to a wildfire in the Tule River...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-15 20:10:25",
+      "lat": "36.16",
+      "lng": "-118.707",
+      "size": "290 Acres",
+      "url": "/incident/8336/",
+      "id": "8336",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-15 20:01:38",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "20,052 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "19"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-15 19:51:16",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "516 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "0"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-15 19:40:27",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,392 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "95"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
+      "state": "IDAHO",
+      "updated": "2022-08-15 19:30:28",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,542 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "state": "MONTANA",
+      "updated": "2022-08-15 19:24:40",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "1,650 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-15 19:20:18",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "832 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
       "name": "Quartz Fire",
       "type": "Wildfire",
       "summary": "A new wildland fire was reported in Glacier National Park on August...",
       "state": "MONTANA",
-      "updated": "2022-08-15 18:46:24",
+      "updated": "2022-08-15 19:04:41",
       "lat": "48.854",
       "lng": "-114.025",
-      "size": "5 Acres",
+      "size": "8 Acres",
       "url": "/incident/8337/",
       "id": "8337",
       "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Effective at 8:00 am today, Zone 5 and Zone 6 (Twin Creek south to...",
+      "state": "IDAHO",
+      "updated": "2022-08-15 19:03:29",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "78,729 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
     },
     {
       "name": "Elmo Fire",
@@ -25,19 +181,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "78"
-    },
-    {
-      "name": "Wishon Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters continue to respond to a wildfire in the Tule River...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-15 18:44:52",
-      "lat": "36.16",
-      "lng": "-118.707",
-      "size": "200 Acres",
-      "url": "/incident/8336/",
-      "id": "8336",
-      "contained": "0"
     },
     {
       "name": "Dismal Fire",
@@ -66,32 +209,6 @@
       "contained": "0"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters are conducting extended attack on the Four Corners...",
-      "state": "IDAHO",
-      "updated": "2022-08-15 18:38:08",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "73 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "0"
-    },
-    {
-      "name": "Sutton Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "MONTANA",
-      "updated": "2022-08-15 18:36:59",
-      "lat": "48.675",
-      "lng": "-115.16",
-      "size": "0 Acres",
-      "url": "/incident/8335/",
-      "id": "8335",
-      "contained": "0"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -105,19 +222,6 @@
       "contained": "0"
     },
     {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-15 17:56:55",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "832 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "71"
-    },
-    {
       "name": "Deep Draw Fire",
       "type": "Wildfire",
       "summary": "The Deep Draw Fire was first reported just after 8pm on Friday,...",
@@ -129,32 +233,6 @@
       "url": "/incident/8328/",
       "id": "8328",
       "contained": "40"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-15 17:05:54",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-15 17:05:00",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
     },
     {
       "name": "Indian Ridge",
@@ -222,19 +300,6 @@
       "contained": "50"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-15 12:41:14",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "19,272 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "17"
-    },
-    {
       "name": "Cannon Fire",
       "type": "Wildfire",
       "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
@@ -259,19 +324,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "51"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Video | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-15 11:54:28",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,392 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "95"
     },
     {
       "name": "Oak Post-Fire BAER",
@@ -326,19 +378,6 @@
       "contained": "0"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-15 10:52:44",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "516 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "0"
-    },
-    {
       "name": "Red",
       "type": "Wildfire",
       "summary": "The Red fire was discovered on August 4, 2022 between Red Creek and...",
@@ -378,32 +417,6 @@
       "contained": "0"
     },
     {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest, was started...",
-      "state": "IDAHO",
-      "updated": "2022-08-15 10:01:14",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,542 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Effective at 8:00 am today, Zone 5 and Zone 6 (Twin Creek south to...",
-      "state": "IDAHO",
-      "updated": "2022-08-15 08:38:05",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "78,729 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
-    },
-    {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
@@ -428,19 +441,6 @@
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "90"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
-      "state": "MONTANA",
-      "updated": "2022-08-14 20:13:59",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "1,598 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "0"
     },
     {
       "name": "Yellow Brick Fire",
