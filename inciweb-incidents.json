@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Garceau Fire",
+      "type": "Wildfire",
+      "summary": "GARCEAU FIRE UPDATELocation: 10 air miles west of Polson,...",
+      "state": "MONTANA",
+      "updated": "2022-08-17 13:21:38",
+      "lat": "47.694",
+      "lng": "-114.489",
+      "size": "1,554 Acres",
+      "url": "/incident/8339/",
+      "id": "8339",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-17 13:18:05",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "459 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "0"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-17 13:12:14",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "49 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "The Red fire was discovered on August 4, 2022 between Red Creek and...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-17 13:11:50",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "498 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-17 13:09:51",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "121 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "0"
+    },
+    {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-08-17 13:09:34",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "20 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-17 13:03:38",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "23,159 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "23"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-17 12:51:57",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "796 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "0"
+    },
+    {
       "name": "Weasel Fire",
       "type": "Wildfire",
       "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
@@ -14,19 +118,6 @@
       "contained": "20"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-17 12:04:21",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "796 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "0"
-    },
-    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Videos | Maps | Photos | Smoke...",
@@ -38,19 +129,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "95"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-17 11:57:40",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "23,159 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "23"
     },
     {
       "name": "Dismal Fire",
@@ -209,32 +287,6 @@
       "contained": "0"
     },
     {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-08-17 10:06:09",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "20 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
-    },
-    {
-      "name": "Garceau Fire",
-      "type": "Wildfire",
-      "summary": "Garceau Fire Update as of August 16, 2022Location: 10 air miles west...",
-      "state": "MONTANA",
-      "updated": "2022-08-17 10:03:09",
-      "lat": "47.694",
-      "lng": "-114.489",
-      "size": "1,500 Acres",
-      "url": "/incident/8339/",
-      "id": "8339",
-      "contained": "0"
-    },
-    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "The Elmo Fire was detected along Highway 28 on July 29, 2022, at...",
@@ -246,19 +298,6 @@
       "url": "/incident/8289/",
       "id": "8289",
       "contained": "78"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-17 09:29:30",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "121 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "0"
     },
     {
       "name": "Wolf Fang Fire",
@@ -337,19 +376,6 @@
       "url": "/incident/8328/",
       "id": "8328",
       "contained": "75"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-16 17:53:14",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "459 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "0"
     },
     {
       "name": "Yeti and Alex Fires",
@@ -441,32 +467,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "51"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "The Red fire was discovered on August 4, 2022 between Red Creek and...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-15 10:32:37",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "398 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-15 10:31:54",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "25 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
     },
     {
       "name": "Yellow Brick Fire",
