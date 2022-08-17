@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Due to increased fire activity along the Salmon River from Pine Creek...",
+      "state": "IDAHO",
+      "updated": "2022-08-17 09:45:18",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "78,084 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
+    },
+    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "The Elmo Fire was detected along Highway 28 on July 29, 2022, at...",
       "state": "MONTANA",
-      "updated": "2022-08-17 09:23:24",
+      "updated": "2022-08-17 09:44:37",
       "lat": "47.818",
       "lng": "-114.507",
       "size": "21,349 Acres",
@@ -14,24 +27,76 @@
       "contained": "78"
     },
     {
+      "name": "Hermits Peak &amp; Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-17 09:44:06",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
+      "name": "Garceau Fire",
+      "type": "Wildfire",
+      "summary": "Garceau Fire Update as of August 16, 2022Location: 10 air miles west...",
+      "state": "MONTANA",
+      "updated": "2022-08-17 09:43:22",
+      "lat": "47.694",
+      "lng": "-114.489",
+      "size": "1,500 Acres",
+      "url": "/incident/8339/",
+      "id": "8339",
+      "contained": "0"
+    },
+    {
       "name": "Sutton Fire",
       "type": "Wildfire",
       "summary": " The Sutton fire originated 8/14/22 and is a lightning caused fire....",
       "state": "MONTANA",
-      "updated": "2022-08-17 09:19:14",
+      "updated": "2022-08-17 09:43:14",
       "lat": "48.675",
       "lng": "-115.16",
       "size": "98 Acres",
       "url": "/incident/8335/",
       "id": "8335",
+      "contained": "10"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-17 09:43:11",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "4,836 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
       "contained": "0"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Videos | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-17 09:38:08",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,392 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "95"
     },
     {
       "name": "Big Swamp",
       "type": "Wildfire",
       "summary": "",
       "state": "OREGON",
-      "updated": "2022-08-17 09:17:05",
+      "updated": "2022-08-17 09:29:30",
       "lat": "43.416",
       "lng": "-122.169",
       "size": "121 Acres",
@@ -51,32 +116,6 @@
       "url": "/incident/8336/",
       "id": "8336",
       "contained": "35"
-    },
-    {
-      "name": "Garceau Fire",
-      "type": "Wildfire",
-      "summary": "Garceau Fire Update as of August 16, 2022Location: 10 air miles west...",
-      "state": "MONTANA",
-      "updated": "2022-08-17 09:12:12",
-      "lat": "47.694",
-      "lng": "-114.489",
-      "size": "1,500 Acres",
-      "url": "/incident/8339/",
-      "id": "8339",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Effective at 8:00 am today, Zone 5 and Zone 6 (Twin Creek south to...",
-      "state": "IDAHO",
-      "updated": "2022-08-17 09:11:12",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "78,084 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
     },
     {
       "name": "Hermits Peak Fire",
@@ -170,19 +209,6 @@
       "contained": "85"
     },
     {
-      "name": "Hermits Peak &amp; Calf Canyon BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-16 22:54:51",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
-      "contained": "0"
-    },
-    {
       "name": "White River ",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -193,19 +219,6 @@
       "size": "796 Acres",
       "url": "/incident/8329/",
       "id": "8329",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-16 22:06:21",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "4,657 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
@@ -220,19 +233,6 @@
       "url": "/incident/8334/",
       "id": "8334",
       "contained": "0"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Videos | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-16 20:44:58",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,392 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "95"
     },
     {
       "name": "Eneas Peak Fire",
