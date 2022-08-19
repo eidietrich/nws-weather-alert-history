@@ -1,17 +1,134 @@
 {
   "markers": [
     {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "state": "MONTANA",
+      "updated": "2022-08-19 13:24:43",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "1,783 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "20"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
+      "state": "IDAHO",
+      "updated": "2022-08-19 13:24:01",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "5,560 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-08-19 12:48:39",
+      "updated": "2022-08-19 13:21:00",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "4,836 Acres",
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-19 13:19:58",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "1,000 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-19 13:17:58",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "95"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-19 13:14:19",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "73 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Due to increased fire activity along the Salmon River from Pine Creek...",
+      "state": "IDAHO",
+      "updated": "2022-08-19 13:12:21",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "86,102 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-19 13:09:29",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "25,399 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "67"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "The Red fire was discovered on August 4, 2022 between Red Creek and...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-19 13:06:07",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "572 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-19 13:06:03",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "121 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "20"
     },
     {
       "name": "Wishon Fire",
@@ -66,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-19 12:32:52",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "121 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "20"
-    },
-    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
@@ -92,19 +196,6 @@
       "contained": "95"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Due to increased fire activity along the Salmon River from Pine Creek...",
-      "state": "IDAHO",
-      "updated": "2022-08-19 12:16:32",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "86,102 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
-    },
-    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
@@ -116,19 +207,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "25"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-19 11:53:24",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "95"
     },
     {
       "name": "Sugarloaf Fire",
@@ -155,19 +233,6 @@
       "url": "/incident/8342/",
       "id": "8342",
       "contained": "35"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
-      "state": "IDAHO",
-      "updated": "2022-08-19 11:00:13",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "5,560 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "0"
     },
     {
       "name": "Calf Canyon",
@@ -207,32 +272,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "98"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
-      "state": "MONTANA",
-      "updated": "2022-08-19 10:44:02",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "1,783 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "20"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-19 10:41:17",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "25,399 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "67"
     },
     {
       "name": "Woodtick Fire",
@@ -287,19 +326,6 @@
       "contained": "78"
     },
     {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "The Red fire was discovered on August 4, 2022 between Red Creek and...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-19 09:33:02",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "572 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
       "name": "Redhorn Fire",
       "type": "Wildfire",
       "summary": "Redhorn Fire UpdateLocation: 7 air miles northeast of St. Ignatius,...",
@@ -324,19 +350,6 @@
       "url": "/incident/8324/",
       "id": "8324",
       "contained": "85"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-19 09:23:20",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "73 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
     },
     {
       "name": "Garceau Fire",
@@ -401,19 +414,6 @@
       "size": "0 Acres",
       "url": "/incident/8104/",
       "id": "8104",
-      "contained": "0"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-19 07:48:08",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "1,000 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
       "contained": "0"
     },
     {
