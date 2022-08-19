@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-19 12:48:39",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "4,836 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Wishon Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-19 12:43:27",
+      "lat": "36.16",
+      "lng": "-118.707",
+      "size": "325 Acres",
+      "url": "/incident/8336/",
+      "id": "8336",
+      "contained": "65"
+    },
+    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
@@ -11,19 +37,6 @@
       "size": "679 Acres",
       "url": "/incident/8308/",
       "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-19 12:37:17",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "4,836 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
@@ -129,19 +142,6 @@
       "url": "/incident/8279/",
       "id": "8279",
       "contained": "100"
-    },
-    {
-      "name": "Wishon Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-19 11:22:09",
-      "lat": "36.16",
-      "lng": "-118.707",
-      "size": "325 Acres",
-      "url": "/incident/8336/",
-      "id": "8336",
-      "contained": "65"
     },
     {
       "name": "Bills Creek ",
