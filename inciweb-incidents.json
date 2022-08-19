@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-19 16:09:09",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "5,618 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-19 15:51:11",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "121 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "20"
+    },
+    {
       "name": "Eneas Peak Fire",
       "type": "Wildfire",
       "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
@@ -11,32 +37,6 @@
       "size": "323 Acres",
       "url": "/incident/8338/",
       "id": "8338",
-      "contained": "0"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-19 15:27:51",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "121 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "20"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-19 14:55:45",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "5,618 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
