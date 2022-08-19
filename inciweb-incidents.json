@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Videos | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-19 10:23:28",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,392 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "95"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
+      "state": "IDAHO",
+      "updated": "2022-08-19 10:22:49",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "5,560 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Updates | Announcements | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-19 09:43:55",
+      "updated": "2022-08-19 10:15:55",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "25,399 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "67"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "state": "MONTANA",
+      "updated": "2022-08-19 10:13:27",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "1,783 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "20"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
+      "state": "IDAHO",
+      "updated": "2022-08-19 10:11:47",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "679 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest started on...",
+      "state": "IDAHO",
+      "updated": "2022-08-19 10:11:36",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,698 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
     },
     {
       "name": "Bills Creek ",
@@ -25,19 +90,6 @@
       "url": "/incident/8342/",
       "id": "8342",
       "contained": "90"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Videos | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-19 09:39:00",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,392 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "95"
     },
     {
       "name": "Diamond Watch Fire",
@@ -157,19 +209,6 @@
       "contained": "65"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": " &amp;#183;Please note the change to the Fire Information phone line: ...",
-      "state": "IDAHO",
-      "updated": "2022-08-19 09:00:36",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "5,560 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "0"
-    },
-    {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
@@ -219,19 +258,6 @@
       "size": "0 Acres",
       "url": "/incident/8104/",
       "id": "8104",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest started on...",
-      "state": "IDAHO",
-      "updated": "2022-08-19 08:25:29",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,698 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
       "contained": "0"
     },
     {
@@ -365,19 +391,6 @@
       "contained": "0"
     },
     {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
-      "state": "IDAHO",
-      "updated": "2022-08-18 19:42:06",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "679 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
       "name": "Dean Creek",
       "type": "Wildfire",
       "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
@@ -402,19 +415,6 @@
       "url": "/incident/8326/",
       "id": "8326",
       "contained": "0"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
-      "state": "MONTANA",
-      "updated": "2022-08-18 17:45:07",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "1,683 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "20"
     },
     {
       "name": "Lake Creek",
