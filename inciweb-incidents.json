@@ -1,29 +1,81 @@
 {
   "markers": [
     {
-      "name": "Wishon Fire",
-      "type": "Wildfire",
-      "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-19 18:44:16",
-      "lat": "36.16",
-      "lng": "-118.707",
-      "size": "325 Acres",
-      "url": "/incident/8336/",
-      "id": "8336",
-      "contained": "65"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-08-19 18:33:56",
+      "updated": "2022-08-19 20:47:29",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "5,618 Acres",
       "url": "/incident/8307/",
       "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Wishon Fire",
+      "type": "Wildfire",
+      "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-19 20:35:42",
+      "lat": "36.16",
+      "lng": "-118.707",
+      "size": "325 Acres",
+      "url": "/incident/8336/",
+      "id": "8336",
+      "contained": "75"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-19 20:16:16",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,392 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "95"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-19 19:53:30",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "1,000 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "0"
+    },
+    {
+      "name": "Wagner Road",
+      "type": "Wildfire",
+      "summary": "   St John, WA - The Wagner Road Fire is located 13 miles west of...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-19 19:51:42",
+      "lat": "47.086",
+      "lng": "-117.857",
+      "size": "7,376 Acres",
+      "url": "/incident/8344/",
+      "id": "8344",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-19 19:19:13",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "800 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
       "contained": "0"
     },
     {
@@ -63,19 +115,6 @@
       "size": "572 Acres",
       "url": "/incident/8332/",
       "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Wagner Road",
-      "type": "Wildfire",
-      "summary": "   St John, WA - The Wagner Road Fire is located 13 miles west of...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-19 18:07:39",
-      "lat": "47.1",
-      "lng": "-117.805",
-      "size": "4,000 Acres",
-      "url": "/incident/8344/",
-      "id": "8344",
       "contained": "0"
     },
     {
@@ -261,32 +300,6 @@
       "contained": "0"
     },
     {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-19 13:55:44",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,392 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "95"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-19 13:44:35",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "500 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Due to increased fire activity along the Salmon River from Pine Creek...",
@@ -323,19 +336,6 @@
       "size": "5,560 Acres",
       "url": "/incident/8331/",
       "id": "8331",
-      "contained": "0"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-19 13:19:58",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "1,000 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
       "contained": "0"
     },
     {
