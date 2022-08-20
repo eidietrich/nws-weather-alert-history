@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Yeti Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-20 18:13:11",
+      "lat": "41.818",
+      "lng": "-123.228",
+      "size": "0 Acres",
+      "url": "/incident/8347/",
+      "id": "8347",
+      "contained": "0"
+    },
+    {
       "name": "Dean Creek",
       "type": "Wildfire",
       "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
       "state": "MONTANA",
-      "updated": "2022-08-20 17:45:01",
+      "updated": "2022-08-20 17:49:21",
       "lat": "47.94",
       "lng": "-113.216",
       "size": "140 Acres",
@@ -18,13 +31,26 @@
       "type": "Wildfire",
       "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
       "state": "MONTANA",
-      "updated": "2022-08-20 17:38:16",
+      "updated": "2022-08-20 17:48:59",
       "lat": "47.716",
       "lng": "-113.56",
       "size": "1,234 Acres",
       "url": "/incident/8326/",
       "id": "8326",
       "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "ADVISORY Operations has determined the need to conduct tactical...",
+      "state": "IDAHO",
+      "updated": "2022-08-20 17:48:10",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "89,344 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
     },
     {
       "name": "McKinney Post-Fire BAER",
@@ -129,19 +155,6 @@
       "url": "/incident/8337/",
       "id": "8337",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "ADVISORY Operations has determined the need to conduct tactical...",
-      "state": "IDAHO",
-      "updated": "2022-08-20 15:50:01",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "89,344 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
     },
     {
       "name": "Cedar Creek Fire",
