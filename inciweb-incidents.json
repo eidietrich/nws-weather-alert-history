@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-08-20 15:30:45",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "6,528 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "McKinney Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-20 15:16:18",
+      "updated": "2022-08-20 15:27:28",
       "lat": "41.819",
       "lng": "-122.812",
       "size": "0 Acres",
@@ -155,19 +168,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "81"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-08-20 12:37:44",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "6,528 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "McKinney Fire",
