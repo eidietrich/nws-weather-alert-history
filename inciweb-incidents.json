@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Eneas Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
+      "state": "IDAHO",
+      "updated": "2022-08-20 14:11:29",
+      "lat": "48.878",
+      "lng": "-116.489",
+      "size": "536 Acres",
+      "url": "/incident/8338/",
+      "id": "8338",
+      "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-20 14:06:52",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "121 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "29"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
       "state": "IDAHO",
-      "updated": "2022-08-20 13:47:21",
+      "updated": "2022-08-20 14:00:34",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "7,603 Acres",
@@ -183,19 +209,6 @@
       "contained": "85"
     },
     {
-      "name": "Eneas Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
-      "state": "IDAHO",
-      "updated": "2022-08-20 11:50:46",
-      "lat": "48.878",
-      "lng": "-116.489",
-      "size": "536 Acres",
-      "url": "/incident/8338/",
-      "id": "8338",
-      "contained": "0"
-    },
-    {
       "name": "Dismal Fire",
       "type": "Wildfire",
       "summary": "&amp;#183;No new map today as cloudy skies and thunderstorms preventing...",
@@ -207,19 +220,6 @@
       "url": "/incident/8284/",
       "id": "8284",
       "contained": "0"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-20 11:47:26",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "121 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "29"
     },
     {
       "name": "Porphyry Fire",
