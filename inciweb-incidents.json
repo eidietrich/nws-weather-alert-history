@@ -1,16 +1,159 @@
 {
   "markers": [
     {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-19 22:35:43",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "25,399 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "67"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-19 22:30:09",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "597 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "44"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Due to increased fire activity along the Salmon River from Pine Creek...",
+      "state": "IDAHO",
+      "updated": "2022-08-19 22:25:00",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "89,344 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-19 22:21:36",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "95"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-19 22:17:35",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "121 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "29"
+    },
+    {
+      "name": "Sutton Fire",
+      "type": "Wildfire",
+      "summary": "The Sutton fire originated 8/14/22 and is a lightning caused fire....",
+      "state": "MONTANA",
+      "updated": "2022-08-19 21:57:36",
+      "lat": "48.675",
+      "lng": "-115.16",
+      "size": "105 Acres",
+      "url": "/incident/8335/",
+      "id": "8335",
+      "contained": "35"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-08-19 20:47:29",
+      "updated": "2022-08-19 21:56:11",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "5,618 Acres",
       "url": "/incident/8307/",
       "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
+      "state": "IDAHO",
+      "updated": "2022-08-19 21:51:58",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "5,560 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "0"
+    },
+    {
+      "name": "Thor",
+      "type": "Wildfire",
+      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-19 21:33:40",
+      "lat": "48.819",
+      "lng": "-117.168",
+      "size": "110 Acres",
+      "url": "/incident/8343/",
+      "id": "8343",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-19 21:27:16",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "98"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-19 21:25:51",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "98"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-19 21:08:02",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,637 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
       "contained": "0"
     },
     {
@@ -157,32 +300,6 @@
       "contained": "0"
     },
     {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-19 17:30:29",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,637 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-19 16:56:56",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "25,399 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "67"
-    },
-    {
       "name": "Lake Creek Fire",
       "type": "Wildfire",
       "summary": "The Lake Creek Fire is very likely a lightning holdover from the...",
@@ -209,19 +326,6 @@
       "contained": "35"
     },
     {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-19 15:51:11",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "121 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "20"
-    },
-    {
       "name": "Eneas Peak Fire",
       "type": "Wildfire",
       "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
@@ -232,19 +336,6 @@
       "size": "323 Acres",
       "url": "/incident/8338/",
       "id": "8338",
-      "contained": "0"
-    },
-    {
-      "name": "Thor",
-      "type": "Wildfire",
-      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-19 14:41:39",
-      "lat": "48.819",
-      "lng": "-117.168",
-      "size": "110 Acres",
-      "url": "/incident/8343/",
-      "id": "8343",
       "contained": "0"
     },
     {
@@ -259,19 +350,6 @@
       "url": "/incident/8284/",
       "id": "8284",
       "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-19 14:06:11",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "95"
     },
     {
       "name": "Porphyry Fire",
@@ -300,19 +378,6 @@
       "contained": "0"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Due to increased fire activity along the Salmon River from Pine Creek...",
-      "state": "IDAHO",
-      "updated": "2022-08-19 13:38:55",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "86,102 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
-    },
-    {
       "name": "Weasel Fire",
       "type": "Wildfire",
       "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
@@ -324,19 +389,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "20"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
-      "state": "IDAHO",
-      "updated": "2022-08-19 13:24:01",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "5,560 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "0"
     },
     {
       "name": "Norton Fire",
@@ -352,19 +404,6 @@
       "contained": "0"
     },
     {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-19 12:11:21",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "551 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "25"
-    },
-    {
       "name": "Sugarloaf Fire",
       "type": "Wildfire",
       "summary": "The Sugarloaf Fire was declared 100% contained on August 17,...",
@@ -378,32 +417,6 @@
       "contained": "100"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-19 10:54:03",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-19 10:45:23",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
-    },
-    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "The Woodtick fire on the Salmon-Challis National Forest started on...",
@@ -415,19 +428,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "0"
-    },
-    {
-      "name": "Sutton Fire",
-      "type": "Wildfire",
-      "summary": "The Sutton fire originated 8/14/22 and is a lightning caused fire....",
-      "state": "MONTANA",
-      "updated": "2022-08-19 09:36:31",
-      "lat": "48.675",
-      "lng": "-115.16",
-      "size": "102 Acres",
-      "url": "/incident/8335/",
-      "id": "8335",
-      "contained": "20"
     },
     {
       "name": "Elmo Fire",
