@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Sutton Fire",
+      "type": "Wildfire",
+      "summary": "The Sutton fire originated 8/14/22 and is a lightning caused fire....",
+      "state": "MONTANA",
+      "updated": "2022-08-20 12:56:37",
+      "lat": "48.675",
+      "lng": "-115.16",
+      "size": "108 Acres",
+      "url": "/incident/8335/",
+      "id": "8335",
+      "contained": "35"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-20 12:55:39",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "1,486 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest started on...",
+      "state": "IDAHO",
+      "updated": "2022-08-20 12:47:50",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,698 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
@@ -25,19 +64,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "81"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest started on...",
-      "state": "IDAHO",
-      "updated": "2022-08-20 12:37:56",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,698 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
     },
     {
       "name": "Cedar Creek Fire",
@@ -76,19 +102,6 @@
       "size": "1,163 Acres",
       "url": "/incident/8337/",
       "id": "8337",
-      "contained": "0"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-20 12:21:33",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "1,486 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
       "contained": "0"
     },
     {
@@ -376,19 +389,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "98"
-    },
-    {
-      "name": "Sutton Fire",
-      "type": "Wildfire",
-      "summary": "The Sutton fire originated 8/14/22 and is a lightning caused fire....",
-      "state": "MONTANA",
-      "updated": "2022-08-19 21:57:36",
-      "lat": "48.675",
-      "lng": "-115.16",
-      "size": "105 Acres",
-      "url": "/incident/8335/",
-      "id": "8335",
-      "contained": "35"
     },
     {
       "name": "Clover Fire",
