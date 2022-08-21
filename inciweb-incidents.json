@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Bills Creek Fire",
+      "type": "Wildfire",
+      "summary": "At approximately 8:30pm on August 17th, Texas A &amp; M Forest Service...",
+      "state": "TEXAS",
+      "updated": "2022-08-21 08:43:22",
+      "lat": "32.603",
+      "lng": "-98.586",
+      "size": "35 Acres",
+      "url": "/incident/8342/",
+      "id": "8342",
+      "contained": "100"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
       "state": "IDAHO",
-      "updated": "2022-08-21 08:39:01",
+      "updated": "2022-08-21 08:41:41",
       "lat": "44.533",
       "lng": "-116.167",
-      "size": "7,603 Acres",
+      "size": "7,822 Acres",
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "0"
+    },
+    {
+      "name": "Pine Pond Fire",
+      "type": "Wildfire",
+      "summary": "The Pine Pond Fire reached 100% containment on August 20, 2022....",
+      "state": "TEXAS",
+      "updated": "2022-08-21 08:39:49",
+      "lat": "30.091",
+      "lng": "-97.159",
+      "size": "700 Acres",
+      "url": "/incident/8324/",
+      "id": "8324",
+      "contained": "100"
     },
     {
       "name": "Moose Fire",
@@ -196,19 +222,6 @@
       "contained": "1"
     },
     {
-      "name": "Pine Pond Fire",
-      "type": "Wildfire",
-      "summary": "The Pine Pond Fire reached 100% containment on August 20, 2022....",
-      "state": "TEXAS",
-      "updated": "2022-08-20 21:20:12",
-      "lat": "30.091",
-      "lng": "-97.159",
-      "size": "700 Acres",
-      "url": "/incident/8324/",
-      "id": "8324",
-      "contained": "100"
-    },
-    {
       "name": "Wagner Road",
       "type": "Wildfire",
       "summary": " St John, WA - The Wagner Road Fire is located 12 miles west of St....",
@@ -389,19 +402,6 @@
       "url": "/incident/8338/",
       "id": "8338",
       "contained": "0"
-    },
-    {
-      "name": "Bills Creek Fire",
-      "type": "Wildfire",
-      "summary": "At approximately 8:30pm on August 17th, Texas A &amp; M Forest Service...",
-      "state": "TEXAS",
-      "updated": "2022-08-20 12:19:53",
-      "lat": "32.603",
-      "lng": "-98.586",
-      "size": "35 Acres",
-      "url": "/incident/8342/",
-      "id": "8342",
-      "contained": "80"
     },
     {
       "name": "Dismal Fire",
