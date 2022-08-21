@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 780 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-21 15:17:49",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "6,472 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "ADVISORY Operations has determined the need to conduct tactical...",
       "state": "IDAHO",
-      "updated": "2022-08-21 14:08:25",
+      "updated": "2022-08-21 15:09:18",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "92,219 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "34"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-21 14:55:54",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "96"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-21 14:54:58",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "614 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "65"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-21 14:46:52",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "50"
     },
     {
       "name": "Pine Pond Fire",
@@ -92,45 +144,6 @@
       "contained": "81"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 860 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-21 12:17:53",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "6,472 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-21 12:08:36",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "50"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-21 12:03:45",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "614 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "65"
-    },
-    {
       "name": "Sutton Fire",
       "type": "Wildfire",
       "summary": "The Sutton fire originated 8/14/22 and is a lightning caused fire....",
@@ -155,19 +168,6 @@
       "url": "/incident/8336/",
       "id": "8336",
       "contained": "95"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-21 11:50:31",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "96"
     },
     {
       "name": "Quartz Fire",
