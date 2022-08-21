@@ -1,6 +1,123 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
+      "state": "IDAHO",
+      "updated": "2022-08-21 08:39:01",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "7,603 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "ADVISORY Operations has determined the need to conduct tactical...",
+      "state": "IDAHO",
+      "updated": "2022-08-21 08:38:54",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "92,219 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "34"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 860 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-21 08:36:37",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "6,121 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Thor",
+      "type": "Wildfire",
+      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-21 08:36:25",
+      "lat": "48.819",
+      "lng": "-117.168",
+      "size": "127 Acres",
+      "url": "/incident/8343/",
+      "id": "8343",
+      "contained": "0"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
+      "state": "IDAHO",
+      "updated": "2022-08-21 08:32:22",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "1,020 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak and Calf Canyon BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-21 08:30:23",
+      "lat": "35.739",
+      "lng": "-105.442",
+      "size": "0 Acres",
+      "url": "/incident/8104/",
+      "id": "8104",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-21 08:23:47",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "25,832 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "81"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-21 08:11:36",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,255 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest started on...",
+      "state": "IDAHO",
+      "updated": "2022-08-21 08:05:47",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "6,300 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
       "name": "Wishon Fire",
       "type": "Wildfire",
       "summary": "Daily Update (pdf)    |     Fire Map (pdf)     |   ...",
@@ -53,32 +170,6 @@
       "contained": "65"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": "Updates | Announcements | Maps | Photos | Smoke...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-21 00:35:47",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "25,832 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "81"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
-      "state": "IDAHO",
-      "updated": "2022-08-20 22:54:51",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "7,603 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "0"
-    },
-    {
       "name": "Sutton Fire",
       "type": "Wildfire",
       "summary": "The Sutton fire originated 8/14/22 and is a lightning caused fire....",
@@ -103,32 +194,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 860 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-20 22:14:51",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "6,121 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "ADVISORY Operations has determined the need to conduct tactical...",
-      "state": "IDAHO",
-      "updated": "2022-08-20 22:02:42",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "92,219 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "34"
     },
     {
       "name": "Pine Pond Fire",
@@ -313,19 +378,6 @@
       "contained": "0"
     },
     {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-20 16:19:48",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,163 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
-    },
-    {
       "name": "Eneas Peak Fire",
       "type": "Wildfire",
       "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
@@ -336,32 +388,6 @@
       "size": "536 Acres",
       "url": "/incident/8338/",
       "id": "8338",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest started on...",
-      "state": "IDAHO",
-      "updated": "2022-08-20 12:47:50",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,698 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
-      "state": "IDAHO",
-      "updated": "2022-08-20 12:44:39",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "1,020 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
       "contained": "0"
     },
     {
@@ -430,19 +456,6 @@
       "contained": "0"
     },
     {
-      "name": "Thor",
-      "type": "Wildfire",
-      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-20 10:42:47",
-      "lat": "48.819",
-      "lng": "-117.168",
-      "size": "122 Acres",
-      "url": "/incident/8343/",
-      "id": "8343",
-      "contained": "0"
-    },
-    {
       "name": "Clover Fire",
       "type": "Wildfire",
       "summary": "08AUG22 - As fire behavior on the Clover Fire continues on a downward...",
@@ -454,19 +467,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "53"
-    },
-    {
-      "name": "Hermits Peak and Calf Canyon BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-19 17:39:14",
-      "lat": "35.739",
-      "lng": "-105.442",
-      "size": "0 Acres",
-      "url": "/incident/8104/",
-      "id": "8104",
-      "contained": "0"
     },
     {
       "name": "Lake Creek Fire",
