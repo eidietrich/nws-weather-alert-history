@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
+      "state": "IDAHO",
+      "updated": "2022-08-21 18:14:23",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "7,822 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "0"
+    },
+    {
+      "name": "Cannon Fire",
+      "type": "Wildfire",
+      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
+      "state": "MONTANA",
+      "updated": "2022-08-21 18:03:12",
+      "lat": "47.716",
+      "lng": "-113.56",
+      "size": "1,234 Acres",
+      "url": "/incident/8326/",
+      "id": "8326",
+      "contained": "0"
+    },
+    {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-08-21 18:02:22",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "140 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-21 18:01:58",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-21 18:01:51",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Over 780 firefighters and support personnel are working on the Cedar...",
@@ -25,58 +90,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "81"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-08-21 17:20:55",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "140 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
-    },
-    {
-      "name": "Cannon Fire",
-      "type": "Wildfire",
-      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
-      "state": "MONTANA",
-      "updated": "2022-08-21 17:17:45",
-      "lat": "47.716",
-      "lng": "-113.56",
-      "size": "1,234 Acres",
-      "url": "/incident/8326/",
-      "id": "8326",
-      "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-21 17:10:28",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "98"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-21 17:08:57",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "98"
     },
     {
       "name": "Quartz Fire",
@@ -246,19 +259,6 @@
       "url": "/incident/8336/",
       "id": "8336",
       "contained": "95"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
-      "state": "IDAHO",
-      "updated": "2022-08-21 10:56:31",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "7,822 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "0"
     },
     {
       "name": "McKinney Fire",
