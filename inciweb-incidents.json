@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Blackburn",
-      "type": "Wildfire",
-      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 14:15:29",
-      "lat": "47.076",
-      "lng": "-115.256",
-      "size": "135 Acres",
-      "url": "/incident/8351/",
-      "id": "8351",
-      "contained": "0"
-    },
-    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-08-22 14:14:24",
+      "updated": "2022-08-22 14:28:57",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "7,986 Acres",
@@ -31,7 +18,7 @@
       "type": "Wildfire",
       "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
       "state": "IDAHO",
-      "updated": "2022-08-22 14:12:32",
+      "updated": "2022-08-22 14:27:15",
       "lat": "48.878",
       "lng": "-116.489",
       "size": "763 Acres",
@@ -44,12 +31,25 @@
       "type": "Wildfire",
       "summary": "The Diamond Watch Fire, detected on the evening of July 14th, was...",
       "state": "IDAHO",
-      "updated": "2022-08-22 14:01:13",
+      "updated": "2022-08-22 14:24:17",
       "lat": "48.636",
       "lng": "-117.065",
       "size": "792 Acres",
       "url": "/incident/8264/",
       "id": "8264",
+      "contained": "0"
+    },
+    {
+      "name": "Blackburn Fire",
+      "type": "Wildfire",
+      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
+      "state": "IDAHO",
+      "updated": "2022-08-22 14:21:54",
+      "lat": "47.076",
+      "lng": "-115.256",
+      "size": "135 Acres",
+      "url": "/incident/8351/",
+      "id": "8351",
       "contained": "0"
     },
     {
