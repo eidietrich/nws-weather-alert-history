@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Bear Gulch",
+      "type": "Wildfire",
+      "summary": "The Bear Gulch Fire was detected on August 18th, 2022. It is located...",
+      "state": "IDAHO",
+      "updated": "2022-08-22 10:23:27",
+      "lat": "47.624",
+      "lng": "-115.714",
+      "size": "40 Acres",
+      "url": "/incident/8349/",
+      "id": "8349",
+      "contained": "0"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-22 10:21:26",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,138 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "95"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-08-22 10:20:20",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "5,474 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
+      "state": "IDAHO",
+      "updated": "2022-08-22 10:19:21",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "7,986 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "4"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": "Updates | Announcements | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-22 09:45:34",
+      "updated": "2022-08-22 10:15:47",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "27,019 Acres",
@@ -14,11 +66,50 @@
       "contained": "80"
     },
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-22 10:10:00",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,705 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-22 09:59:25",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,678 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Thor",
+      "type": "Wildfire",
+      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-22 09:54:18",
+      "lat": "48.819",
+      "lng": "-117.168",
+      "size": "135 Acres",
+      "url": "/incident/8343/",
+      "id": "8343",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateSalmon River Road will be open again tomorrow from...",
       "state": "IDAHO",
-      "updated": "2022-08-22 09:44:45",
+      "updated": "2022-08-22 09:52:51",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "92,859 Acres",
@@ -27,17 +118,30 @@
       "contained": "36"
     },
     {
-      "name": "Four Corners Fire",
+      "name": "Rodgers",
       "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 09:14:13",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "7,986 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "4"
+      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-22 09:49:33",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "150 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Garceau Fire",
+      "type": "Wildfire",
+      "summary": "GARCEAU FIRE UPDATELocation: 10 air miles west of Polson,...",
+      "state": "MONTANA",
+      "updated": "2022-08-22 09:48:51",
+      "lat": "47.694",
+      "lng": "-114.489",
+      "size": "6,724 Acres",
+      "url": "/incident/8339/",
+      "id": "8339",
+      "contained": "40"
     },
     {
       "name": "Rum Creek Fire",
@@ -118,19 +222,6 @@
       "contained": "1"
     },
     {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-22 08:30:17",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,678 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Over 800 firefighters and support personnel are working on the Cedar...",
@@ -209,19 +300,6 @@
       "contained": "96"
     },
     {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-21 22:28:14",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "150 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
       "name": "Red",
       "type": "Wildfire",
       "summary": "The Red fire was discovered on August 4, 2022 between Red Creek and...",
@@ -233,32 +311,6 @@
       "url": "/incident/8332/",
       "id": "8332",
       "contained": "0"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-21 22:13:48",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,637 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-21 20:20:12",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,138 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "95"
     },
     {
       "name": "Dean Creek",
@@ -311,19 +363,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "100"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-08-21 16:04:04",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "4,425 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
     },
     {
       "name": "Pine Pond Fire",
@@ -389,19 +428,6 @@
       "url": "/incident/8342/",
       "id": "8342",
       "contained": "100"
-    },
-    {
-      "name": "Thor",
-      "type": "Wildfire",
-      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-21 08:36:25",
-      "lat": "48.819",
-      "lng": "-117.168",
-      "size": "127 Acres",
-      "url": "/incident/8343/",
-      "id": "8343",
-      "contained": "0"
     },
     {
       "name": "Hermits Peak and Calf Canyon BAER",
@@ -521,19 +547,6 @@
       "contained": "0"
     },
     {
-      "name": "Sugarloaf Fire",
-      "type": "Wildfire",
-      "summary": "The Sugarloaf Fire was declared 100% contained on August 17,...",
-      "state": "WYOMING",
-      "updated": "2022-08-19 11:33:51",
-      "lat": "42.205",
-      "lng": "-105.591",
-      "size": "839 Acres",
-      "url": "/incident/8279/",
-      "id": "8279",
-      "contained": "100"
-    },
-    {
       "name": "Elmo Fire",
       "type": "Wildfire",
       "summary": "The Elmo Fire was detected along Highway 28 on July 29, 2022, at...",
@@ -558,19 +571,6 @@
       "url": "/incident/8293/",
       "id": "8293",
       "contained": "5"
-    },
-    {
-      "name": "Garceau Fire",
-      "type": "Wildfire",
-      "summary": "GARCEAU FIRE UPDATELocation: 10 air miles west of Polson,...",
-      "state": "MONTANA",
-      "updated": "2022-08-19 09:20:30",
-      "lat": "47.694",
-      "lng": "-114.489",
-      "size": "5,000 Acres",
-      "url": "/incident/8339/",
-      "id": "8339",
-      "contained": "0"
     },
     {
       "name": "Oak Post-Fire BAER",
