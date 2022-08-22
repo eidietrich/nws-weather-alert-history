@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-08-22 15:09:32",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "328 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
+      "name": "Cannon Fire",
+      "type": "Wildfire",
+      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
+      "state": "MONTANA",
+      "updated": "2022-08-22 15:09:20",
+      "lat": "47.716",
+      "lng": "-113.56",
+      "size": "1,384 Acres",
+      "url": "/incident/8326/",
+      "id": "8326",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-22 15:06:24",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,017 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-22 15:06:08",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "360 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
       "name": "TW ",
       "type": "Wildfire",
       "summary": "The TW Fire was reported on August 21, 2022 at 1530. The fire is...",
       "state": "WYOMING",
-      "updated": "2022-08-22 14:43:57",
+      "updated": "2022-08-22 15:04:23",
       "lat": "44.385",
       "lng": "-106.466",
       "size": "3,000 Acres",
@@ -90,32 +142,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "20"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-22 13:44:36",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,017 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-22 13:38:42",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "360 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
     },
     {
       "name": "Windigo Fire",
@@ -388,32 +414,6 @@
       "size": "749 Acres",
       "url": "/incident/8332/",
       "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-08-21 18:29:09",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "219 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
-    },
-    {
-      "name": "Cannon Fire",
-      "type": "Wildfire",
-      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
-      "state": "MONTANA",
-      "updated": "2022-08-21 18:03:12",
-      "lat": "47.716",
-      "lng": "-113.56",
-      "size": "1,234 Acres",
-      "url": "/incident/8326/",
-      "id": "8326",
       "contained": "0"
     },
     {
