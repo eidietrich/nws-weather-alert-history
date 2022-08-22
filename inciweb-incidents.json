@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-22 13:15:19",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "96"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-22 13:12:19",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "619 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "72"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-22 13:11:23",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "57"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-22 13:07:55",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "360 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022. It...",
       "state": "IDAHO",
-      "updated": "2022-08-22 12:45:03",
+      "updated": "2022-08-22 13:04:06",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "7,986 Acres",
@@ -18,7 +70,7 @@
       "type": "Wildfire",
       "summary": "Updates | Announcements | Maps | Photos | Smoke...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-22 12:44:19",
+      "updated": "2022-08-22 13:00:54",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "27,019 Acres",
@@ -27,29 +79,29 @@
       "contained": "80"
     },
     {
-      "name": "Windigo Fire",
+      "name": "Cedar Creek Fire",
       "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "summary": "Over 800 firefighters and support personnel are working on the Cedar...",
       "state": "OREGON",
-      "updated": "2022-08-22 12:40:29",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "96"
+      "updated": "2022-08-22 12:54:03",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,012 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
     },
     {
-      "name": "Rum Creek Fire",
+      "name": "Wolf Fang Fire",
       "type": "Wildfire",
-      "summary": " Summary to",
-      "state": "OREGON",
-      "updated": "2022-08-22 12:35:39",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "360 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-22 12:53:08",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,493 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
       "contained": "0"
     },
     {
@@ -63,19 +115,6 @@
       "size": "763 Acres",
       "url": "/incident/8338/",
       "id": "8338",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 800 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-22 12:28:24",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,012 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
@@ -118,19 +157,6 @@
       "contained": "0"
     },
     {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 11:25:41",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,493 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
-    },
-    {
       "name": "Indian Ridge",
       "type": "Wildfire",
       "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
@@ -144,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-22 11:06:25",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "57"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateSalmon River Road will be open again tomorrow from...",
@@ -168,19 +181,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "36"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-22 11:04:33",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "619 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "72"
     },
     {
       "name": "Quartz Fire",
