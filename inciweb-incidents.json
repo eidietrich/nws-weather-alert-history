@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 08:50:04",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "8,208 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "11"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 08:46:39",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "1,266 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateSalmon River Road will be open again tomorrow from...",
       "state": "IDAHO",
-      "updated": "2022-08-23 08:15:25",
+      "updated": "2022-08-23 08:45:51",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "95,520 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "37"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The Woodtick fire on the Salmon-Challis National Forest started on...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 08:43:37",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,737 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 08:34:00",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,495 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
     },
     {
       "name": "Cedar Creek Fire",
@@ -51,19 +103,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 07:46:03",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "8,208 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "11"
     },
     {
       "name": "Hog Trough Fire",
@@ -222,32 +261,6 @@
       "contained": "53"
     },
     {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The Norton Fire started on August 1, 2022 when thunderstorms tracked...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 19:27:58",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "1,218 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The Woodtick fire on the Salmon-Challis National Forest started on...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 19:27:49",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,735 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
       "name": "Quartz Fire",
       "type": "Wildfire",
       "summary": "A new wildland fire was reported in Glacier National Park on August...",
@@ -389,19 +402,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "20"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 12:53:08",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,493 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
     },
     {
       "name": "Indian Ridge",
