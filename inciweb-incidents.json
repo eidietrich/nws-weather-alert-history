@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Garceau Fire",
+      "type": "Wildfire",
+      "summary": "GARCEAU FIRE UPDATELocation: 10 air miles west of Polson,...",
+      "state": "MONTANA",
+      "updated": "2022-08-23 10:18:45",
+      "lat": "47.694",
+      "lng": "-114.489",
+      "size": "6,724 Acres",
+      "url": "/incident/8339/",
+      "id": "8339",
+      "contained": "55"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
       "state": "OREGON",
-      "updated": "2022-08-23 09:45:33",
+      "updated": "2022-08-23 10:16:38",
       "lat": "42.641",
       "lng": "-123.628",
-      "size": "265 Acres",
+      "size": "520 Acres",
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "0"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Report | The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-23 10:14:58",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "760 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Report | The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-23 10:14:44",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "230 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-23 10:09:33",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,678 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-23 10:03:00",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "27,408 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "80"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateSalmon River Road will be open again tomorrow from...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 09:56:41",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "95,520 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "37"
     },
     {
       "name": "Dismal Fire",
@@ -105,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateSalmon River Road will be open again tomorrow from...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 08:45:51",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "95,520 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "37"
-    },
-    {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
@@ -142,19 +207,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-23 08:11:04",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "27,025 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "80"
     },
     {
       "name": "Hog Trough Fire",
@@ -222,32 +274,6 @@
       "contained": "69"
     },
     {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Report | The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-22 21:58:01",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "230 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Report | The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-22 21:57:47",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "760 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
@@ -311,19 +337,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "53"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-22 18:56:48",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,678 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
     },
     {
       "name": "Yeti Post-Fire BAER",
@@ -480,19 +493,6 @@
       "url": "/incident/8349/",
       "id": "8349",
       "contained": "0"
-    },
-    {
-      "name": "Garceau Fire",
-      "type": "Wildfire",
-      "summary": "GARCEAU FIRE UPDATELocation: 10 air miles west of Polson,...",
-      "state": "MONTANA",
-      "updated": "2022-08-22 09:48:51",
-      "lat": "47.694",
-      "lng": "-114.489",
-      "size": "6,724 Acres",
-      "url": "/incident/8339/",
-      "id": "8339",
-      "contained": "40"
     },
     {
       "name": "Wagner Road",
