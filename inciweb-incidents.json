@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-23 09:45:33",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "265 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": "&amp;#183;No new map today as cloudy skies and thunderstorms preventing...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 09:40:21",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "1,833 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "&amp;#183;No map update for today as cloudy skies and thunderstorms...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 09:39:31",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "1,848 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "0"
+    },
+    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "The Woodtick Fire (lightning-caused) on the Salmon-Challis National...",
@@ -116,19 +155,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-23 07:54:57",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "524 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
     },
     {
       "name": "Hog Trough Fire",
@@ -480,32 +506,6 @@
       "url": "/incident/8344/",
       "id": "8344",
       "contained": "100"
-    },
-    {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": "&amp;#183;No new map today as cloudy skies and thunderstorms preventing...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 08:51:26",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "1,824 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "&amp;#183;No map update for today as cloudy skies and thunderstorms...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 08:51:12",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "1,803 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "0"
     },
     {
       "name": "Pine Pond Fire",
