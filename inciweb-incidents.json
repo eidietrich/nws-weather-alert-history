@@ -1,29 +1,68 @@
 {
   "markers": [
     {
-      "name": "Eneas Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 13:50:14",
-      "lat": "48.878",
-      "lng": "-116.489",
-      "size": "733 Acres",
-      "url": "/incident/8338/",
-      "id": "8338",
-      "contained": "0"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Over 800 firefighters and support personnel are working on the Cedar...",
       "state": "OREGON",
-      "updated": "2022-08-23 13:48:44",
+      "updated": "2022-08-23 14:09:36",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "7,172 Acres",
       "url": "/incident/8307/",
       "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-23 14:09:14",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "69"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-23 14:07:49",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "622 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "84"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-23 14:06:44",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "97"
+    },
+    {
+      "name": "Eneas Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 13:52:01",
+      "lat": "48.878",
+      "lng": "-116.489",
+      "size": "733 Acres",
+      "url": "/incident/8338/",
+      "id": "8338",
       "contained": "0"
     },
     {
@@ -155,45 +194,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "37"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-23 11:07:59",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "622 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "84"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-23 11:06:48",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "69"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-23 11:04:30",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "97"
     },
     {
       "name": "Quartz Fire",
@@ -844,19 +844,6 @@
       "url": "/incident/8316/",
       "id": "8316",
       "contained": "100"
-    },
-    {
-      "name": "Fish",
-      "type": "Wildfire",
-      "summary": "The Fish Fire was reported on Sunday, July 31 at 11:30 a.m. The fire...",
-      "state": "WYOMING",
-      "updated": "2022-08-09 19:31:11",
-      "lat": "44.301",
-      "lng": "-104.294",
-      "size": "6,793 Acres",
-      "url": "/incident/8294/",
-      "id": "8294",
-      "contained": "98"
     },
     {
       "name": "Matt Staff Rd Fire ",
