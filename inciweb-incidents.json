@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-24 15:16:31",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "779 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 15:06:31",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "8,361 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "11"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
@@ -79,19 +105,6 @@
       "contained": "100"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-24 13:07:50",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "779 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
-    },
-    {
       "name": "Cannon Fire",
       "type": "Wildfire",
       "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
@@ -116,19 +129,6 @@
       "url": "/incident/8330/",
       "id": "8330",
       "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 12:58:38",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "8,361 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "11"
     },
     {
       "name": "Trout Fire",
