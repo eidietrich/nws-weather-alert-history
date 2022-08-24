@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": " The Cold Meadows airstrip remains open, however a Forest area...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 09:45:52",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "1,836 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 09:44:49",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,738 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
+      "name": "Eneas Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 09:43:43",
+      "lat": "48.878",
+      "lng": "-116.489",
+      "size": "733 Acres",
+      "url": "/incident/8338/",
+      "id": "8338",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 09:43:17",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "96,445 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "38"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-08-24 09:31:30",
+      "updated": "2022-08-24 09:42:37",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "8,208 Acres",
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "11"
+    },
+    {
+      "name": "Trout Fire",
+      "type": "Wildfire",
+      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 09:42:21",
+      "lat": "48.831",
+      "lng": "-116.545",
+      "size": "10 Acres",
+      "url": "/incident/8356/",
+      "id": "8356",
+      "contained": "0"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "The Porphyry Fire started within the Frank Church River of No Return...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 09:41:39",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "1,862 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-24 09:32:57",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,696 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
     },
     {
       "name": "Norton Fire",
@@ -24,19 +115,6 @@
       "size": "1,308 Acres",
       "url": "/incident/8308/",
       "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 09:30:50",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,737 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
       "contained": "0"
     },
     {
@@ -90,32 +168,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-24 08:42:43",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,696 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 08:13:08",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "96,445 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "38"
     },
     {
       "name": "Big Swamp",
@@ -261,19 +313,6 @@
       "contained": "27"
     },
     {
-      "name": "Trout Fire",
-      "type": "Wildfire",
-      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 20:46:07",
-      "lat": "48.831",
-      "lng": "-116.545",
-      "size": "7 Acres",
-      "url": "/incident/8356/",
-      "id": "8356",
-      "contained": "0"
-    },
-    {
       "name": "Bear Gulch Fire",
       "type": "Wildfire",
       "summary": "The Bear Gulch Fire was detected on August 18th, 2022. It is located...",
@@ -339,19 +378,6 @@
       "contained": "20"
     },
     {
-      "name": "Eneas Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 13:52:01",
-      "lat": "48.878",
-      "lng": "-116.489",
-      "size": "733 Acres",
-      "url": "/incident/8338/",
-      "id": "8338",
-      "contained": "0"
-    },
-    {
       "name": "TW ",
       "type": "Wildfire",
       "summary": "The TW Fire was reported on August 21, 2022 at 1530. The fire is...",
@@ -402,32 +428,6 @@
       "url": "/incident/8354/",
       "id": "8354",
       "contained": "10"
-    },
-    {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": " The Cold Meadows airstrip remains open, however a Forest area...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 10:49:54",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "1,833 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "The Porphyry Fire started within the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 10:37:33",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "1,848 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "0"
     },
     {
       "name": "Revais Fire",
