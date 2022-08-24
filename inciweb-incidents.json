@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-24 11:57:16",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "69"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-24 11:56:30",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "627 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "84"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-24 11:55:04",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "98"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 800 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-24 11:48:04",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,172 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "TW ",
+      "type": "Wildfire",
+      "summary": "The TW Fire was reported on August 21, 2022 at 1530. The fire is...",
+      "state": "WYOMING",
+      "updated": "2022-08-24 11:47:30",
+      "lat": "44.385",
+      "lng": "-106.466",
+      "size": "2,925 Acres",
+      "url": "/incident/8350/",
+      "id": "8350",
+      "contained": "76"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 11:28:56",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "96,445 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "38"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
@@ -25,19 +103,6 @@
       "url": "/incident/8352/",
       "id": "8352",
       "contained": "36"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 11:18:58",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "96,445 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "38"
     },
     {
       "name": "Quartz Fire",
@@ -116,45 +181,6 @@
       "url": "/incident/8258/",
       "id": "8258",
       "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-24 10:34:25",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "98"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-24 10:33:15",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "627 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "84"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-24 10:31:51",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "69"
     },
     {
       "name": "Four Corners Fire",
@@ -339,19 +365,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 800 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-23 23:11:58",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,172 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "White River ",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -415,19 +428,6 @@
       "url": "/incident/8290/",
       "id": "8290",
       "contained": "20"
-    },
-    {
-      "name": "TW ",
-      "type": "Wildfire",
-      "summary": "The TW Fire was reported on August 21, 2022 at 1530. The fire is...",
-      "state": "WYOMING",
-      "updated": "2022-08-23 12:00:15",
-      "lat": "44.385",
-      "lng": "-106.466",
-      "size": "2,925 Acres",
-      "url": "/incident/8350/",
-      "id": "8350",
-      "contained": "50"
     },
     {
       "name": "Sullivan Fire",
