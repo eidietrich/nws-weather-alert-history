@@ -1,16 +1,68 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 09:31:30",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "8,208 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "11"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 09:31:09",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "1,308 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 09:30:50",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "5,737 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "0"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
       "state": "OREGON",
-      "updated": "2022-08-24 09:15:37",
+      "updated": "2022-08-24 09:30:38",
       "lat": "42.641",
       "lng": "-123.628",
       "size": "676 Acres",
       "url": "/incident/8348/",
       "id": "8348",
+      "contained": "0"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-08-24 09:29:24",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,497 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
       "contained": "0"
     },
     {
@@ -24,45 +76,6 @@
       "size": "180 Acres",
       "url": "/incident/8343/",
       "id": "8343",
-      "contained": "0"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 08:58:50",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,497 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 08:58:39",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "5,737 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "0"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 08:58:15",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "1,308 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
       "contained": "0"
     },
     {
@@ -103,19 +116,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "38"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 07:58:00",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "8,208 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "11"
     },
     {
       "name": "Big Swamp",
