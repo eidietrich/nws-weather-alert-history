@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-23 20:48:44",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,138 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "99"
+    },
+    {
+      "name": "Valley Fire",
+      "type": "Wildfire",
+      "summary": "The Valley Fire started at approximately 11:45 A.M in the vicinity of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-23 20:46:10",
+      "lat": "32.853",
+      "lng": "-116.523",
+      "size": "193 Acres",
+      "url": "/incident/8352/",
+      "id": "8352",
+      "contained": "27"
+    },
+    {
+      "name": "Trout Fire",
+      "type": "Wildfire",
+      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 20:46:07",
+      "lat": "48.831",
+      "lng": "-116.545",
+      "size": "7 Acres",
+      "url": "/incident/8356/",
+      "id": "8356",
+      "contained": "0"
+    },
+    {
+      "name": "Bear Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Gulch Fire was detected on August 18th, 2022. It is located...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 20:45:56",
+      "lat": "47.624",
+      "lng": "-115.714",
+      "size": "40 Acres",
+      "url": "/incident/8349/",
+      "id": "8349",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-23 18:42:32",
+      "updated": "2022-08-23 20:34:33",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "27,408 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
+      "state": "OREGON",
+      "updated": "2022-08-23 20:30:06",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "25 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-23 20:18:51",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,718 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 19:58:56",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "8,208 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "11"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
+      "state": "IDAHO",
+      "updated": "2022-08-23 19:56:18",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "95,520 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "38"
     },
     {
       "name": "Cedar Creek Fire",
@@ -66,32 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-23 17:51:07",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,138 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "95"
-    },
-    {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
-      "state": "OREGON",
-      "updated": "2022-08-23 17:04:46",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "25 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "0"
-    },
-    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
@@ -116,19 +194,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "97"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 15:55:34",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "95,520 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "37"
     },
     {
       "name": "Diamond Watch Fire",
@@ -209,19 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-23 12:39:58",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "8,208 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "11"
-    },
-    {
       "name": "TW ",
       "type": "Wildfire",
       "summary": "The TW Fire was reported on August 21, 2022 at 1530. The fire is...",
@@ -233,32 +285,6 @@
       "url": "/incident/8350/",
       "id": "8350",
       "contained": "50"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-23 11:55:01",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,718 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
-    },
-    {
-      "name": "Valley Fire",
-      "type": "Wildfire",
-      "summary": "The Valley Fire started at approximately 11:45 A.M in the vicinity of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-23 11:46:01",
-      "lat": "32.853",
-      "lng": "-116.523",
-      "size": "188 Acres",
-      "url": "/incident/8352/",
-      "id": "8352",
-      "contained": "25"
     },
     {
       "name": "Sutton Fire",
@@ -518,19 +544,6 @@
       "size": "5,474 Acres",
       "url": "/incident/8319/",
       "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Bear Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Gulch Fire was detected on August 18th, 2022. It is located...",
-      "state": "IDAHO",
-      "updated": "2022-08-22 10:30:36",
-      "lat": "47.624",
-      "lng": "-115.714",
-      "size": "40 Acres",
-      "url": "/incident/8349/",
-      "id": "8349",
       "contained": "0"
     },
     {
