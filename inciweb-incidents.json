@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-25 11:27:38",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "959 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-25 11:25:31",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "84"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
+      "state": "OREGON",
+      "updated": "2022-08-25 11:25:15",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "225 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-25 10:50:00",
+      "updated": "2022-08-25 11:24:39",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "28,107 Acres",
@@ -14,11 +53,37 @@
       "contained": "80"
     },
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-25 11:23:13",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,376 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-25 11:07:34",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "98"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
       "state": "IDAHO",
-      "updated": "2022-08-25 10:47:49",
+      "updated": "2022-08-25 11:05:38",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "96,445 Acres",
@@ -31,7 +96,7 @@
       "type": "Wildfire",
       "summary": "A new wildland fire was reported in Glacier National Park on August...",
       "state": "MONTANA",
-      "updated": "2022-08-25 10:36:15",
+      "updated": "2022-08-25 11:03:05",
       "lat": "48.854",
       "lng": "-114.025",
       "size": "1,696 Acres",
@@ -155,19 +220,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "99"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-25 10:01:07",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "959 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
     },
     {
       "name": "Revais Fire",
@@ -300,19 +352,6 @@
       "contained": "0"
     },
     {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-24 23:41:26",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "84"
-    },
-    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
@@ -324,32 +363,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "88"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-24 23:05:48",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "98"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-24 22:55:57",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,264 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "McKinney Post-Fire BAER",
@@ -414,19 +427,6 @@
       "size": "165 Acres",
       "url": "/incident/8351/",
       "id": "8351",
-      "contained": "0"
-    },
-    {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
-      "state": "OREGON",
-      "updated": "2022-08-24 13:39:29",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "150 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
       "contained": "0"
     },
     {
