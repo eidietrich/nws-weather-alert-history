@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-25 08:45:43",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "959 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
       "name": "Thor",
       "type": "Wildfire",
       "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
       "state": "WASHINGTON",
-      "updated": "2022-08-25 08:23:56",
+      "updated": "2022-08-25 08:31:03",
       "lat": "48.819",
       "lng": "-117.168",
       "size": "190 Acres",
@@ -14,30 +27,30 @@
       "contained": "0"
     },
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-25 08:29:22",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "8,361 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "11"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-25 08:22:48",
+      "updated": "2022-08-25 08:25:10",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "27,651 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-25 08:00:09",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "959 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
     },
     {
       "name": "Norton Fire",
@@ -77,19 +90,6 @@
       "url": "/incident/8273/",
       "id": "8273",
       "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-25 07:34:48",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "8,361 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "11"
     },
     {
       "name": "Big Swamp",
