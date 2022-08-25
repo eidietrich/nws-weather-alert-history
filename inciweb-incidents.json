@@ -1,16 +1,55 @@
 {
   "markers": [
     {
-      "name": "Rum Creek Fire",
+      "name": "Four Corners Fire",
       "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-25 11:59:20",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "8,752 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "11"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook | The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-25 11:49:26",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "680 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook | The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-25 11:48:56",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "1,045 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
       "state": "OREGON",
-      "updated": "2022-08-25 11:27:38",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "959 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
+      "updated": "2022-08-25 11:46:22",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "225 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
       "contained": "0"
     },
     {
@@ -18,7 +57,7 @@
       "type": "Wildfire",
       "summary": "",
       "state": "OREGON",
-      "updated": "2022-08-25 11:25:31",
+      "updated": "2022-08-25 11:45:32",
       "lat": "43.416",
       "lng": "-122.169",
       "size": "110 Acres",
@@ -27,16 +66,29 @@
       "contained": "84"
     },
     {
-      "name": "Crockets Knob Fire",
+      "name": "Cedar Creek Fire",
       "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
       "state": "OREGON",
-      "updated": "2022-08-25 11:25:15",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "225 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
+      "updated": "2022-08-25 11:37:35",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,376 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-25 11:33:09",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "959 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
       "contained": "0"
     },
     {
@@ -51,19 +103,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-25 11:23:13",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,376 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Windigo Fire",
@@ -131,32 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook | The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-25 10:26:35",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "680 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook | The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-25 10:26:12",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "1,045 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
       "name": "Patrol Ridge",
       "type": "Wildfire",
       "summary": "Infrared imagery is not available for August 25.  An aerial patrol...",
@@ -181,19 +194,6 @@
       "url": "/incident/8284/",
       "id": "8284",
       "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-25 10:03:40",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "8,752 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "11"
     },
     {
       "name": "Sullivan Fire",
