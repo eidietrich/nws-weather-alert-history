@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook | The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-25 18:27:59",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "1,045 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-25 18:09:34",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
+      "state": "OREGON",
+      "updated": "2022-08-25 18:09:26",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "225 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-25 18:05:38",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook | The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-25 17:52:17",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "680 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Cannon Fire",
+      "type": "Wildfire",
+      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
+      "state": "MONTANA",
+      "updated": "2022-08-25 17:47:19",
+      "lat": "47.716",
+      "lng": "-113.56",
+      "size": "1,384 Acres",
+      "url": "/incident/8326/",
+      "id": "8326",
+      "contained": "0"
+    },
+    {
       "name": "Dean Creek",
       "type": "Wildfire",
       "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
@@ -27,19 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Cannon Fire",
-      "type": "Wildfire",
-      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
-      "state": "MONTANA",
-      "updated": "2022-08-25 17:36:29",
-      "lat": "47.716",
-      "lng": "-113.56",
-      "size": "1,384 Acres",
-      "url": "/incident/8326/",
-      "id": "8326",
-      "contained": "0"
-    },
-    {
       "name": "Blackburn Fire",
       "type": "Wildfire",
       "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
@@ -50,32 +115,6 @@
       "size": "175 Acres",
       "url": "/incident/8351/",
       "id": "8351",
-      "contained": "0"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook | The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-25 17:29:36",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "680 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook | The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-25 17:26:21",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "1,045 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
       "contained": "0"
     },
     {
@@ -233,19 +272,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "98"
-    },
-    {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
-      "state": "OREGON",
-      "updated": "2022-08-25 12:38:30",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "225 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "0"
     },
     {
       "name": "Big Swamp",
@@ -480,32 +506,6 @@
       "url": "/incident/8347/",
       "id": "8347",
       "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-24 18:02:56",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-24 18:00:07",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
     },
     {
       "name": "Sutton Fire",
