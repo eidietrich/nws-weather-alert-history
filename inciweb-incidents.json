@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Potter Fire",
+      "name": "Four Corners Fire",
       "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-25 12:45:39",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "8,752 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "11"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
       "state": "OREGON",
-      "updated": "2022-08-25 12:24:02",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "628 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "88"
+      "updated": "2022-08-25 12:44:53",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "98"
     },
     {
       "name": "White River ",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
       "state": "WASHINGTON",
-      "updated": "2022-08-25 12:23:09",
+      "updated": "2022-08-25 12:44:15",
       "lat": "47.885",
       "lng": "-120.917",
       "size": "2,267 Acres",
@@ -27,11 +40,24 @@
       "contained": "1"
     },
     {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-25 12:44:02",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "628 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "88"
+    },
+    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
       "state": "OREGON",
-      "updated": "2022-08-25 12:21:56",
+      "updated": "2022-08-25 12:38:30",
       "lat": "44.728",
       "lng": "-118.708",
       "size": "225 Acres",
@@ -44,26 +70,13 @@
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-25 12:13:28",
+      "updated": "2022-08-25 12:30:28",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "28,107 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-25 11:59:20",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "8,752 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "11"
     },
     {
       "name": "Rodgers",
@@ -129,19 +142,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-25 11:07:34",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "98"
     },
     {
       "name": "Moose Fire",
