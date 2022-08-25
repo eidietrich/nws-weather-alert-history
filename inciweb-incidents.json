@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-08-25 17:42:30",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "328 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-25 17:41:30",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,696 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Cannon Fire",
+      "type": "Wildfire",
+      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
+      "state": "MONTANA",
+      "updated": "2022-08-25 17:36:29",
+      "lat": "47.716",
+      "lng": "-113.56",
+      "size": "1,384 Acres",
+      "url": "/incident/8326/",
+      "id": "8326",
+      "contained": "0"
+    },
+    {
       "name": "Blackburn Fire",
       "type": "Wildfire",
       "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
@@ -232,19 +271,6 @@
       "size": "7,376 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-25 11:03:05",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,696 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
       "contained": "0"
     },
     {
@@ -480,32 +506,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "100"
-    },
-    {
-      "name": "Cannon Fire",
-      "type": "Wildfire",
-      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
-      "state": "MONTANA",
-      "updated": "2022-08-24 13:04:17",
-      "lat": "47.716",
-      "lng": "-113.56",
-      "size": "1,384 Acres",
-      "url": "/incident/8326/",
-      "id": "8326",
-      "contained": "0"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-08-24 13:02:47",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "328 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
     },
     {
       "name": "Sutton Fire",
