@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook | The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-25 17:19:44",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "1,045 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Trout Fire",
+      "type": "Wildfire",
+      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
+      "state": "IDAHO",
+      "updated": "2022-08-25 16:58:29",
+      "lat": "48.831",
+      "lng": "-116.545",
+      "size": "13 Acres",
+      "url": "/incident/8356/",
+      "id": "8356",
+      "contained": "0"
+    },
+    {
+      "name": "Blackburn Fire",
+      "type": "Wildfire",
+      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
+      "state": "IDAHO",
+      "updated": "2022-08-25 16:58:27",
+      "lat": "47.076",
+      "lng": "-115.256",
+      "size": "175 Acres",
+      "url": "/incident/8351/",
+      "id": "8351",
+      "contained": "0"
+    },
+    {
+      "name": "Eneas Peak Fire",
+      "type": "Wildfire",
+      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
+      "state": "IDAHO",
+      "updated": "2022-08-25 16:56:47",
+      "lat": "48.878",
+      "lng": "-116.489",
+      "size": "773 Acres",
+      "url": "/incident/8338/",
+      "id": "8338",
+      "contained": "0"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-08-25 16:50:06",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "5,474 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
@@ -141,19 +206,6 @@
       "size": "680 Acres",
       "url": "/incident/8333/",
       "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook | The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-25 11:48:56",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "1,045 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
       "contained": "0"
     },
     {
@@ -430,19 +482,6 @@
       "contained": "100"
     },
     {
-      "name": "Blackburn Fire",
-      "type": "Wildfire",
-      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 15:40:41",
-      "lat": "47.076",
-      "lng": "-115.256",
-      "size": "165 Acres",
-      "url": "/incident/8351/",
-      "id": "8351",
-      "contained": "0"
-    },
-    {
       "name": "Cannon Fire",
       "type": "Wildfire",
       "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
@@ -466,32 +505,6 @@
       "size": "328 Acres",
       "url": "/incident/8330/",
       "id": "8330",
-      "contained": "0"
-    },
-    {
-      "name": "Trout Fire",
-      "type": "Wildfire",
-      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 12:56:12",
-      "lat": "48.831",
-      "lng": "-116.545",
-      "size": "10 Acres",
-      "url": "/incident/8356/",
-      "id": "8356",
-      "contained": "0"
-    },
-    {
-      "name": "Eneas Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
-      "state": "IDAHO",
-      "updated": "2022-08-24 12:50:53",
-      "lat": "48.878",
-      "lng": "-116.489",
-      "size": "765 Acres",
-      "url": "/incident/8338/",
-      "id": "8338",
       "contained": "0"
     },
     {
@@ -558,19 +571,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "53"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-08-22 11:12:15",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "5,474 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
     },
     {
       "name": "Wagner Road",
