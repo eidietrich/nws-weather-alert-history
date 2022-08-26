@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-26 11:27:29",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "1,256 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-26 10:51:46",
+      "updated": "2022-08-26 11:26:40",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "28,113 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 11:16:28",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "96,681 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "41"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
+      "state": "OREGON",
+      "updated": "2022-08-26 11:15:25",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "1,000 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "0"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-08-26 11:10:01",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "5,965 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-26 11:00:09",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,698 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
     },
     {
       "name": "Cedar Creek Fire",
@@ -25,19 +90,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 10:21:08",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "96,681 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "41"
     },
     {
       "name": "Patrol Point",
@@ -144,32 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22, 2022...",
-      "state": "OREGON",
-      "updated": "2022-08-26 09:50:37",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "1,000 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-26 09:44:43",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "1,256 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
-    },
-    {
       "name": "Valley Fire",
       "type": "Wildfire",
       "summary": "The Valley Fire started on August 22, 2022, at approximately 11:45...",
@@ -193,19 +219,6 @@
       "size": "1,665 Acres",
       "url": "/incident/8308/",
       "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 09:32:54",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "5,965 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
       "contained": "0"
     },
     {
@@ -258,19 +271,6 @@
       "size": "1,502 Acres",
       "url": "/incident/8273/",
       "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 08:17:20",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,696 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
       "contained": "0"
     },
     {
