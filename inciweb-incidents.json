@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-26 12:47:46",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "1,256 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-08-26 12:40:28",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "5,965 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-26 12:25:14",
+      "updated": "2022-08-26 12:36:25",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "28,113 Acres",
@@ -14,30 +40,30 @@
       "contained": "80"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-26 12:24:16",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,602 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
       "state": "OREGON",
-      "updated": "2022-08-26 12:22:24",
+      "updated": "2022-08-26 12:34:43",
       "lat": "43.375",
       "lng": "-122.343",
       "size": "628 Acres",
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "94"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-26 12:29:02",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,602 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
     },
     {
       "name": "Crockets Knob Fire",
@@ -144,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-26 11:44:28",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "1,256 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
@@ -168,19 +181,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "41"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 11:10:01",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "5,965 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
     },
     {
       "name": "Patrol Point",
