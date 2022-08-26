@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "East Fire",
+      "type": "Wildfire",
+      "summary": "East Fire:  The East Fire was reported at approximately 1:40pm on...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-26 13:53:31",
+      "lat": "34.24",
+      "lng": "-117.855",
+      "size": "149 Acres",
+      "url": "/incident/8359/",
+      "id": "8359",
+      "contained": "20"
+    },
+    {
+      "name": "Sutton Fire",
+      "type": "Wildfire",
+      "summary": " The Sutton fire is currently 108 acres with minimal fire activity...",
+      "state": "MONTANA",
+      "updated": "2022-08-26 13:51:12",
+      "lat": "48.675",
+      "lng": "-115.16",
+      "size": "108 Acres",
+      "url": "/incident/8335/",
+      "id": "8335",
+      "contained": "95"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-26 13:50:08",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,602 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-26 13:48:26",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,522 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Dragon Fire ",
+      "type": "Wildfire",
+      "summary": "The Dragon Fire, located on the North Rim of Grand Canyon National...",
+      "state": "ARIZONA",
+      "updated": "2022-08-26 13:47:18",
+      "lat": "36.203",
+      "lng": "-112.138",
+      "size": "1,362 Acres",
+      "url": "/incident/8266/",
+      "id": "8266",
+      "contained": "0"
+    },
+    {
+      "name": "Blackburn Fire",
+      "type": "Wildfire",
+      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 13:32:51",
+      "lat": "47.076",
+      "lng": "-115.256",
+      "size": "175 Acres",
+      "url": "/incident/8351/",
+      "id": "8351",
+      "contained": "0"
+    },
+    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
@@ -53,19 +131,6 @@
       "contained": "0"
     },
     {
-      "name": "Sutton Fire",
-      "type": "Wildfire",
-      "summary": " Great progress has been made by firefighters and crews managing the...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 12:49:54",
-      "lat": "48.675",
-      "lng": "-115.16",
-      "size": "108 Acres",
-      "url": "/incident/8335/",
-      "id": "8335",
-      "contained": "95"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
@@ -90,19 +155,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "94"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-26 12:29:02",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,602 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Red",
@@ -155,19 +207,6 @@
       "url": "/incident/8323/",
       "id": "8323",
       "contained": "94"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-26 12:04:02",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,522 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
     },
     {
       "name": "Porphyry Fire",
@@ -326,19 +365,6 @@
       "contained": "0"
     },
     {
-      "name": "East Fire",
-      "type": "Wildfire",
-      "summary": "East Fire:  The East Fire was reported at approximately 1:40pm on...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-26 09:23:26",
-      "lat": "34.24",
-      "lng": "-117.855",
-      "size": "149 Acres",
-      "url": "/incident/8359/",
-      "id": "8359",
-      "contained": "20"
-    },
-    {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
@@ -401,19 +427,6 @@
       "size": "1,384 Acres",
       "url": "/incident/8326/",
       "id": "8326",
-      "contained": "0"
-    },
-    {
-      "name": "Blackburn Fire",
-      "type": "Wildfire",
-      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
-      "state": "IDAHO",
-      "updated": "2022-08-25 17:32:20",
-      "lat": "47.076",
-      "lng": "-115.256",
-      "size": "175 Acres",
-      "url": "/incident/8351/",
-      "id": "8351",
       "contained": "0"
     },
     {
@@ -1130,19 +1143,6 @@
       "url": "/incident/8276/",
       "id": "8276",
       "contained": "72"
-    },
-    {
-      "name": "Dragon Fire ",
-      "type": "Wildfire",
-      "summary": "The Dragon Fire, located on the North Rim of Grand Canyon National...",
-      "state": "ARIZONA",
-      "updated": "2022-07-28 10:22:13",
-      "lat": "36.203",
-      "lng": "-112.138",
-      "size": "1,375 Acres",
-      "url": "/incident/8266/",
-      "id": "8266",
-      "contained": "0"
     },
     {
       "name": "Big Sandy Fire ",
