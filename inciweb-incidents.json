@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook | The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-26 15:19:24",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "1,045 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook | The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-26 14:59:30",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "700 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-26 14:51:57",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,602 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Russell Mountain",
+      "type": "Wildfire",
+      "summary": "The Russell Mountain Fire was reported early afternoon on August 24,...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 14:50:43",
+      "lat": "48.788",
+      "lng": "-116.571",
+      "size": "19 Acres",
+      "url": "/incident/8360/",
+      "id": "8360",
+      "contained": "0"
+    },
+    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
       "state": "OREGON",
-      "updated": "2022-08-26 14:44:29",
+      "updated": "2022-08-26 14:49:42",
       "lat": "44.728",
       "lng": "-118.708",
       "size": "1,000 Acres",
@@ -38,32 +90,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-26 14:17:34",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,602 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Russell Mountain",
-      "type": "Wildfire",
-      "summary": "The Russell Mountain Fire was reported early afternoon on August 24,...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 14:11:35",
-      "lat": "48.788",
-      "lng": "-116.571",
-      "size": "19 Acres",
-      "url": "/incident/8360/",
-      "id": "8360",
-      "contained": "0"
     },
     {
       "name": "Dragon Fire ",
@@ -168,32 +194,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "94"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook | The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-26 12:16:30",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "1,045 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook | The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-26 12:16:14",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "700 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
     },
     {
       "name": "Windigo Fire",
