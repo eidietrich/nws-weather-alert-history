@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-26 11:27:29",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "1,256 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-26 11:26:40",
+      "updated": "2022-08-26 11:57:28",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "28,113 Acres",
@@ -27,11 +14,89 @@
       "contained": "80"
     },
     {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-26 11:56:46",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "99"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-26 11:52:04",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,602 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "Fire crews complete fire line construction on the south and southwest...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 11:49:43",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,044 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-26 11:44:38",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,698 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-26 11:44:28",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "1,256 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-26 11:34:03",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,522 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
       "state": "IDAHO",
-      "updated": "2022-08-26 11:16:28",
+      "updated": "2022-08-26 11:28:47",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "96,681 Acres",
@@ -63,32 +128,6 @@
       "size": "5,965 Acres",
       "url": "/incident/8319/",
       "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 11:00:09",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,698 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-26 10:29:27",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,602 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
@@ -183,19 +222,6 @@
       "contained": "99"
     },
     {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "Fire crews complete fire line construction on the south and southwest...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 09:54:24",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,044 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "0"
-    },
-    {
       "name": "Valley Fire",
       "type": "Wildfire",
       "summary": "The Valley Fire started on August 22, 2022, at approximately 11:45...",
@@ -287,19 +313,6 @@
       "contained": "0"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-26 07:46:13",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,522 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
       "name": "Big Swamp",
       "type": "Wildfire",
       "summary": "",
@@ -324,19 +337,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "94"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-25 22:24:36",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "99"
     },
     {
       "name": "Calf Canyon",
