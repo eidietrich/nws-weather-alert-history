@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "The Porphyry Fire started within the Frank Church River of No Return...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 09:46:00",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,044 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-26 09:44:43",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "1,256 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
+      "name": "Valley Fire",
+      "type": "Wildfire",
+      "summary": "The Valley Fire started on August 22, 2022, at approximately 11:45...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-26 09:44:19",
+      "lat": "32.853",
+      "lng": "-116.523",
+      "size": "197 Acres",
+      "url": "/incident/8352/",
+      "id": "8352",
+      "contained": "80"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook | The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-26 09:42:17",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "700 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-08-26 09:31:36",
+      "updated": "2022-08-26 09:38:17",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "9,201 Acres",
@@ -14,11 +66,37 @@
       "contained": "18"
     },
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-26 09:38:10",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,602 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-26 09:35:59",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "1,665 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-26 09:30:30",
+      "updated": "2022-08-26 09:34:09",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "28,113 Acres",
@@ -27,16 +105,16 @@
       "contained": "80"
     },
     {
-      "name": "Norton Fire",
+      "name": "Indian Ridge",
       "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 09:28:58",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "1,665 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-08-26 09:32:54",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "5,965 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
       "contained": "0"
     },
     {
@@ -92,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 08:58:11",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "5,965 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateIf conditions allow, Salmon River Road will be open...",
@@ -116,19 +181,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "41"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-26 08:55:43",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "1,256 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
     },
     {
       "name": "Quartz Fire",
@@ -207,32 +259,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "99"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-25 21:58:40",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,376 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook | The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-25 19:18:16",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "680 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
     },
     {
       "name": "Red",
@@ -391,19 +417,6 @@
       "contained": "100"
     },
     {
-      "name": "Valley Fire",
-      "type": "Wildfire",
-      "summary": "The Valley Fire started on August 22, 2022, at approximately 11:45...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-25 10:32:31",
-      "lat": "32.853",
-      "lng": "-116.523",
-      "size": "193 Acres",
-      "url": "/incident/8352/",
-      "id": "8352",
-      "contained": "63"
-    },
-    {
       "name": "Patrol Ridge",
       "type": "Wildfire",
       "summary": "Infrared imagery is not available for August 25.  An aerial patrol...",
@@ -453,19 +466,6 @@
       "size": "20 Acres",
       "url": "/incident/8353/",
       "id": "8353",
-      "contained": "0"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "The Porphyry Fire started within the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2022-08-25 09:57:40",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "1,965 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
       "contained": "0"
     },
     {
