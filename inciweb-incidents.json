@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-27 09:46:05",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,701 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
+      "state": "IDAHO",
+      "updated": "2022-08-27 09:45:47",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "96,681 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "42"
+    },
+    {
       "name": "Porphyry Fire",
       "type": "Wildfire",
       "summary": "On Thursday, fire crews completed fire line construction on the south...",
       "state": "IDAHO",
-      "updated": "2022-08-27 09:28:16",
+      "updated": "2022-08-27 09:44:16",
       "lat": "45.266",
       "lng": "-115.484",
       "size": "2,286 Acres",
       "url": "/incident/8334/",
       "id": "8334",
       "contained": "10"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-27 09:44:11",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "29,815 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "80"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook | The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-27 09:42:19",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "1,046 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "10"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-27 09:38:46",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "7,602 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
     },
     {
       "name": "Rum Creek Fire",
@@ -79,19 +144,6 @@
       "contained": "18"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-27 08:05:54",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "28,984 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "80"
-    },
-    {
       "name": "White River ",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -103,19 +155,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-26 22:51:32",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "7,602 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "East Fire",
@@ -142,19 +181,6 @@
       "url": "/incident/8355/",
       "id": "8355",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 22:27:43",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "96,681 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "42"
     },
     {
       "name": "Big Swamp",
@@ -194,19 +220,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "99"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook | The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-26 22:00:00",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "1,046 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
     },
     {
       "name": "Rodgers",
@@ -453,19 +466,6 @@
       "size": "190 Acres",
       "url": "/incident/8343/",
       "id": "8343",
-      "contained": "0"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 08:00:11",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,701 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
       "contained": "0"
     },
     {
