@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-27 10:47:47",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "10,179 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "18"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-27 10:47:32",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,698 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-27 10:36:03",
+      "updated": "2022-08-27 10:47:12",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "29,815 Acres",
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "80"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-08-27 10:45:00",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "1,285 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-08-27 10:44:36",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "97"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-27 10:43:55",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "715 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "10"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-27 10:37:43",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,138 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "99"
     },
     {
       "name": "Windigo Fire",
@@ -37,19 +115,6 @@
       "size": "1,046 Acres",
       "url": "/incident/8332/",
       "id": "8332",
-      "contained": "10"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-27 10:33:13",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "715 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
       "contained": "10"
     },
     {
@@ -103,32 +168,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "42"
-    },
-    {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-08-27 10:19:19",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "1,285 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-27 10:12:39",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "10,179 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "18"
     },
     {
       "name": "White River ",
@@ -233,19 +272,6 @@
       "url": "/incident/8359/",
       "id": "8359",
       "contained": "70"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-26 22:22:33",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "97"
     },
     {
       "name": "Potter Fire",
@@ -415,32 +441,6 @@
       "url": "/incident/8319/",
       "id": "8319",
       "contained": "0"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 11:44:38",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,698 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": "Updates | Ops Videos | Maps | Photos | ClosuresOn Friday,...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-26 09:57:27",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,138 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "99"
     },
     {
       "name": "Valley Fire",
