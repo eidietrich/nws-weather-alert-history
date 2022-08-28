@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, fire crews completed fire line construction on the south...",
+      "state": "IDAHO",
+      "updated": "2022-08-28 09:11:53",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,430 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "10"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-28 09:11:49",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "9,500 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
+      "state": "IDAHO",
+      "updated": "2022-08-28 09:07:28",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "96,821 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-28 09:00:31",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,665 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
       "state": "OREGON",
-      "updated": "2022-08-28 08:50:10",
+      "updated": "2022-08-28 08:51:11",
       "lat": "44.728",
       "lng": "-118.708",
       "size": "1,285 Acres",
@@ -92,19 +144,6 @@
       "contained": "80"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
-      "state": "IDAHO",
-      "updated": "2022-08-28 07:45:07",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "96,821 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
-    },
-    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
@@ -144,19 +183,6 @@
       "contained": "96"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-27 22:56:04",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,522 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
@@ -194,19 +220,6 @@
       "url": "/incident/8284/",
       "id": "8284",
       "contained": "0"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, fire crews completed fire line construction on the south...",
-      "state": "IDAHO",
-      "updated": "2022-08-27 20:05:36",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,286 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "10"
     },
     {
       "name": "Hermits Peak and Calf Canyon BAER",
@@ -298,19 +311,6 @@
       "url": "/incident/8352/",
       "id": "8352",
       "contained": "90"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-27 11:31:21",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "4,319 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
     },
     {
       "name": "Quartz Fire",
