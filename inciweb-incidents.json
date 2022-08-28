@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-28 13:23:20",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,665 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "East Fire",
+      "type": "Wildfire",
+      "summary": "Today, Sunday August 28th, the East Fire is still in suppression mode...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-28 13:14:40",
+      "lat": "34.24",
+      "lng": "-117.855",
+      "size": "150 Acres",
+      "url": "/incident/8359/",
+      "id": "8359",
+      "contained": "80"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-28 12:47:12",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "1,834 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
       "name": "Rodgers",
       "type": "Wildfire",
       "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-28 12:46:06",
+      "updated": "2022-08-28 12:46:39",
       "lat": "37.954",
       "lng": "-119.552",
       "size": "1,371 Acres",
@@ -27,19 +66,6 @@
       "contained": "80"
     },
     {
-      "name": "East Fire",
-      "type": "Wildfire",
-      "summary": "Containment has jumped to 70% today. The #EastFire and the Angeles...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-28 12:41:16",
-      "lat": "34.24",
-      "lng": "-117.855",
-      "size": "150 Acres",
-      "url": "/incident/8359/",
-      "id": "8359",
-      "contained": "80"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
@@ -51,19 +77,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "10"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-28 11:57:29",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,665 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
     },
     {
       "name": "Rum Creek Fire",
@@ -207,19 +220,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "44"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-28 10:17:06",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "1,834 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
     },
     {
       "name": "Quartz Fire",
