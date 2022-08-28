@@ -1,16 +1,146 @@
 {
   "markers": [
     {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-28 10:17:06",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "1,834 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-28 10:16:57",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "1,371 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-28 10:15:28",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,701 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-28 10:07:41",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,665 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "A new wildland fire was reported in Glacier National Park on August...",
+      "state": "MONTANA",
+      "updated": "2022-08-28 10:06:24",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,698 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-28 10:05:33",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-28 10:01:23",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "11,345 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "18"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-28 10:01:17",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
       "name": "Dismal Fire",
       "type": "Wildfire",
       "summary": "The Dismal fire showed very little growth yesterday and was not...",
       "state": "IDAHO",
-      "updated": "2022-08-28 09:45:38",
+      "updated": "2022-08-28 09:57:13",
       "lat": "45.321",
       "lng": "-114.959",
       "size": "1,842 Acres",
       "url": "/incident/8284/",
       "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "Today, firefighters are assisting the fire in backing its way...",
+      "state": "IDAHO",
+      "updated": "2022-08-28 09:56:30",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,436 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "10"
+    },
+    {
+      "name": "Patrol Point",
+      "type": "Wildfire",
+      "summary": "The cold front that was over the the Forest yesterday had very...",
+      "state": "IDAHO",
+      "updated": "2022-08-28 09:55:58",
+      "lat": "45.427",
+      "lng": "-114.938",
+      "size": "151 Acres",
+      "url": "/incident/8357/",
+      "id": "8357",
       "contained": "0"
     },
     {
@@ -24,32 +154,6 @@
       "size": "7,654 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "10"
-    },
-    {
-      "name": "Patrol Point",
-      "type": "Wildfire",
-      "summary": "Infrared imagery was not available for last night.A cold front is...",
-      "state": "IDAHO",
-      "updated": "2022-08-28 09:39:01",
-      "lat": "45.427",
-      "lng": "-114.938",
-      "size": "89 Acres",
-      "url": "/incident/8357/",
-      "id": "8357",
-      "contained": "0"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "Today, firefighters are assisting the fire in backing its way...",
-      "state": "IDAHO",
-      "updated": "2022-08-28 09:37:00",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,436 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
       "contained": "10"
     },
     {
@@ -79,19 +183,6 @@
       "contained": "44"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-28 09:00:31",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,665 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
@@ -116,19 +207,6 @@
       "url": "/incident/8308/",
       "id": "8308",
       "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-28 08:46:57",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "11,345 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "18"
     },
     {
       "name": "Woodtick Fire",
@@ -209,19 +287,6 @@
       "contained": "96"
     },
     {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-27 21:42:14",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,701 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
-    },
-    {
       "name": "Hermits Peak and Calf Canyon BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
@@ -232,32 +297,6 @@
       "size": "0 Acres",
       "url": "/incident/8104/",
       "id": "8104",
-      "contained": "0"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-27 17:35:43",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "1,371 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-27 17:35:33",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "1,834 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
       "contained": "0"
     },
     {
@@ -311,19 +350,6 @@
       "url": "/incident/8352/",
       "id": "8352",
       "contained": "90"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "A new wildland fire was reported in Glacier National Park on August...",
-      "state": "MONTANA",
-      "updated": "2022-08-27 10:50:05",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,698 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
     },
     {
       "name": "McKinney Fire",
@@ -480,32 +506,6 @@
       "url": "/incident/8343/",
       "id": "8343",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-25 18:09:34",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-25 18:05:38",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
     },
     {
       "name": "Weasel Fire",
