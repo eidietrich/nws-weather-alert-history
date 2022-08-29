@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-29 09:34:10",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,701 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-29 09:34:07",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,665 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
       "name": "Porphyry Fire",
       "type": "Wildfire",
-      "summary": "No Infrared flight for last night.Firefighters continue to assist the...",
+      "summary": "No Infrared flight for last night due to mechanical...",
       "state": "IDAHO",
-      "updated": "2022-08-29 09:16:56",
+      "updated": "2022-08-29 09:32:21",
       "lat": "45.266",
       "lng": "-115.484",
       "size": "2,436 Acres",
@@ -14,24 +40,11 @@
       "contained": "15"
     },
     {
-      "name": "Patrol Point",
-      "type": "Wildfire",
-      "summary": "The cold front that was over the the Forest yesterday had very...",
-      "state": "IDAHO",
-      "updated": "2022-08-29 09:08:02",
-      "lat": "45.427",
-      "lng": "-114.938",
-      "size": "151 Acres",
-      "url": "/incident/8357/",
-      "id": "8357",
-      "contained": "0"
-    },
-    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
       "state": "OREGON",
-      "updated": "2022-08-29 08:58:38",
+      "updated": "2022-08-29 09:26:57",
       "lat": "44.728",
       "lng": "-118.708",
       "size": "1,632 Acres",
@@ -40,17 +53,56 @@
       "contained": "0"
     },
     {
-      "name": "White River ",
+      "name": "Dismal Fire",
       "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-29 08:45:00",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,665 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
+      "summary": "No Infrared flight last night due to mechanical issues.The Dismal...",
+      "state": "IDAHO",
+      "updated": "2022-08-29 09:25:47",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "1,842 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-29 09:25:00",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "1,371 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-29 09:24:13",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "1,834 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Patrol Point",
+      "type": "Wildfire",
+      "summary": "The Patrol Point Fire is showing grow downhill into the adjacent...",
+      "state": "IDAHO",
+      "updated": "2022-08-29 09:22:49",
+      "lat": "45.427",
+      "lng": "-114.938",
+      "size": "206 Acres",
+      "url": "/incident/8357/",
+      "id": "8357",
+      "contained": "0"
     },
     {
       "name": "Garceau Fire",
@@ -196,45 +248,6 @@
       "contained": "0"
     },
     {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": "The Dismal fire showed very little growth yesterday and was not...",
-      "state": "IDAHO",
-      "updated": "2022-08-28 20:10:42",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "1,842 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-28 20:09:17",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "1,834 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-28 20:09:03",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "1,371 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
       "name": "Diamond Watch Fire",
       "type": "Wildfire",
       "summary": "The Diamond Watch Fire, detected on the evening of July 14th, was...",
@@ -363,19 +376,6 @@
       "url": "/incident/8359/",
       "id": "8359",
       "contained": "80"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-28 11:14:18",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,701 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
     },
     {
       "name": "Hermits Peak Fire",
