@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Gulch Fire is 110 acres with 25% containment and is burning in...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-30 14:03:12",
+      "lat": "34.217",
+      "lng": "-117.859",
+      "size": "110 Acres",
+      "url": "/incident/8362/",
+      "id": "8362",
+      "contained": "25"
+    },
+    {
       "name": "Nebo",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23.  The...",
       "state": "OREGON",
-      "updated": "2022-08-30 13:46:48",
+      "updated": "2022-08-30 13:54:39",
       "lat": "45.133",
       "lng": "-117.11",
       "size": "71 Acres",
@@ -51,19 +64,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Gulch Fire is 110 acres with 25% containment and is burning in...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-30 13:05:04",
-      "lat": "34.217",
-      "lng": "-117.859",
-      "size": "110 Acres",
-      "url": "/incident/8362/",
-      "id": "8362",
-      "contained": "25"
     },
     {
       "name": "Windigo Fire",
