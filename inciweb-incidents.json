@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Bear Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Gulch Fire was detected on August 18th, 2022. It is located...",
+      "state": "IDAHO",
+      "updated": "2022-08-30 18:49:39",
+      "lat": "47.624",
+      "lng": "-115.714",
+      "size": "50 Acres",
+      "url": "/incident/8349/",
+      "id": "8349",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-30 18:49:38",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "34,076 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "54"
+    },
+    {
       "name": "Russell Mountain",
       "type": "Wildfire",
       "summary": "The Russell Mountain Fire was reported early afternoon on August 24,...",
@@ -11,19 +37,6 @@
       "size": "123 Acres",
       "url": "/incident/8360/",
       "id": "8360",
-      "contained": "0"
-    },
-    {
-      "name": "Bear Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Gulch Fire was detected on August 18th, 2022. It is located...",
-      "state": "IDAHO",
-      "updated": "2022-08-30 18:28:19",
-      "lat": "47.624",
-      "lng": "-115.714",
-      "size": "50 Acres",
-      "url": "/incident/8349/",
-      "id": "8349",
       "contained": "0"
     },
     {
@@ -38,19 +51,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-30 18:07:45",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "34,076 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "54"
     },
     {
       "name": "Quartz Fire",
@@ -1598,19 +1598,6 @@
       "url": "/incident/8125/",
       "id": "8125",
       "contained": "82"
-    },
-    {
-      "name": "Bouquet Fire",
-      "type": "Wildfire",
-      "summary": "A wildfire ignited shortly after 2 p.m. on May 30, 2022 on the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-06-01 18:47:31",
-      "lat": "34.578",
-      "lng": "-118.371",
-      "size": "50 Acres",
-      "url": "/incident/8126/",
-      "id": "8126",
-      "contained": "0"
     }
   ]
 }
