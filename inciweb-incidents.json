@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Blackburn Fire",
+      "type": "Wildfire",
+      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
+      "state": "IDAHO",
+      "updated": "2022-08-30 13:24:02",
+      "lat": "47.076",
+      "lng": "-115.256",
+      "size": "175 Acres",
+      "url": "/incident/8351/",
+      "id": "8351",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-30 13:23:50",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "32,600 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "54"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-30 13:18:37",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,784 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Gulch Fire is 110 acres with 25% containment and is burning in...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-30 13:05:04",
+      "lat": "34.217",
+      "lng": "-117.859",
+      "size": "110 Acres",
+      "url": "/incident/8362/",
+      "id": "8362",
+      "contained": "25"
+    },
+    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
       "state": "OREGON",
-      "updated": "2022-08-30 12:44:24",
+      "updated": "2022-08-30 12:52:16",
       "lat": "43.363",
       "lng": "-122.052",
       "size": "1,007 Acres",
@@ -25,19 +77,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "0"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-30 12:37:31",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,665 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
     },
     {
       "name": "Crockets Knob Fire",
@@ -90,32 +129,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-30 12:00:56",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "32,600 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "54"
-    },
-    {
-      "name": "Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Gulch Fire is 110 acres with 25% containment and is burning in...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-30 11:55:23",
-      "lat": "34.217",
-      "lng": "-117.859",
-      "size": "110 Acres",
-      "url": "/incident/8362/",
-      "id": "8362",
-      "contained": "25"
     },
     {
       "name": "Cedar Creek Fire",
@@ -623,19 +636,6 @@
       "url": "/incident/8335/",
       "id": "8335",
       "contained": "95"
-    },
-    {
-      "name": "Blackburn Fire",
-      "type": "Wildfire",
-      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
-      "state": "IDAHO",
-      "updated": "2022-08-26 13:32:51",
-      "lat": "47.076",
-      "lng": "-115.256",
-      "size": "175 Acres",
-      "url": "/incident/8351/",
-      "id": "8351",
-      "contained": "0"
     },
     {
       "name": "Indian Ridge",
