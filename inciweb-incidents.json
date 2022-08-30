@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "East Fire",
+      "type": "Wildfire",
+      "summary": "Today, Sunday August 28th, the East Fire is still in suppression mode...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-29 23:59:30",
+      "lat": "34.24",
+      "lng": "-117.855",
+      "size": "150 Acres",
+      "url": "/incident/8359/",
+      "id": "8359",
+      "contained": "93"
+    },
+    {
+      "name": "Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Gulch Fire started at 11:26 a.m. on August 29, 2022, on Highway...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-29 23:47:12",
+      "lat": "34.217",
+      "lng": "-117.859",
+      "size": "10 Acres",
+      "url": "/incident/8362/",
+      "id": "8362",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-29 23:46:26",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,665 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-08-29 23:46:18",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "628 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "96"
+    },
+    {
       "name": "Big Swamp",
       "type": "Wildfire",
       "summary": "",
       "state": "OREGON",
-      "updated": "2022-08-29 23:31:11",
+      "updated": "2022-08-29 23:41:18",
       "lat": "43.416",
       "lng": "-122.169",
       "size": "110 Acres",
       "url": "/incident/8323/",
       "id": "8323",
       "contained": "97"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-08-29 23:40:26",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "99"
     },
     {
       "name": "Rodgers",
@@ -37,19 +102,6 @@
       "size": "2,084 Acres",
       "url": "/incident/8332/",
       "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Gulch Fire started at 11:26 a.m. on August 29, 2022, on Highway...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-29 22:58:39",
-      "lat": "34.217",
-      "lng": "-117.859",
-      "size": "10 Acres",
-      "url": "/incident/8362/",
-      "id": "8362",
       "contained": "0"
     },
     {
@@ -183,19 +235,6 @@
       "contained": "100"
     },
     {
-      "name": "East Fire",
-      "type": "Wildfire",
-      "summary": "Today, Sunday August 28th, the East Fire is still in suppression mode...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-29 15:24:50",
-      "lat": "34.24",
-      "lng": "-117.855",
-      "size": "150 Acres",
-      "url": "/incident/8359/",
-      "id": "8359",
-      "contained": "93"
-    },
-    {
       "name": "Valley Fire",
       "type": "Wildfire",
       "summary": "The Valley Fire started on August 22, 2022, at approximately 11:45...",
@@ -207,19 +246,6 @@
       "url": "/incident/8352/",
       "id": "8352",
       "contained": "96"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-29 13:42:55",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,665 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
     },
     {
       "name": "Hog Trough Fire",
@@ -235,19 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-08-29 12:17:32",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "99"
-    },
-    {
       "name": "Oak Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY There are three phases of...",
@@ -259,19 +272,6 @@
       "url": "/incident/8325/",
       "id": "8325",
       "contained": "0"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-29 12:09:27",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "628 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "96"
     },
     {
       "name": "McKinney Fire",
