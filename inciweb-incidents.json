@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": " On August 26th, 2022 at 1:11 PM MST, the Dillon Interagency...",
+      "state": "MONTANA",
+      "updated": "2022-08-30 14:35:37",
+      "lat": "45.713",
+      "lng": "-113.869",
+      "size": "13 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
+      "contained": "0"
+    },
+    {
+      "name": "Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Gulch Fire is 110 acres with 25% containment and is burning in...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-30 14:31:15",
+      "lat": "34.217",
+      "lng": "-117.859",
+      "size": "110 Acres",
+      "url": "/incident/8362/",
+      "id": "8362",
+      "contained": "25"
+    },
+    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
       "state": "OREGON",
-      "updated": "2022-08-30 14:26:38",
+      "updated": "2022-08-30 14:28:12",
       "lat": "44.728",
       "lng": "-118.708",
       "size": "1,859 Acres",
@@ -25,19 +51,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Gulch Fire is 110 acres with 25% containment and is burning in...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-30 14:03:12",
-      "lat": "34.217",
-      "lng": "-117.859",
-      "size": "110 Acres",
-      "url": "/incident/8362/",
-      "id": "8362",
-      "contained": "25"
     },
     {
       "name": "Nebo",
@@ -90,19 +103,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "99"
-    },
-    {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": " On August 26th, 2022 at 1:11 PM MST, the Dillon Interagency...",
-      "state": "MONTANA",
-      "updated": "2022-08-30 12:42:43",
-      "lat": "45.713",
-      "lng": "-113.869",
-      "size": "13 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
-      "contained": "0"
     },
     {
       "name": "Sturgill",
