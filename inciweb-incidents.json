@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 16:30:00",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "3,558 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "McKinney Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 16:27:50",
+      "lat": "41.819",
+      "lng": "-122.812",
+      "size": "0 Acres",
+      "url": "/incident/8345/",
+      "id": "8345",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-31 16:27:39",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,701 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
       "name": "Yeti Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
       "state": "CALIFORNIA",
-      "updated": "2022-08-31 16:13:51",
+      "updated": "2022-08-31 16:27:23",
       "lat": "41.818",
       "lng": "-123.228",
       "size": "0 Acres",
@@ -27,19 +66,6 @@
       "contained": "53"
     },
     {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 15:58:22",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "3,558 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
       "name": "Rodgers",
       "type": "Wildfire",
       "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
@@ -50,19 +76,6 @@
       "size": "1,644 Acres",
       "url": "/incident/8333/",
       "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "McKinney Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 15:53:03",
-      "lat": "41.819",
-      "lng": "-122.812",
-      "size": "0 Acres",
-      "url": "/incident/8345/",
-      "id": "8345",
       "contained": "0"
     },
     {
@@ -350,19 +363,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "100"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-31 10:30:59",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,701 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
     },
     {
       "name": "Quartz Fire",
