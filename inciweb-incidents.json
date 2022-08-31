@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-08-31 08:33:03",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "12,398 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "39"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-31 08:28:56",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-08-31 08:28:22",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-08-31 08:26:53",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "2,848 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 07:55:55",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "34,362 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "54"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
+      "state": "OREGON",
+      "updated": "2022-08-31 07:47:04",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "12,916 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "0"
+    },
+    {
       "name": "Gulch Fire",
       "type": "Wildfire",
       "summary": "The Gulch Fire is 110 acres with 35% containment and is burning in...",
@@ -12,19 +90,6 @@
       "url": "/incident/8362/",
       "id": "8362",
       "contained": "35"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-30 23:48:08",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "34,362 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "54"
     },
     {
       "name": "Windigo Fire",
@@ -64,19 +129,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "96"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "NW Incident Management Team assumed command of the Rum Creek Fire on...",
-      "state": "OREGON",
-      "updated": "2022-08-30 23:30:16",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "12,916 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "0"
     },
     {
       "name": "Cedar Creek Fire",
@@ -131,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-08-30 21:11:59",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "2,848 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
       "name": "Eneas Peak Fire",
       "type": "Wildfire",
       "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
@@ -194,19 +233,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "99"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-08-30 19:53:34",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "12,078 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "39"
     },
     {
       "name": "Diamond Watch Fire",
@@ -521,19 +547,6 @@
       "contained": "0"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-28 14:25:36",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
-    },
-    {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
       "summary": " Updates  l Maps  l  Smoke Outlook  l  Closures ...",
@@ -545,19 +558,6 @@
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "98"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-08-28 10:57:16",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
     },
     {
       "name": "Hermits Peak and Calf Canyon BAER",
