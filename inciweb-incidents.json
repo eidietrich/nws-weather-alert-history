@@ -1,6 +1,149 @@
 {
   "markers": [
     {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": " On August 26th, 2022 at 1:11 PM MST, the Dillon Interagency...",
+      "state": "MONTANA",
+      "updated": "2022-08-31 18:20:00",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "500 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
+      "contained": "0"
+    },
+    {
+      "name": "Cannon Fire",
+      "type": "Wildfire",
+      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
+      "state": "MONTANA",
+      "updated": "2022-08-31 18:17:06",
+      "lat": "47.716",
+      "lng": "-113.56",
+      "size": "1,384 Acres",
+      "url": "/incident/8326/",
+      "id": "8326",
+      "contained": "0"
+    },
+    {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-08-31 18:14:34",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "328 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
+      "name": "Ursus Fire",
+      "type": "Wildfire",
+      "summary": "The Ursus Fire was detected on 8/31/2022. It is burning on the south...",
+      "state": "MONTANA",
+      "updated": "2022-08-31 18:13:04",
+      "lat": "47.38",
+      "lng": "-113.025",
+      "size": "1 Acres",
+      "url": "/incident/8367/",
+      "id": "8367",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
+      "state": "IDAHO",
+      "updated": "2022-08-31 18:11:05",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "99,232 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-08-31 18:10:29",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,701 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-08-31 18:05:42",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "832 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
+      "state": "OREGON",
+      "updated": "2022-08-31 18:04:43",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "8,421 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
+      "name": "Valley Fire",
+      "type": "Wildfire",
+      "summary": "The Valley Fire started on August 22, 2022, at approximately 11:45...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 18:01:43",
+      "lat": "32.853",
+      "lng": "-116.523",
+      "size": "193 Acres",
+      "url": "/incident/8352/",
+      "id": "8352",
+      "contained": "96"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 18:01:39",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "1,644 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-08-31 18:00:42",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "3,558 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
       "name": "Sturgill",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
@@ -27,32 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 17:39:45",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "1,644 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-31 17:36:30",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,701 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
-      "contained": "0"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
@@ -64,19 +181,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "54"
-    },
-    {
-      "name": "Nebo",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-08-31 17:25:22",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "832 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
     },
     {
       "name": "Big Swamp",
@@ -103,19 +207,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "96"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 16:30:53",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "3,558 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
     },
     {
       "name": "McKinney Post-Fire BAER",
@@ -170,45 +261,6 @@
       "contained": "99"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
-      "state": "OREGON",
-      "updated": "2022-08-31 15:19:53",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "8,421 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-08-31 15:13:52",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "328 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
-    },
-    {
-      "name": "Cannon Fire",
-      "type": "Wildfire",
-      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
-      "state": "MONTANA",
-      "updated": "2022-08-31 15:10:44",
-      "lat": "47.716",
-      "lng": "-113.56",
-      "size": "1,384 Acres",
-      "url": "/incident/8326/",
-      "id": "8326",
-      "contained": "0"
-    },
-    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
@@ -259,19 +311,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateThe Salmon River Road will be open to through...",
-      "state": "IDAHO",
-      "updated": "2022-08-31 14:42:37",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "99,232 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
     },
     {
       "name": "Gulch Fire",
@@ -350,19 +389,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "100"
-    },
-    {
-      "name": "Valley Fire",
-      "type": "Wildfire",
-      "summary": "The Valley Fire started on August 22, 2022, at approximately 11:45...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 11:56:39",
-      "lat": "32.853",
-      "lng": "-116.523",
-      "size": "193 Acres",
-      "url": "/incident/8352/",
-      "id": "8352",
-      "contained": "96"
     },
     {
       "name": "Hermits Peak Fire",
@@ -453,19 +479,6 @@
       "size": "816 Acres",
       "url": "/incident/8338/",
       "id": "8338",
-      "contained": "0"
-    },
-    {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": " On August 26th, 2022 at 1:11 PM MST, the Dillon Interagency...",
-      "state": "MONTANA",
-      "updated": "2022-08-30 21:01:55",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "64 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
       "contained": "0"
     },
     {
