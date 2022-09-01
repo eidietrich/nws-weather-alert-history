@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-01 09:46:04",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "1,644 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-01 09:45:33",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "3,558 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-01 09:44:48",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "1,500 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-09-01 09:43:56",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "97"
+    },
+    {
       "name": "Solomon Fire",
       "type": "Wildfire",
       "summary": " The Solomon Fire was reported on Aug 24, 2022, and is burning...",
       "state": "MONTANA",
-      "updated": "2022-09-01 09:32:11",
+      "updated": "2022-09-01 09:38:03",
       "lat": "46.633",
       "lng": "-113.691",
       "size": "7 Acres",
       "url": "/incident/8370/",
       "id": "8370",
       "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-09-01 09:36:58",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "628 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "96"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-01 09:34:37",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "14,940 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "1"
     },
     {
       "name": "Blackburn Fire",
@@ -51,19 +129,6 @@
       "url": "/incident/8319/",
       "id": "8319",
       "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-01 08:55:31",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "14,940 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "1"
     },
     {
       "name": "White River ",
@@ -170,19 +235,6 @@
       "contained": "12"
     },
     {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-08-31 23:09:22",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "628 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "96"
-    },
-    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
@@ -207,19 +259,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "44"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-08-31 22:43:02",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "97"
     },
     {
       "name": "Six Rivers Lightning Complex",
@@ -313,19 +352,6 @@
       "contained": "0"
     },
     {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-08-31 18:41:55",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "50 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "0"
-    },
-    {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": " On August 26th, 2022 at 1:11 PM MST, the Dillon Interagency...",
@@ -402,32 +428,6 @@
       "url": "/incident/8352/",
       "id": "8352",
       "contained": "96"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 18:01:39",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "1,644 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 18:00:42",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "3,558 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
     },
     {
       "name": "McKinney Post-Fire BAER",
