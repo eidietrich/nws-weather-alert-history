@@ -1,17 +1,134 @@
 {
   "markers": [
     {
+      "name": "Deep Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
+      "state": "MONTANA",
+      "updated": "2022-09-01 10:40:02",
+      "lat": "47.089",
+      "lng": "-111.226",
+      "size": "25 Acres",
+      "url": "/incident/8371/",
+      "id": "8371",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-01 10:39:48",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "39,274 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "64"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateThe Salmon River Road is open to through traffic...",
+      "state": "IDAHO",
+      "updated": "2022-09-01 10:39:45",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "99,232 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Over 1000 firefighters and support personnel are working on the Cedar...",
       "state": "OREGON",
-      "updated": "2022-09-01 10:21:19",
+      "updated": "2022-09-01 10:38:47",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "8,817 Acres",
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "12"
+    },
+    {
+      "name": "Nebo",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-01 10:38:42",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "832 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-09-01 10:36:44",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,701 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-01 10:35:14",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "1,143 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Route Fire",
+      "type": "Wildfire",
+      "summary": "The Route Fire is 4,625-acre fire (approx. 100-acres on Forest...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-01 10:34:28",
+      "lat": "34.497",
+      "lng": "-118.616",
+      "size": "4,600 Acres",
+      "url": "/incident/8369/",
+      "id": "8369",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-01 10:32:13",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "1,500 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
+      "state": "MONTANA",
+      "updated": "2022-09-01 10:25:20",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,698 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
     },
     {
       "name": "Indian Ridge",
@@ -38,32 +155,6 @@
       "url": "/incident/8355/",
       "id": "8355",
       "contained": "5"
-    },
-    {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
-      "state": "MONTANA",
-      "updated": "2022-09-01 10:14:04",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,698 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateThe Salmon River Road is open to through traffic...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 10:10:59",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "99,232 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
     },
     {
       "name": "Four Corners Fire",
@@ -116,19 +207,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "99"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-01 09:49:04",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "1,500 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "0"
     },
     {
       "name": "Rodgers",
@@ -261,32 +339,6 @@
       "contained": "0"
     },
     {
-      "name": "Route Fire",
-      "type": "Wildfire",
-      "summary": "The Route Fire is 4,625-acre fire (approx. 100-acres on Forest...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-01 00:15:56",
-      "lat": "34.497",
-      "lng": "-118.616",
-      "size": "4,600 Acres",
-      "url": "/incident/8369/",
-      "id": "8369",
-      "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-08-31 22:02:04",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "37,081 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "64"
-    },
-    {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
@@ -311,32 +363,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "100"
-    },
-    {
-      "name": "Nebo",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-08-31 21:38:23",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "832 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-08-31 21:36:47",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "1,143 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
     },
     {
       "name": "Bear Gulch Fire",
@@ -414,19 +440,6 @@
       "size": "1 Acres",
       "url": "/incident/8367/",
       "id": "8367",
-      "contained": "0"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-08-31 18:10:29",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,701 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
       "contained": "0"
     },
     {
