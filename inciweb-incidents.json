@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-01 16:17:47",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "12,817 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "41"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-01 16:11:40",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "626 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Gulch Fire is currently 113 acres with 45% containment. No...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-01 15:57:11",
+      "lat": "34.217",
+      "lng": "-117.859",
+      "size": "113 Acres",
+      "url": "/incident/8362/",
+      "id": "8362",
+      "contained": "45"
+    },
+    {
       "name": "Deep Creek Fire",
       "type": "Wildfire",
       "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
@@ -105,19 +144,6 @@
       "contained": "1"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 12:18:12",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "12,817 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "41"
-    },
-    {
       "name": "Red",
       "type": "Wildfire",
       "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
@@ -155,19 +181,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "64"
-    },
-    {
-      "name": "Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Gulch Fire is currently 113 acres with 45% containment. No...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-01 11:27:17",
-      "lat": "34.217",
-      "lng": "-117.859",
-      "size": "113 Acres",
-      "url": "/incident/8362/",
-      "id": "8362",
-      "contained": "45"
     },
     {
       "name": "Route Fire",
