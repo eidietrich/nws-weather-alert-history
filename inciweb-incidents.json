@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Blackburn Fire",
+      "type": "Wildfire",
+      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
+      "state": "IDAHO",
+      "updated": "2022-09-01 09:12:02",
+      "lat": "47.076",
+      "lng": "-115.256",
+      "size": "200 Acres",
+      "url": "/incident/8351/",
+      "id": "8351",
+      "contained": "0"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-09-01 08:43:51",
+      "updated": "2022-09-01 09:08:44",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "12,817 Acres",
@@ -14,11 +27,24 @@
       "contained": "41"
     },
     {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-09-01 09:03:30",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "6,117 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
       "state": "OREGON",
-      "updated": "2022-09-01 08:32:43",
+      "updated": "2022-09-01 08:55:31",
       "lat": "42.641",
       "lng": "-123.628",
       "size": "14,940 Acres",
@@ -547,19 +573,6 @@
       "contained": "44"
     },
     {
-      "name": "Blackburn Fire",
-      "type": "Wildfire",
-      "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
-      "state": "IDAHO",
-      "updated": "2022-08-30 13:27:54",
-      "lat": "47.076",
-      "lng": "-115.256",
-      "size": "180 Acres",
-      "url": "/incident/8351/",
-      "id": "8351",
-      "contained": "0"
-    },
-    {
       "name": "Mudpass Fire",
       "type": "Wildfire",
       "summary": "On Monday, August 29th, Texas A&amp;M Forest Service received a request...",
@@ -714,19 +727,6 @@
       "url": "/incident/8335/",
       "id": "8335",
       "contained": "95"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-08-26 12:52:14",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "5,965 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
     },
     {
       "name": "Thor",
