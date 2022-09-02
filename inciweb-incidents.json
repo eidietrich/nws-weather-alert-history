@@ -1,17 +1,173 @@
 {
   "markers": [
     {
+      "name": "East Fire",
+      "type": "Wildfire",
+      "summary": "The East Fire is currently 150 acres with 93% containment. Due to the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-02 10:20:14",
+      "lat": "34.24",
+      "lng": "-117.855",
+      "size": "150 Acres",
+      "url": "/incident/8359/",
+      "id": "8359",
+      "contained": "93"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-02 10:20:05",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "3,575 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "The fire has seen no western or southern growth in size over the past...",
+      "state": "IDAHO",
+      "updated": "2022-09-02 10:19:47",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,825 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "15"
+    },
+    {
+      "name": "Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Gulch Fire is currently 113 acres in size with 85% containment....",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-02 10:16:23",
+      "lat": "34.217",
+      "lng": "-117.859",
+      "size": "113 Acres",
+      "url": "/incident/8362/",
+      "id": "8362",
+      "contained": "85"
+    },
+    {
+      "name": "Hog Trough Fire",
+      "type": "Wildfire",
+      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
+      "state": "MONTANA",
+      "updated": "2022-09-02 10:13:04",
+      "lat": "46.152",
+      "lng": "-113.813",
+      "size": "1,701 Acres",
+      "url": "/incident/8258/",
+      "id": "8258",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-02 10:11:22",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-09-02 10:05:13",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "99"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-09-02 09:59:12",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "628 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "96"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-02 09:58:55",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "16,583 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "12"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-09-02 09:54:03",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "6,117 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Operations Video for Sept. 1, 2022: ...",
+      "state": "OREGON",
+      "updated": "2022-09-02 09:52:47",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "9,199 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
       "name": "Big Swamp",
       "type": "Wildfire",
       "summary": "",
       "state": "OREGON",
-      "updated": "2022-09-02 09:45:56",
+      "updated": "2022-09-02 09:51:00",
       "lat": "43.416",
       "lng": "-122.169",
       "size": "110 Acres",
       "url": "/incident/8323/",
       "id": "8323",
       "contained": "97"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-02 09:50:22",
+      "lat": "44.533",
+      "lng": "-116.167",
+      "size": "13,105 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "34"
     },
     {
       "name": "Deep Creek Fire",
@@ -53,32 +209,6 @@
       "contained": "10"
     },
     {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-09-02 09:43:57",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "6,117 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Operations Video for Sept. 1, 2022: ...",
-      "state": "OREGON",
-      "updated": "2022-09-02 09:40:28",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "9,199 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
-    },
-    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
@@ -92,19 +222,6 @@
       "contained": "16"
     },
     {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-02 09:38:32",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "3,575 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateThe Salmon River Road is open to through traffic...",
@@ -116,19 +233,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "44"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-02 09:31:14",
-      "lat": "44.533",
-      "lng": "-116.167",
-      "size": "13,105 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "34"
     },
     {
       "name": "Wolf Fang Fire",
@@ -167,32 +271,6 @@
       "size": "4,771 Acres",
       "url": "/incident/8332/",
       "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-02 09:06:13",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "16,583 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "12"
-    },
-    {
-      "name": "Hog Trough Fire",
-      "type": "Wildfire",
-      "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
-      "state": "MONTANA",
-      "updated": "2022-09-02 08:30:04",
-      "lat": "46.152",
-      "lng": "-113.813",
-      "size": "1,701 Acres",
-      "url": "/incident/8258/",
-      "id": "8258",
       "contained": "0"
     },
     {
@@ -261,19 +339,6 @@
       "contained": "0"
     },
     {
-      "name": "East Fire",
-      "type": "Wildfire",
-      "summary": "As of September 1st, the East Fire is 150 acres with 93% containment....",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-01 21:45:51",
-      "lat": "34.24",
-      "lng": "-117.855",
-      "size": "150 Acres",
-      "url": "/incident/8359/",
-      "id": "8359",
-      "contained": "93"
-    },
-    {
       "name": "Blackburn Fire",
       "type": "Wildfire",
       "summary": "Discovered on August 14th, the Blackburn Fire is located just north...",
@@ -298,19 +363,6 @@
       "url": "/incident/8349/",
       "id": "8349",
       "contained": "0"
-    },
-    {
-      "name": "Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Gulch Fire is currently 113 acres in size with 78% containment....",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-01 21:30:59",
-      "lat": "34.217",
-      "lng": "-117.859",
-      "size": "113 Acres",
-      "url": "/incident/8362/",
-      "id": "8362",
-      "contained": "78"
     },
     {
       "name": "Columbus Fire",
@@ -404,19 +456,6 @@
       "contained": "0"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-09-01 19:46:29",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "99"
-    },
-    {
       "name": "Solomon Fire",
       "type": "Wildfire",
       "summary": " The Solomon Fire was reported on Aug 24, 2022, and is burning...",
@@ -441,19 +480,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "99"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-09-01 19:29:20",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "628 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "96"
     },
     {
       "name": "Dismal Fire",
@@ -495,19 +521,6 @@
       "contained": "0"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-01 18:11:36",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
-    },
-    {
       "name": "Ursus Fire",
       "type": "Wildfire",
       "summary": "The Ursus Fire was detected on 8/31/2022. It is burning on the south...",
@@ -519,19 +532,6 @@
       "url": "/incident/8367/",
       "id": "8367",
       "contained": "0"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "The fire has seen no western or southern growth in size over the past...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 18:08:38",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,804 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "15"
     },
     {
       "name": "Dean Creek",
