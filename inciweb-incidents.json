@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-02 00:10:40",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "1,500 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-02 00:10:18",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "3,086 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-02 00:10:00",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "4,815 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-09-01 23:55:46",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "2,840 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "10"
+    },
+    {
       "name": "Route Fire",
       "type": "Wildfire",
       "summary": "The Route Fire is 5,208-acres (approx. 330-acres on Forest Service...",
@@ -40,32 +92,6 @@
       "contained": "0"
     },
     {
-      "name": "Sturgill",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-01 22:32:26",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "4,815 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-01 22:31:30",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "3,086 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
       "name": "White River ",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -90,19 +116,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "1"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-01 21:53:05",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "1,500 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "0"
     },
     {
       "name": "East Fire",
@@ -545,19 +558,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "98"
-    },
-    {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-09-01 10:42:18",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "2,840 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "5"
     },
     {
       "name": "Quartz Fire",
