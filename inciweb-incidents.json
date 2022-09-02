@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": " On Sunday August 28th at 0700, the Klamath National Forest Type 3...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-02 17:14:23",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,138 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "99"
+    },
+    {
+      "name": "Deep Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
+      "state": "MONTANA",
+      "updated": "2022-09-02 17:00:37",
+      "lat": "47.089",
+      "lng": "-111.226",
+      "size": "73 Acres",
+      "url": "/incident/8371/",
+      "id": "8371",
+      "contained": "15"
+    },
+    {
       "name": "Solomon Fire",
       "type": "Wildfire",
       "summary": "The Solomon Fire was reported on Aug 24, 2022, and is burning...",
@@ -313,19 +339,6 @@
       "contained": "37"
     },
     {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": " On Sunday August 28th at 0700, the Klamath National Forest Type 3...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-02 13:37:31",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,138 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "99"
-    },
-    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
@@ -506,19 +519,6 @@
       "url": "/incident/8319/",
       "id": "8319",
       "contained": "0"
-    },
-    {
-      "name": "Deep Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
-      "state": "MONTANA",
-      "updated": "2022-09-02 09:45:01",
-      "lat": "47.089",
-      "lng": "-111.226",
-      "size": "73 Acres",
-      "url": "/incident/8371/",
-      "id": "8371",
-      "contained": "15"
     },
     {
       "name": "Norton Fire",
