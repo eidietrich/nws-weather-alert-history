@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Solomon Fire",
+      "name": "Twist Creek ",
       "type": "Wildfire",
-      "summary": "The Solomon Fire was reported on Aug 24, 2022, and is burning...",
+      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
       "state": "MONTANA",
-      "updated": "2022-09-02 12:25:55",
-      "lat": "46.633",
-      "lng": "-113.691",
-      "size": "50 Acres",
-      "url": "/incident/8370/",
-      "id": "8370",
+      "updated": "2022-09-02 12:46:29",
+      "lat": "45.627",
+      "lng": "-114.951",
+      "size": "109 Acres",
+      "url": "/incident/8377/",
+      "id": "8377",
       "contained": "0"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-02 12:42:13",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
     },
     {
       "name": "Calf Canyon",
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-09-02 12:25:31",
+      "updated": "2022-09-02 12:41:35",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "341,735 Acres",
@@ -27,17 +40,43 @@
       "contained": "100"
     },
     {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-02 12:37:56",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "3,000 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
       "name": "White River ",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
       "state": "WASHINGTON",
-      "updated": "2022-09-02 12:24:05",
+      "updated": "2022-09-02 12:30:53",
       "lat": "47.885",
       "lng": "-120.917",
       "size": "3,575 Acres",
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
+    },
+    {
+      "name": "Solomon Fire",
+      "type": "Wildfire",
+      "summary": "The Solomon Fire was reported on Aug 24, 2022, and is burning...",
+      "state": "MONTANA",
+      "updated": "2022-09-02 12:27:37",
+      "lat": "46.633",
+      "lng": "-113.691",
+      "size": "50 Acres",
+      "url": "/incident/8370/",
+      "id": "8370",
+      "contained": "0"
     },
     {
       "name": "Crockets Knob Fire",
@@ -51,19 +90,6 @@
       "url": "/incident/8355/",
       "id": "8355",
       "contained": "10"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-02 12:10:54",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
     },
     {
       "name": "Trail Ridge Fire",
@@ -141,19 +167,6 @@
       "size": "3,100 Acres",
       "url": "/incident/8363/",
       "id": "8363",
-      "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-02 11:41:12",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "3,000 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
       "contained": "0"
     },
     {
