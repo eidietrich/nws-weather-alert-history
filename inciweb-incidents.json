@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
-      "state": "MONTANA",
-      "updated": "2022-09-02 16:15:59",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "2,400 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "40"
-    },
-    {
       "name": "Katka Fire",
       "type": "Wildfire",
       "summary": "Bonners Ferry Ranger District Katka Fire Fact Sheet  Friday,...",
       "state": "IDAHO",
-      "updated": "2022-09-02 16:13:56",
+      "updated": "2022-09-02 16:30:03",
       "lat": "48.637",
       "lng": "-116.167",
       "size": "35 Acres",
@@ -27,16 +14,42 @@
       "contained": "0"
     },
     {
-      "name": "Trout Fire",
+      "name": "Hermits Peak Fire",
       "type": "Wildfire",
-      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-02 16:28:43",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-09-02 16:21:46",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "97"
+    },
+    {
+      "name": "Scotch Fire",
+      "type": "Wildfire",
+      "summary": "   Idaho Panhandle National Forests Inciweb:...",
       "state": "IDAHO",
-      "updated": "2022-09-02 16:04:16",
-      "lat": "48.831",
-      "lng": "-116.545",
-      "size": "372 Acres",
-      "url": "/incident/8356/",
-      "id": "8356",
+      "updated": "2022-09-02 16:21:00",
+      "lat": "48.789",
+      "lng": "-116.48",
+      "size": "15 Acres",
+      "url": "/incident/8374/",
+      "id": "8374",
       "contained": "0"
     },
     {
@@ -44,7 +57,7 @@
       "type": "Wildfire",
       "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
       "state": "IDAHO",
-      "updated": "2022-09-02 16:03:48",
+      "updated": "2022-09-02 16:20:40",
       "lat": "48.878",
       "lng": "-116.489",
       "size": "816 Acres",
@@ -53,17 +66,43 @@
       "contained": "0"
     },
     {
-      "name": "Scotch Fire",
+      "name": "Trout Fire",
       "type": "Wildfire",
-      "summary": "   Idaho Panhandle National Forests Inciweb:...",
+      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
       "state": "IDAHO",
-      "updated": "2022-09-02 15:57:13",
-      "lat": "48.789",
-      "lng": "-116.48",
-      "size": "15 Acres",
-      "url": "/incident/8374/",
-      "id": "8374",
+      "updated": "2022-09-02 16:20:17",
+      "lat": "48.831",
+      "lng": "-116.545",
+      "size": "372 Acres",
+      "url": "/incident/8356/",
+      "id": "8356",
       "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-02 16:17:41",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "state": "MONTANA",
+      "updated": "2022-09-02 16:16:45",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "2,400 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "40"
     },
     {
       "name": "Double Creek Fire",
@@ -103,19 +142,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-09-02 15:27:55",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "97"
     },
     {
       "name": "Potter Fire",
@@ -274,19 +300,6 @@
       "contained": "99"
     },
     {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-02 13:33:55",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
-    },
-    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
@@ -311,19 +324,6 @@
       "url": "/incident/8377/",
       "id": "8377",
       "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-02 13:11:52",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
     },
     {
       "name": "Solomon Fire",
