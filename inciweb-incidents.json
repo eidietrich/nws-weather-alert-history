@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateThe Salmon River Road is open to through traffic...",
+      "state": "IDAHO",
+      "updated": "2022-09-02 09:12:56",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "100,029 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-09-02 08:56:17",
+      "updated": "2022-09-02 09:11:18",
       "lat": "44.533",
       "lng": "-116.167",
       "size": "13,501 Acres",
@@ -14,17 +27,43 @@
       "contained": "34"
     },
     {
-      "name": "Moose Fire",
+      "name": "Rum Creek Fire",
       "type": "Wildfire",
-      "summary": "Road Status UpdateThe Salmon River Road is open to through traffic...",
-      "state": "IDAHO",
-      "updated": "2022-09-02 08:55:25",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "100,029 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-02 09:06:13",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "16,583 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "12"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-02 09:04:46",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "1,791 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-02 09:04:29",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "4,771 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
     },
     {
       "name": "Crockets Knob Fire",
@@ -168,19 +207,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-01 22:14:28",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "14,940 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "1"
     },
     {
       "name": "East Fire",
@@ -534,19 +560,6 @@
       "contained": "44"
     },
     {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-01 17:08:52",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "3,558 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": "On August 26th, 2022 at 1:11 PM MST, the Dillon Interagency Dispatch...",
@@ -570,19 +583,6 @@
       "size": "626 Acres",
       "url": "/incident/8372/",
       "id": "8372",
-      "contained": "0"
-    },
-    {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-01 12:16:10",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "1,644 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
       "contained": "0"
     },
     {
