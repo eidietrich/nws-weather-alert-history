@@ -1,14 +1,118 @@
 {
   "markers": [
     {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-09-02 09:45:56",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "97"
+    },
+    {
+      "name": "Deep Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
+      "state": "MONTANA",
+      "updated": "2022-09-02 09:45:01",
+      "lat": "47.089",
+      "lng": "-111.226",
+      "size": "73 Acres",
+      "url": "/incident/8371/",
+      "id": "8371",
+      "contained": "15"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-02 09:44:28",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "2,284 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-09-02 09:44:18",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "3,170 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "10"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-09-02 09:43:57",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "6,117 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Operations Video for Sept. 1, 2022: ...",
+      "state": "OREGON",
+      "updated": "2022-09-02 09:40:28",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "9,199 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-09-02 09:38:48",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "6,398 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "16"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-02 09:38:32",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "3,575 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Road Status UpdateThe Salmon River Road is open to through traffic...",
       "state": "IDAHO",
-      "updated": "2022-09-02 09:32:05",
+      "updated": "2022-09-02 09:34:30",
       "lat": "45.375",
       "lng": "-114.091",
-      "size": "100,029 Acres",
+      "size": "101,269 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "44"
@@ -53,19 +157,6 @@
       "contained": "0"
     },
     {
-      "name": "Deep Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
-      "state": "MONTANA",
-      "updated": "2022-09-02 09:20:30",
-      "lat": "47.089",
-      "lng": "-111.226",
-      "size": "73 Acres",
-      "url": "/incident/8371/",
-      "id": "8371",
-      "contained": "15"
-    },
-    {
       "name": "Red",
       "type": "Wildfire",
       "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
@@ -92,19 +183,6 @@
       "contained": "12"
     },
     {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-09-02 08:39:18",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "3,170 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "10"
-    },
-    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "Hog Trough Fire was discovered July 17th. It is located five miles...",
@@ -116,45 +194,6 @@
       "url": "/incident/8258/",
       "id": "8258",
       "contained": "0"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-02 08:25:45",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "3,575 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-02 07:28:10",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "2,284 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-09-02 07:23:31",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "6,398 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "16"
     },
     {
       "name": "Double Creek Fire",
@@ -365,19 +404,6 @@
       "contained": "0"
     },
     {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-09-01 21:12:55",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "97"
-    },
-    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
@@ -534,19 +560,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Operations Video for Sept. 1, 2022: ...",
-      "state": "OREGON",
-      "updated": "2022-09-01 17:33:07",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "8,817 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
-    },
-    {
       "name": "Diamond Watch Fire",
       "type": "Wildfire",
       "summary": "The Diamond Watch Fire, detected on the evening of July 14th, was...",
@@ -609,19 +622,6 @@
       "size": "1,698 Acres",
       "url": "/incident/8337/",
       "id": "8337",
-      "contained": "0"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-09-01 10:15:39",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "6,117 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
       "contained": "0"
     },
     {
