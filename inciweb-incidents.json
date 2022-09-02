@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Nebo",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-02 14:04:53",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "3,433 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-02 14:02:55",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "5,481 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-02 14:02:21",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "2,947 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-02 14:00:30",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "16,940 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "12"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-09-02 13:58:09",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "3,170 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "10"
+    },
+    {
       "name": "Diamond Watch Fire",
       "type": "Wildfire",
       "summary": "The Diamond Watch Fire, detected on the evening of July 14th, was...",
       "state": "IDAHO",
-      "updated": "2022-09-02 13:52:19",
+      "updated": "2022-09-02 13:56:39",
       "lat": "48.636",
       "lng": "-117.065",
       "size": "844 Acres",
@@ -25,19 +90,6 @@
       "url": "/incident/8369/",
       "id": "8369",
       "contained": "37"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-02 13:39:37",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "16,940 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "12"
     },
     {
       "name": "McKinney Fire",
@@ -118,19 +170,6 @@
       "contained": "100"
     },
     {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-02 12:37:56",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "3,000 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "0"
-    },
-    {
       "name": "Solomon Fire",
       "type": "Wildfire",
       "summary": "The Solomon Fire was reported on Aug 24, 2022, and is burning...",
@@ -142,19 +181,6 @@
       "url": "/incident/8370/",
       "id": "8370",
       "contained": "0"
-    },
-    {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-09-02 12:14:42",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "3,170 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "10"
     },
     {
       "name": "Trail Ridge Fire",
@@ -193,32 +219,6 @@
       "size": "4,771 Acres",
       "url": "/incident/8332/",
       "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-02 11:42:03",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "5,500 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-02 11:41:38",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "3,100 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
       "contained": "0"
     },
     {
