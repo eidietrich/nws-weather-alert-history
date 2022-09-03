@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Cannon Fire",
+      "type": "Wildfire",
+      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
+      "state": "MONTANA",
+      "updated": "2022-09-03 18:01:32",
+      "lat": "47.716",
+      "lng": "-113.56",
+      "size": "1,384 Acres",
+      "url": "/incident/8326/",
+      "id": "8326",
+      "contained": "0"
+    },
+    {
+      "name": "Ursus Fire",
+      "type": "Wildfire",
+      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
+      "state": "MONTANA",
+      "updated": "2022-09-03 18:01:22",
+      "lat": "47.38",
+      "lng": "-113.025",
+      "size": "2 Acres",
+      "url": "/incident/8367/",
+      "id": "8367",
+      "contained": "0"
+    },
+    {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-09-03 18:00:41",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "358 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
-      "summary": "Road Status UpdateThe Salmon River Road is open to through traffic...",
+      "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
       "state": "IDAHO",
-      "updated": "2022-09-03 17:42:30",
+      "updated": "2022-09-03 17:47:51",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "101,269 Acres",
@@ -597,45 +636,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "99"
-    },
-    {
-      "name": "Cannon Fire",
-      "type": "Wildfire",
-      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
-      "state": "MONTANA",
-      "updated": "2022-09-02 19:07:23",
-      "lat": "47.716",
-      "lng": "-113.56",
-      "size": "1,384 Acres",
-      "url": "/incident/8326/",
-      "id": "8326",
-      "contained": "0"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-09-02 19:02:42",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "328 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
-    },
-    {
-      "name": "Ursus Fire",
-      "type": "Wildfire",
-      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
-      "state": "MONTANA",
-      "updated": "2022-09-02 19:01:28",
-      "lat": "47.38",
-      "lng": "-113.025",
-      "size": "2 Acres",
-      "url": "/incident/8367/",
-      "id": "8367",
-      "contained": "0"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
