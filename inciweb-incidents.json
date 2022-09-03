@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Deep Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
+      "state": "MONTANA",
+      "updated": "2022-09-03 11:24:14",
+      "lat": "47.089",
+      "lng": "-111.226",
+      "size": "73 Acres",
+      "url": "/incident/8371/",
+      "id": "8371",
+      "contained": "60"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-03 11:23:10",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "40,995 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "64"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "Red Flag Warning for low relative humidity, high temperatures and...",
+      "state": "IDAHO",
+      "updated": "2022-09-03 11:21:41",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,831 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "15"
+    },
+    {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": "Red Flag Warning for low relative humidity, high temperatures and...",
+      "state": "IDAHO",
+      "updated": "2022-09-03 11:17:39",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "2,005 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Patrol Point",
+      "type": "Wildfire",
+      "summary": "Red Flag Warning for low relative humidity, high temperatures and...",
+      "state": "IDAHO",
+      "updated": "2022-09-03 11:17:20",
+      "lat": "45.427",
+      "lng": "-114.938",
+      "size": "1,378 Acres",
+      "url": "/incident/8357/",
+      "id": "8357",
+      "contained": "0"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-03 11:16:20",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "4,098 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "Gulch Fire",
+      "type": "Wildfire",
+      "summary": " The Gulch Fire is currently 113 acres in size with 93% containment....",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-03 11:07:11",
+      "lat": "34.217",
+      "lng": "-117.859",
+      "size": "113 Acres",
+      "url": "/incident/8362/",
+      "id": "8362",
+      "contained": "92"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-03 10:55:05",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,410 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "34"
+    },
+    {
       "name": "Hog Trough Fire",
       "type": "Wildfire",
       "summary": "September 3, 2022 is the last working day for the Western Montana All...",
@@ -25,19 +129,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "12"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-03 10:23:39",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "40,995 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "64"
     },
     {
       "name": "Solomon Fire",
@@ -92,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-03 10:13:51",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,410 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "34"
-    },
-    {
       "name": "Lemonade Fire",
       "type": "Wildfire",
       "summary": " On Thursday, September 1, 2022, ground, and air resources responded...",
@@ -129,19 +207,6 @@
       "url": "/incident/8376/",
       "id": "8376",
       "contained": "0"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-03 09:37:46",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "4,098 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
     },
     {
       "name": "Windigo Fire",
@@ -378,19 +443,6 @@
       "contained": "93"
     },
     {
-      "name": "Gulch Fire",
-      "type": "Wildfire",
-      "summary": " The Gulch Fire is currently 113 acres in size with 93% containment....",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-02 21:24:33",
-      "lat": "34.217",
-      "lng": "-117.859",
-      "size": "113 Acres",
-      "url": "/incident/8362/",
-      "id": "8362",
-      "contained": "93"
-    },
-    {
       "name": "Route Fire",
       "type": "Wildfire",
       "summary": "The Route Fire is 5,208-acres (approx. 330-acres on Forest Service...",
@@ -402,19 +454,6 @@
       "url": "/incident/8369/",
       "id": "8369",
       "contained": "56"
-    },
-    {
-      "name": "Deep Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
-      "state": "MONTANA",
-      "updated": "2022-09-02 19:53:15",
-      "lat": "47.089",
-      "lng": "-111.226",
-      "size": "73 Acres",
-      "url": "/incident/8371/",
-      "id": "8371",
-      "contained": "15"
     },
     {
       "name": "McKinney Fire",
@@ -622,45 +661,6 @@
       "size": "816 Acres",
       "url": "/incident/8365/",
       "id": "8365",
-      "contained": "0"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "The fire has seen no western or southern growth in size over the past...",
-      "state": "IDAHO",
-      "updated": "2022-09-02 10:53:04",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,825 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "15"
-    },
-    {
-      "name": "Patrol Point",
-      "type": "Wildfire",
-      "summary": "The Patrol Point Fire is established in the base of the...",
-      "state": "IDAHO",
-      "updated": "2022-09-02 10:51:38",
-      "lat": "45.427",
-      "lng": "-114.938",
-      "size": "1,378 Acres",
-      "url": "/incident/8357/",
-      "id": "8357",
-      "contained": "0"
-    },
-    {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": "No Infrared is available from last night.  An aerial recon...",
-      "state": "IDAHO",
-      "updated": "2022-09-02 10:51:11",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "2,005 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
       "contained": "0"
     },
     {
