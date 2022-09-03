@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "McBride Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-03 12:45:48",
+      "lat": "33.4",
+      "lng": "-105.568",
+      "size": "0 Acres",
+      "url": "/incident/8080/",
+      "id": "8080",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-03 12:44:56",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "3,843 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Operations Video for Sept. 3, 2022: ...",
+      "state": "OREGON",
+      "updated": "2022-09-03 12:43:27",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "16,304 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
+      "name": "Sturgill",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-03 12:43:26",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "6,564 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-03 12:41:58",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,410 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "34"
+    },
+    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-03 12:35:13",
+      "updated": "2022-09-03 12:40:22",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "40,995 Acres",
@@ -14,17 +79,17 @@
       "contained": "64"
     },
     {
-      "name": "Four Corners Fire",
+      "name": "Nebo",
       "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-03 12:34:28",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,410 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "34"
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-03 12:39:53",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "3,858 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
     },
     {
       "name": "White River ",
@@ -79,19 +144,6 @@
       "contained": "96"
     },
     {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-03 12:20:53",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "3,843 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "0"
-    },
-    {
       "name": "Big Swamp",
       "type": "Wildfire",
       "summary": "",
@@ -103,19 +155,6 @@
       "url": "/incident/8323/",
       "id": "8323",
       "contained": "97"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Operations Video for Sept. 2, 2022: ...",
-      "state": "OREGON",
-      "updated": "2022-09-03 12:15:56",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "16,304 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
     },
     {
       "name": "Moose Fire",
@@ -245,19 +284,6 @@
       "size": "1,063 Acres",
       "url": "/incident/8374/",
       "id": "8374",
-      "contained": "0"
-    },
-    {
-      "name": "McBride Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-03 11:33:04",
-      "lat": "33.4",
-      "lng": "-105.568",
-      "size": "0 Acres",
-      "url": "/incident/8080/",
-      "id": "8080",
       "contained": "0"
     },
     {
@@ -635,32 +661,6 @@
       "size": "0 Acres",
       "url": "/incident/8375/",
       "id": "8375",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-02 14:04:53",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "3,433 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-02 14:02:55",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "5,481 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
       "contained": "0"
     },
     {
