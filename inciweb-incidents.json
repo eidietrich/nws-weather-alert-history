@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-03 15:33:57",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "18,385 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "17"
+    },
+    {
       "name": "Deep Creek Fire",
       "type": "Wildfire",
       "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
       "state": "MONTANA",
-      "updated": "2022-09-03 15:20:06",
+      "updated": "2022-09-03 15:20:26",
       "lat": "47.089",
       "lng": "-111.226",
       "size": "73 Acres",
@@ -25,19 +38,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "34"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-03 15:16:28",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "18,385 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "17"
     },
     {
       "name": "Williams Creek Fire",
