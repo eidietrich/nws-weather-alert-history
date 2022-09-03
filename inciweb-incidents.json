@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-03 18:33:18",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "1,197 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "Deep Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
+      "state": "MONTANA",
+      "updated": "2022-09-03 18:32:30",
+      "lat": "47.089",
+      "lng": "-111.226",
+      "size": "73 Acres",
+      "url": "/incident/8371/",
+      "id": "8371",
+      "contained": "60"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-03 18:21:36",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "3,843 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Rodgers",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-03 18:19:01",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "1,913 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-03 18:18:47",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "5,087 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
       "name": "Cannon Fire",
       "type": "Wildfire",
       "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
@@ -144,19 +209,6 @@
       "contained": "96"
     },
     {
-      "name": "Deep Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
-      "state": "MONTANA",
-      "updated": "2022-09-03 15:20:26",
-      "lat": "47.089",
-      "lng": "-111.226",
-      "size": "73 Acres",
-      "url": "/incident/8371/",
-      "id": "8371",
-      "contained": "60"
-    },
-    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
@@ -168,19 +220,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "34"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-03 14:45:37",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "1,197 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
     },
     {
       "name": "Sturgill Fire",
@@ -258,19 +297,6 @@
       "size": "1,287 Acres",
       "url": "/incident/8365/",
       "id": "8365",
-      "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-03 13:08:14",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "3,843 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
       "contained": "0"
     },
     {
@@ -508,19 +534,6 @@
       "contained": "0"
     },
     {
-      "name": "Rodgers",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Rodgers fire was discovered on August 8, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-03 09:04:41",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "1,926 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
       "name": "Indian Ridge",
       "type": "Wildfire",
       "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
@@ -531,19 +544,6 @@
       "size": "6,360 Acres",
       "url": "/incident/8319/",
       "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "| Smoke Outlook |The Red fire was discovered on August 4, 2022...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-03 09:03:18",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "5,085 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
       "contained": "0"
     },
     {
