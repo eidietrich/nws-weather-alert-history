@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Dean Creek",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-09-04 17:43:10",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "358 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
+      "name": "Sawtell Peak",
+      "type": "Wildfire",
+      "summary": "The Sawtell Peak Fire was reported Wednesday, August 31 2022 at 1322....",
+      "state": "IDAHO",
+      "updated": "2022-09-04 17:36:05",
+      "lat": "44.54",
+      "lng": "-111.404",
+      "size": "34 Acres",
+      "url": "/incident/8383/",
+      "id": "8383",
+      "contained": "20"
+    },
+    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
@@ -12,19 +38,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "0"
-    },
-    {
-      "name": "Sawtell Peak",
-      "type": "Wildfire",
-      "summary": "The Sawtell Peak Fire was reported Wednesday, August 31 2022 at 1322....",
-      "state": "IDAHO",
-      "updated": "2022-09-04 17:27:45",
-      "lat": "44.54",
-      "lng": "-111.404",
-      "size": "34 Acres",
-      "url": "/incident/8383/",
-      "id": "8383",
-      "contained": "20"
     },
     {
       "name": "Four Corners Fire",
@@ -508,19 +521,6 @@
       "contained": "0"
     },
     {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire started by lightning on Wednesday August...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-04 09:43:02",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "1,000 Acres",
-      "url": "/incident/8376/",
-      "id": "8376",
-      "contained": "0"
-    },
-    {
       "name": "East Fire",
       "type": "Wildfire",
       "summary": "The East Fire is currently 150 acres with 97% containment. Fire crews...",
@@ -622,19 +622,6 @@
       "size": "2 Acres",
       "url": "/incident/8367/",
       "id": "8367",
-      "contained": "0"
-    },
-    {
-      "name": "Dean Creek",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-09-03 18:00:41",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "358 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
       "contained": "0"
     },
     {
