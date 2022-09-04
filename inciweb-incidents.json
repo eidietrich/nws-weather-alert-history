@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-09-04 12:45:05",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "99"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-04 12:41:56",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "18,966 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "27"
+    },
+    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
       "state": "OREGON",
-      "updated": "2022-09-04 12:35:21",
+      "updated": "2022-09-04 12:41:04",
       "lat": "45.359",
       "lng": "-117.479",
       "size": "95 Acres",
       "url": "/incident/8380/",
       "id": "8380",
       "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-09-04 12:40:48",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "97"
+    },
+    {
+      "name": "Deep Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
+      "state": "MONTANA",
+      "updated": "2022-09-04 12:40:37",
+      "lat": "47.089",
+      "lng": "-111.226",
+      "size": "75 Acres",
+      "url": "/incident/8371/",
+      "id": "8371",
+      "contained": "60"
+    },
+    {
+      "name": "White River ",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-04 12:39:40",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "4,285 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
     },
     {
       "name": "Potter Fire",
@@ -92,32 +157,6 @@
       "contained": "44"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-09-04 11:50:55",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "99"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-04 11:49:47",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "18,966 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "27"
-    },
-    {
       "name": "Porphyry Fire",
       "type": "Wildfire",
       "summary": "Containment of the fire has increased to 25%.  Yesterday’s wind...",
@@ -142,32 +181,6 @@
       "url": "/incident/8357/",
       "id": "8357",
       "contained": "0"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-09-04 11:34:27",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "97"
-    },
-    {
-      "name": "White River ",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-04 11:31:18",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "4,285 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
     },
     {
       "name": "Six Rivers Lightning Complex",
@@ -389,19 +402,6 @@
       "url": "/incident/8337/",
       "id": "8337",
       "contained": "0"
-    },
-    {
-      "name": "Deep Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
-      "state": "MONTANA",
-      "updated": "2022-09-04 09:50:31",
-      "lat": "47.089",
-      "lng": "-111.226",
-      "size": "75 Acres",
-      "url": "/incident/8371/",
-      "id": "8371",
-      "contained": "60"
     },
     {
       "name": "Norton Fire",
