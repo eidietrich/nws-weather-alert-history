@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Sawtell Peak",
+      "type": "Wildfire",
+      "summary": "The Sawtell Peak Fire was reported Wednesday, August 31 2022 at 1322....",
+      "state": "IDAHO",
+      "updated": "2022-09-04 18:03:06",
+      "lat": "44.54",
+      "lng": "-111.404",
+      "size": "34 Acres",
+      "url": "/incident/8383/",
+      "id": "8383",
+      "contained": "20"
+    },
+    {
+      "name": "Ursus Fire",
+      "type": "Wildfire",
+      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
+      "state": "MONTANA",
+      "updated": "2022-09-04 17:47:27",
+      "lat": "47.38",
+      "lng": "-113.025",
+      "size": "2 Acres",
+      "url": "/incident/8367/",
+      "id": "8367",
+      "contained": "0"
+    },
+    {
+      "name": "Cannon Fire",
+      "type": "Wildfire",
+      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
+      "state": "MONTANA",
+      "updated": "2022-09-04 17:46:47",
+      "lat": "47.716",
+      "lng": "-113.56",
+      "size": "1,384 Acres",
+      "url": "/incident/8326/",
+      "id": "8326",
+      "contained": "0"
+    },
+    {
       "name": "Dean Creek",
       "type": "Wildfire",
       "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
@@ -12,19 +51,6 @@
       "url": "/incident/8330/",
       "id": "8330",
       "contained": "0"
-    },
-    {
-      "name": "Sawtell Peak",
-      "type": "Wildfire",
-      "summary": "The Sawtell Peak Fire was reported Wednesday, August 31 2022 at 1322....",
-      "state": "IDAHO",
-      "updated": "2022-09-04 17:36:05",
-      "lat": "44.54",
-      "lng": "-111.404",
-      "size": "34 Acres",
-      "url": "/incident/8383/",
-      "id": "8383",
-      "contained": "20"
     },
     {
       "name": "Double Creek Fire",
@@ -596,32 +622,6 @@
       "size": "5,087 Acres",
       "url": "/incident/8332/",
       "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Cannon Fire",
-      "type": "Wildfire",
-      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
-      "state": "MONTANA",
-      "updated": "2022-09-03 18:01:32",
-      "lat": "47.716",
-      "lng": "-113.56",
-      "size": "1,384 Acres",
-      "url": "/incident/8326/",
-      "id": "8326",
-      "contained": "0"
-    },
-    {
-      "name": "Ursus Fire",
-      "type": "Wildfire",
-      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
-      "state": "MONTANA",
-      "updated": "2022-09-03 18:01:22",
-      "lat": "47.38",
-      "lng": "-113.025",
-      "size": "2 Acres",
-      "url": "/incident/8367/",
-      "id": "8367",
       "contained": "0"
     },
     {
