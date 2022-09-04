@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Double Creek Fire",
+      "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
       "state": "OREGON",
-      "updated": "2022-09-04 11:58:15",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "37,862 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
+      "updated": "2022-09-04 12:20:22",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "95 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
       "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Operations Video for Sept. 4, 2022: ...",
+      "state": "OREGON",
+      "updated": "2022-09-04 12:18:23",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "16,715 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
     },
     {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-09-04 11:54:15",
+      "updated": "2022-09-04 12:10:19",
       "lat": "44.537",
       "lng": "-116.169",
       "size": "13,490 Acres",
@@ -27,17 +40,56 @@
       "contained": "34"
     },
     {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-04 12:10:15",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "6,926 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-04 12:06:34",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "37,862 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
       "state": "OREGON",
-      "updated": "2022-09-04 11:51:57",
+      "updated": "2022-09-04 12:01:34",
       "lat": "43.375",
       "lng": "-122.343",
       "size": "629 Acres",
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "96"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
+      "state": "IDAHO",
+      "updated": "2022-09-04 11:58:56",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "103,922 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
     },
     {
       "name": "Windigo Fire",
@@ -77,19 +129,6 @@
       "url": "/incident/8334/",
       "id": "8334",
       "contained": "25"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Operations Video for Sept. 4, 2022: ...",
-      "state": "OREGON",
-      "updated": "2022-09-04 11:44:43",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "16,715 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
     },
     {
       "name": "Patrol Point",
@@ -194,19 +233,6 @@
       "url": "/incident/8355/",
       "id": "8355",
       "contained": "15"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 10:41:36",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "102,103 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
     },
     {
       "name": "Twist Creek ",
@@ -456,19 +482,6 @@
       "contained": "95"
     },
     {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-03 23:01:13",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "100 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
-    },
-    {
       "name": "Sturgill Fire",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
@@ -479,19 +492,6 @@
       "size": "8,600 Acres",
       "url": "/incident/8364/",
       "id": "8364",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-03 23:00:31",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "6,950 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
       "contained": "0"
     },
     {
