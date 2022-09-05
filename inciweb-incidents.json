@@ -1,17 +1,147 @@
 {
   "markers": [
     {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-09-05 10:20:27",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "100"
+    },
+    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
       "state": "OREGON",
-      "updated": "2022-09-05 09:46:25",
+      "updated": "2022-09-05 10:19:05",
       "lat": "44.728",
       "lng": "-118.708",
       "size": "4,265 Acres",
       "url": "/incident/8355/",
       "id": "8355",
       "contained": "20"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-05 10:17:32",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "43,668 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 10:16:17",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "2,546 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 10:16:09",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "6,398 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "16"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 10:15:56",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,568 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-05 10:12:15",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "1,210 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-09-05 10:10:48",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "629 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "99"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 10:09:32",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "103,922 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Operations Video for Sept. 4, 2022: ...",
+      "state": "OREGON",
+      "updated": "2022-09-05 10:04:20",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "16,715 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
+      "name": "Lemonade Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
+      "state": "MONTANA",
+      "updated": "2022-09-05 09:57:22",
+      "lat": "48.238",
+      "lng": "-114.796",
+      "size": "564 Acres",
+      "url": "/incident/8379/",
+      "id": "8379",
+      "contained": "0"
     },
     {
       "name": "Rodgers",
@@ -53,45 +183,6 @@
       "contained": "1"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Operations Video for Sept. 4, 2022: ...",
-      "state": "OREGON",
-      "updated": "2022-09-05 09:42:35",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "16,715 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
-      "state": "IDAHO",
-      "updated": "2022-09-05 09:42:18",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "103,922 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-05 09:41:36",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "1,210 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "0"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
@@ -131,19 +222,6 @@
       "contained": "100"
     },
     {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-09-05 09:30:13",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "629 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "99"
-    },
-    {
       "name": "Bull Gin Complex",
       "type": "Wildfire",
       "summary": "As of 9/3 7:50 PM Government Fire:  Due to aerial mapping the fire...",
@@ -168,19 +246,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "34"
-    },
-    {
-      "name": "Lemonade Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
-      "state": "MONTANA",
-      "updated": "2022-09-05 08:06:14",
-      "lat": "48.238",
-      "lng": "-114.796",
-      "size": "564 Acres",
-      "url": "/incident/8379/",
-      "id": "8379",
-      "contained": "0"
     },
     {
       "name": "Sturgill Fire",
@@ -220,19 +285,6 @@
       "url": "/incident/8378/",
       "id": "8378",
       "contained": "0"
-    },
-    {
-      "name": "Big Swamp",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-09-04 23:24:42",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "100"
     },
     {
       "name": "Route Fire",
@@ -298,19 +350,6 @@
       "url": "/incident/8359/",
       "id": "8359",
       "contained": "97"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-04 22:18:50",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "38,538 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "0"
     },
     {
       "name": "Ross Fork",
@@ -440,45 +479,6 @@
       "size": "1 Acres",
       "url": "/incident/8170/",
       "id": "8170",
-      "contained": "0"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 14:42:07",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "2,546 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 14:40:18",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "6,398 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "16"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 14:26:32",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,568 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
       "contained": "0"
     },
     {
