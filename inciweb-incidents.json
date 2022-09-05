@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Big Swamp",
+      "name": "Porphyry Fire",
       "type": "Wildfire",
-      "summary": "",
-      "state": "OREGON",
-      "updated": "2022-09-05 10:20:27",
-      "lat": "43.416",
-      "lng": "-122.169",
-      "size": "110 Acres",
-      "url": "/incident/8323/",
-      "id": "8323",
-      "contained": "100"
+      "summary": "Containment of the fire has increased to 25%.  Yesterday’s wind...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 10:37:46",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,839 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "25"
+    },
+    {
+      "name": "Sawtell Peak",
+      "type": "Wildfire",
+      "summary": "The Sawtell Peak Fire was reported Wednesday, August 31 2022 at 1322....",
+      "state": "IDAHO",
+      "updated": "2022-09-05 10:37:40",
+      "lat": "44.54",
+      "lng": "-111.404",
+      "size": "34 Acres",
+      "url": "/incident/8383/",
+      "id": "8383",
+      "contained": "20"
     },
     {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
       "state": "OREGON",
-      "updated": "2022-09-05 10:19:05",
+      "updated": "2022-09-05 10:32:54",
       "lat": "44.728",
       "lng": "-118.708",
       "size": "4,265 Acres",
@@ -27,17 +40,95 @@
       "contained": "20"
     },
     {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire is 5450 acres and 5% contained. Fire behavior...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 10:27:50",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "6,010 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "4"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-05 10:23:27",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "7,277 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Potter Fire",
+      "type": "Wildfire",
+      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
+      "state": "OREGON",
+      "updated": "2022-09-05 10:23:04",
+      "lat": "43.375",
+      "lng": "-122.343",
+      "size": "629 Acres",
+      "url": "/incident/8291/",
+      "id": "8291",
+      "contained": "99"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 10:22:29",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "103,922 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
+    },
+    {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
+      "state": "OREGON",
+      "updated": "2022-09-05 10:21:44",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "100"
+    },
+    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
       "state": "OREGON",
-      "updated": "2022-09-05 10:17:32",
+      "updated": "2022-09-05 10:21:36",
       "lat": "45.428",
       "lng": "-116.739",
       "size": "43,668 Acres",
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "0"
+    },
+    {
+      "name": "Big Swamp",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "OREGON",
+      "updated": "2022-09-05 10:20:37",
+      "lat": "43.416",
+      "lng": "-122.169",
+      "size": "110 Acres",
+      "url": "/incident/8323/",
+      "id": "8323",
+      "contained": "100"
     },
     {
       "name": "Norton Fire",
@@ -90,32 +181,6 @@
       "url": "/incident/8382/",
       "id": "8382",
       "contained": "0"
-    },
-    {
-      "name": "Potter Fire",
-      "type": "Wildfire",
-      "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
-      "state": "OREGON",
-      "updated": "2022-09-05 10:10:48",
-      "lat": "43.375",
-      "lng": "-122.343",
-      "size": "629 Acres",
-      "url": "/incident/8291/",
-      "id": "8291",
-      "contained": "99"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
-      "state": "IDAHO",
-      "updated": "2022-09-05 10:09:32",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "103,922 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
     },
     {
       "name": "Cedar Creek Fire",
@@ -209,19 +274,6 @@
       "contained": "34"
     },
     {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-09-05 09:30:25",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "100"
-    },
-    {
       "name": "Bull Gin Complex",
       "type": "Wildfire",
       "summary": "As of 9/3 7:50 PM Government Fire:  Due to aerial mapping the fire...",
@@ -313,19 +365,6 @@
       "contained": "0"
     },
     {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-04 22:27:06",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "6,304 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
       "name": "Gulch Fire",
       "type": "Wildfire",
       "summary": "The Gulch Fire is currently 113 acres in size with 95% containment....",
@@ -350,32 +389,6 @@
       "url": "/incident/8359/",
       "id": "8359",
       "contained": "97"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire is 5450 acres and 5% contained. Fire behavior...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 20:14:08",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "6,010 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "4"
-    },
-    {
-      "name": "Sawtell Peak",
-      "type": "Wildfire",
-      "summary": "The Sawtell Peak Fire was reported Wednesday, August 31 2022 at 1322....",
-      "state": "IDAHO",
-      "updated": "2022-09-04 18:58:52",
-      "lat": "44.54",
-      "lng": "-111.404",
-      "size": "34 Acres",
-      "url": "/incident/8383/",
-      "id": "8383",
-      "contained": "20"
     },
     {
       "name": "Trail Ridge Fire",
@@ -493,19 +506,6 @@
       "url": "/incident/8372/",
       "id": "8372",
       "contained": "0"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "Containment of the fire has increased to 25%.  Yesterday’s wind...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 11:46:21",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,839 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "25"
     },
     {
       "name": "Patrol Point",
