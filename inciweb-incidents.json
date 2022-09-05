@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-05 18:51:08",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "1,210 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "0"
+    },
+    {
+      "name": "Murray Fire",
+      "type": "Wildfire",
+      "summary": "The fire was reported at 6:00 am on September 5th and the cause is...",
+      "state": "MONTANA",
+      "updated": "2022-09-05 18:49:07",
+      "lat": "46.829",
+      "lng": "-113.192",
+      "size": "75 Acres",
+      "url": "/incident/8389/",
+      "id": "8389",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-05 18:44:46",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "19,945 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "34"
+    },
+    {
       "name": "Deep Creek Fire",
       "type": "Wildfire",
       "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
       "state": "MONTANA",
-      "updated": "2022-09-05 18:35:37",
+      "updated": "2022-09-05 18:37:26",
       "lat": "47.089",
       "lng": "-111.226",
       "size": "37 Acres",
@@ -25,19 +64,6 @@
       "url": "/incident/8311/",
       "id": "8311",
       "contained": "100"
-    },
-    {
-      "name": "Murray Fire",
-      "type": "Wildfire",
-      "summary": "The fire was reported at 6:00 am on September 5th and the cause is...",
-      "state": "MONTANA",
-      "updated": "2022-09-05 18:26:24",
-      "lat": "46.829",
-      "lng": "-113.192",
-      "size": "75 Acres",
-      "url": "/incident/8389/",
-      "id": "8389",
-      "contained": "0"
     },
     {
       "name": "Cedar Creek Fire",
@@ -287,19 +313,6 @@
       "contained": "0"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-05 13:41:38",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "19,945 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "34"
-    },
-    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
@@ -506,19 +519,6 @@
       "url": "/incident/8355/",
       "id": "8355",
       "contained": "20"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-05 10:12:15",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "1,210 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "0"
     },
     {
       "name": "Lemonade Fire",
