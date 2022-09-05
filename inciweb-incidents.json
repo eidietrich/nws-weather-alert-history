@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-09-05 13:26:14",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "10,780 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-09-05 12:48:34",
+      "updated": "2022-09-05 13:23:26",
       "lat": "44.537",
       "lng": "-116.169",
       "size": "13,565 Acres",
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "34"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-05 13:21:04",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "12,121 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-09-05 13:19:07",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "118 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "McBride Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-05 12:56:18",
+      "lat": "33.4",
+      "lng": "-105.568",
+      "size": "0 Acres",
+      "url": "/incident/8080/",
+      "id": "8080",
+      "contained": "0"
+    },
+    {
+      "name": "Nogal Canyon Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-05 12:55:12",
+      "lat": "33.577",
+      "lng": "-105.68",
+      "size": "0 Acres",
+      "url": "/incident/8072/",
+      "id": "8072",
+      "contained": "0"
     },
     {
       "name": "Aspen",
@@ -51,19 +116,6 @@
       "url": "/incident/8371/",
       "id": "8371",
       "contained": "60"
-    },
-    {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-09-05 12:35:05",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "10,780 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
     },
     {
       "name": "Rum Creek Fire",
@@ -219,32 +271,6 @@
       "size": "2,842 Acres",
       "url": "/incident/8365/",
       "id": "8365",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-05 11:23:10",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "118 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-05 11:16:05",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "12,121 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
       "contained": "0"
     },
     {
@@ -701,19 +727,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "99"
-    },
-    {
-      "name": "McBride Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER)  THREE PHASES OF WILDFIRE...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-03 13:25:40",
-      "lat": "33.4",
-      "lng": "-105.568",
-      "size": "0 Acres",
-      "url": "/incident/8080/",
-      "id": "8080",
-      "contained": "0"
     },
     {
       "name": "Yeti and Alex Fires",
@@ -1598,19 +1611,6 @@
       "url": "/incident/8210/",
       "id": "8210",
       "contained": "100"
-    },
-    {
-      "name": "Nogal Canyon Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "Burned Area Emergency Response (BAER) THREE PHASES OF WILDFIRE...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-16 14:42:47",
-      "lat": "33.577",
-      "lng": "-105.68",
-      "size": "0 Acres",
-      "url": "/incident/8072/",
-      "id": "8072",
-      "contained": "0"
     },
     {
       "name": "Goshute Fire",
