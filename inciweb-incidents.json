@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Murray Fire",
+      "type": "Wildfire",
+      "summary": "The fire was reported at 6:00 am on September 5th and the cause is...",
+      "state": "MONTANA",
+      "updated": "2022-09-05 18:17:19",
+      "lat": "46.829",
+      "lng": "-113.192",
+      "size": "75 Acres",
+      "url": "/incident/8389/",
+      "id": "8389",
+      "contained": "0"
+    },
+    {
+      "name": "Ranger Creek Fire",
+      "type": "Wildfire",
+      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
+      "state": "TEXAS",
+      "updated": "2022-09-05 18:13:42",
+      "lat": "33.123",
+      "lng": "-99.379",
+      "size": "3,237 Acres",
+      "url": "/incident/8311/",
+      "id": "8311",
+      "contained": "100"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Operations Video for Sept. 4, 2022: ...",
+      "state": "OREGON",
+      "updated": "2022-09-05 18:08:20",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "16,715 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
       "state": "OREGON",
-      "updated": "2022-09-05 17:22:54",
+      "updated": "2022-09-05 18:06:39",
       "lat": "45.359",
       "lng": "-117.479",
       "size": "118 Acres",
@@ -18,7 +57,7 @@
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
       "state": "OREGON",
-      "updated": "2022-09-05 17:22:28",
+      "updated": "2022-09-05 18:05:52",
       "lat": "45.284",
       "lng": "-117.534",
       "size": "12,121 Acres",
@@ -27,29 +66,29 @@
       "contained": "0"
     },
     {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-05 17:22:05",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "7,277 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
       "state": "OREGON",
-      "updated": "2022-09-05 17:19:58",
+      "updated": "2022-09-05 18:05:13",
       "lat": "45.428",
       "lng": "-116.739",
       "size": "43,668 Acres",
       "url": "/incident/8366/",
       "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-05 18:04:25",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "7,277 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
       "contained": "0"
     },
     {
@@ -207,19 +246,6 @@
       "url": "/incident/8387/",
       "id": "8387",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Operations Video for Sept. 4, 2022: ...",
-      "state": "OREGON",
-      "updated": "2022-09-05 15:07:54",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "16,715 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
     },
     {
       "name": "Trail Ridge Fire",
@@ -1132,19 +1158,6 @@
       "contained": "100"
     },
     {
-      "name": "Deep Draw Fire",
-      "type": "Wildfire",
-      "summary": "The Deep Draw Fire was first reported just after 8pm on Friday,...",
-      "state": "MONTANA",
-      "updated": "2022-08-16 18:11:59",
-      "lat": "45.304",
-      "lng": "-108.699",
-      "size": "827 Acres",
-      "url": "/incident/8328/",
-      "id": "8328",
-      "contained": "75"
-    },
-    {
       "name": "MOHR",
       "type": "Wildfire",
       "summary": " As of 12PM on 08/12/22 this fire was turned over to the local BLM...",
@@ -1272,32 +1285,6 @@
       "size": "514 Acres",
       "url": "/incident/8316/",
       "id": "8316",
-      "contained": "100"
-    },
-    {
-      "name": "Matt Staff Rd Fire ",
-      "type": "Wildfire",
-      "summary": " MATT STAFF RD FIRE - Final Update 8/8/22, 4:30 pmThe fire is now...",
-      "state": "MONTANA",
-      "updated": "2022-08-09 09:57:02",
-      "lat": "46.573",
-      "lng": "-111.783",
-      "size": "1,587 Acres",
-      "url": "/incident/8309/",
-      "id": "8309",
-      "contained": "100"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-08-09 08:13:26",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "3,237 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
       "contained": "100"
     },
     {
