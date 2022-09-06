@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": "       Trail Ridge and Thompson Creek Fires Trail Ridge Fire...",
+      "state": "MONTANA",
+      "updated": "2022-09-06 13:55:02",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "3,028 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
+      "contained": "0"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "Four lightning-caused fires are active across North Cascades National...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-06 13:51:42",
+      "lat": "48.916",
+      "lng": "-121.413",
+      "size": "3,700 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-06 13:47:57",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "53,539 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "0"
+    },
+    {
+      "name": "Columbus Fire",
+      "type": "Wildfire",
+      "summary": "The Columbus Fire was detected on August 22nd, 2022. It is located...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 13:46:40",
+      "lat": "47.689",
+      "lng": "-115.756",
+      "size": "380 Acres",
+      "url": "/incident/8368/",
+      "id": "8368",
+      "contained": "0"
+    },
+    {
+      "name": "Burns Creek Fire",
+      "type": "Wildfire",
+      "summary": "At 4:16pm on August 7th, The Texas A&amp;M Forest Service was requested...",
+      "state": "TEXAS",
+      "updated": "2022-09-06 13:46:19",
+      "lat": "30.277",
+      "lng": "-96.589",
+      "size": "397 Acres",
+      "url": "/incident/8313/",
+      "id": "8313",
+      "contained": "100"
+    },
+    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire is currently being managed by a Type 3 Incident...",
       "state": "IDAHO",
-      "updated": "2022-09-06 13:21:15",
+      "updated": "2022-09-06 13:43:50",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "24,026 Acres",
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "4"
+    },
+    {
+      "name": "Thor",
+      "type": "Wildfire",
+      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-06 13:38:56",
+      "lat": "48.819",
+      "lng": "-117.168",
+      "size": "800 Acres",
+      "url": "/incident/8343/",
+      "id": "8343",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Daily Operations Video: ...",
+      "state": "OREGON",
+      "updated": "2022-09-06 13:32:36",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "18,143 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
+      "name": "RADFORD",
+      "type": "Wildfire",
+      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-06 13:29:13",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "450 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "0"
     },
     {
       "name": "Rum Creek Fire",
@@ -105,19 +209,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Daily Operations Video: ...",
-      "state": "OREGON",
-      "updated": "2022-09-06 12:55:11",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "18,143 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
-    },
-    {
       "name": "Mill Lake Fire",
       "type": "Wildfire",
       "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
@@ -128,19 +219,6 @@
       "size": "450 Acres",
       "url": "/incident/8392/",
       "id": "8392",
-      "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-06 12:50:22",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "53,539 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
       "contained": "0"
     },
     {
@@ -180,32 +258,6 @@
       "size": "153 Acres",
       "url": "/incident/8380/",
       "id": "8380",
-      "contained": "0"
-    },
-    {
-      "name": "RADFORD",
-      "type": "Wildfire",
-      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-06 12:06:38",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "450 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "0"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "Four lightning-caused fires are active across North Cascades National...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-06 11:59:33",
-      "lat": "48.916",
-      "lng": "-121.413",
-      "size": "3,700 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
       "contained": "0"
     },
     {
@@ -599,19 +651,6 @@
       "contained": "100"
     },
     {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": "On August 26th, 2022 at 1:11 PM MST, the Dillon Interagency Dispatch...",
-      "state": "MONTANA",
-      "updated": "2022-09-05 21:16:22",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "2,842 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
-      "contained": "0"
-    },
-    {
       "name": "Gulch Fire",
       "type": "Wildfire",
       "summary": "The Gulch Fire is currently 113 acres in size with 95% containment....",
@@ -807,19 +846,6 @@
       "contained": "0"
     },
     {
-      "name": "Thor",
-      "type": "Wildfire",
-      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-04 10:17:47",
-      "lat": "48.819",
-      "lng": "-117.168",
-      "size": "800 Acres",
-      "url": "/incident/8343/",
-      "id": "8343",
-      "contained": "0"
-    },
-    {
       "name": "Trout Fire",
       "type": "Wildfire",
       "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
@@ -974,19 +1000,6 @@
       "url": "/incident/8335/",
       "id": "8335",
       "contained": "95"
-    },
-    {
-      "name": "Columbus Fire",
-      "type": "Wildfire",
-      "summary": "The Columbus Fire was detected on August 22nd, 2022. It is located...",
-      "state": "IDAHO",
-      "updated": "2022-09-01 21:28:32",
-      "lat": "47.689",
-      "lng": "-115.756",
-      "size": "300 Acres",
-      "url": "/incident/8368/",
-      "id": "8368",
-      "contained": "0"
     },
     {
       "name": "Cerro Pelado",
@@ -1273,19 +1286,6 @@
       "url": "/incident/8321/",
       "id": "8321",
       "contained": "70"
-    },
-    {
-      "name": "Burns Creek Fire",
-      "type": "Wildfire",
-      "summary": "At 4:16pm on August 7th, The Texas A&amp;M Forest Service was requested...",
-      "state": "TEXAS",
-      "updated": "2022-08-11 07:55:02",
-      "lat": "30.277",
-      "lng": "-96.589",
-      "size": "397 Acres",
-      "url": "/incident/8313/",
-      "id": "8313",
-      "contained": "95"
     },
     {
       "name": "Sheep Post-Fire BAER",
