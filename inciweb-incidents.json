@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 09:18:40",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,645 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "34"
+    },
+    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire is currently being managed by a Type 3 Incident...",
       "state": "IDAHO",
-      "updated": "2022-09-06 08:45:43",
+      "updated": "2022-09-06 09:16:42",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "14,800 Acres",
@@ -14,17 +27,56 @@
       "contained": "4"
     },
     {
-      "name": "Four Corners Fire",
+      "name": "Porphyry Fire",
       "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "summary": "Containment of the fire has increased to 25%.  No growth of the...",
       "state": "IDAHO",
-      "updated": "2022-09-06 08:37:35",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,645 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "34"
+      "updated": "2022-09-06 09:16:33",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,841 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "25"
+    },
+    {
+      "name": "RADFORD",
+      "type": "Wildfire",
+      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-06 09:13:51",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "330 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "0"
+    },
+    {
+      "name": "Lemonade Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
+      "state": "MONTANA",
+      "updated": "2022-09-06 09:10:35",
+      "lat": "48.238",
+      "lng": "-114.796",
+      "size": "593 Acres",
+      "url": "/incident/8379/",
+      "id": "8379",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-06 08:57:35",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "1,210 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "0"
     },
     {
       "name": "White River ",
@@ -66,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "RADFORD",
-      "type": "Wildfire",
-      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-06 02:15:16",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "330 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "0"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Cedar Creek Fire Daily Operations Video: ...",
@@ -90,19 +129,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "12"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-05 23:22:26",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "1,210 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "0"
     },
     {
       "name": "Kootenai River Complex ",
@@ -599,19 +625,6 @@
       "contained": "0"
     },
     {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "Containment of the fire has increased to 25%.  No growth of the...",
-      "state": "IDAHO",
-      "updated": "2022-09-05 10:52:47",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,839 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "25"
-    },
-    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
@@ -623,19 +636,6 @@
       "url": "/incident/8355/",
       "id": "8355",
       "contained": "20"
-    },
-    {
-      "name": "Lemonade Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
-      "state": "MONTANA",
-      "updated": "2022-09-05 09:57:22",
-      "lat": "48.238",
-      "lng": "-114.796",
-      "size": "564 Acres",
-      "url": "/incident/8379/",
-      "id": "8379",
-      "contained": "0"
     },
     {
       "name": "Rodgers",
@@ -976,19 +976,6 @@
       "contained": "53"
     },
     {
-      "name": "Mudpass Fire",
-      "type": "Wildfire",
-      "summary": "On Monday, August 29th, Texas A&amp;M Forest Service received a request...",
-      "state": "TEXAS",
-      "updated": "2022-08-30 10:03:07",
-      "lat": "32.834",
-      "lng": "-99.173",
-      "size": "294 Acres",
-      "url": "/incident/8361/",
-      "id": "8361",
-      "contained": "100"
-    },
-    {
       "name": "Wishon Fire",
       "type": "Wildfire",
       "summary": "Final Daily Update (pdf)    |     Final Fire Map (pdf)    ...",
@@ -1130,19 +1117,6 @@
       "url": "/incident/8144/",
       "id": "8144",
       "contained": "0"
-    },
-    {
-      "name": "Henderson Fire",
-      "type": "Wildfire",
-      "summary": "Jack County requested support for a fire estimated at 100 acres in...",
-      "state": "TEXAS",
-      "updated": "2022-08-20 19:56:24",
-      "lat": "33.114",
-      "lng": "-97.991",
-      "size": "110 Acres",
-      "url": "/incident/8346/",
-      "id": "8346",
-      "contained": "100"
     },
     {
       "name": "Elmo Fire",
@@ -1338,19 +1312,6 @@
       "url": "/incident/8315/",
       "id": "8315",
       "contained": "0"
-    },
-    {
-      "name": "High Point Fire",
-      "type": "Wildfire",
-      "summary": " Friday August 5th Texas A&amp;M Forest Service received a request for...",
-      "state": "TEXAS",
-      "updated": "2022-08-08 12:55:32",
-      "lat": "32.325",
-      "lng": "-98.586",
-      "size": "235 Acres",
-      "url": "/incident/8310/",
-      "id": "8310",
-      "contained": "100"
     },
     {
       "name": "Pine Peak Fire",
