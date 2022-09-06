@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Suiattle River Fire",
+      "type": "Wildfire",
+      "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-06 18:21:25",
+      "lat": "48.311",
+      "lng": "-121.392",
+      "size": "47 Acres",
+      "url": "/incident/8396/",
+      "id": "8396",
+      "contained": "0"
+    },
+    {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": "       Trail Ridge and Thompson Creek Fires Trail Ridge Fire...",
+      "state": "MONTANA",
+      "updated": "2022-09-06 18:19:45",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "3,028 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
+      "contained": "0"
+    },
+    {
+      "name": "RADFORD",
+      "type": "Wildfire",
+      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-06 18:19:33",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "646 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire is currently being managed by a Type 3 Incident...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 18:18:34",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "24,026 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "4"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 18:15:46",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "12,487 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 18:06:50",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,645 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "45"
+    },
+    {
+      "name": "Ursus Fire",
+      "type": "Wildfire",
+      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
+      "state": "MONTANA",
+      "updated": "2022-09-06 17:48:15",
+      "lat": "47.38",
+      "lng": "-113.025",
+      "size": "1,824 Acres",
+      "url": "/incident/8367/",
+      "id": "8367",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Cedar Creek Fire Daily Operations Video: ...",
@@ -27,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire is currently being managed by a Type 3 Incident...",
-      "state": "IDAHO",
-      "updated": "2022-09-06 16:50:02",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "24,026 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "4"
-    },
-    {
       "name": "Williams Creek Fire",
       "type": "Wildfire",
       "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
@@ -51,32 +129,6 @@
       "url": "/incident/8372/",
       "id": "8372",
       "contained": "0"
-    },
-    {
-      "name": "RADFORD",
-      "type": "Wildfire",
-      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-06 16:25:46",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "646 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-06 16:16:31",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,645 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "45"
     },
     {
       "name": "Goat Mountain 2 Fire",
@@ -142,19 +194,6 @@
       "url": "/incident/8093/",
       "id": "8093",
       "contained": "100"
-    },
-    {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": "       Trail Ridge and Thompson Creek Fires Trail Ridge Fire...",
-      "state": "MONTANA",
-      "updated": "2022-09-06 15:15:30",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "3,028 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
-      "contained": "0"
     },
     {
       "name": "Chilliwack Complex",
@@ -261,19 +300,6 @@
       "contained": "0"
     },
     {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-09-06 12:59:59",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "12,487 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
-    },
-    {
       "name": "Mill Lake Fire",
       "type": "Wildfire",
       "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
@@ -311,19 +337,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Ursus Fire",
-      "type": "Wildfire",
-      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
-      "state": "MONTANA",
-      "updated": "2022-09-06 11:58:42",
-      "lat": "47.38",
-      "lng": "-113.025",
-      "size": "1,580 Acres",
-      "url": "/incident/8367/",
-      "id": "8367",
-      "contained": "0"
     },
     {
       "name": "Margaret Fire",
@@ -843,71 +856,6 @@
       "size": "6,360 Acres",
       "url": "/incident/8319/",
       "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Trout Fire",
-      "type": "Wildfire",
-      "summary": "In the afternoon of August 21, 2022, the Trout Fire was detected...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 10:15:50",
-      "lat": "48.831",
-      "lng": "-116.545",
-      "size": "1,740 Acres",
-      "url": "/incident/8356/",
-      "id": "8356",
-      "contained": "0"
-    },
-    {
-      "name": "Eneas Peak Fire",
-      "type": "Wildfire",
-      "summary": "The Eneas Peak Fire, confirmed on August 13th, was started by...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 10:15:39",
-      "lat": "48.878",
-      "lng": "-116.489",
-      "size": "1,408 Acres",
-      "url": "/incident/8338/",
-      "id": "8338",
-      "contained": "0"
-    },
-    {
-      "name": "Russell Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Russell Mountain Fire was reported early afternoon on August 24,...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 10:15:25",
-      "lat": "48.788",
-      "lng": "-116.571",
-      "size": "4,811 Acres",
-      "url": "/incident/8360/",
-      "id": "8360",
-      "contained": "0"
-    },
-    {
-      "name": "Scotch Fire",
-      "type": "Wildfire",
-      "summary": "   Idaho Panhandle National Forests Inciweb:...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 10:15:15",
-      "lat": "48.789",
-      "lng": "-116.48",
-      "size": "1,410 Acres",
-      "url": "/incident/8374/",
-      "id": "8374",
-      "contained": "0"
-    },
-    {
-      "name": "Katka Fire",
-      "type": "Wildfire",
-      "summary": "Bonners Ferry Ranger District Katka Fire Fact Sheet  Friday,...",
-      "state": "IDAHO",
-      "updated": "2022-09-04 10:14:58",
-      "lat": "48.637",
-      "lng": "-116.167",
-      "size": "52 Acres",
-      "url": "/incident/8373/",
-      "id": "8373",
       "contained": "0"
     },
     {
