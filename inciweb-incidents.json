@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Red",
-      "type": "Wildfire",
-      "summary": "The Red fire was discovered on August 4, 2022 between Red Creek and...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-06 09:37:27",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "5,520 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-06 09:37:25",
+      "updated": "2022-09-06 09:47:18",
       "lat": "40.907",
       "lng": "-123.598",
       "size": "41,296 Acres",
@@ -27,16 +14,107 @@
       "contained": "79"
     },
     {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": "No Infrared imagery is available from last night.  An increase of...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 09:46:43",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "2,459 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 09:46:12",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "107,523 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "The Red fire was discovered on August 4, 2022 between Red Creek and...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-06 09:43:22",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "5,520 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
       "name": "Rodgers",
       "type": "Wildfire",
       "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-06 09:36:57",
+      "updated": "2022-09-06 09:43:06",
       "lat": "37.954",
       "lng": "-119.552",
       "size": "2,365 Acres",
       "url": "/incident/8333/",
       "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Aspen",
+      "type": "Wildfire",
+      "summary": "The Aspen fire was reported on September 4, 2022 at 3:21 pm. A...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-06 09:42:51",
+      "lat": "37.833",
+      "lng": "-119.767",
+      "size": "19 Acres",
+      "url": "/incident/8385/",
+      "id": "8385",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-06 09:42:05",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "1,241 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "0"
+    },
+    {
+      "name": "Patrol Point",
+      "type": "Wildfire",
+      "summary": "The fire grew by 1,200 acres yesterday as high temperatures persist,...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 09:39:16",
+      "lat": "45.427",
+      "lng": "-114.938",
+      "size": "6,352 Acres",
+      "url": "/incident/8357/",
+      "id": "8357",
+      "contained": "0"
+    },
+    {
+      "name": "Lemonade Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
+      "state": "MONTANA",
+      "updated": "2022-09-06 09:39:06",
+      "lat": "48.238",
+      "lng": "-114.796",
+      "size": "593 Acres",
+      "url": "/incident/8379/",
+      "id": "8379",
       "contained": "0"
     },
     {
@@ -53,19 +131,6 @@
       "contained": "0"
     },
     {
-      "name": "Lemonade Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
-      "state": "MONTANA",
-      "updated": "2022-09-06 09:36:36",
-      "lat": "48.238",
-      "lng": "-114.796",
-      "size": "593 Acres",
-      "url": "/incident/8379/",
-      "id": "8379",
-      "contained": "0"
-    },
-    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
@@ -79,19 +144,6 @@
       "contained": "16"
     },
     {
-      "name": "Patrol Point",
-      "type": "Wildfire",
-      "summary": "The fire grew by 1,200 acres yesterday as high temperatures persist,...",
-      "state": "IDAHO",
-      "updated": "2022-09-06 09:36:27",
-      "lat": "45.427",
-      "lng": "-114.938",
-      "size": "6,352 Acres",
-      "url": "/incident/8357/",
-      "id": "8357",
-      "contained": "0"
-    },
-    {
       "name": "Wolf Fang Fire",
       "type": "Wildfire",
       "summary": "The lightning fire is located approximately four (4) miles northeast...",
@@ -102,19 +154,6 @@
       "size": "1,568 Acres",
       "url": "/incident/8273/",
       "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Aspen",
-      "type": "Wildfire",
-      "summary": "The Aspen fire was reported on September 4, 2022 at 3:21 pm. A...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-06 09:35:33",
-      "lat": "37.833",
-      "lng": "-119.767",
-      "size": "19 Acres",
-      "url": "/incident/8385/",
-      "id": "8385",
       "contained": "0"
     },
     {
@@ -142,19 +181,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "4"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-06 09:30:38",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "1,210 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "0"
     },
     {
       "name": "Porphyry Fire",
@@ -391,19 +417,6 @@
       "contained": "98"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Road Status UpdateHighway 93 is open to traffic in both directions. ...",
-      "state": "IDAHO",
-      "updated": "2022-09-05 21:12:32",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "105,322 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
-    },
-    {
       "name": "Dean Creek",
       "type": "Wildfire",
       "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
@@ -635,19 +648,6 @@
       "size": "0 Acres",
       "url": "/incident/8384/",
       "id": "8384",
-      "contained": "0"
-    },
-    {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": "An increase of 300 acres is a result of more accurate mapping - no...",
-      "state": "IDAHO",
-      "updated": "2022-09-05 11:44:10",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "2,459 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
       "contained": "0"
     },
     {
