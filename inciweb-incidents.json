@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 10:50:37",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "4,745 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "SR Lightning Complex BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-06 10:49:17",
+      "lat": "40.907",
+      "lng": "-123.479",
+      "size": "0 Acres",
+      "url": "/incident/8384/",
+      "id": "8384",
+      "contained": "0"
+    },
+    {
       "name": "Bull Gin Complex",
       "type": "Wildfire",
       "summary": "As of 9/3 7:50 PM Government Fire:  Due to aerial mapping the fire...",
       "state": "MONTANA",
-      "updated": "2022-09-06 10:38:28",
+      "updated": "2022-09-06 10:45:34",
       "lat": "48.087",
       "lng": "-115.826",
       "size": "834 Acres",
@@ -25,19 +51,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "SR Lightning Complex BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-06 10:36:38",
-      "lat": "40.907",
-      "lng": "-123.479",
-      "size": "0 Acres",
-      "url": "/incident/8384/",
-      "id": "8384",
-      "contained": "0"
     },
     {
       "name": "Sawtell Peak",
@@ -610,19 +623,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "100"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-05 14:20:40",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "4,745 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
     },
     {
       "name": "McBride Post-Fire BAER",
