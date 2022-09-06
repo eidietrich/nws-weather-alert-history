@@ -1,24 +1,63 @@
 {
   "markers": [
     {
-      "name": "Trail Ridge Fire",
+      "name": "Ross Fork",
       "type": "Wildfire",
-      "summary": "       Trail Ridge and Thompson Creek Fires Trail Ridge Fire...",
-      "state": "MONTANA",
-      "updated": "2022-09-06 13:55:02",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "3,028 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
+      "summary": "The Ross Fork Fire is currently being managed by a Type 3 Incident...",
+      "state": "IDAHO",
+      "updated": "2022-09-06 14:15:22",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "24,026 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "4"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
+      "state": "OREGON",
+      "updated": "2022-09-06 14:15:17",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "53,539 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
       "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-06 14:12:37",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "14,262 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-06 14:12:00",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "20,029 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "34"
     },
     {
       "name": "Chilliwack Complex",
       "type": "Wildfire",
       "summary": "Four lightning-caused fires are active across North Cascades National...",
       "state": "WASHINGTON",
-      "updated": "2022-09-06 13:51:42",
+      "updated": "2022-09-06 14:08:42",
       "lat": "48.916",
       "lng": "-121.413",
       "size": "3,700 Acres",
@@ -27,16 +66,29 @@
       "contained": "0"
     },
     {
-      "name": "Double Creek Fire",
+      "name": "RADFORD",
       "type": "Wildfire",
-      "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
-      "state": "OREGON",
-      "updated": "2022-09-06 13:47:57",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "53,539 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
+      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-06 14:06:08",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "450 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "0"
+    },
+    {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": "       Trail Ridge and Thompson Creek Fires Trail Ridge Fire...",
+      "state": "MONTANA",
+      "updated": "2022-09-06 14:02:52",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "3,028 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
       "contained": "0"
     },
     {
@@ -51,32 +103,6 @@
       "url": "/incident/8368/",
       "id": "8368",
       "contained": "0"
-    },
-    {
-      "name": "Burns Creek Fire",
-      "type": "Wildfire",
-      "summary": "At 4:16pm on August 7th, The Texas A&amp;M Forest Service was requested...",
-      "state": "TEXAS",
-      "updated": "2022-09-06 13:46:19",
-      "lat": "30.277",
-      "lng": "-96.589",
-      "size": "397 Acres",
-      "url": "/incident/8313/",
-      "id": "8313",
-      "contained": "100"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire is currently being managed by a Type 3 Incident...",
-      "state": "IDAHO",
-      "updated": "2022-09-06 13:43:50",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "24,026 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "4"
     },
     {
       "name": "Thor",
@@ -103,32 +129,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "12"
-    },
-    {
-      "name": "RADFORD",
-      "type": "Wildfire",
-      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-06 13:29:13",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "450 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-06 13:20:46",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "20,029 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "34"
     },
     {
       "name": "Seven Bays",
@@ -363,19 +363,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "99"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-06 11:23:54",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "14,262 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
     },
     {
       "name": "Lemonade Fire",
@@ -688,19 +675,6 @@
       "url": "/incident/8389/",
       "id": "8389",
       "contained": "0"
-    },
-    {
-      "name": "Ranger Creek Fire",
-      "type": "Wildfire",
-      "summary": " Texas A&amp;M Forest Service was requested by Throckmorton VFD to...",
-      "state": "TEXAS",
-      "updated": "2022-09-05 18:30:02",
-      "lat": "33.123",
-      "lng": "-99.379",
-      "size": "3,237 Acres",
-      "url": "/incident/8311/",
-      "id": "8311",
-      "contained": "100"
     },
     {
       "name": "Diamond Watch Fire",
@@ -1145,19 +1119,6 @@
       "contained": "0"
     },
     {
-      "name": "Pine Pond Fire",
-      "type": "Wildfire",
-      "summary": "The Pine Pond Fire reached 100% containment on August 20, 2022....",
-      "state": "TEXAS",
-      "updated": "2022-08-21 14:07:27",
-      "lat": "30.091",
-      "lng": "-97.159",
-      "size": "700 Acres",
-      "url": "/incident/8324/",
-      "id": "8324",
-      "contained": "100"
-    },
-    {
       "name": "Black Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -1236,19 +1197,6 @@
       "contained": "100"
     },
     {
-      "name": "Big Sky Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service was requested to assist local officials on...",
-      "state": "TEXAS",
-      "updated": "2022-08-12 15:12:39",
-      "lat": "30.389",
-      "lng": "-98.789",
-      "size": "1,459 Acres",
-      "url": "/incident/8296/",
-      "id": "8296",
-      "contained": "100"
-    },
-    {
       "name": "VANTAGE HIGHWAY",
       "type": "Wildfire",
       "summary": "The Vantage Highway fire started on August 1, 2022 at 1205 PM PDT....",
@@ -1324,19 +1272,6 @@
       "size": "514 Acres",
       "url": "/incident/8316/",
       "id": "8316",
-      "contained": "100"
-    },
-    {
-      "name": "Smoke Rider Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service has been requested to assist on the Smoke...",
-      "state": "TEXAS",
-      "updated": "2022-08-08 20:11:17",
-      "lat": "30.162",
-      "lng": "-98.244",
-      "size": "1,210 Acres",
-      "url": "/incident/8295/",
-      "id": "8295",
       "contained": "100"
     },
     {
