@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "RADFORD",
+      "type": "Wildfire",
+      "summary": " The Radford Fire was reported at 1:30 in the afternoon on September...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-06 00:31:52",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "200 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-05 23:50:30",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "19,945 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "34"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Cedar Creek Fire Daily Operations Video: ...",
       "state": "OREGON",
-      "updated": "2022-09-05 23:30:53",
+      "updated": "2022-09-05 23:33:59",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "17,625 Acres",
@@ -37,32 +63,6 @@
       "size": "10,780 Acres",
       "url": "/incident/8378/",
       "id": "8378",
-      "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-05 23:20:42",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "19,945 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "34"
-    },
-    {
-      "name": "RADFORD",
-      "type": "Wildfire",
-      "summary": " The Radford Fire was reported at 1:30 this afternoon by a Forest...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-05 22:58:07",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "200 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
       "contained": "0"
     },
     {
