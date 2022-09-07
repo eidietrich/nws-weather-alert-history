@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Bear Gulch Fire",
+      "type": "Wildfire",
+      "summary": "The Bear Gulch Fire was detected on August 18th, 2022. It is located...",
+      "state": "IDAHO",
+      "updated": "2022-09-07 18:55:15",
+      "lat": "47.624",
+      "lng": "-115.714",
+      "size": "95 Acres",
+      "url": "/incident/8349/",
+      "id": "8349",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "A community meeting will be held on Wednesday, September 7 at 6 p.m....",
+      "state": "IDAHO",
+      "updated": "2022-09-07 18:53:50",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "28,874 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "2"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-07 18:46:31",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "16,914 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
       "state": "OREGON",
-      "updated": "2022-09-07 18:19:13",
+      "updated": "2022-09-07 18:46:24",
       "lat": "45.359",
       "lng": "-117.479",
       "size": "179 Acres",
@@ -18,7 +57,7 @@
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
       "state": "OREGON",
-      "updated": "2022-09-07 18:19:01",
+      "updated": "2022-09-07 18:46:15",
       "lat": "45.133",
       "lng": "-117.11",
       "size": "9,553 Acres",
@@ -27,30 +66,43 @@
       "contained": "0"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-07 18:18:51",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "16,914 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire is in Hells Canyon National Recreation Area...",
       "state": "OREGON",
-      "updated": "2022-09-07 18:18:39",
+      "updated": "2022-09-07 18:46:04",
       "lat": "45.428",
       "lng": "-116.739",
       "size": "59,510 Acres",
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "0"
+    },
+    {
+      "name": "Columbus Fire",
+      "type": "Wildfire",
+      "summary": "The Columbus Fire was detected on August 22nd, 2022. It is located...",
+      "state": "IDAHO",
+      "updated": "2022-09-07 18:44:33",
+      "lat": "47.689",
+      "lng": "-115.756",
+      "size": "1,000 Acres",
+      "url": "/incident/8368/",
+      "id": "8368",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Daily Operations Video: ...",
+      "state": "OREGON",
+      "updated": "2022-09-07 18:32:52",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "18,143 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
     },
     {
       "name": "Four Corners Fire",
@@ -77,19 +129,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Daily Operations Video: ...",
-      "state": "OREGON",
-      "updated": "2022-09-07 18:00:29",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "18,143 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
     },
     {
       "name": "Boulder Lake",
@@ -155,19 +194,6 @@
       "url": "/incident/8399/",
       "id": "8399",
       "contained": "0"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "A community meeting will be held on Wednesday, September 7 at 6 p.m....",
-      "state": "IDAHO",
-      "updated": "2022-09-07 16:48:52",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "28,874 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "2"
     },
     {
       "name": "Dean Creek Fire",
@@ -482,19 +508,6 @@
       "contained": "100"
     },
     {
-      "name": "Columbus Fire",
-      "type": "Wildfire",
-      "summary": "The Columbus Fire was detected on August 22nd, 2022. It is located...",
-      "state": "IDAHO",
-      "updated": "2022-09-07 11:20:24",
-      "lat": "47.689",
-      "lng": "-115.756",
-      "size": "800 Acres",
-      "url": "/incident/8368/",
-      "id": "8368",
-      "contained": "0"
-    },
-    {
       "name": "Seven Bays",
       "type": "Wildfire",
       "summary": " Davenport, WA - The Seven Bays Fire is located approximately 15...",
@@ -701,19 +714,6 @@
       "url": "/incident/8351/",
       "id": "8351",
       "contained": "3"
-    },
-    {
-      "name": "Bear Gulch Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Gulch Fire was detected on August 18th, 2022. It is located...",
-      "state": "IDAHO",
-      "updated": "2022-09-06 13:05:22",
-      "lat": "47.624",
-      "lng": "-115.714",
-      "size": "95 Acres",
-      "url": "/incident/8349/",
-      "id": "8349",
-      "contained": "0"
     },
     {
       "name": "Mill Lake Fire",
