@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "North Camas Fire",
+      "type": "Wildfire",
+      "summary": "The North Camas Fire was detected in the upper Camas Creek drainage...",
+      "state": "MONTANA",
+      "updated": "2022-09-07 14:47:01",
+      "lat": "48.726",
+      "lng": "-113.858",
+      "size": "20 Acres",
+      "url": "/incident/8387/",
+      "id": "8387",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Highway 93 is open to travel in both directions with no restrictions...",
+      "state": "IDAHO",
+      "updated": "2022-09-07 14:44:02",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "107,523 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "44"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-07 14:43:45",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "5,197 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-07 14:42:03",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "1,289 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
+      "state": "MONTANA",
+      "updated": "2022-09-07 14:32:08",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,720 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": "The fire has seen an increase of 500 acres yesterday and...",
+      "state": "IDAHO",
+      "updated": "2022-09-07 14:30:18",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "2,934 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -66,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
-      "state": "MONTANA",
-      "updated": "2022-09-07 14:15:09",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,720 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
-    },
-    {
       "name": "NW Pasayten Fires",
       "type": "Wildfire",
       "summary": "There are a number of lightning caused fires burning in the very...",
@@ -89,19 +154,6 @@
       "size": "16,700 Acres",
       "url": "/incident/8397/",
       "id": "8397",
-      "contained": "0"
-    },
-    {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": "The fire has seen an increase of 500 acres yesterday and...",
-      "state": "IDAHO",
-      "updated": "2022-09-07 13:52:34",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "2,934 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
       "contained": "0"
     },
     {
@@ -129,32 +181,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "42"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-07 13:26:10",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "5,197 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-07 13:01:01",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "1,289 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "0"
     },
     {
       "name": "Mosquito Fire",
@@ -430,19 +456,6 @@
       "contained": "0"
     },
     {
-      "name": "North Camas Fire",
-      "type": "Wildfire",
-      "summary": "The North Camas Fire was detected in the upper Camas Creek drainage...",
-      "state": "MONTANA",
-      "updated": "2022-09-07 11:03:36",
-      "lat": "48.726",
-      "lng": "-113.858",
-      "size": "8 Acres",
-      "url": "/incident/8387/",
-      "id": "8387",
-      "contained": "0"
-    },
-    {
       "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
       "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
@@ -480,19 +493,6 @@
       "url": "/incident/8383/",
       "id": "8383",
       "contained": "60"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Highway 93 is open to travel in both directions with no restrictions...",
-      "state": "IDAHO",
-      "updated": "2022-09-07 10:39:30",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "107,523 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "44"
     },
     {
       "name": "Crockets Knob Fire",
