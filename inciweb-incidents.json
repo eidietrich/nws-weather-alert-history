@@ -1,16 +1,68 @@
 {
   "markers": [
     {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-07 13:25:34",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "5,197 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "NW Pasayten Fires",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-07 13:24:46",
+      "lat": "48.943",
+      "lng": "-120.687",
+      "size": "16,700 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-07 13:01:01",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "1,289 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "0"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "The Mosquito Fire is burning north of Oxbow Reservoir in brush and...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-07 12:43:46",
+      "updated": "2022-09-07 12:50:09",
       "lat": "39.01",
       "lng": "-120.719",
       "size": "826 Acres",
       "url": "/incident/8398/",
       "id": "8398",
+      "contained": "0"
+    },
+    {
+      "name": "Thor Fire",
+      "type": "Wildfire",
+      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-07 12:50:00",
+      "lat": "48.819",
+      "lng": "-117.168",
+      "size": "1,024 Acres",
+      "url": "/incident/8343/",
+      "id": "8343",
       "contained": "0"
     },
     {
@@ -40,19 +92,6 @@
       "contained": "2"
     },
     {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-07 12:32:17",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "1,289 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "0"
-    },
-    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
@@ -79,19 +118,6 @@
       "contained": "0"
     },
     {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-07 12:16:49",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "5,197 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
-    },
-    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
@@ -103,19 +129,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "45"
-    },
-    {
-      "name": "NW Pasayten Fires",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-07 12:04:05",
-      "lat": "48.943",
-      "lng": "-120.687",
-      "size": "16,700 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
-      "contained": "0"
     },
     {
       "name": "Dismal Fire",
@@ -661,19 +674,6 @@
       "size": "3,700 Acres",
       "url": "/incident/8394/",
       "id": "8394",
-      "contained": "0"
-    },
-    {
-      "name": "Thor",
-      "type": "Wildfire",
-      "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-06 13:38:56",
-      "lat": "48.819",
-      "lng": "-117.168",
-      "size": "800 Acres",
-      "url": "/incident/8343/",
-      "id": "8343",
       "contained": "0"
     },
     {
