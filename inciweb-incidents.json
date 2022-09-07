@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Aspen",
+      "type": "Wildfire",
+      "summary": "The Aspen fire was reported on September 4, 2022 at 3:21 pm. A...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-07 09:53:08",
+      "lat": "37.833",
+      "lng": "-119.767",
+      "size": "26 Acres",
+      "url": "/incident/8385/",
+      "id": "8385",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-07 09:52:17",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "Red",
+      "type": "Wildfire",
+      "summary": "The Red fire was discovered on August 4, 2022 between Red Creek and...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-07 09:51:37",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "6,056 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-07 09:51:26",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "5,197 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
       "name": "Rodgers",
       "type": "Wildfire",
       "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-07 09:41:33",
+      "updated": "2022-09-07 09:48:08",
       "lat": "37.954",
       "lng": "-119.552",
       "size": "2,541 Acres",
@@ -14,37 +66,24 @@
       "contained": "0"
     },
     {
-      "name": "Six Rivers Lightning Complex",
+      "name": "Hermits Peak Fire",
       "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-07 09:41:16",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "41,406 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "79"
-    },
-    {
-      "name": "Aspen",
-      "type": "Wildfire",
-      "summary": "The Aspen fire was reported on September 4, 2022 at 3:21 pm. A...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-07 09:40:58",
-      "lat": "37.833",
-      "lng": "-119.767",
-      "size": "19 Acres",
-      "url": "/incident/8385/",
-      "id": "8385",
-      "contained": "0"
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-07 09:48:08",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
     },
     {
       "name": "Porphyry Fire",
       "type": "Wildfire",
       "summary": "No Infrared imagery is available from last night.Containment of the...",
       "state": "IDAHO",
-      "updated": "2022-09-07 09:40:39",
+      "updated": "2022-09-07 09:44:39",
       "lat": "45.266",
       "lng": "-115.484",
       "size": "2,925 Acres",
@@ -53,17 +92,17 @@
       "contained": "40"
     },
     {
-      "name": "Red",
+      "name": "Six Rivers Lightning Complex",
       "type": "Wildfire",
-      "summary": "The Red fire was discovered on August 4, 2022 between Red Creek and...",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-07 09:37:19",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "6,056 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
+      "updated": "2022-09-07 09:44:09",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "41,406 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "79"
     },
     {
       "name": "Patrol Point",
@@ -336,19 +375,6 @@
       "size": "171 Acres",
       "url": "/incident/8377/",
       "id": "8377",
-      "contained": "0"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-06 22:31:53",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "4,905 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
       "contained": "0"
     },
     {
@@ -740,32 +766,6 @@
       "url": "/incident/8264/",
       "id": "8264",
       "contained": "44"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-05 15:45:32",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-05 15:44:40",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
     },
     {
       "name": "McBride Post-Fire BAER",
