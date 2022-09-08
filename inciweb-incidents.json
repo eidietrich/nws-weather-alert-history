@@ -1,16 +1,120 @@
 {
   "markers": [
     {
+      "name": "Summit Fire",
+      "type": "Wildfire",
+      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-08 17:20:29",
+      "lat": "36.319",
+      "lng": "-118.65",
+      "size": "49 Acres",
+      "url": "/incident/8408/",
+      "id": "8408",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Daily Operations Video: ...",
+      "state": "OREGON",
+      "updated": "2022-09-08 17:18:35",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "31,486 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "18"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-09-08 17:15:45",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "4,326 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "35"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
+      "state": "IDAHO",
+      "updated": "2022-09-08 17:09:23",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "31,321 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "2"
+    },
+    {
+      "name": "Weasel Fire",
+      "type": "Wildfire",
+      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
+      "state": "MONTANA",
+      "updated": "2022-09-08 17:04:49",
+      "lat": "48.977",
+      "lng": "-114.748",
+      "size": "2,450 Acres",
+      "url": "/incident/8290/",
+      "id": "8290",
+      "contained": "40"
+    },
+    {
       "name": "Boulder Lake",
       "type": "Wildfire",
       "summary": "The Boulder Lake Fire was reported at approximately 9 p.m. on Sept....",
       "state": "MONTANA",
-      "updated": "2022-09-08 16:49:33",
+      "updated": "2022-09-08 17:02:07",
       "lat": "47.071",
       "lng": "-113.82",
       "size": "1,400 Acres",
       "url": "/incident/8395/",
       "id": "8395",
+      "contained": "0"
+    },
+    {
+      "name": "Sawtell Peak",
+      "type": "Wildfire",
+      "summary": "The Sawtell Peak Fire was reported Wednesday, August 31 2022 at 1322....",
+      "state": "IDAHO",
+      "updated": "2022-09-08 16:58:18",
+      "lat": "44.54",
+      "lng": "-111.404",
+      "size": "37 Acres",
+      "url": "/incident/8383/",
+      "id": "8383",
+      "contained": "100"
+    },
+    {
+      "name": "Barnes ",
+      "type": "Wildfire",
+      "summary": "The Barnes Fire continues to be active this afternoon with fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-08 16:53:05",
+      "lat": "41.89",
+      "lng": "-120.3",
+      "size": "2,000 Acres",
+      "url": "/incident/8403/",
+      "id": "8403",
+      "contained": "0"
+    },
+    {
+      "name": "Jones Creek",
+      "type": "Wildfire",
+      "summary": "The Jones Creek Fire began on 9/4/22. The cause is under...",
+      "state": "IDAHO",
+      "updated": "2022-09-08 16:52:50",
+      "lat": "45.704",
+      "lng": "-116.526",
+      "size": "4,650 Acres",
+      "url": "/incident/8407/",
+      "id": "8407",
       "contained": "0"
     },
     {
@@ -25,19 +129,6 @@
       "url": "/incident/8264/",
       "id": "8264",
       "contained": "49"
-    },
-    {
-      "name": "Summit Fire",
-      "type": "Wildfire",
-      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-08 16:42:16",
-      "lat": "36.319",
-      "lng": "-118.65",
-      "size": "49 Acres",
-      "url": "/incident/8408/",
-      "id": "8408",
-      "contained": "0"
     },
     {
       "name": "Rodgers Fire",
@@ -115,19 +206,6 @@
       "size": "6,870 Acres",
       "url": "/incident/8398/",
       "id": "8398",
-      "contained": "0"
-    },
-    {
-      "name": "Barnes ",
-      "type": "Wildfire",
-      "summary": "The Barnes Fire continued to burn actively overnight with extreme...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-08 16:09:34",
-      "lat": "41.89",
-      "lng": "-120.3",
-      "size": "2,000 Acres",
-      "url": "/incident/8403/",
-      "id": "8403",
       "contained": "0"
     },
     {
@@ -219,19 +297,6 @@
       "size": "1,568 Acres",
       "url": "/incident/8273/",
       "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Jones Creek",
-      "type": "Wildfire",
-      "summary": "The Jones Creek Fire began on 9/4/22. The cause is under...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 16:01:19",
-      "lat": "45.704",
-      "lng": "-116.526",
-      "size": "4,650 Acres",
-      "url": "/incident/8407/",
-      "id": "8407",
       "contained": "0"
     },
     {
@@ -337,19 +402,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "44"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Daily Operations Video: ...",
-      "state": "OREGON",
-      "updated": "2022-09-08 15:15:17",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "31,486 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "18"
     },
     {
       "name": "Chilliwack Complex",
@@ -495,19 +547,6 @@
       "contained": "0"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 12:25:22",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "31,321 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "2"
-    },
-    {
       "name": "Williams Creek Fire",
       "type": "Wildfire",
       "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
@@ -596,32 +635,6 @@
       "size": "122,612 Acres",
       "url": "/incident/8249/",
       "id": "8249",
-      "contained": "35"
-    },
-    {
-      "name": "Sawtell Peak",
-      "type": "Wildfire",
-      "summary": "The Sawtell Peak Fire was reported Wednesday, August 31 2022 at 1322....",
-      "state": "IDAHO",
-      "updated": "2022-09-08 10:31:18",
-      "lat": "44.54",
-      "lng": "-111.404",
-      "size": "37 Acres",
-      "url": "/incident/8383/",
-      "id": "8383",
-      "contained": "80"
-    },
-    {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-09-08 10:17:49",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "4,326 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
       "contained": "35"
     },
     {
@@ -1039,19 +1052,6 @@
       "url": "/incident/7852/",
       "id": "7852",
       "contained": "0"
-    },
-    {
-      "name": "Weasel Fire",
-      "type": "Wildfire",
-      "summary": " History -The Weasel Fire was discovered on July 30, 2022.  The...",
-      "state": "MONTANA",
-      "updated": "2022-09-02 16:16:45",
-      "lat": "48.977",
-      "lng": "-114.748",
-      "size": "2,400 Acres",
-      "url": "/incident/8290/",
-      "id": "8290",
-      "contained": "40"
     },
     {
       "name": "Sutton Fire",
