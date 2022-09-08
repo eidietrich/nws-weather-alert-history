@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Barnes ",
+      "type": "Wildfire",
+      "summary": "The Barnes Fire continued to burn actively overnight with extreme...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-08 09:43:16",
+      "lat": "41.89",
+      "lng": "-120.3",
+      "size": "1,621 Acres",
+      "url": "/incident/8403/",
+      "id": "8403",
+      "contained": "0"
+    },
+    {
       "name": "Fairview",
       "type": "Wildfire",
       "summary": "   Current Acres: 9,846 Containment: 5% Personnel Assigned: 962 The...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-08 09:30:49",
+      "updated": "2022-09-08 09:42:42",
       "lat": "33.714",
       "lng": "-116.891",
       "size": "9,846 Acres",
@@ -14,17 +27,43 @@
       "contained": "5"
     },
     {
-      "name": "Barnes ",
+      "name": "Four Corners Fire",
       "type": "Wildfire",
-      "summary": "The Barnes Fire continued to burn actively overnight with extreme...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-08 09:28:21",
-      "lat": "41.89",
-      "lng": "-120.3",
-      "size": "1,621 Acres",
-      "url": "/incident/8403/",
-      "id": "8403",
-      "contained": "0"
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-08 09:40:16",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,681 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "55"
+    },
+    {
+      "name": "Seven Bays",
+      "type": "Wildfire",
+      "summary": "Davenport, WA - The Seven Bays Fire is located approximately 15 miles...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-08 09:38:48",
+      "lat": "47.828",
+      "lng": "-118.323",
+      "size": "1,175 Acres",
+      "url": "/incident/8391/",
+      "id": "8391",
+      "contained": "25"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-09-08 09:38:34",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "4,326 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "35"
     },
     {
       "name": "Ursus Fire",
@@ -64,32 +103,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "44"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 09:08:26",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,681 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "55"
-    },
-    {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-09-08 09:02:51",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "4,326 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "35"
     },
     {
       "name": "Cedar Creek Fire",
@@ -662,19 +675,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "100"
-    },
-    {
-      "name": "Seven Bays",
-      "type": "Wildfire",
-      "summary": " Davenport, WA - The Seven Bays Fire is located approximately 15...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-07 11:17:42",
-      "lat": "47.828",
-      "lng": "-118.323",
-      "size": "1,000 Acres",
-      "url": "/incident/8391/",
-      "id": "8391",
-      "contained": "15"
     },
     {
       "name": "Margaret Fire",
