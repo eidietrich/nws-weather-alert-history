@@ -1,16 +1,81 @@
 {
   "markers": [
     {
+      "name": "Summit Fire",
+      "type": "Wildfire",
+      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-08 16:35:50",
+      "lat": "36.319",
+      "lng": "-118.65",
+      "size": "49 Acres",
+      "url": "/incident/8408/",
+      "id": "8408",
+      "contained": "0"
+    },
+    {
+      "name": "Rodgers Fire",
+      "type": "Wildfire",
+      "summary": "Current Fire Activity As of Thursday, September 8, 2022  RODGERS...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-08 16:32:18",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "2,552 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Aspen Fire",
+      "type": "Wildfire",
+      "summary": "Current Fire Activity As of Thursday, September 8, 2022 ASPEN...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-08 16:29:34",
+      "lat": "37.833",
+      "lng": "-119.767",
+      "size": "26 Acres",
+      "url": "/incident/8385/",
+      "id": "8385",
+      "contained": "75"
+    },
+    {
       "name": "Red Fire",
       "type": "Wildfire",
       "summary": " Current Fire Activity  As of Thursday, September 8, 2022    RED...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-08 16:15:11",
+      "updated": "2022-09-08 16:29:02",
       "lat": "37.661",
       "lng": "-119.471",
       "size": "6,082 Acres",
       "url": "/incident/8332/",
       "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Current Acres:18,657     Containment: 5%     Personnel...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-08 16:26:29",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "18,657 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "5"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-08 16:18:55",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "450 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
       "contained": "0"
     },
     {
@@ -131,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Summit Fire",
-      "type": "Wildfire",
-      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-08 16:02:44",
-      "lat": "36.319",
-      "lng": "-118.65",
-      "size": "49 Acres",
-      "url": "/incident/8408/",
-      "id": "8408",
-      "contained": "0"
-    },
-    {
       "name": "Jones Creek",
       "type": "Wildfire",
       "summary": "The Jones Creek Fire began on 9/4/22. The cause is under...",
@@ -246,19 +298,6 @@
       "url": "/incident/8387/",
       "id": "8387",
       "contained": "0"
-    },
-    {
-      "name": "Fairview",
-      "type": "Wildfire",
-      "summary": "Current Acres:18,657     Containment: 5%     Personnel...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-08 15:20:40",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "18,657 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "5"
     },
     {
       "name": "Rum Creek Fire",
@@ -545,32 +584,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "35"
-    },
-    {
-      "name": "Aspen Fire",
-      "type": "Wildfire",
-      "summary": "The Aspen fire was reported on September 4, 2022 at 3:21 pm. A...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-08 10:45:51",
-      "lat": "37.833",
-      "lng": "-119.767",
-      "size": "26 Acres",
-      "url": "/incident/8385/",
-      "id": "8385",
-      "contained": "75"
-    },
-    {
-      "name": "Rodgers Fire",
-      "type": "Wildfire",
-      "summary": "The Rodgers fire was discovered on August 8, 2022 northwest of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-08 10:43:34",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "2,552 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
     },
     {
       "name": "Sawtell Peak",
@@ -870,19 +883,6 @@
       "url": "/incident/8351/",
       "id": "8351",
       "contained": "3"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-06 12:53:16",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "450 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
     },
     {
       "name": "Valley Fire",
