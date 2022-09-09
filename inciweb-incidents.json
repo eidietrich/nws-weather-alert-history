@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 15:51:38",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,703 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "62"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-09 15:50:55",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "18,715 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-09 15:49:14",
+      "lat": "46.643",
+      "lng": "-121.523",
+      "size": "150 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
       "state": "OREGON",
-      "updated": "2022-09-09 15:39:32",
+      "updated": "2022-09-09 15:49:08",
       "lat": "45.428",
       "lng": "-116.739",
       "size": "137,179 Acres",
@@ -18,25 +57,12 @@
       "type": "Wildfire",
       "summary": "The Tenmile and the Josephine fires have burned together and are...",
       "state": "IDAHO",
-      "updated": "2022-09-09 15:38:09",
+      "updated": "2022-09-09 15:44:57",
       "lat": "45.319",
       "lng": "-115.872",
       "size": "759 Acres",
       "url": "/incident/8401/",
       "id": "8401",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-09 15:35:28",
-      "lat": "46.643",
-      "lng": "-121.523",
-      "size": "150 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
       "contained": "0"
     },
     {
@@ -129,19 +155,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "2"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 15:05:31",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,703 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "62"
     },
     {
       "name": "Jones Creek",
@@ -584,19 +597,6 @@
       "url": "/incident/8383/",
       "id": "8383",
       "contained": "100"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-09 10:57:00",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "18,715 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
     },
     {
       "name": "Six Rivers Lightning Complex",
