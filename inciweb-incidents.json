@@ -1,24 +1,76 @@
 {
   "markers": [
     {
-      "name": "Van Meter Fire",
+      "name": "Jones Creek",
       "type": "Wildfire",
-      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
-      "state": "OREGON",
-      "updated": "2022-09-09 09:05:44",
-      "lat": "42.132",
-      "lng": "-121.579",
-      "size": "3,500 Acres",
-      "url": "/incident/8405/",
-      "id": "8405",
+      "summary": "The Jones Creek Fire began on 9/4/22. The cause is under...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 09:39:39",
+      "lat": "45.704",
+      "lng": "-116.526",
+      "size": "4,423 Acres",
+      "url": "/incident/8407/",
+      "id": "8407",
+      "contained": "50"
+    },
+    {
+      "name": "Red Fire",
+      "type": "Wildfire",
+      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 09:39:15",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "7,335 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
       "contained": "0"
+    },
+    {
+      "name": "Seven Bays",
+      "type": "Wildfire",
+      "summary": " Davenport, WA - The Seven Bays Fire is located approximately 15...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-09 09:38:19",
+      "lat": "47.828",
+      "lng": "-118.323",
+      "size": "1,175 Acres",
+      "url": "/incident/8391/",
+      "id": "8391",
+      "contained": "40"
+    },
+    {
+      "name": "Murray Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "MONTANA",
+      "updated": "2022-09-09 09:37:54",
+      "lat": "46.829",
+      "lng": "-113.192",
+      "size": "65 Acres",
+      "url": "/incident/8389/",
+      "id": "8389",
+      "contained": "0"
+    },
+    {
+      "name": "Aspen Fire",
+      "type": "Wildfire",
+      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 09:37:52",
+      "lat": "37.833",
+      "lng": "-119.767",
+      "size": "26 Acres",
+      "url": "/incident/8385/",
+      "id": "8385",
+      "contained": "100"
     },
     {
       "name": "Fairview",
       "type": "Wildfire",
       "summary": "Current Acres:27,319     Containment: 5%     Personnel...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-09 09:05:32",
+      "updated": "2022-09-09 09:37:00",
       "lat": "33.714",
       "lng": "-116.891",
       "size": "27,319 Acres",
@@ -27,17 +79,95 @@
       "contained": "5"
     },
     {
+      "name": "Rodgers Fire",
+      "type": "Wildfire",
+      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 09:35:55",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "2,576 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Van Meter Fire",
+      "type": "Wildfire",
+      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
+      "state": "OREGON",
+      "updated": "2022-09-09 09:35:49",
+      "lat": "42.132",
+      "lng": "-121.579",
+      "size": "3,500 Acres",
+      "url": "/incident/8405/",
+      "id": "8405",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 09:33:45",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "34,508 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "2"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 09:27:00",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "11,881 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-09-09 09:04:42",
+      "updated": "2022-09-09 09:23:45",
       "lat": "44.537",
       "lng": "-116.169",
       "size": "13,703 Acres",
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "62"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Daily Operations Video: ...",
+      "state": "OREGON",
+      "updated": "2022-09-09 09:19:36",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "33,099 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
+      "name": "Radford",
+      "type": "Wildfire",
+      "summary": "On September 5th at 1:30pm, a Forest Service helicopter conducting a...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 09:14:36",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "1,088 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "40"
     },
     {
       "name": "Boulder Mountain Fire",
@@ -77,19 +207,6 @@
       "url": "/incident/8364/",
       "id": "8364",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Daily Operations Video: ...",
-      "state": "OREGON",
-      "updated": "2022-09-09 08:40:48",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "33,099 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
     },
     {
       "name": "Moose Fire",
@@ -183,32 +300,6 @@
       "contained": "0"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 07:28:59",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "34,508 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "2"
-    },
-    {
-      "name": "Radford",
-      "type": "Wildfire",
-      "summary": "On September 5th at 1:30pm, a Forest Service helicopter conducting a...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 00:24:35",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "1,088 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "40"
-    },
-    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
@@ -246,19 +337,6 @@
       "url": "/incident/8363/",
       "id": "8363",
       "contained": "0"
-    },
-    {
-      "name": "Jones Creek",
-      "type": "Wildfire",
-      "summary": "The Jones Creek Fire began on 9/4/22. The cause is under...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 23:20:15",
-      "lat": "45.704",
-      "lng": "-116.526",
-      "size": "4,650 Acres",
-      "url": "/incident/8407/",
-      "id": "8407",
-      "contained": "50"
     },
     {
       "name": "Six Rivers Lightning Complex",
@@ -430,19 +508,6 @@
       "contained": "100"
     },
     {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 19:44:02",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "8,837 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
-    },
-    {
       "name": "Tenmile",
       "type": "Wildfire",
       "summary": "The Tenmile and the Josephine fires have burned together and are...",
@@ -453,45 +518,6 @@
       "size": "1,100 Acres",
       "url": "/incident/8401/",
       "id": "8401",
-      "contained": "0"
-    },
-    {
-      "name": "Red Fire",
-      "type": "Wildfire",
-      "summary": "Current Fire Activity as of Thursday, September 8, 2022, 9am ASPEN...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-08 18:53:56",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "7,335 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
-    },
-    {
-      "name": "Aspen Fire",
-      "type": "Wildfire",
-      "summary": "Current Fire Activity as of Thursday, September 8, 2022, 9am ASPEN...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-08 18:53:05",
-      "lat": "37.833",
-      "lng": "-119.767",
-      "size": "26 Acres",
-      "url": "/incident/8385/",
-      "id": "8385",
-      "contained": "75"
-    },
-    {
-      "name": "Rodgers Fire",
-      "type": "Wildfire",
-      "summary": "Current Fire Activity as of Thursday, September 8, 2022, 9am RODGERS...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-08 18:52:37",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "2,576 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
       "contained": "0"
     },
     {
@@ -531,19 +557,6 @@
       "size": "23,000 Acres",
       "url": "/incident/8357/",
       "id": "8357",
-      "contained": "0"
-    },
-    {
-      "name": "Murray Fire",
-      "type": "Wildfire",
-      "summary": "",
-      "state": "MONTANA",
-      "updated": "2022-09-08 18:27:57",
-      "lat": "46.829",
-      "lng": "-113.192",
-      "size": "65 Acres",
-      "url": "/incident/8389/",
-      "id": "8389",
       "contained": "0"
     },
     {
@@ -753,19 +766,6 @@
       "url": "/incident/8343/",
       "id": "8343",
       "contained": "0"
-    },
-    {
-      "name": "Seven Bays",
-      "type": "Wildfire",
-      "summary": "Davenport, WA - The Seven Bays Fire is located approximately 15 miles...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-08 09:46:29",
-      "lat": "47.828",
-      "lng": "-118.323",
-      "size": "1,175 Acres",
-      "url": "/incident/8391/",
-      "id": "8391",
-      "contained": "25"
     },
     {
       "name": "Ursus Fire",
