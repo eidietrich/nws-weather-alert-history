@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-09 18:50:06",
+      "lat": "46.643",
+      "lng": "-121.523",
+      "size": "150 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-09 18:47:41",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "137,179 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "The Mosquito Fire is burning actively near Oxbow Reservoir, 3 miles...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 18:46:04",
+      "lat": "39.01",
+      "lng": "-120.719",
+      "size": "29,585 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-09 18:43:33",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-09 18:40:17",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 18:36:31",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,703 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "81"
+    },
+    {
+      "name": "Bull Gin Complex",
+      "type": "Wildfire",
+      "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 18:32:09",
+      "lat": "48.087",
+      "lng": "-115.826",
+      "size": "1,790 Acres",
+      "url": "/incident/8381/",
+      "id": "8381",
+      "contained": "0"
+    },
+    {
       "name": "Eagle Creek",
       "type": "Wildfire",
       "summary": "The Eagle Creek Fire is burning on private, BLM, State, and Tribal...",
@@ -12,32 +103,6 @@
       "url": "/incident/8413/",
       "id": "8413",
       "contained": "10"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
-      "state": "OREGON",
-      "updated": "2022-09-09 18:22:46",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "137,179 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
-    },
-    {
-      "name": "Bull Gin Complex",
-      "type": "Wildfire",
-      "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
-      "state": "MONTANA",
-      "updated": "2022-09-09 18:19:04",
-      "lat": "48.087",
-      "lng": "-115.826",
-      "size": "1,790 Acres",
-      "url": "/incident/8381/",
-      "id": "8381",
-      "contained": "0"
     },
     {
       "name": "NW Pasayten Complex",
@@ -102,19 +167,6 @@
       "size": "11,881 Acres",
       "url": "/incident/8372/",
       "id": "8372",
-      "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "The Mosquito Fire is burning actively near Oxbow Reservoir, 3 miles...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 17:18:45",
-      "lat": "39.01",
-      "lng": "-120.719",
-      "size": "29,585 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
       "contained": "0"
     },
     {
@@ -209,19 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-09 16:09:50",
-      "lat": "46.643",
-      "lng": "-121.523",
-      "size": "150 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
-    },
-    {
       "name": "Sturgill Fire",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
@@ -259,19 +298,6 @@
       "url": "/incident/8401/",
       "id": "8401",
       "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 15:51:57",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,703 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "62"
     },
     {
       "name": "Trail Ridge Fire",
@@ -805,32 +831,6 @@
       "url": "/incident/8319/",
       "id": "8319",
       "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-08 22:20:28",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-08 22:19:46",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
     },
     {
       "name": "Weasel Fire",
