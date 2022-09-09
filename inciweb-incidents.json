@@ -1,29 +1,81 @@
 {
   "markers": [
     {
-      "name": "Four Corners Fire",
+      "name": "NW Pasayten Complex",
       "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 15:51:38",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,703 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "62"
+      "summary": "There are a number of lightning caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-09 16:17:50",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "9,814 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
     },
     {
-      "name": "Sturgill Fire",
+      "name": "Summit Fire",
       "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 16:16:15",
+      "lat": "36.319",
+      "lng": "-118.65",
+      "size": "150 Acres",
+      "url": "/incident/8408/",
+      "id": "8408",
+      "contained": "0"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 16:14:48",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "1,568 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
+      "name": "Rainbow",
+      "type": "Wildfire",
+      "summary": "The Rainbow Fire is burning at the top of Brundage Mountain and was...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 16:11:51",
+      "lat": "45.01",
+      "lng": "-116.134",
+      "size": "0 Acres",
+      "url": "/incident/8410/",
+      "id": "8410",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
       "state": "OREGON",
-      "updated": "2022-09-09 15:50:55",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "18,715 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
+      "updated": "2022-09-09 16:10:24",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "466 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-09 16:10:07",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "11,688 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
       "contained": "0"
     },
     {
@@ -31,7 +83,7 @@
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
       "state": "WASHINGTON",
-      "updated": "2022-09-09 15:49:14",
+      "updated": "2022-09-09 16:09:50",
       "lat": "46.643",
       "lng": "-121.523",
       "size": "150 Acres",
@@ -40,11 +92,24 @@
       "contained": "0"
     },
     {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-09 16:09:13",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "18,715 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
       "state": "OREGON",
-      "updated": "2022-09-09 15:49:08",
+      "updated": "2022-09-09 16:08:55",
       "lat": "45.428",
       "lng": "-116.739",
       "size": "137,179 Acres",
@@ -53,11 +118,50 @@
       "contained": "15"
     },
     {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 16:05:36",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,589 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 16:04:07",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "34,508 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "2"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "The Mosquito Fire is burning actively near Oxbow Reservoir, 3 miles...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 15:59:43",
+      "lat": "39.01",
+      "lng": "-120.719",
+      "size": "29,585 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "0"
+    },
+    {
       "name": "Tenmile",
       "type": "Wildfire",
       "summary": "The Tenmile and the Josephine fires have burned together and are...",
       "state": "IDAHO",
-      "updated": "2022-09-09 15:44:57",
+      "updated": "2022-09-09 15:58:25",
       "lat": "45.319",
       "lng": "-115.872",
       "size": "759 Acres",
@@ -66,17 +170,17 @@
       "contained": "0"
     },
     {
-      "name": "Mill Lake Fire",
+      "name": "Four Corners Fire",
       "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-09 15:35:03",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,589 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 15:51:57",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,703 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "62"
     },
     {
       "name": "Barnes ",
@@ -144,19 +248,6 @@
       "contained": "0"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 15:11:06",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "34,508 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "2"
-    },
-    {
       "name": "Jones Creek",
       "type": "Wildfire",
       "summary": "The Jones Creek Fire began on 9/4/22. The cause is under...",
@@ -222,32 +313,6 @@
       "contained": "46"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "The Mosquito Fire is burning actively near Oxbow Reservoir, 3 miles...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 14:16:25",
-      "lat": "39.01",
-      "lng": "-120.719",
-      "size": "29,585 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "0"
-    },
-    {
-      "name": "NW Pasayten Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-09 13:59:07",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "9,814 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
-      "contained": "0"
-    },
-    {
       "name": "Chilliwack Complex",
       "type": "Wildfire",
       "summary": "Several lightning-caused fires are active across North Cascades...",
@@ -284,19 +349,6 @@
       "size": "7,100 Acres",
       "url": "/incident/8413/",
       "id": "8413",
-      "contained": "0"
-    },
-    {
-      "name": "Summit Fire",
-      "type": "Wildfire",
-      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 13:49:29",
-      "lat": "36.319",
-      "lng": "-118.65",
-      "size": "150 Acres",
-      "url": "/incident/8408/",
-      "id": "8408",
       "contained": "0"
     },
     {
@@ -456,19 +508,6 @@
       "contained": "4"
     },
     {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-09 11:50:22",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "11,688 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
       "name": "Dean Creek Fire",
       "type": "Wildfire",
       "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
@@ -479,19 +518,6 @@
       "size": "483 Acres",
       "url": "/incident/8330/",
       "id": "8330",
-      "contained": "0"
-    },
-    {
-      "name": "Rainbow",
-      "type": "Wildfire",
-      "summary": "The Rainbow Fire is burning at the top of Brundage Mountain and was...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 11:45:48",
-      "lat": "45.01",
-      "lng": "-116.134",
-      "size": "0 Acres",
-      "url": "/incident/8410/",
-      "id": "8410",
       "contained": "0"
     },
     {
@@ -622,19 +648,6 @@
       "size": "17,376 Acres",
       "url": "/incident/8378/",
       "id": "8378",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-09 10:41:08",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "466 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
       "contained": "0"
     },
     {
@@ -844,19 +857,6 @@
       "url": "/incident/8264/",
       "id": "8264",
       "contained": "49"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 16:05:03",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "1,568 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
     },
     {
       "name": "White River (&amp; Irving Peak)",
