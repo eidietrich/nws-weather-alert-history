@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 14:43:21",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "8,374 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "21"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "Cedar Creek Fire Daily Operations Video: ...",
+      "state": "OREGON",
+      "updated": "2022-09-09 14:40:16",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "33,099 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
+      "name": "Twist Creek ",
+      "type": "Wildfire",
+      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 14:38:20",
+      "lat": "45.627",
+      "lng": "-114.951",
+      "size": "2,061 Acres",
+      "url": "/incident/8377/",
+      "id": "8377",
+      "contained": "0"
+    },
+    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
@@ -12,19 +51,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "15"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Daily Operations Video: ...",
-      "state": "OREGON",
-      "updated": "2022-09-09 14:25:55",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "33,099 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
     },
     {
       "name": "Rum Creek Fire",
@@ -233,19 +259,6 @@
       "url": "/incident/8405/",
       "id": "8405",
       "contained": "0"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 12:35:46",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "8,374 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "21"
     },
     {
       "name": "Radford",
@@ -714,19 +727,6 @@
       "url": "/incident/8379/",
       "id": "8379",
       "contained": "15"
-    },
-    {
-      "name": "Twist Creek ",
-      "type": "Wildfire",
-      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
-      "state": "MONTANA",
-      "updated": "2022-09-09 08:00:59",
-      "lat": "45.627",
-      "lng": "-114.951",
-      "size": "2,061 Acres",
-      "url": "/incident/8377/",
-      "id": "8377",
-      "contained": "0"
     },
     {
       "name": "Indian Ridge",
