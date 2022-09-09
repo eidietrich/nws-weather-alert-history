@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 10:41:38",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "8,374 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "21"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-09-09 10:41:08",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "466 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-09 10:41:08",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "137,179 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
+    },
+    {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": "On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency Dispatch...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 10:39:33",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "13,200 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
+      "contained": "0"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 10:39:15",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "17,376 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Patrol Point",
+      "type": "Wildfire",
+      "summary": "No Infrared imagery is available from last night.  On the southern...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 10:38:51",
+      "lat": "45.427",
+      "lng": "-114.938",
+      "size": "23,000 Acres",
+      "url": "/incident/8357/",
+      "id": "8357",
+      "contained": "0"
+    },
+    {
+      "name": "Bull Gin Complex",
+      "type": "Wildfire",
+      "summary": "As of 9/3 7:50 PM Government Fire:  Due to aerial mapping the fire...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 10:37:45",
+      "lat": "48.087",
+      "lng": "-115.826",
+      "size": "1,790 Acres",
+      "url": "/incident/8381/",
+      "id": "8381",
+      "contained": "0"
+    },
+    {
       "name": "Sturgill Fire",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
       "state": "OREGON",
-      "updated": "2022-09-09 10:21:33",
+      "updated": "2022-09-09 10:33:41",
       "lat": "45.284",
       "lng": "-117.534",
       "size": "18,715 Acres",
@@ -14,17 +105,147 @@
       "contained": "0"
     },
     {
+      "name": "Deep Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 10:33:08",
+      "lat": "47.089",
+      "lng": "-111.226",
+      "size": "37 Acres",
+      "url": "/incident/8371/",
+      "id": "8371",
+      "contained": "70"
+    },
+    {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": "The fire has seen an increase of several thousands of acres and has...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 10:32:37",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "23,000 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Radford",
+      "type": "Wildfire",
+      "summary": " Links:  Daily Update (pdf)     |     Daily Map...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 10:31:29",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "1,088 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "59"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "Several lightning-caused fires are active across North Cascades...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-09 10:30:04",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "4,382 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
+      "name": "North Camas Fire",
+      "type": "Wildfire",
+      "summary": "The North Camas Fire was detected in the upper Camas Creek drainage...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 10:24:46",
+      "lat": "48.726",
+      "lng": "-113.858",
+      "size": "20 Acres",
+      "url": "/incident/8387/",
+      "id": "8387",
+      "contained": "0"
+    },
+    {
+      "name": "Tenmile",
+      "type": "Wildfire",
+      "summary": "The Tenmile and the Josephine fires have burned together and are...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 10:24:32",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "759 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "0"
+    },
+    {
+      "name": "Middle",
+      "type": "Wildfire",
+      "summary": " The Middle Fire was reported on September 7th around noon mountain...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 10:24:25",
+      "lat": "45.258",
+      "lng": "-116.517",
+      "size": "30 Acres",
+      "url": "/incident/8411/",
+      "id": "8411",
+      "contained": "0"
+    },
+    {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Current Acres:27,463     Containment: 5%     Personnel...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 10:24:20",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "27,463 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "5"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Highway 93 is open to travel in both directions with no restrictions...",
       "state": "IDAHO",
-      "updated": "2022-09-09 10:21:31",
+      "updated": "2022-09-09 10:24:12",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "125,059 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "33"
+    },
+    {
+      "name": "North Creek",
+      "type": "Wildfire",
+      "summary": " The North Creek Fire was reported by helicopter after a morning...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 10:23:38",
+      "lat": "45.27",
+      "lng": "-116.021",
+      "size": "5 Acres",
+      "url": "/incident/8412/",
+      "id": "8412",
+      "contained": "0"
+    },
+    {
+      "name": "NW Pasayten Fires",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-09 10:22:18",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "9,814 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
     },
     {
       "name": "Aspen Fire",
@@ -53,19 +274,6 @@
       "contained": "0"
     },
     {
-      "name": "North Creek",
-      "type": "Wildfire",
-      "summary": " The North Creek Fire was reported by helicopter after a morning...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 10:20:26",
-      "lat": "45.27",
-      "lng": "-116.021",
-      "size": "5 Acres",
-      "url": "/incident/8412/",
-      "id": "8412",
-      "contained": "0"
-    },
-    {
       "name": "Red Fire",
       "type": "Wildfire",
       "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
@@ -79,45 +287,6 @@
       "contained": "0"
     },
     {
-      "name": "Fairview",
-      "type": "Wildfire",
-      "summary": "Current Acres:27,463     Containment: 5%     Personnel...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 10:20:19",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "27,319 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "5"
-    },
-    {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 10:19:33",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "17,376 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
-    },
-    {
-      "name": "Tenmile",
-      "type": "Wildfire",
-      "summary": "The Tenmile and the Josephine fires have burned together and are...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 10:18:32",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "759 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "0"
-    },
-    {
       "name": "Quartz Fire",
       "type": "Wildfire",
       "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
@@ -128,19 +297,6 @@
       "size": "1,981 Acres",
       "url": "/incident/8337/",
       "id": "8337",
-      "contained": "0"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "Several lightning-caused fires are active across North Cascades...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-09 10:16:46",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "4,382 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
       "contained": "0"
     },
     {
@@ -183,19 +339,6 @@
       "contained": "50"
     },
     {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": "On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency Dispatch...",
-      "state": "MONTANA",
-      "updated": "2022-09-09 10:10:34",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "13,200 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
-      "contained": "0"
-    },
-    {
       "name": "Potter Fire",
       "type": "Wildfire",
       "summary": "The Potter Fire was reported at 9:00am, Sunday, July 31, 2022.  It...",
@@ -207,19 +350,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "99"
-    },
-    {
-      "name": "Middle",
-      "type": "Wildfire",
-      "summary": " The Middle Fire was reported on September 7th around noon mountain...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 10:06:51",
-      "lat": "45.258",
-      "lng": "-116.517",
-      "size": "0 Acres",
-      "url": "/incident/8411/",
-      "id": "8411",
-      "contained": "0"
     },
     {
       "name": "Lake 3 ",
@@ -352,19 +482,6 @@
       "contained": "12"
     },
     {
-      "name": "Radford",
-      "type": "Wildfire",
-      "summary": "On September 5th at 1:30pm, a Forest Service helicopter conducting a...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 09:14:36",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "1,088 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "40"
-    },
-    {
       "name": "Boulder Mountain Fire",
       "type": "Wildfire",
       "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
@@ -376,19 +493,6 @@
       "url": "/incident/8382/",
       "id": "8382",
       "contained": "4"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-09 08:55:46",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "466 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
     },
     {
       "name": "Lemonade Fire",
@@ -456,19 +560,6 @@
       "contained": "0"
     },
     {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
-      "state": "OREGON",
-      "updated": "2022-09-09 00:12:41",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "101,327 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
-    },
-    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -493,19 +584,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "81"
-    },
-    {
-      "name": "NW Pasayten Fires",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-08 23:02:29",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "9,155 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
-      "contained": "0"
     },
     {
       "name": "Suiattle River Fire",
@@ -560,19 +638,6 @@
       "contained": "0"
     },
     {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 22:08:02",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "7,967 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "21"
-    },
-    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
@@ -597,45 +662,6 @@
       "url": "/incident/8383/",
       "id": "8383",
       "contained": "100"
-    },
-    {
-      "name": "Bull Gin Complex",
-      "type": "Wildfire",
-      "summary": "As of 9/3 7:50 PM Government Fire:  Due to aerial mapping the fire...",
-      "state": "MONTANA",
-      "updated": "2022-09-08 18:48:50",
-      "lat": "48.087",
-      "lng": "-115.826",
-      "size": "1,418 Acres",
-      "url": "/incident/8381/",
-      "id": "8381",
-      "contained": "0"
-    },
-    {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": "The fire has seen an increase of several thousands of acres...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 18:45:29",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "23,000 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
-    },
-    {
-      "name": "Patrol Point",
-      "type": "Wildfire",
-      "summary": "No Infrared imagery is available from last night.  The fire has...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 18:35:05",
-      "lat": "45.427",
-      "lng": "-114.938",
-      "size": "23,000 Acres",
-      "url": "/incident/8357/",
-      "id": "8357",
-      "contained": "0"
     },
     {
       "name": "Summit Fire",
@@ -739,19 +765,6 @@
       "size": "1,568 Acres",
       "url": "/incident/8273/",
       "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "North Camas Fire",
-      "type": "Wildfire",
-      "summary": "The North Camas Fire was detected in the upper Camas Creek drainage...",
-      "state": "MONTANA",
-      "updated": "2022-09-08 15:25:37",
-      "lat": "48.726",
-      "lng": "-113.858",
-      "size": "20 Acres",
-      "url": "/incident/8387/",
-      "id": "8387",
       "contained": "0"
     },
     {
@@ -896,19 +909,6 @@
       "url": "/incident/8393/",
       "id": "8393",
       "contained": "0"
-    },
-    {
-      "name": "Deep Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
-      "state": "MONTANA",
-      "updated": "2022-09-07 10:25:10",
-      "lat": "47.089",
-      "lng": "-111.226",
-      "size": "37 Acres",
-      "url": "/incident/8371/",
-      "id": "8371",
-      "contained": "70"
     },
     {
       "name": "Porphyry Fire",
