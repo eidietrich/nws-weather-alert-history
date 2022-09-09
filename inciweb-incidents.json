@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Bull Gin Complex",
+      "type": "Wildfire",
+      "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 13:51:23",
+      "lat": "48.087",
+      "lng": "-115.826",
+      "size": "1,790 Acres",
+      "url": "/incident/8381/",
+      "id": "8381",
+      "contained": "0"
+    },
+    {
+      "name": "Eagle Creek",
+      "type": "Wildfire",
+      "summary": "The Eagle Creek Fire is burning on private, BLM, State, and Tribal...",
+      "state": "MONTANA",
+      "updated": "2022-09-09 13:50:21",
+      "lat": "48.139",
+      "lng": "-109.682",
+      "size": "7,100 Acres",
+      "url": "/incident/8413/",
+      "id": "8413",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Fire",
+      "type": "Wildfire",
+      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 13:49:29",
+      "lat": "36.319",
+      "lng": "-118.65",
+      "size": "150 Acres",
+      "url": "/incident/8408/",
+      "id": "8408",
+      "contained": "0"
+    },
+    {
+      "name": "Aspen Fire",
+      "type": "Wildfire",
+      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 13:46:19",
+      "lat": "37.833",
+      "lng": "-119.767",
+      "size": "26 Acres",
+      "url": "/incident/8385/",
+      "id": "8385",
+      "contained": "100"
+    },
+    {
+      "name": "Rodgers Fire",
+      "type": "Wildfire",
+      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 13:45:48",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "2,576 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red Fire",
+      "type": "Wildfire",
+      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 13:39:15",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "7,335 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "Cedar Creek Fire Daily Operations Video: ...",
@@ -37,19 +115,6 @@
       "size": "4,382 Acres",
       "url": "/incident/8394/",
       "id": "8394",
-      "contained": "0"
-    },
-    {
-      "name": "Eagle Creek",
-      "type": "Wildfire",
-      "summary": " The Eagle Creek Fire is burning on private, BLM, State, and Tribal...",
-      "state": "MONTANA",
-      "updated": "2022-09-09 13:21:15",
-      "lat": "48.139",
-      "lng": "-109.682",
-      "size": "7,100 Acres",
-      "url": "/incident/8413/",
-      "id": "8413",
       "contained": "0"
     },
     {
@@ -129,19 +194,6 @@
       "url": "/incident/8351/",
       "id": "8351",
       "contained": "3"
-    },
-    {
-      "name": "Summit Fire",
-      "type": "Wildfire",
-      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 12:52:40",
-      "lat": "36.319",
-      "lng": "-118.65",
-      "size": "150 Acres",
-      "url": "/incident/8408/",
-      "id": "8408",
-      "contained": "0"
     },
     {
       "name": "Rum Creek Fire",
@@ -391,19 +443,6 @@
       "contained": "99"
     },
     {
-      "name": "Bull Gin Complex",
-      "type": "Wildfire",
-      "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
-      "state": "MONTANA",
-      "updated": "2022-09-09 11:25:42",
-      "lat": "48.087",
-      "lng": "-115.826",
-      "size": "1,790 Acres",
-      "url": "/incident/8381/",
-      "id": "8381",
-      "contained": "0"
-    },
-    {
       "name": "Hermits Peak and Calf Canyon BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
@@ -583,45 +622,6 @@
       "size": "5 Acres",
       "url": "/incident/8412/",
       "id": "8412",
-      "contained": "0"
-    },
-    {
-      "name": "Aspen Fire",
-      "type": "Wildfire",
-      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 10:21:10",
-      "lat": "37.833",
-      "lng": "-119.767",
-      "size": "26 Acres",
-      "url": "/incident/8385/",
-      "id": "8385",
-      "contained": "100"
-    },
-    {
-      "name": "Rodgers Fire",
-      "type": "Wildfire",
-      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 10:20:41",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "2,576 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Red Fire",
-      "type": "Wildfire",
-      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 10:20:23",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "7,335 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
       "contained": "0"
     },
     {
