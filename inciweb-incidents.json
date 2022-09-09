@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Lake 3 ",
+      "type": "Wildfire",
+      "summary": "On September 7, 2022, at 1:30 p.m. a fire was reported to the Agency....",
+      "state": "MINNESOTA",
+      "updated": "2022-09-09 09:51:47",
+      "lat": "47.893",
+      "lng": "-91.429",
+      "size": "0 Acres",
+      "url": "/incident/8406/",
+      "id": "8406",
+      "contained": "30"
+    },
+    {
+      "name": "Aspen Fire",
+      "type": "Wildfire",
+      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 09:50:14",
+      "lat": "37.833",
+      "lng": "-119.767",
+      "size": "26 Acres",
+      "url": "/incident/8385/",
+      "id": "8385",
+      "contained": "100"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "The Mosquito Fire is burning actively near Oxbow Reservoir, 3 miles...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 09:48:34",
+      "lat": "39.01",
+      "lng": "-120.719",
+      "size": "14,250 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "0"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-09-09 09:46:08",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "4,326 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "50"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 09:45:01",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "17,376 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-09 09:44:42",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,703 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "62"
+    },
+    {
+      "name": "Red Fire",
+      "type": "Wildfire",
+      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-09 09:41:05",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "7,335 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
       "name": "Jones Creek",
       "type": "Wildfire",
       "summary": "The Jones Creek Fire began on 9/4/22. The cause is under...",
@@ -12,19 +103,6 @@
       "url": "/incident/8407/",
       "id": "8407",
       "contained": "50"
-    },
-    {
-      "name": "Red Fire",
-      "type": "Wildfire",
-      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 09:39:15",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "7,335 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
     },
     {
       "name": "Seven Bays",
@@ -51,19 +129,6 @@
       "url": "/incident/8389/",
       "id": "8389",
       "contained": "0"
-    },
-    {
-      "name": "Aspen Fire",
-      "type": "Wildfire",
-      "summary": "Yosemite National Park Fire Summary, September 9, 2022, 8am RANCH...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 09:37:52",
-      "lat": "37.833",
-      "lng": "-119.767",
-      "size": "26 Acres",
-      "url": "/incident/8385/",
-      "id": "8385",
-      "contained": "100"
     },
     {
       "name": "Fairview",
@@ -129,19 +194,6 @@
       "url": "/incident/8372/",
       "id": "8372",
       "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 09:23:45",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,703 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "62"
     },
     {
       "name": "Cedar Creek Fire",
@@ -235,19 +287,6 @@
       "contained": "15"
     },
     {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-09-09 08:33:54",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "17,376 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
-    },
-    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
@@ -311,19 +350,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "15"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "The Mosquito Fire is burning actively near Oxbow Reservoir, 3 miles...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 00:02:05",
-      "lat": "39.01",
-      "lng": "-120.719",
-      "size": "13,704 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "0"
     },
     {
       "name": "Nebo Fire",
@@ -454,19 +480,6 @@
       "url": "/incident/8403/",
       "id": "8403",
       "contained": "0"
-    },
-    {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-09-08 22:08:39",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "4,326 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "50"
     },
     {
       "name": "Norton Fire",
@@ -675,19 +688,6 @@
       "url": "/incident/8273/",
       "id": "8273",
       "contained": "0"
-    },
-    {
-      "name": "Lake 3 ",
-      "type": "Wildfire",
-      "summary": "On September 7, 2022, at 1:30 p.m. a fire was reported to the Agency....",
-      "state": "MINNESOTA",
-      "updated": "2022-09-08 15:45:08",
-      "lat": "47.893",
-      "lng": "-91.429",
-      "size": "0 Acres",
-      "url": "/incident/8406/",
-      "id": "8406",
-      "contained": "30"
     },
     {
       "name": "North Camas Fire",
