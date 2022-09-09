@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-08 21:22:17",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Highway 93 is open to travel in both directions with no restrictions...",
       "state": "IDAHO",
-      "updated": "2022-09-08 18:55:09",
+      "updated": "2022-09-08 21:13:12",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "122,612 Acres",
@@ -14,11 +27,37 @@
       "contained": "35"
     },
     {
+      "name": "Van Meter Fire",
+      "type": "Wildfire",
+      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
+      "state": "OREGON",
+      "updated": "2022-09-08 20:52:29",
+      "lat": "42.132",
+      "lng": "-121.579",
+      "size": "3,500 Acres",
+      "url": "/incident/8405/",
+      "id": "8405",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-08 20:48:59",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,681 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "62"
+    },
+    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
       "state": "IDAHO",
-      "updated": "2022-09-08 18:55:00",
+      "updated": "2022-09-08 20:31:14",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "31,321 Acres",
@@ -27,16 +66,94 @@
       "contained": "2"
     },
     {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Current Acres:18,657     Containment: 5%     Personnel...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-08 20:27:11",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "23,919 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "5"
+    },
+    {
+      "name": "Lemonade Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
+      "state": "MONTANA",
+      "updated": "2022-09-08 19:54:29",
+      "lat": "48.238",
+      "lng": "-114.796",
+      "size": "636 Acres",
+      "url": "/incident/8379/",
+      "id": "8379",
+      "contained": "15"
+    },
+    {
+      "name": "NW Pasayten Fires",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-08 19:50:01",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "5,495 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "Several lightning-caused fires are active across North Cascades...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-08 19:46:56",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "4,538 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-08 19:44:02",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "8,837 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "The Mosquito Fire is burning actively near Oxbow Reservoir, 3 miles...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-08 18:54:41",
+      "updated": "2022-09-08 19:04:07",
       "lat": "39.01",
       "lng": "-120.719",
       "size": "6,870 Acres",
       "url": "/incident/8398/",
       "id": "8398",
+      "contained": "0"
+    },
+    {
+      "name": "Tenmile",
+      "type": "Wildfire",
+      "summary": "The Tenmile and the Josephine fires have burned together and are...",
+      "state": "IDAHO",
+      "updated": "2022-09-08 19:03:54",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "1,100 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
       "contained": "0"
     },
     {
@@ -66,19 +183,6 @@
       "contained": "75"
     },
     {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 18:52:57",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "5,917 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
-    },
-    {
       "name": "Rodgers Fire",
       "type": "Wildfire",
       "summary": "Current Fire Activity as of Thursday, September 8, 2022, 9am RODGERS...",
@@ -89,19 +193,6 @@
       "size": "2,576 Acres",
       "url": "/incident/8333/",
       "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "NW Pasayten Fires",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-08 18:51:12",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "5,495 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
       "contained": "0"
     },
     {
@@ -128,19 +219,6 @@
       "size": "23,000 Acres",
       "url": "/incident/8284/",
       "id": "8284",
-      "contained": "0"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "Several lightning-caused fires are active across North Cascades...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-08 18:44:31",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "4,538 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
       "contained": "0"
     },
     {
@@ -259,19 +337,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "18"
-    },
-    {
-      "name": "Fairview",
-      "type": "Wildfire",
-      "summary": "Current Acres:18,657     Containment: 5%     Personnel...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-08 17:53:09",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "18,657 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "5"
     },
     {
       "name": "Cannon Fire",
@@ -547,19 +612,6 @@
       "contained": "44"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-08 14:47:46",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,681 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "55"
-    },
-    {
       "name": "White River (&amp; Irving Peak)",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -690,32 +742,6 @@
       "contained": "0"
     },
     {
-      "name": "Van Meter Fire",
-      "type": "Wildfire",
-      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
-      "state": "OREGON",
-      "updated": "2022-09-08 10:49:22",
-      "lat": "42.132",
-      "lng": "-121.579",
-      "size": "3,500 Acres",
-      "url": "/incident/8405/",
-      "id": "8405",
-      "contained": "0"
-    },
-    {
-      "name": "Lemonade Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
-      "state": "MONTANA",
-      "updated": "2022-09-08 10:13:51",
-      "lat": "48.238",
-      "lng": "-114.796",
-      "size": "636 Acres",
-      "url": "/incident/8379/",
-      "id": "8379",
-      "contained": "0"
-    },
-    {
       "name": "Seven Bays",
       "type": "Wildfire",
       "summary": "Davenport, WA - The Seven Bays Fire is located approximately 15 miles...",
@@ -739,19 +765,6 @@
       "size": "1,824 Acres",
       "url": "/incident/8367/",
       "id": "8367",
-      "contained": "0"
-    },
-    {
-      "name": "Ten Mile",
-      "type": "Wildfire",
-      "summary": "The Ten Mile and the Josephine fires have burned together and are...",
-      "state": "IDAHO",
-      "updated": "2022-09-07 21:14:28",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "0 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
       "contained": "0"
     },
     {
@@ -818,19 +831,6 @@
       "url": "/incident/8299/",
       "id": "8299",
       "contained": "98"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-07 11:31:26",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
     },
     {
       "name": "Calf Canyon",
