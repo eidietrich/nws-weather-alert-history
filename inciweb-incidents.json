@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Clover Fire",
+      "type": "Wildfire",
+      "summary": "10SEPT22-Fire personnel took advantage of favorable weather...",
+      "state": "MONTANA",
+      "updated": "2022-09-10 18:36:26",
+      "lat": "45.048",
+      "lng": "-111.87",
+      "size": "1,150 Acres",
+      "url": "/incident/8262/",
+      "id": "8262",
+      "contained": "70"
+    },
+    {
       "name": "Sturgill Fire",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
       "state": "OREGON",
-      "updated": "2022-09-10 18:20:52",
+      "updated": "2022-09-10 18:36:04",
       "lat": "45.284",
       "lng": "-117.534",
       "size": "19,173 Acres",
@@ -14,30 +27,82 @@
       "contained": "0"
     },
     {
-      "name": "Double Creek Fire",
+      "name": "Mill Lake Fire",
       "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-10 18:35:11",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,589 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-10 18:33:42",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "28,307 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "40"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
       "state": "OREGON",
-      "updated": "2022-09-10 18:18:38",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "147,582 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
+      "updated": "2022-09-10 18:30:55",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "490 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
     },
     {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
       "state": "OREGON",
-      "updated": "2022-09-10 18:17:46",
+      "updated": "2022-09-10 18:29:26",
       "lat": "45.133",
       "lng": "-117.11",
       "size": "11,882 Acres",
       "url": "/incident/8363/",
       "id": "8363",
       "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-10 18:28:12",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "55"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-10 18:24:54",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "147,582 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
     },
     {
       "name": "Mosquito Fire",
@@ -90,19 +155,6 @@
       "url": "/incident/8390/",
       "id": "8390",
       "contained": "59"
-    },
-    {
-      "name": "Fairview",
-      "type": "Wildfire",
-      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-10 17:12:38",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "28,307 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "40"
     },
     {
       "name": "Williams Creek Fire",
@@ -168,19 +220,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "81"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-10 16:32:42",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,589 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
     },
     {
       "name": "Moose Fire",
@@ -259,19 +298,6 @@
       "url": "/incident/8405/",
       "id": "8405",
       "contained": "10"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-10 13:51:55",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "55"
     },
     {
       "name": "SR Lightning Complex BAER",
@@ -518,19 +544,6 @@
       "size": "57 Acres",
       "url": "/incident/8411/",
       "id": "8411",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-10 10:54:45",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "490 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
       "contained": "0"
     },
     {
@@ -1156,19 +1169,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "98"
-    },
-    {
-      "name": "Clover Fire",
-      "type": "Wildfire",
-      "summary": "30AUG22 – Fire behavior has remained low since the fire...",
-      "state": "MONTANA",
-      "updated": "2022-08-31 16:02:53",
-      "lat": "45.048",
-      "lng": "-111.87",
-      "size": "1,103 Acres",
-      "url": "/incident/8262/",
-      "id": "8262",
-      "contained": "53"
     },
     {
       "name": "Wishon Fire",
