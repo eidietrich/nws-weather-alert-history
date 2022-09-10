@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-10 14:45:16",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-10 14:44:32",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
       "state": "IDAHO",
-      "updated": "2022-09-10 14:26:16",
+      "updated": "2022-09-10 14:43:01",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "35,601 Acres",
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "2"
+    },
+    {
+      "name": "Van Meter Fire",
+      "type": "Wildfire",
+      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
+      "state": "OREGON",
+      "updated": "2022-09-10 14:34:21",
+      "lat": "42.132",
+      "lng": "-121.579",
+      "size": "2,502 Acres",
+      "url": "/incident/8405/",
+      "id": "8405",
+      "contained": "10"
     },
     {
       "name": "NW Pasayten Complex",
@@ -142,19 +181,6 @@
       "url": "/incident/8407/",
       "id": "8407",
       "contained": "72"
-    },
-    {
-      "name": "Van Meter Fire",
-      "type": "Wildfire",
-      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
-      "state": "OREGON",
-      "updated": "2022-09-10 13:04:06",
-      "lat": "42.132",
-      "lng": "-121.579",
-      "size": "2,502 Acres",
-      "url": "/incident/8405/",
-      "id": "8405",
-      "contained": "10"
     },
     {
       "name": "Murray Fire",
@@ -766,32 +792,6 @@
       "url": "/incident/8413/",
       "id": "8413",
       "contained": "10"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-09 18:43:33",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-09 18:40:17",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
     },
     {
       "name": "Twist Creek ",
