@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Radford",
+      "type": "Wildfire",
+      "summary": " Links:  Daily Update (pdf)     |     Daily Map...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-10 17:12:59",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "1,088 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "59"
+    },
+    {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-10 17:12:38",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "28,307 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "40"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-10 17:07:00",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "12,447 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-10 17:01:53",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-10 17:00:40",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Saturday, September 10, 2022 (this section lasted updated 10:30...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-10 16:58:06",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "33,754 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
+      "state": "IDAHO",
+      "updated": "2022-09-10 16:53:07",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "35,601 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "2"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
@@ -27,19 +118,6 @@
       "contained": "81"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 14, 2022. The fire...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 16:41:47",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "35,601 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "2"
-    },
-    {
       "name": "Mill Lake Fire",
       "type": "Wildfire",
       "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
@@ -50,45 +128,6 @@
       "size": "1,589 Acres",
       "url": "/incident/8392/",
       "id": "8392",
-      "contained": "0"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-10 16:25:24",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-10 16:24:43",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Saturday, September 10, 2022 (this section lasted updated 10:30...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-10 16:24:01",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "33,754 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
       "contained": "0"
     },
     {
@@ -118,19 +157,6 @@
       "contained": "0"
     },
     {
-      "name": "Fairview",
-      "type": "Wildfire",
-      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-10 15:31:11",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "28,307 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "40"
-    },
-    {
       "name": "Bear Gulch Fire",
       "type": "Wildfire",
       "summary": "The Bear Gulch Fire was lightning caused and detected on August 18th,...",
@@ -154,19 +180,6 @@
       "size": "4,382 Acres",
       "url": "/incident/8394/",
       "id": "8394",
-      "contained": "0"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 15:25:30",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "11,881 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
       "contained": "0"
     },
     {
@@ -272,19 +285,6 @@
       "url": "/incident/8384/",
       "id": "8384",
       "contained": "0"
-    },
-    {
-      "name": "Radford",
-      "type": "Wildfire",
-      "summary": " Links:  Daily Update (pdf)     |     Daily Map...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-10 13:26:19",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "1,088 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "59"
     },
     {
       "name": "Bull Gin Complex",
