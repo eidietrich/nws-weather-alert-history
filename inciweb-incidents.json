@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-10 15:18:57",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "19,173 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-10 15:18:47",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "11,882 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-10 15:18:34",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "147,582 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-10 15:07:15",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "11,881 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "Columbus Fire",
+      "type": "Wildfire",
+      "summary": "The Columbus Fire was detected on August 22nd, 2022. It is located...",
+      "state": "IDAHO",
+      "updated": "2022-09-10 15:06:44",
+      "lat": "47.689",
+      "lng": "-115.756",
+      "size": "1,000 Acres",
+      "url": "/incident/8368/",
+      "id": "8368",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Yesterday, the fire experienced cooler temperatures, lighter winds,...",
+      "state": "IDAHO",
+      "updated": "2022-09-10 15:06:07",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "125,993 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "37"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-10 15:03:21",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "51,814 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "12"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
       "state": "NEW MEXICO",
-      "updated": "2022-09-10 14:45:16",
+      "updated": "2022-09-10 15:02:32",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "341,735 Acres",
@@ -18,7 +109,7 @@
       "type": "Wildfire",
       "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
       "state": "NEW MEXICO",
-      "updated": "2022-09-10 14:44:32",
+      "updated": "2022-09-10 15:01:49",
       "lat": "35.759",
       "lng": "-105.503",
       "size": "341,735 Acres",
@@ -194,19 +285,6 @@
       "url": "/incident/8389/",
       "id": "8389",
       "contained": "20"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 12:24:08",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "11,881 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
     },
     {
       "name": "Six Rivers Lightning Complex",
@@ -417,32 +495,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "Cedar Creek Fire Daily Operations Video: ...",
-      "state": "OREGON",
-      "updated": "2022-09-10 10:54:12",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "51,814 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "12"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-10 10:54:10",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "11,882 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
       "name": "North Creek",
       "type": "Wildfire",
       "summary": "The North Creek Fire was reported following a morning thunderstorm...",
@@ -453,19 +505,6 @@
       "size": "5 Acres",
       "url": "/incident/8412/",
       "id": "8412",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-10 10:52:26",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "19,173 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
       "contained": "0"
     },
     {
@@ -480,19 +519,6 @@
       "url": "/incident/8392/",
       "id": "8392",
       "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
-      "state": "OREGON",
-      "updated": "2022-09-10 10:47:38",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "147,582 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
     },
     {
       "name": "Boulder Mountain Fire",
@@ -571,19 +597,6 @@
       "url": "/incident/8393/",
       "id": "8393",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Yesterday, the fire experienced cooler temperatures, lighter winds,...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 10:18:06",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "125,993 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "37"
     },
     {
       "name": "Seven Bays",
@@ -973,19 +986,6 @@
       "size": "144 Acres",
       "url": "/incident/8349/",
       "id": "8349",
-      "contained": "0"
-    },
-    {
-      "name": "Columbus Fire",
-      "type": "Wildfire",
-      "summary": "The Columbus Fire was detected on August 22nd, 2022. It is located...",
-      "state": "IDAHO",
-      "updated": "2022-09-07 19:00:54",
-      "lat": "47.689",
-      "lng": "-115.756",
-      "size": "1,000 Acres",
-      "url": "/incident/8368/",
-      "id": "8368",
       "contained": "0"
     },
     {
