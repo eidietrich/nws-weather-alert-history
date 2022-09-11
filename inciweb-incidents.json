@@ -1,16 +1,289 @@
 {
   "markers": [
     {
+      "name": "Jones Creek",
+      "type": "Wildfire",
+      "summary": "The Jones Creek Fire began on 9/4/22. The cause is under...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 11:28:48",
+      "lat": "45.704",
+      "lng": "-116.526",
+      "size": "4,429 Acres",
+      "url": "/incident/8407/",
+      "id": "8407",
+      "contained": "90"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 11:28:21",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "19,304 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Radford",
+      "type": "Wildfire",
+      "summary": " Links:  Daily Update (pdf)     |     Daily Map (pdf)    ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 11:28:00",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "1,079 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "65"
+    },
+    {
+      "name": "Cannon Fire",
+      "type": "Wildfire",
+      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
+      "state": "MONTANA",
+      "updated": "2022-09-11 11:27:33",
+      "lat": "47.716",
+      "lng": "-113.56",
+      "size": "1,872 Acres",
+      "url": "/incident/8326/",
+      "id": "8326",
+      "contained": "0"
+    },
+    {
+      "name": "Dean Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-09-11 11:27:30",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "483 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
+      "name": "Ursus Fire",
+      "type": "Wildfire",
+      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
+      "state": "MONTANA",
+      "updated": "2022-09-11 11:27:27",
+      "lat": "47.38",
+      "lng": "-113.025",
+      "size": "1,824 Acres",
+      "url": "/incident/8367/",
+      "id": "8367",
+      "contained": "0"
+    },
+    {
+      "name": "George Lake Fire",
+      "type": "Wildfire",
+      "summary": "The George Lake Fire was detected on September 6th, 2022. It is...",
+      "state": "MONTANA",
+      "updated": "2022-09-11 11:27:24",
+      "lat": "47.378",
+      "lng": "-113.48",
+      "size": "537 Acres",
+      "url": "/incident/8399/",
+      "id": "8399",
+      "contained": "0"
+    },
+    {
+      "name": "Margaret Fire",
+      "type": "Wildfire",
+      "summary": "The Margaret Fire was detected by Baptiste Lookout on August 22, 2022...",
+      "state": "MONTANA",
+      "updated": "2022-09-11 11:27:22",
+      "lat": "48.1",
+      "lng": "-113.808",
+      "size": "1,077 Acres",
+      "url": "/incident/8393/",
+      "id": "8393",
+      "contained": "0"
+    },
+    {
+      "name": "Bull Gin Complex",
+      "type": "Wildfire",
+      "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
+      "state": "MONTANA",
+      "updated": "2022-09-11 11:27:18",
+      "lat": "48.087",
+      "lng": "-115.826",
+      "size": "2,696 Acres",
+      "url": "/incident/8381/",
+      "id": "8381",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 11:26:45",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "36,717 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "2"
+    },
+    {
+      "name": "Boulder Lake",
+      "type": "Wildfire",
+      "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
+      "state": "MONTANA",
+      "updated": "2022-09-11 11:26:01",
+      "lat": "47.071",
+      "lng": "-113.82",
+      "size": "1,700 Acres",
+      "url": "/incident/8395/",
+      "id": "8395",
+      "contained": "0"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-09-11 11:24:38",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "4,331 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "70"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located one and a half miles north of...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-11 11:21:54",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "7,600 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-11 11:21:36",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "19,487 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": " On Sunday August 28th at 0700, the Klamath National Forest Type 3...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 11:21:30",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,138 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "99"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-11 11:20:41",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "85,926 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Smoke and haze will persist in the Salmon Valley through most of...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 11:19:26",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "126,252 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "37"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 11:19:08",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "41,540 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "91"
+    },
+    {
+      "name": "Rock Rabbit",
+      "type": "Wildfire",
+      "summary": "The Rock Rabbit fire is burning the Frank Church River of No Return...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 11:08:49",
+      "lat": "45.264",
+      "lng": "-115.237",
+      "size": "120 Acres",
+      "url": "/incident/8400/",
+      "id": "8400",
+      "contained": "0"
+    },
+    {
+      "name": "North Creek",
+      "type": "Wildfire",
+      "summary": "The North Creek Fire is north of Bear Pete Mountain and has been...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 11:05:58",
+      "lat": "45.27",
+      "lng": "-116.021",
+      "size": "5 Acres",
+      "url": "/incident/8412/",
+      "id": "8412",
+      "contained": "0"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Sunday, September 11, 2022 (this section last updated 6:30 a.m.)Fire...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-11 10:48:20",
+      "updated": "2022-09-11 11:05:15",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "41,443 Acres",
       "url": "/incident/8398/",
       "id": "8398",
+      "contained": "10"
+    },
+    {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": "On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency Dispatch...",
+      "state": "MONTANA",
+      "updated": "2022-09-11 10:58:22",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "13,547 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
       "contained": "10"
     },
     {
@@ -37,19 +310,6 @@
       "size": "2,048 Acres",
       "url": "/incident/8273/",
       "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located one and a half miles north of...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 10:44:39",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "7,600 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
       "contained": "0"
     },
     {
@@ -144,32 +404,6 @@
       "contained": "0"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-11 10:29:46",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "19,487 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-11 10:29:14",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "85,926 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "Van Meter Fire",
       "type": "Wildfire",
       "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
@@ -248,19 +482,6 @@
       "contained": "0"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 10:19:22",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "36,717 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "2"
-    },
-    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
@@ -272,32 +493,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "15"
-    },
-    {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 10:06:05",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "19,304 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
-    },
-    {
-      "name": "Radford",
-      "type": "Wildfire",
-      "summary": " Links:  Daily Update (pdf)     |     Daily Map (pdf)    ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 10:05:56",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "1,079 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "65"
     },
     {
       "name": "Fairview",
@@ -350,19 +545,6 @@
       "url": "/incident/8333/",
       "id": "8333",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Smoke and haze will persist in the Salmon Valley through most of...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 09:43:09",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "126,252 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "37"
     },
     {
       "name": "Aspen Fire",
@@ -482,19 +664,6 @@
       "contained": "0"
     },
     {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-09-10 23:04:58",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "4,331 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "70"
-    },
-    {
       "name": "Eagle Creek",
       "type": "Wildfire",
       "summary": "Firefighters made good progress on the Eagle Creek Fire today, taking...",
@@ -519,32 +688,6 @@
       "url": "/incident/8389/",
       "id": "8389",
       "contained": "40"
-    },
-    {
-      "name": "Jones Creek",
-      "type": "Wildfire",
-      "summary": "The Jones Creek Fire began on 9/4/22. The cause is under...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 22:44:23",
-      "lat": "45.704",
-      "lng": "-116.526",
-      "size": "4,429 Acres",
-      "url": "/incident/8407/",
-      "id": "8407",
-      "contained": "90"
-    },
-    {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": "On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency Dispatch...",
-      "state": "MONTANA",
-      "updated": "2022-09-10 22:27:17",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "13,547 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
-      "contained": "10"
     },
     {
       "name": "Suiattle River Fire",
@@ -586,19 +729,6 @@
       "contained": "0"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-10 21:04:46",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "41,540 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "91"
-    },
-    {
       "name": "SR Lightning Complex BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
@@ -609,19 +739,6 @@
       "size": "0 Acres",
       "url": "/incident/8384/",
       "id": "8384",
-      "contained": "0"
-    },
-    {
-      "name": "North Creek",
-      "type": "Wildfire",
-      "summary": "The North Creek Fire was reported following a morning thunderstorm...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 19:37:09",
-      "lat": "45.27",
-      "lng": "-116.021",
-      "size": "5 Acres",
-      "url": "/incident/8412/",
-      "id": "8412",
       "contained": "0"
     },
     {
@@ -677,19 +794,6 @@
       "contained": "100"
     },
     {
-      "name": "Bull Gin Complex",
-      "type": "Wildfire",
-      "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
-      "state": "MONTANA",
-      "updated": "2022-09-10 13:07:52",
-      "lat": "48.087",
-      "lng": "-115.826",
-      "size": "2,138 Acres",
-      "url": "/incident/8381/",
-      "id": "8381",
-      "contained": "0"
-    },
-    {
       "name": "Hermits Peak and Calf Canyon BAER",
       "type": "Burned Area Emergency Response",
       "summary": " THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
@@ -713,19 +817,6 @@
       "size": "0 Acres",
       "url": "/incident/8118/",
       "id": "8118",
-      "contained": "0"
-    },
-    {
-      "name": "Boulder Lake",
-      "type": "Wildfire",
-      "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
-      "state": "MONTANA",
-      "updated": "2022-09-10 11:34:40",
-      "lat": "47.071",
-      "lng": "-113.82",
-      "size": "1,500 Acres",
-      "url": "/incident/8395/",
-      "id": "8395",
       "contained": "0"
     },
     {
@@ -755,32 +846,6 @@
       "contained": "0"
     },
     {
-      "name": "Ursus Fire",
-      "type": "Wildfire",
-      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
-      "state": "MONTANA",
-      "updated": "2022-09-10 10:25:11",
-      "lat": "47.38",
-      "lng": "-113.025",
-      "size": "1,824 Acres",
-      "url": "/incident/8367/",
-      "id": "8367",
-      "contained": "0"
-    },
-    {
-      "name": "Margaret Fire",
-      "type": "Wildfire",
-      "summary": "The Margaret Fire was detected by Baptiste Lookout on August 22, 2022...",
-      "state": "MONTANA",
-      "updated": "2022-09-10 10:24:03",
-      "lat": "48.1",
-      "lng": "-113.808",
-      "size": "1,077 Acres",
-      "url": "/incident/8393/",
-      "id": "8393",
-      "contained": "0"
-    },
-    {
       "name": "Windigo Fire",
       "type": "Wildfire",
       "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
@@ -807,32 +872,6 @@
       "contained": "99"
     },
     {
-      "name": "George Lake Fire",
-      "type": "Wildfire",
-      "summary": "The George Lake Fire was detected on September 6th, 2022. It is...",
-      "state": "MONTANA",
-      "updated": "2022-09-10 09:38:14",
-      "lat": "47.378",
-      "lng": "-113.48",
-      "size": "537 Acres",
-      "url": "/incident/8399/",
-      "id": "8399",
-      "contained": "0"
-    },
-    {
-      "name": "Cannon Fire",
-      "type": "Wildfire",
-      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
-      "state": "MONTANA",
-      "updated": "2022-09-10 09:19:46",
-      "lat": "47.716",
-      "lng": "-113.56",
-      "size": "1,872 Acres",
-      "url": "/incident/8326/",
-      "id": "8326",
-      "contained": "0"
-    },
-    {
       "name": "Summit Fire",
       "type": "Wildfire",
       "summary": " The Summit Fire was ignited by lightning and discovered on the...",
@@ -844,19 +883,6 @@
       "url": "/incident/8408/",
       "id": "8408",
       "contained": "0"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": " On Sunday August 28th at 0700, the Klamath National Forest Type 3...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-09 20:59:50",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,138 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "99"
     },
     {
       "name": "Twist Creek ",
@@ -883,19 +909,6 @@
       "url": "/incident/8351/",
       "id": "8351",
       "contained": "3"
-    },
-    {
-      "name": "Dean Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-09-09 11:45:59",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "483 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
     },
     {
       "name": "Lake 3 ",
@@ -1013,19 +1026,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Rock Rabbit",
-      "type": "Wildfire",
-      "summary": "The Rock Rabbit fire is burning the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2022-09-07 20:23:25",
-      "lat": "45.264",
-      "lng": "-115.237",
-      "size": "120 Acres",
-      "url": "/incident/8400/",
-      "id": "8400",
-      "contained": "0"
     },
     {
       "name": "Yeti and Alex Fires",
