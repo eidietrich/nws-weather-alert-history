@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-11 15:36:41",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "69"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-11 15:35:20",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "5,339 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-11 15:25:21",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "19,487 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-09-11 15:22:59",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "514 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-11 15:22:19",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "152,301 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-11 15:21:18",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,182 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
@@ -170,19 +248,6 @@
       "contained": "0"
     },
     {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 13:37:58",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "5,339 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
-      "contained": "0"
-    },
-    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": "The Bolt Creek fire is located one and a half miles north of...",
@@ -300,19 +365,6 @@
       "contained": "1"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-11 12:07:45",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "69"
-    },
-    {
       "name": "Bull Gin Complex",
       "type": "Wildfire",
       "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
@@ -324,32 +376,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "0"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-11 11:56:36",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "11,882 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
-      "state": "OREGON",
-      "updated": "2022-09-11 11:54:45",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "149,944 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
     },
     {
       "name": "Crockets Knob Fire",
@@ -508,19 +534,6 @@
       "contained": "0"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-11 11:21:36",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "19,487 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
       "name": "Rock Rabbit",
       "type": "Wildfire",
       "summary": "The Rock Rabbit fire is burning the Frank Church River of No Return...",
@@ -623,19 +636,6 @@
       "url": "/incident/8410/",
       "id": "8410",
       "contained": "100"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-11 10:31:39",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "490 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
     },
     {
       "name": "Dismal Fire",
