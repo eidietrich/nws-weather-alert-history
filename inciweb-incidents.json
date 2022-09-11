@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Sunday, September 11, 2022 (this section last updated 6:30 a.m.)Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 17:17:30",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "41,443 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "10"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located one and a half miles north of...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-11 17:16:42",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "7,600 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-11 17:15:03",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "152,301 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-11 17:02:27",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,182 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-11 17:01:22",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "85,926 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Summit Fire",
       "type": "Wildfire",
       "summary": " The Summit Fire was ignited by lightning and discovered on the...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-11 16:46:39",
+      "updated": "2022-09-11 16:50:10",
       "lat": "36.319",
       "lng": "-118.65",
       "size": "450 Acres",
@@ -18,39 +83,13 @@
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
       "state": "IDAHO",
-      "updated": "2022-09-11 16:45:57",
+      "updated": "2022-09-11 16:47:50",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "36,717 Acres",
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "2"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-11 16:42:43",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,182 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located one and a half miles north of...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 16:30:56",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "7,600 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "0"
     },
     {
       "name": "Yosemite September Lightning",
@@ -131,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
-      "state": "OREGON",
-      "updated": "2022-09-11 15:22:19",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "152,301 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
-    },
-    {
       "name": "Washakie Park",
       "type": "Wildfire",
       "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
@@ -154,19 +180,6 @@
       "size": "2,624 Acres",
       "url": "/incident/8418/",
       "id": "8418",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-11 15:00:07",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "85,926 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
@@ -337,19 +350,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "37"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Sunday, September 11, 2022 (this section last updated 6:30 a.m.)Fire...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 12:58:59",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "41,443 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "10"
     },
     {
       "name": "Suiattle River Fire",
