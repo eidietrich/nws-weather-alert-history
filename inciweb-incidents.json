@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-11 08:01:26",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "85,926 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " Yesterday, the fire experienced cooler temperatures, lighter winds,...",
       "state": "IDAHO",
-      "updated": "2022-09-11 07:31:02",
+      "updated": "2022-09-11 07:59:44",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "126,252 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "37"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 07:39:26",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,715 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "88"
     },
     {
       "name": "Ross Fork",
@@ -25,19 +51,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "2"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 07:02:00",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,715 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "88"
     },
     {
       "name": "Mosquito Fire",
@@ -128,19 +141,6 @@
       "size": "0 Acres",
       "url": "/incident/8417/",
       "id": "8417",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-11 00:14:31",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "74,420 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
