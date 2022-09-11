@@ -1,6 +1,214 @@
 {
   "markers": [
     {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 10:38:21",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "9,513 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "16"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 10:37:39",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "9,054 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "21"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Sunday, September 11, 2022 (this section last updated 6:30 a.m.)Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 10:37:38",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "41,443 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "10"
+    },
+    {
+      "name": "Washakie Park",
+      "type": "Wildfire",
+      "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
+      "state": "WYOMING",
+      "updated": "2022-09-11 10:35:40",
+      "lat": "42.989",
+      "lng": "-109.138",
+      "size": "2,624 Acres",
+      "url": "/incident/8418/",
+      "id": "8418",
+      "contained": "0"
+    },
+    {
+      "name": "Owl Fire and Horse Fire",
+      "type": "Wildfire",
+      "summary": "The Owl fire is located approximately 20 miles west of North Fork,...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 10:33:47",
+      "lat": "45.373",
+      "lng": "-114.442",
+      "size": "0 Acres",
+      "url": "/incident/8416/",
+      "id": "8416",
+      "contained": "0"
+    },
+    {
+      "name": "Rainbow",
+      "type": "Wildfire",
+      "summary": "The Rainbow Fire is burning at the top of Brundage Mountain and was...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 10:32:05",
+      "lat": "45.01",
+      "lng": "-116.134",
+      "size": "4 Acres",
+      "url": "/incident/8410/",
+      "id": "8410",
+      "contained": "100"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-09-11 10:31:39",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "490 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-11 10:30:02",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "11,882 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-11 10:29:46",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "19,487 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-11 10:29:14",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "85,926 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Van Meter Fire",
+      "type": "Wildfire",
+      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
+      "state": "OREGON",
+      "updated": "2022-09-11 10:29:06",
+      "lat": "42.132",
+      "lng": "-121.579",
+      "size": "2,502 Acres",
+      "url": "/incident/8405/",
+      "id": "8405",
+      "contained": "10"
+    },
+    {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": "The fire has seen an increase of several thousands of acres over the...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 10:26:41",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "8,000 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Tenmile",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 10:26:39",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "1,378 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "0"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 10:24:46",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "12,956 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located one and a half miles north of...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-11 10:24:36",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "7,600 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "0"
+    },
+    {
+      "name": "Patrol Point",
+      "type": "Wildfire",
+      "summary": "Patrol Point was mapped at just shy of 16,000 acres in the early...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 10:21:49",
+      "lat": "45.427",
+      "lng": "-114.938",
+      "size": "16,000 Acres",
+      "url": "/incident/8357/",
+      "id": "8357",
+      "contained": "0"
+    },
+    {
       "name": "Barnes Fire",
       "type": "Wildfire",
       "summary": "We will be holding a Community Meeting for the Barnes Fire at the...",
@@ -11,45 +219,6 @@
       "size": "5,825 Acres",
       "url": "/incident/8403/",
       "id": "8403",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-11 10:20:28",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "19,487 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
-      "name": "Patrol Point",
-      "type": "Wildfire",
-      "summary": "No Infrared imagery is available from last night.  On the southern...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 10:20:22",
-      "lat": "45.427",
-      "lng": "-114.938",
-      "size": "16,000 Acres",
-      "url": "/incident/8357/",
-      "id": "8357",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-11 10:20:17",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "490 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
       "contained": "0"
     },
     {
@@ -77,45 +246,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "15"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located one and a half miles north of...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 10:18:00",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "7,600 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-11 10:14:27",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "85,926 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 10:10:56",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "12,956 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
     },
     {
       "name": "Kootenai River Complex ",
@@ -157,19 +287,6 @@
       "contained": "45"
     },
     {
-      "name": "Washakie Park",
-      "type": "Wildfire",
-      "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
-      "state": "WYOMING",
-      "updated": "2022-09-11 09:58:38",
-      "lat": "42.989",
-      "lng": "-109.138",
-      "size": "2,624 Acres",
-      "url": "/incident/8418/",
-      "id": "8418",
-      "contained": "0"
-    },
-    {
       "name": "Red Fire",
       "type": "Wildfire",
       "summary": "Current summary as of September 11, 2022, 8amThe Red Fire is burning...",
@@ -209,19 +326,6 @@
       "contained": "0"
     },
     {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-11 09:48:11",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "11,882 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " Smoke and haze will persist in the Salmon Valley through most of...",
@@ -246,19 +350,6 @@
       "url": "/incident/8385/",
       "id": "8385",
       "contained": "100"
-    },
-    {
-      "name": "Tenmile",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 09:40:53",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "1,378 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "0"
     },
     {
       "name": "NW Pasayten Complex",
@@ -324,19 +415,6 @@
       "url": "/incident/8391/",
       "id": "8391",
       "contained": "86"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Sunday, September 11, 2022 (this section last updated 6:30 a.m.)Fire...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 08:55:48",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "41,443 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "10"
     },
     {
       "name": "Rum Creek Fire",
@@ -508,32 +586,6 @@
       "contained": "0"
     },
     {
-      "name": "Owl Fire and Horse Fire",
-      "type": "Wildfire",
-      "summary": "The Owl fire is located approximately 20 miles west of North Fork,...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 20:49:05",
-      "lat": "45.373",
-      "lng": "-114.442",
-      "size": "0 Acres",
-      "url": "/incident/8416/",
-      "id": "8416",
-      "contained": "0"
-    },
-    {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": "The fire has seen an increase of several thousands of acres and has...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 19:42:35",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "23,000 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
-    },
-    {
       "name": "North Creek",
       "type": "Wildfire",
       "summary": "The North Creek Fire was reported following a morning thunderstorm...",
@@ -544,19 +596,6 @@
       "size": "5 Acres",
       "url": "/incident/8412/",
       "id": "8412",
-      "contained": "0"
-    },
-    {
-      "name": "Rainbow",
-      "type": "Wildfire",
-      "summary": "The Rainbow Fire is burning at the top of Brundage Mountain and was...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 19:34:22",
-      "lat": "45.01",
-      "lng": "-116.134",
-      "size": "5 Acres",
-      "url": "/incident/8410/",
-      "id": "8410",
       "contained": "0"
     },
     {
@@ -610,19 +649,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "100"
-    },
-    {
-      "name": "Van Meter Fire",
-      "type": "Wildfire",
-      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
-      "state": "OREGON",
-      "updated": "2022-09-10 14:34:21",
-      "lat": "42.132",
-      "lng": "-121.579",
-      "size": "2,502 Acres",
-      "url": "/incident/8405/",
-      "id": "8405",
-      "contained": "10"
     },
     {
       "name": "Bull Gin Complex",
@@ -792,32 +818,6 @@
       "url": "/incident/8273/",
       "id": "8273",
       "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 09:33:30",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "9,434 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "16"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-10 09:32:30",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "8,375 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "21"
     },
     {
       "name": "Cannon Fire",
