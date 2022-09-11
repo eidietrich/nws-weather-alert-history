@@ -1,17 +1,121 @@
 {
   "markers": [
     {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-11 09:47:05",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "149,944 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
+    },
+    {
+      "name": "Rodgers Fire",
+      "type": "Wildfire",
+      "summary": "Current summary as of September 11, 2022, 8am This area has recent...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 09:44:44",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "2,576 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Barnes Fire",
+      "type": "Wildfire",
+      "summary": "We will be holding a Community Meeting for the Barnes Fire at the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 09:44:24",
+      "lat": "41.89",
+      "lng": "-120.3",
+      "size": "5,825 Acres",
+      "url": "/incident/8403/",
+      "id": "8403",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " Smoke and haze will persist in the Salmon Valley through most of...",
       "state": "IDAHO",
-      "updated": "2022-09-11 09:33:06",
+      "updated": "2022-09-11 09:43:09",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "126,252 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "37"
+    },
+    {
+      "name": "Aspen Fire",
+      "type": "Wildfire",
+      "summary": "As of September 10, 2022 the Aspen Fire is 100% contained. This page...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 09:41:47",
+      "lat": "37.833",
+      "lng": "-119.767",
+      "size": "26 Acres",
+      "url": "/incident/8385/",
+      "id": "8385",
+      "contained": "100"
+    },
+    {
+      "name": "Tenmile",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 09:40:53",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "1,378 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 09:39:37",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "36,717 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "2"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 09:39:21",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "19,304 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Washakie Park",
+      "type": "Wildfire",
+      "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
+      "state": "WYOMING",
+      "updated": "2022-09-11 09:36:34",
+      "lat": "42.989",
+      "lng": "-109.138",
+      "size": "2,624 Acres",
+      "url": "/incident/8418/",
+      "id": "8418",
+      "contained": "0"
     },
     {
       "name": "NW Pasayten Complex",
@@ -27,19 +131,6 @@
       "contained": "0"
     },
     {
-      "name": "Barnes Fire",
-      "type": "Wildfire",
-      "summary": "We will be holding a Community Meeting for the Barnes Fire at the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 09:27:07",
-      "lat": "41.89",
-      "lng": "-120.3",
-      "size": "5,825 Acres",
-      "url": "/incident/8403/",
-      "id": "8403",
-      "contained": "0"
-    },
-    {
       "name": "Fairview",
       "type": "Wildfire",
       "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
@@ -51,19 +142,6 @@
       "url": "/incident/8402/",
       "id": "8402",
       "contained": "45"
-    },
-    {
-      "name": "Washakie Park",
-      "type": "Wildfire",
-      "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
-      "state": "WYOMING",
-      "updated": "2022-09-11 09:20:26",
-      "lat": "42.989",
-      "lng": "-109.138",
-      "size": "0 Acres",
-      "url": "/incident/8418/",
-      "id": "8418",
-      "contained": "0"
     },
     {
       "name": "Boulder Mountain Fire",
@@ -115,19 +193,6 @@
       "size": "12,956 Acres",
       "url": "/incident/8372/",
       "id": "8372",
-      "contained": "0"
-    },
-    {
-      "name": "Tenmile",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 09:11:44",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "1,378 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
       "contained": "0"
     },
     {
@@ -196,19 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
-      "state": "OREGON",
-      "updated": "2022-09-11 08:54:07",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "149,944 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
-    },
-    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -248,19 +300,6 @@
       "contained": "69"
     },
     {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 08:46:00",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "19,304 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
-    },
-    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
@@ -272,19 +311,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "88"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 08:45:14",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "36,717 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "2"
     },
     {
       "name": "Lemonade Fire",
@@ -661,32 +687,6 @@
       "size": "1,276 Acres",
       "url": "/incident/8343/",
       "id": "8343",
-      "contained": "0"
-    },
-    {
-      "name": "Aspen Fire",
-      "type": "Wildfire",
-      "summary": "Current Fire Activity - As of Saturday, September 10, 2022 OBELISK...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-10 11:14:26",
-      "lat": "37.833",
-      "lng": "-119.767",
-      "size": "26 Acres",
-      "url": "/incident/8385/",
-      "id": "8385",
-      "contained": "100"
-    },
-    {
-      "name": "Rodgers Fire",
-      "type": "Wildfire",
-      "summary": "Current Fire Activity - As of Saturday, September 10,...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-10 11:11:49",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "2,576 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
       "contained": "0"
     },
     {
