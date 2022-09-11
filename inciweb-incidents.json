@@ -1,16 +1,94 @@
 {
   "markers": [
     {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 12:48:31",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "36,717 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "2"
+    },
+    {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": "On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency Dispatch...",
+      "state": "MONTANA",
+      "updated": "2022-09-11 12:48:25",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "13,790 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
+      "contained": "10"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located one and a half miles north of...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-11 12:45:39",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "7,600 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "0"
+    },
+    {
+      "name": "Washakie Park",
+      "type": "Wildfire",
+      "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
+      "state": "WYOMING",
+      "updated": "2022-09-11 12:44:58",
+      "lat": "42.989",
+      "lng": "-109.138",
+      "size": "2,624 Acres",
+      "url": "/incident/8418/",
+      "id": "8418",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Sunday, September 11, 2022 (this section last updated 6:30 a.m.)Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 12:44:14",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "41,443 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "10"
+    },
+    {
       "name": "Suiattle River Fire",
       "type": "Wildfire",
       "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
       "state": "WASHINGTON",
-      "updated": "2022-09-11 12:22:34",
+      "updated": "2022-09-11 12:37:26",
       "lat": "48.311",
       "lng": "-121.392",
       "size": "66 Acres",
       "url": "/incident/8396/",
       "id": "8396",
+      "contained": "0"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-11 12:34:36",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,589 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
       "contained": "0"
     },
     {
@@ -25,32 +103,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "1"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Sunday, September 11, 2022 (this section last updated 6:30 a.m.)Fire...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 12:20:24",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "41,443 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "10"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located one and a half miles north of...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 12:16:26",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "7,600 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "0"
     },
     {
       "name": "Rum Creek Fire",
@@ -129,19 +181,6 @@
       "url": "/incident/8402/",
       "id": "8402",
       "contained": "45"
-    },
-    {
-      "name": "Washakie Park",
-      "type": "Wildfire",
-      "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
-      "state": "WYOMING",
-      "updated": "2022-09-11 11:56:42",
-      "lat": "42.989",
-      "lng": "-109.138",
-      "size": "2,624 Acres",
-      "url": "/incident/8418/",
-      "id": "8418",
-      "contained": "0"
     },
     {
       "name": "Nebo Fire",
@@ -261,19 +300,6 @@
       "contained": "0"
     },
     {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-11 11:47:17",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,589 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
-    },
-    {
       "name": "Boulder Lake",
       "type": "Wildfire",
       "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
@@ -365,19 +391,6 @@
       "contained": "0"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 11:26:45",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "36,717 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "2"
-    },
-    {
       "name": "Sturgill Fire",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
@@ -454,19 +467,6 @@
       "url": "/incident/8412/",
       "id": "8412",
       "contained": "0"
-    },
-    {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": "On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency Dispatch...",
-      "state": "MONTANA",
-      "updated": "2022-09-11 10:58:22",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "13,547 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
-      "contained": "10"
     },
     {
       "name": "Porphyry Fire",
