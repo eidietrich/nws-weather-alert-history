@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Smoke and haze will persist in the Salmon Valley through most of...",
+      "state": "IDAHO",
+      "updated": "2022-09-11 09:33:06",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "126,252 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "37"
+    },
+    {
+      "name": "NW Pasayten Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-11 09:32:26",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "9,814 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
+    },
+    {
+      "name": "Barnes Fire",
+      "type": "Wildfire",
+      "summary": "We will be holding a Community Meeting for the Barnes Fire at the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 09:27:07",
+      "lat": "41.89",
+      "lng": "-120.3",
+      "size": "5,825 Acres",
+      "url": "/incident/8403/",
+      "id": "8403",
+      "contained": "0"
+    },
+    {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-11 09:27:00",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "28,307 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "45"
+    },
+    {
+      "name": "Washakie Park",
+      "type": "Wildfire",
+      "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
+      "state": "WYOMING",
+      "updated": "2022-09-11 09:20:26",
+      "lat": "42.989",
+      "lng": "-109.138",
+      "size": "0 Acres",
+      "url": "/incident/8418/",
+      "id": "8418",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-11 09:19:37",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,076 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "10"
+    },
+    {
       "name": "Chilliwack Complex",
       "type": "Wildfire",
       "summary": "There are a number of lightning caused fires burning in the very...",
@@ -12,19 +90,6 @@
       "url": "/incident/8394/",
       "id": "8394",
       "contained": "0"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 09:17:08",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "2,076 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "10"
     },
     {
       "name": "Middle",
@@ -144,19 +209,6 @@
       "contained": "15"
     },
     {
-      "name": "Barnes Fire",
-      "type": "Wildfire",
-      "summary": "We will be holding a Community Meeting for the Barnes Fire at the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 08:53:35",
-      "lat": "41.89",
-      "lng": "-120.3",
-      "size": "5,825 Acres",
-      "url": "/incident/8403/",
-      "id": "8403",
-      "contained": "0"
-    },
-    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -248,32 +300,6 @@
       "contained": "30"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Yesterday, the fire experienced cooler temperatures, lighter winds,...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 08:31:02",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "126,252 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "37"
-    },
-    {
-      "name": "NW Pasayten Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 00:27:05",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "9,814 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
-      "contained": "0"
-    },
-    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": "The Bolt Creek fire is located one and a half miles north of...",
@@ -285,19 +311,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "0"
-    },
-    {
-      "name": "Fairview",
-      "type": "Wildfire",
-      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-10 23:29:47",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "28,307 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "43"
     },
     {
       "name": "Goat Rocks Fire",
