@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-12 18:51:13",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,233 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "13"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-12 18:49:07",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Monday, September 12, 2022 (this section last updated 8:45...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-12 18:48:54",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "46,587 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "10"
+    },
+    {
       "name": "Radford",
       "type": "Wildfire",
       "summary": " Links:  Daily Update (pdf)     |     Daily Map (pdf)    ...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-12 18:22:06",
+      "updated": "2022-09-12 18:48:45",
       "lat": "34.177",
       "lng": "-116.882",
       "size": "1,079 Acres",
       "url": "/incident/8390/",
       "id": "8390",
       "contained": "79"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-12 18:45:38",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "41,540 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "91"
+    },
+    {
+      "name": "Hermits Peak Fire",
+      "type": "Wildfire",
+      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-12 18:44:37",
+      "lat": "35.718",
+      "lng": "-105.399",
+      "size": "341,735 Acres",
+      "url": "/incident/8049/",
+      "id": "8049",
+      "contained": "100"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located one and a half miles north of...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-12 18:36:01",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "7,660 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "2"
     },
     {
       "name": "Wolf Fang Fire",
@@ -38,32 +116,6 @@
       "url": "/incident/8394/",
       "id": "8394",
       "contained": "0"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-12 18:11:46",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,233 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "13"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-12 18:11:20",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
     },
     {
       "name": "Margaret Fire",
@@ -209,19 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Monday, September 12, 2022 (this section last updated 8:45...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-12 16:58:53",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "46,587 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "10"
-    },
-    {
       "name": "Cerro Pelado Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY There are three phases of recovery...",
@@ -337,19 +376,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "75"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located one and a half miles north of...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-12 14:18:04",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "7,660 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "2"
     },
     {
       "name": "Deep Creek Fire",
@@ -859,19 +885,6 @@
       "contained": "0"
     },
     {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " Maps | Photos | Smoke Outlook Twelve lightning caused fires...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 13:30:17",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "41,540 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "91"
-    },
-    {
       "name": "Yeti and Alex Fires",
       "type": "Wildfire",
       "summary": " Updates  l Maps  l  Smoke Outlook  l  Closures ...",
@@ -987,19 +1000,6 @@
       "url": "/incident/8368/",
       "id": "8368",
       "contained": "0"
-    },
-    {
-      "name": "Hermits Peak Fire",
-      "type": "Wildfire",
-      "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-10 17:00:40",
-      "lat": "35.718",
-      "lng": "-105.399",
-      "size": "341,735 Acres",
-      "url": "/incident/8049/",
-      "id": "8049",
-      "contained": "100"
     },
     {
       "name": "Solomon Fire",
