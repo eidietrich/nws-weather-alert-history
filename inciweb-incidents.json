@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-12 08:44:04",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,175 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "21"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-12 08:43:44",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,233 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "13"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Sunday, September 11, 2022 (this section last updated 7:00 p.m.)As...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-12 08:41:45",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "46,587 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "10"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-12 08:38:11",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "75"
+    },
+    {
+      "name": "Lemonade Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
+      "state": "MONTANA",
+      "updated": "2022-09-12 08:26:05",
+      "lat": "48.238",
+      "lng": "-114.796",
+      "size": "667 Acres",
+      "url": "/incident/8379/",
+      "id": "8379",
+      "contained": "45"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-09-12 07:47:54",
+      "updated": "2022-09-12 08:15:45",
       "lat": "44.537",
       "lng": "-116.169",
       "size": "13,717 Acres",
@@ -14,11 +79,37 @@
       "contained": "96"
     },
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-12 08:14:01",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "86,734 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Seven Bays",
+      "type": "Wildfire",
+      "summary": " Davenport, WA – This is the final update for the Seven Bays...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-12 08:00:16",
+      "lat": "47.828",
+      "lng": "-118.323",
+      "size": "1,232 Acres",
+      "url": "/incident/8391/",
+      "id": "8391",
+      "contained": "100"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " Smoke and haze will persist in the Salmon Valley through most of...",
       "state": "IDAHO",
-      "updated": "2022-09-12 07:39:01",
+      "updated": "2022-09-12 07:55:34",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "125,925 Acres",
@@ -38,19 +129,6 @@
       "url": "/incident/8401/",
       "id": "8401",
       "contained": "0"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-12 07:12:55",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "36,717 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "13"
     },
     {
       "name": "Goat Mountain 2 Fire",
@@ -144,32 +222,6 @@
       "contained": "75"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-11 23:00:22",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "86,734 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-11 22:55:25",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "75"
-    },
-    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
@@ -233,19 +285,6 @@
       "url": "/incident/8363/",
       "id": "8363",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Sunday, September 11, 2022 (this section last updated 7:00 p.m.)As...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 22:07:13",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "46,587 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "10"
     },
     {
       "name": "Suiattle River Fire",
@@ -313,19 +352,6 @@
       "contained": "65"
     },
     {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 20:42:59",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "2,076 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "21"
-    },
-    {
       "name": "Owl Fire and Horse Fire",
       "type": "Wildfire",
       "summary": "The Owl fire is located approximately 20 miles west of North Fork,...",
@@ -337,19 +363,6 @@
       "url": "/incident/8416/",
       "id": "8416",
       "contained": "0"
-    },
-    {
-      "name": "Lemonade Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
-      "state": "MONTANA",
-      "updated": "2022-09-11 19:59:02",
-      "lat": "48.238",
-      "lng": "-114.796",
-      "size": "667 Acres",
-      "url": "/incident/8379/",
-      "id": "8379",
-      "contained": "45"
     },
     {
       "name": "Eagle Creek",
@@ -805,19 +818,6 @@
       "url": "/incident/8385/",
       "id": "8385",
       "contained": "100"
-    },
-    {
-      "name": "Seven Bays",
-      "type": "Wildfire",
-      "summary": " Davenport, WA - The Seven Bays Fire is located approximately 15...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 09:08:07",
-      "lat": "47.828",
-      "lng": "-118.323",
-      "size": "1,232 Acres",
-      "url": "/incident/8391/",
-      "id": "8391",
-      "contained": "86"
     },
     {
       "name": "Bear Gulch Fire",
