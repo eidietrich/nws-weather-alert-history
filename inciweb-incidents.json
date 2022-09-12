@@ -5,7 +5,7 @@
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-12 16:46:21",
+      "updated": "2022-09-12 17:22:00",
       "lat": "40.907",
       "lng": "-123.479",
       "size": "0 Acres",
@@ -14,11 +14,50 @@
       "contained": "0"
     },
     {
+      "name": "McKinney Fire",
+      "type": "Wildfire",
+      "summary": " On Sunday August 28th at 0700, the Klamath National Forest Type 3...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-12 17:10:55",
+      "lat": "41.819",
+      "lng": "-122.895",
+      "size": "60,138 Acres",
+      "url": "/incident/8287/",
+      "id": "8287",
+      "contained": "99"
+    },
+    {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-12 17:10:11",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "28,307 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "53"
+    },
+    {
+      "name": "Red Fire",
+      "type": "Wildfire",
+      "summary": "Current summary as of September 12, 2022, 7:30amThe Red Fire is...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-12 17:07:28",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "8,309 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Monday, September 12, 2022 (this section last updated 8:45...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-12 16:45:12",
+      "updated": "2022-09-12 16:58:53",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "46,587 Acres",
@@ -128,19 +167,6 @@
       "size": "424 Acres",
       "url": "/incident/8421/",
       "id": "8421",
-      "contained": "0"
-    },
-    {
-      "name": "Red Fire",
-      "type": "Wildfire",
-      "summary": "Current summary as of September 12, 2022, 7:30amThe Red Fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-12 15:50:07",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "8,309 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
       "contained": "0"
     },
     {
@@ -454,19 +480,6 @@
       "url": "/incident/8422/",
       "id": "8422",
       "contained": "0"
-    },
-    {
-      "name": "Fairview",
-      "type": "Wildfire",
-      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-12 12:38:15",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "28,307 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "53"
     },
     {
       "name": "Chilliwack Complex",
@@ -870,19 +883,6 @@
       "url": "/incident/8395/",
       "id": "8395",
       "contained": "0"
-    },
-    {
-      "name": "McKinney Fire",
-      "type": "Wildfire",
-      "summary": " On Sunday August 28th at 0700, the Klamath National Forest Type 3...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 11:40:01",
-      "lat": "41.819",
-      "lng": "-122.895",
-      "size": "60,138 Acres",
-      "url": "/incident/8287/",
-      "id": "8287",
-      "contained": "99"
     },
     {
       "name": "Margaret Fire",
