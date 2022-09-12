@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located one and a half miles north of...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-12 14:18:04",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "7,660 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "2"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Monday, September 12, 2022 (this section last updated 8:45...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-12 14:14:43",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "46,587 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "10"
+    },
+    {
+      "name": "White River (&amp; Irving Peak)",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-12 14:11:56",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "5,803 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "1"
+    },
+    {
+      "name": "No Grass Creek Fire",
+      "type": "Wildfire",
+      "summary": "The No Grass Creek fire is located in Powell County on the west end...",
+      "state": "MONTANA",
+      "updated": "2022-09-12 14:00:00",
+      "lat": "46.373",
+      "lng": "-112.473",
+      "size": "424 Acres",
+      "url": "/incident/8421/",
+      "id": "8421",
+      "contained": "0"
+    },
+    {
+      "name": "Deep Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
+      "state": "MONTANA",
+      "updated": "2022-09-12 13:59:08",
+      "lat": "47.089",
+      "lng": "-111.226",
+      "size": "37 Acres",
+      "url": "/incident/8371/",
+      "id": "8371",
+      "contained": "80"
+    },
+    {
       "name": "Mill Lake Fire",
       "type": "Wildfire",
       "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
@@ -25,19 +90,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Monday, September 12, 2022 (this section last updated 8:45...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-12 13:48:46",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "46,587 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "10"
     },
     {
       "name": "Murray Fire",
@@ -142,19 +194,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "16"
-    },
-    {
-      "name": "No Grass Creek Fire",
-      "type": "Wildfire",
-      "summary": "The No Grass Creek fire is located in Powell County on the west end...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 13:03:14",
-      "lat": "46.373",
-      "lng": "-112.473",
-      "size": "424 Acres",
-      "url": "/incident/8421/",
-      "id": "8421",
-      "contained": "0"
     },
     {
       "name": "Moose Fire",
@@ -326,32 +365,6 @@
       "contained": "15"
     },
     {
-      "name": "Deep Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 12:05:51",
-      "lat": "47.089",
-      "lng": "-111.226",
-      "size": "37 Acres",
-      "url": "/incident/8371/",
-      "id": "8371",
-      "contained": "70"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located one and a half miles north of...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-12 11:45:26",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "7,660 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "2"
-    },
-    {
       "name": "Williams Creek Fire",
       "type": "Wildfire",
       "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
@@ -454,19 +467,6 @@
       "url": "/incident/8284/",
       "id": "8284",
       "contained": "0"
-    },
-    {
-      "name": "White River (&amp; Irving Peak)",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-12 10:44:58",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "5,803 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "1"
     },
     {
       "name": "Middle",
