@@ -1,37 +1,24 @@
 {
   "markers": [
     {
-      "name": "Chilliwack Complex",
+      "name": "NW Pasayten Complex",
       "type": "Wildfire",
-      "summary": "There are a number of lightning-caused fires burning in the very...",
+      "summary": "There are a number of lightning caused fires burning in the very...",
       "state": "WASHINGTON",
-      "updated": "2022-09-12 10:55:49",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "5,879 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
+      "updated": "2022-09-12 11:31:59",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "16,181 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Monday, September 12, 2022 (this section last updated 8:45...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-12 10:54:10",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "46,587 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "10"
     },
     {
       "name": "Williams Creek Fire",
       "type": "Wildfire",
       "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
       "state": "IDAHO",
-      "updated": "2022-09-12 10:53:54",
+      "updated": "2022-09-12 11:31:42",
       "lat": "45.693",
       "lng": "-115.652",
       "size": "15,773 Acres",
@@ -40,11 +27,63 @@
       "contained": "0"
     },
     {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning-caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-12 11:30:57",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "5,879 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
+      "name": "2022 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2022-09-12 11:29:56",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/8170/",
+      "id": "8170",
+      "contained": "0"
+    },
+    {
+      "name": "North Camas Fire",
+      "type": "Wildfire",
+      "summary": "The North Camas Fire was detected in the upper Camas Creek drainage...",
+      "state": "MONTANA",
+      "updated": "2022-09-12 11:18:01",
+      "lat": "48.726",
+      "lng": "-113.858",
+      "size": "71 Acres",
+      "url": "/incident/8387/",
+      "id": "8387",
+      "contained": "0"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-09-12 11:06:14",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "4,337 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "75"
+    },
+    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
       "state": "OREGON",
-      "updated": "2022-09-12 10:53:41",
+      "updated": "2022-09-12 11:01:26",
       "lat": "45.133",
       "lng": "-117.11",
       "size": "12,365 Acres",
@@ -53,17 +92,43 @@
       "contained": "0"
     },
     {
-      "name": "Crockets Knob Fire",
+      "name": "Summit Fire",
       "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-12 11:01:22",
+      "lat": "36.319",
+      "lng": "-118.65",
+      "size": "450 Acres",
+      "url": "/incident/8408/",
+      "id": "8408",
+      "contained": "10"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Monday, September 12, 2022 (this section last updated 8:45...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-12 11:00:54",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "46,587 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "10"
+    },
+    {
+      "name": "Van Meter Fire",
+      "type": "Wildfire",
+      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
       "state": "OREGON",
-      "updated": "2022-09-12 10:53:41",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "4,337 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "75"
+      "updated": "2022-09-12 10:56:26",
+      "lat": "42.132",
+      "lng": "-121.579",
+      "size": "2,539 Acres",
+      "url": "/incident/8405/",
+      "id": "8405",
+      "contained": "40"
     },
     {
       "name": "Boulder Mountain Fire",
@@ -508,32 +573,6 @@
       "contained": "100"
     },
     {
-      "name": "Van Meter Fire",
-      "type": "Wildfire",
-      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
-      "state": "OREGON",
-      "updated": "2022-09-11 23:30:59",
-      "lat": "42.132",
-      "lng": "-121.579",
-      "size": "2,539 Acres",
-      "url": "/incident/8405/",
-      "id": "8405",
-      "contained": "40"
-    },
-    {
-      "name": "NW Pasayten Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-11 23:29:31",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "16,181 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
-      "contained": "0"
-    },
-    {
       "name": "Suiattle River Fire",
       "type": "Wildfire",
       "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
@@ -612,19 +651,6 @@
       "contained": "0"
     },
     {
-      "name": "North Camas Fire",
-      "type": "Wildfire",
-      "summary": "The North Camas Fire was detected in the upper Camas Creek drainage...",
-      "state": "MONTANA",
-      "updated": "2022-09-11 18:48:52",
-      "lat": "48.726",
-      "lng": "-113.858",
-      "size": "20 Acres",
-      "url": "/incident/8387/",
-      "id": "8387",
-      "contained": "0"
-    },
-    {
       "name": "Quartz Fire",
       "type": "Wildfire",
       "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
@@ -636,19 +662,6 @@
       "url": "/incident/8337/",
       "id": "8337",
       "contained": "0"
-    },
-    {
-      "name": "Summit Fire",
-      "type": "Wildfire",
-      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-11 16:50:10",
-      "lat": "36.319",
-      "lng": "-118.65",
-      "size": "450 Acres",
-      "url": "/incident/8408/",
-      "id": "8408",
-      "contained": "5"
     },
     {
       "name": "Mill Lake Fire",
@@ -1104,19 +1117,6 @@
       "url": "/incident/8323/",
       "id": "8323",
       "contained": "100"
-    },
-    {
-      "name": "2022 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2022-09-05 19:42:40",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/8170/",
-      "id": "8170",
-      "contained": "0"
     },
     {
       "name": "McBride Post-Fire BAER",
@@ -1649,19 +1649,6 @@
       "size": "1,896 Acres",
       "url": "/incident/8250/",
       "id": "8250",
-      "contained": "100"
-    },
-    {
-      "name": "Wildcat",
-      "type": "Wildfire",
-      "summary": " Fire is located 40 miles northwest of Wells, NV. Wildcat Fire is...",
-      "state": "NEVADA",
-      "updated": "2022-07-25 10:54:13",
-      "lat": "41.646",
-      "lng": "-115.294",
-      "size": "21,429 Acres",
-      "url": "/incident/8234/",
-      "id": "8234",
       "contained": "100"
     },
     {
