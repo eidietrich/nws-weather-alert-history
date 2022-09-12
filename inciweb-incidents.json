@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-12 13:53:42",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-12 13:50:34",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "86,734 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Monday, September 12, 2022 (this section last updated 8:45...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-12 13:48:46",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "46,587 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "10"
+    },
+    {
+      "name": "Murray Fire",
+      "type": "Wildfire",
+      "summary": "Fire Summary:  Firefighters continue to increase containment of the...",
+      "state": "MONTANA",
+      "updated": "2022-09-12 13:47:24",
+      "lat": "46.829",
+      "lng": "-113.192",
+      "size": "70 Acres",
+      "url": "/incident/8389/",
+      "id": "8389",
+      "contained": "65"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-12 13:30:04",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,233 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "13"
+    },
+    {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": "On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency Dispatch...",
@@ -14,19 +79,6 @@
       "contained": "14"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": " Monday, September 12, 2022 (this section last updated 8:45 AM) ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-12 13:25:17",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "46,587 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "10"
-    },
-    {
       "name": "Clover Fire",
       "type": "Wildfire",
       "summary": "10SEPT22-Fire personnel took advantage of favorable weather...",
@@ -38,32 +90,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "70"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-12 13:15:29",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,233 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "13"
-    },
-    {
-      "name": "Murray Fire",
-      "type": "Wildfire",
-      "summary": "Fire Summary:  Firefighters continue to increase containment of the...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 13:15:17",
-      "lat": "46.829",
-      "lng": "-113.192",
-      "size": "70 Acres",
-      "url": "/incident/8389/",
-      "id": "8389",
-      "contained": "65"
     },
     {
       "name": "Boulder Mountain Fire",
@@ -246,19 +272,6 @@
       "url": "/incident/8402/",
       "id": "8402",
       "contained": "53"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 12:35:56",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
     },
     {
       "name": "Chilliwack Complex",
@@ -518,19 +531,6 @@
       "size": "3,047 Acres",
       "url": "/incident/8381/",
       "id": "8381",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-12 10:34:49",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "86,734 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
