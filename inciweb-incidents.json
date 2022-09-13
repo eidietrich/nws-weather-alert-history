@@ -1,6 +1,149 @@
 {
   "markers": [
     {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 08:46:29",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,175 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "34"
+    },
+    {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 08:45:07",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "28,307 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "62"
+    },
+    {
+      "name": "Lemonade Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
+      "state": "MONTANA",
+      "updated": "2022-09-13 08:43:09",
+      "lat": "48.238",
+      "lng": "-114.796",
+      "size": "667 Acres",
+      "url": "/incident/8379/",
+      "id": "8379",
+      "contained": "60"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-13 08:40:52",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "80"
+    },
+    {
+      "name": "Radford",
+      "type": "Wildfire",
+      "summary": " Links:  Daily Update (pdf)     |     Daily Map (pdf)    ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 08:38:25",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "1,079 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "79"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-09-13 08:35:41",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "4,331 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "75"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 08:32:46",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "9,513 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "16"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 08:31:07",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "9,054 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "21"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " COMMUNITY MEETING: Join us for an in-person community meeting this...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 08:29:41",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "126,925 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "37"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 08:18:13",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,612 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "13"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 07:54:33",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,717 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -12,19 +155,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 07:36:31",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,717 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
     },
     {
       "name": "Middle",
@@ -51,19 +181,6 @@
       "url": "/incident/8401/",
       "id": "8401",
       "contained": "0"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 05:51:34",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,612 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "13"
     },
     {
       "name": "Goat Mountain 2 Fire",
@@ -116,19 +233,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "15"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " COMMUNITY MEETING: Join us for an in-person community meeting this...",
-      "state": "IDAHO",
-      "updated": "2022-09-12 23:36:47",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "126,925 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "37"
     },
     {
       "name": "Kalama Fire",
@@ -222,19 +326,6 @@
       "contained": "44"
     },
     {
-      "name": "Fairview",
-      "type": "Wildfire",
-      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-12 22:22:37",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "28,307 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "56"
-    },
-    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Monday, September 12, 2022 (this section last updated 7:30...",
@@ -313,19 +404,6 @@
       "contained": "99"
     },
     {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-09-12 21:35:45",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "4,331 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "75"
-    },
-    {
       "name": "No Grass Creek Fire",
       "type": "Wildfire",
       "summary": "The No Grass Creek fire is located in Powell County on the west end...",
@@ -337,19 +415,6 @@
       "url": "/incident/8421/",
       "id": "8421",
       "contained": "0"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-12 21:28:19",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "80"
     },
     {
       "name": "Murray Fire",
@@ -378,19 +443,6 @@
       "contained": "93"
     },
     {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-12 21:04:36",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "2,175 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "34"
-    },
-    {
       "name": "Bear Gulch Fire",
       "type": "Wildfire",
       "summary": "The Bear Gulch Fire was lightning caused and detected on August 18th,...",
@@ -415,19 +467,6 @@
       "url": "/incident/8368/",
       "id": "8368",
       "contained": "0"
-    },
-    {
-      "name": "Lemonade Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 20:34:26",
-      "lat": "48.238",
-      "lng": "-114.796",
-      "size": "667 Acres",
-      "url": "/incident/8379/",
-      "id": "8379",
-      "contained": "60"
     },
     {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
@@ -480,19 +519,6 @@
       "url": "/incident/8069/",
       "id": "8069",
       "contained": "100"
-    },
-    {
-      "name": "Radford",
-      "type": "Wildfire",
-      "summary": " Links:  Daily Update (pdf)     |     Daily Map (pdf)    ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-12 18:48:45",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "1,079 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "79"
     },
     {
       "name": "Hermits Peak Fire",
@@ -701,32 +727,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "70"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-12 13:05:01",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "9,054 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "21"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-09-12 13:04:23",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "9,513 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "16"
     },
     {
       "name": "Indian Ridge",
