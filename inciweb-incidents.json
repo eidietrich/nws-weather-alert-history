@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Double Creek Fire",
+      "name": "Williams Creek Fire",
       "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
-      "state": "OREGON",
-      "updated": "2022-09-13 10:55:45",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "155,297 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 11:30:08",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "15,773 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning-caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 11:28:13",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "6,186 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
     },
     {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-09-13 10:53:40",
+      "updated": "2022-09-13 11:26:59",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "92,548 Acres",
@@ -27,11 +40,76 @@
       "contained": "0"
     },
     {
+      "name": "NW Pasayten Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 11:24:07",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "16,573 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
+    },
+    {
+      "name": "Crockets Knob Fire",
+      "type": "Wildfire",
+      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
+      "state": "OREGON",
+      "updated": "2022-09-13 11:23:24",
+      "lat": "44.728",
+      "lng": "-118.708",
+      "size": "4,331 Acres",
+      "url": "/incident/8355/",
+      "id": "8355",
+      "contained": "75"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-13 11:18:38",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,365 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "2022 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2022-09-13 11:17:10",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/8170/",
+      "id": "8170",
+      "contained": "0"
+    },
+    {
+      "name": "Bull Gin Complex",
+      "type": "Wildfire",
+      "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
+      "state": "MONTANA",
+      "updated": "2022-09-13 11:14:48",
+      "lat": "48.087",
+      "lng": "-115.826",
+      "size": "3,047 Acres",
+      "url": "/incident/8381/",
+      "id": "8381",
+      "contained": "0"
+    },
+    {
       "name": "Red Fire",
       "type": "Wildfire",
       "summary": "Current summary as of September 13, 2022, 8amThe Red Fire is burning...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-13 10:47:20",
+      "updated": "2022-09-13 11:14:10",
       "lat": "37.661",
       "lng": "-119.471",
       "size": "8,383 Acres",
@@ -40,17 +118,82 @@
       "contained": "0"
     },
     {
+      "name": "Suiattle River Fire",
+      "type": "Wildfire",
+      "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 11:09:41",
+      "lat": "48.311",
+      "lng": "-121.392",
+      "size": "66 Acres",
+      "url": "/incident/8396/",
+      "id": "8396",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Tuesday, September 13, 2022 (this section last updated 7:30 AM) Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 11:04:42",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "49,761 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "18"
+    },
+    {
+      "name": "No Grass Creek Fire",
+      "type": "Wildfire",
+      "summary": "The No Grass Creek fire is located in Powell County on the west end...",
+      "state": "MONTANA",
+      "updated": "2022-09-13 11:04:28",
+      "lat": "46.373",
+      "lng": "-112.473",
+      "size": "1,003 Acres",
+      "url": "/incident/8421/",
+      "id": "8421",
+      "contained": "0"
+    },
+    {
+      "name": "Barnes Fire",
+      "type": "Wildfire",
+      "summary": "Due to lightning in the vicinity of the fire we were unable to get an...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 11:02:22",
+      "lat": "41.89",
+      "lng": "-120.3",
+      "size": "5,840 Acres",
+      "url": "/incident/8403/",
+      "id": "8403",
+      "contained": "44"
+    },
+    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
       "state": "IDAHO",
-      "updated": "2022-09-13 10:45:25",
+      "updated": "2022-09-13 10:59:15",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "37,612 Acres",
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "13"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-13 10:59:05",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "155,297 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
     },
     {
       "name": "Moose Fire",
@@ -64,19 +207,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "37"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 10:39:29",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "15,773 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "0"
     },
     {
       "name": "Mill Lake Fire",
@@ -170,19 +300,6 @@
       "contained": "62"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Tuesday, September 13, 2022 (this section last updated 7:30 AM) Fire...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 10:12:05",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "49,761 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "18"
-    },
-    {
       "name": "Owl Fire and Horse Fire",
       "type": "Wildfire",
       "summary": "The Owl fire is located approximately 20 miles west of North Fork,...",
@@ -222,19 +339,6 @@
       "contained": "0"
     },
     {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning-caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-13 09:58:55",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "6,186 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
-      "contained": "0"
-    },
-    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
@@ -246,19 +350,6 @@
       "url": "/incident/8378/",
       "id": "8378",
       "contained": "0"
-    },
-    {
-      "name": "Barnes Fire",
-      "type": "Wildfire",
-      "summary": "Due to lightning in the vicinity of the fire we were unable to get an...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 09:51:07",
-      "lat": "41.89",
-      "lng": "-120.3",
-      "size": "5,840 Acres",
-      "url": "/incident/8403/",
-      "id": "8403",
-      "contained": "44"
     },
     {
       "name": "Rock Rabbit",
@@ -378,19 +469,6 @@
       "contained": "80"
     },
     {
-      "name": "Crockets Knob Fire",
-      "type": "Wildfire",
-      "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
-      "state": "OREGON",
-      "updated": "2022-09-13 08:35:41",
-      "lat": "44.728",
-      "lng": "-118.708",
-      "size": "4,331 Acres",
-      "url": "/incident/8355/",
-      "id": "8355",
-      "contained": "75"
-    },
-    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
@@ -430,19 +508,6 @@
       "contained": "96"
     },
     {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-13 00:33:13",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,365 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
       "name": "Kalama Fire",
       "type": "Wildfire",
       "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
@@ -469,19 +534,6 @@
       "contained": "60"
     },
     {
-      "name": "Suiattle River Fire",
-      "type": "Wildfire",
-      "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-12 22:57:11",
-      "lat": "48.311",
-      "lng": "-121.392",
-      "size": "66 Acres",
-      "url": "/incident/8396/",
-      "id": "8396",
-      "contained": "0"
-    },
-    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
@@ -492,19 +544,6 @@
       "size": "3,096 Acres",
       "url": "/incident/8415/",
       "id": "8415",
-      "contained": "0"
-    },
-    {
-      "name": "NW Pasayten Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-12 21:59:26",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "16,573 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
       "contained": "0"
     },
     {
@@ -519,19 +558,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "99"
-    },
-    {
-      "name": "No Grass Creek Fire",
-      "type": "Wildfire",
-      "summary": "The No Grass Creek fire is located in Powell County on the west end...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 21:28:51",
-      "lat": "46.373",
-      "lng": "-112.473",
-      "size": "650 Acres",
-      "url": "/incident/8421/",
-      "id": "8421",
-      "contained": "0"
     },
     {
       "name": "Murray Fire",
@@ -583,19 +609,6 @@
       "size": "1,806 Acres",
       "url": "/incident/8368/",
       "id": "8368",
-      "contained": "0"
-    },
-    {
-      "name": "2022 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2022-09-12 20:34:24",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/8170/",
-      "id": "8170",
       "contained": "0"
     },
     {
@@ -843,19 +856,6 @@
       "size": "71 Acres",
       "url": "/incident/8387/",
       "id": "8387",
-      "contained": "0"
-    },
-    {
-      "name": "Bull Gin Complex",
-      "type": "Wildfire",
-      "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 10:35:26",
-      "lat": "48.087",
-      "lng": "-115.826",
-      "size": "3,047 Acres",
-      "url": "/incident/8381/",
-      "id": "8381",
       "contained": "0"
     },
     {
