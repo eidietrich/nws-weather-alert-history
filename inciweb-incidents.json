@@ -1,11 +1,180 @@
 {
   "markers": [
     {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-13 10:22:05",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Middle",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 4 assumed command of the Middle...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 10:21:54",
+      "lat": "45.258",
+      "lng": "-116.517",
+      "size": "54 Acres",
+      "url": "/incident/8411/",
+      "id": "8411",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 10:21:42",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,612 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "13"
+    },
+    {
+      "name": "Radford",
+      "type": "Wildfire",
+      "summary": " Links:  Daily Update (pdf)     |     Daily Map (pdf)    ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 10:19:44",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "1,079 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "79"
+    },
+    {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 10:13:09",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "28,307 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "62"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Tuesday, September 13, 2022 (this section last updated 7:30 AM) Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 10:12:05",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "49,761 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "18"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-13 10:10:32",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "19,774 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-09-13 10:10:22",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "531 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Owl Fire and Horse Fire",
+      "type": "Wildfire",
+      "summary": "The Owl fire is located approximately 20 miles west of North Fork,...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 10:09:53",
+      "lat": "45.373",
+      "lng": "-114.442",
+      "size": "0 Acres",
+      "url": "/incident/8416/",
+      "id": "8416",
+      "contained": "0"
+    },
+    {
+      "name": "Yosemite September Lightning",
+      "type": "Wildfire",
+      "summary": "Yosemite Lightning Update, September 13, 2022, 7:30am In the past...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 10:04:04",
+      "lat": "37.57",
+      "lng": "-119.679",
+      "size": "0 Acres",
+      "url": "/incident/8419/",
+      "id": "8419",
+      "contained": "0"
+    },
+    {
+      "name": "Red Fire",
+      "type": "Wildfire",
+      "summary": "Current summary as of September 13, 2022, 8amThe Red Fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 10:02:31",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "8,383 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Rodgers Fire",
+      "type": "Wildfire",
+      "summary": "Rodgers Fire update, September 13, 2022, 8am There is no recent fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 10:01:22",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "2,774 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning-caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 09:58:55",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "6,186 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
       "state": "IDAHO",
-      "updated": "2022-09-13 09:51:51",
+      "updated": "2022-09-13 09:57:48",
       "lat": "48.783",
       "lng": "-116.467",
       "size": "19,708 Acres",
@@ -40,19 +209,6 @@
       "contained": "44"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 09:49:42",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,612 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "13"
-    },
-    {
       "name": "Rock Rabbit",
       "type": "Wildfire",
       "summary": "The Rock Rabbit fire is burning the Frank Church River of No Return...",
@@ -79,32 +235,6 @@
       "contained": "0"
     },
     {
-      "name": "Rodgers Fire",
-      "type": "Wildfire",
-      "summary": "Expect hazy conditions with smoke lingering in the river drainages...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 09:45:24",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "2,774 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Tuesday, September 13, 2022 (this section last updated 7:30 AM) Fire...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 09:44:13",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "49,761 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "18"
-    },
-    {
       "name": "Dismal Fire",
       "type": "Wildfire",
       "summary": "The DISMAL Fire is at 8,197 acres and is seeing some growth to the...",
@@ -115,32 +245,6 @@
       "size": "9,160 Acres",
       "url": "/incident/8284/",
       "id": "8284",
-      "contained": "0"
-    },
-    {
-      "name": "Yosemite September Lightning",
-      "type": "Wildfire",
-      "summary": "Yosemite Lightning Update, September 13, 2022, 7:30am In the past...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 09:41:05",
-      "lat": "37.57",
-      "lng": "-119.679",
-      "size": "0 Acres",
-      "url": "/incident/8419/",
-      "id": "8419",
-      "contained": "0"
-    },
-    {
-      "name": "Red Fire",
-      "type": "Wildfire",
-      "summary": "Current summary as of September 12, 2022, 7:30amThe Red Fire is...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 09:40:03",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "8,383 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
       "contained": "0"
     },
     {
@@ -209,19 +313,6 @@
       "contained": "0"
     },
     {
-      "name": "Fairview",
-      "type": "Wildfire",
-      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 08:45:07",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "28,307 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "62"
-    },
-    {
       "name": "Lemonade Fire",
       "type": "Wildfire",
       "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
@@ -246,19 +337,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "80"
-    },
-    {
-      "name": "Radford",
-      "type": "Wildfire",
-      "summary": " Links:  Daily Update (pdf)     |     Daily Map (pdf)    ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 08:38:25",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "1,079 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "79"
     },
     {
       "name": "Crockets Knob Fire",
@@ -313,19 +391,6 @@
       "contained": "96"
     },
     {
-      "name": "Middle",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 4 assumed command of the Middle...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 07:27:42",
-      "lat": "45.258",
-      "lng": "-116.517",
-      "size": "54 Acres",
-      "url": "/incident/8411/",
-      "id": "8411",
-      "contained": "0"
-    },
-    {
       "name": "Tenmile",
       "type": "Wildfire",
       "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
@@ -339,19 +404,6 @@
       "contained": "0"
     },
     {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-13 00:37:39",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "531 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
-    },
-    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -362,19 +414,6 @@
       "size": "12,365 Acres",
       "url": "/incident/8363/",
       "id": "8363",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-13 00:25:17",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "19,774 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
       "contained": "0"
     },
     {
@@ -443,19 +482,6 @@
       "contained": "0"
     },
     {
-      "name": "Owl Fire and Horse Fire",
-      "type": "Wildfire",
-      "summary": "The Owl fire is located approximately 20 miles west of North Fork,...",
-      "state": "IDAHO",
-      "updated": "2022-09-12 22:40:57",
-      "lat": "45.373",
-      "lng": "-114.442",
-      "size": "0 Acres",
-      "url": "/incident/8416/",
-      "id": "8416",
-      "contained": "0"
-    },
-    {
       "name": "Williams Creek Fire",
       "type": "Wildfire",
       "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
@@ -466,19 +492,6 @@
       "size": "15,773 Acres",
       "url": "/incident/8372/",
       "id": "8372",
-      "contained": "0"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning-caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-12 22:14:13",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "6,186 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
       "contained": "0"
     },
     {
@@ -766,19 +779,6 @@
       "url": "/incident/8371/",
       "id": "8371",
       "contained": "80"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 13:53:42",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
     },
     {
       "name": "Clover Fire",
