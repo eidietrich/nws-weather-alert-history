@@ -1,24 +1,154 @@
 {
   "markers": [
     {
-      "name": "Bolt Creek Fire",
+      "name": "Goat Rocks Fire",
       "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located one and a half miles north of...",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
       "state": "WASHINGTON",
-      "updated": "2022-09-13 12:44:06",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "7,660 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "2"
+      "updated": "2022-09-13 13:26:10",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,096 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "The Porphyry Fire is at 2,930 acres. Containment of the fire has...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 13:23:45",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,930 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "40"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 13:20:07",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,612 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "13"
+    },
+    {
+      "name": "North Creek",
+      "type": "Wildfire",
+      "summary": "The North Creek Fire is north of Bear Pete Mountain and has been...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 13:11:24",
+      "lat": "45.27",
+      "lng": "-116.021",
+      "size": "5 Acres",
+      "url": "/incident/8412/",
+      "id": "8412",
+      "contained": "100"
+    },
+    {
+      "name": "Dismal Fire",
+      "type": "Wildfire",
+      "summary": "The DISMAL Fire is at 9,160 acres and is seeing some growth to the...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 13:08:38",
+      "lat": "45.321",
+      "lng": "-114.959",
+      "size": "9,160 Acres",
+      "url": "/incident/8284/",
+      "id": "8284",
+      "contained": "0"
+    },
+    {
+      "name": "Radford",
+      "type": "Wildfire",
+      "summary": " Links:  Daily Update (pdf)     |     Daily Map (pdf)    ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 13:03:38",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "1,079 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "79"
+    },
+    {
+      "name": "Rodgers Fire",
+      "type": "Wildfire",
+      "summary": "Rodgers Fire update, September 13, 2022, 8am There is no recent fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 13:02:04",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "2,774 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "2022 Humboldt-Toiyabe Initial Attack",
+      "type": "Wildfire",
+      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
+      "state": "NEVADA",
+      "updated": "2022-09-13 13:01:43",
+      "lat": "39.524",
+      "lng": "-119.719",
+      "size": "1 Acres",
+      "url": "/incident/8170/",
+      "id": "8170",
+      "contained": "0"
+    },
+    {
+      "name": "Patrol Point",
+      "type": "Wildfire",
+      "summary": "The PATROL POINT Fire is at 16,420 acres.  The primary area of...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 13:00:14",
+      "lat": "45.427",
+      "lng": "-114.938",
+      "size": "16,420 Acres",
+      "url": "/incident/8357/",
+      "id": "8357",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-13 12:52:55",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "80"
+    },
+    {
+      "name": "No Grass Creek Fire",
+      "type": "Wildfire",
+      "summary": "The No Grass Creek fire is located in Powell County on the west end...",
+      "state": "MONTANA",
+      "updated": "2022-09-13 12:52:50",
+      "lat": "46.373",
+      "lng": "-112.473",
+      "size": "1,003 Acres",
+      "url": "/incident/8421/",
+      "id": "8421",
+      "contained": "0"
     },
     {
       "name": "NW Pasayten Complex",
       "type": "Wildfire",
       "summary": "There are a number of lightning caused fires burning in the very...",
       "state": "WASHINGTON",
-      "updated": "2022-09-13 12:42:56",
+      "updated": "2022-09-13 12:51:07",
       "lat": "48.913",
       "lng": "-120.818",
       "size": "16,573 Acres",
@@ -27,17 +157,56 @@
       "contained": "0"
     },
     {
+      "name": "Rock Rabbit",
+      "type": "Wildfire",
+      "summary": "The Rock Rabbit fire is burning the Frank Church River of No Return...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 12:49:52",
+      "lat": "45.264",
+      "lng": "-115.237",
+      "size": "39 Acres",
+      "url": "/incident/8400/",
+      "id": "8400",
+      "contained": "0"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning-caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 12:48:56",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "6,186 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
       "name": "Yosemite September Lightning",
       "type": "Wildfire",
       "summary": "Yosemite Lightning Update, September 13, 2022, 7:30am In the past...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-13 12:39:37",
+      "updated": "2022-09-13 12:44:58",
       "lat": "37.57",
       "lng": "-119.679",
       "size": "0 Acres",
       "url": "/incident/8419/",
       "id": "8419",
       "contained": "0"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located one and a half miles north of...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 12:44:35",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "7,660 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "2"
     },
     {
       "name": "Barnes Fire",
@@ -51,19 +220,6 @@
       "url": "/incident/8403/",
       "id": "8403",
       "contained": "44"
-    },
-    {
-      "name": "Rodgers Fire",
-      "type": "Wildfire",
-      "summary": "Rodgers Fire update, September 13, 2022, 8am There is no recent fire...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 12:34:52",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "2,774 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
     },
     {
       "name": "Twist Creek ",
@@ -118,32 +274,6 @@
       "contained": "10"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-13 12:09:17",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "80"
-    },
-    {
-      "name": "Radford",
-      "type": "Wildfire",
-      "summary": " Links:  Daily Update (pdf)     |     Daily Map (pdf)    ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 12:07:24",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "1,079 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "79"
-    },
-    {
       "name": "Red Fire",
       "type": "Wildfire",
       "summary": "Current summary as of September 13, 2022, 8amThe Red Fire is burning...",
@@ -196,19 +326,6 @@
       "contained": "0"
     },
     {
-      "name": "No Grass Creek Fire",
-      "type": "Wildfire",
-      "summary": "The No Grass Creek fire is located in Powell County on the west end...",
-      "state": "MONTANA",
-      "updated": "2022-09-13 11:47:21",
-      "lat": "46.373",
-      "lng": "-112.473",
-      "size": "1,003 Acres",
-      "url": "/incident/8421/",
-      "id": "8421",
-      "contained": "0"
-    },
-    {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": " Trail Ridge and Thompson Creek Fires PUBLIC INFORMATION MEETING...",
@@ -220,19 +337,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "18"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning-caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-13 11:42:55",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "6,186 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
-      "contained": "0"
     },
     {
       "name": "Bull Gin Complex",
@@ -287,19 +391,6 @@
       "contained": "0"
     },
     {
-      "name": "2022 Humboldt-Toiyabe Initial Attack",
-      "type": "Wildfire",
-      "summary": " For all emerging initial attack incidents on the Humboldt-Toiyabe...",
-      "state": "NEVADA",
-      "updated": "2022-09-13 11:17:10",
-      "lat": "39.524",
-      "lng": "-119.719",
-      "size": "1 Acres",
-      "url": "/incident/8170/",
-      "id": "8170",
-      "contained": "0"
-    },
-    {
       "name": "Suiattle River Fire",
       "type": "Wildfire",
       "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
@@ -324,19 +415,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "18"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 10:59:15",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,612 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "13"
     },
     {
       "name": "Double Creek Fire",
@@ -469,45 +547,6 @@
       "contained": "0"
     },
     {
-      "name": "Rock Rabbit",
-      "type": "Wildfire",
-      "summary": "The Rock Rabbit fire is burning the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 09:47:09",
-      "lat": "45.264",
-      "lng": "-115.237",
-      "size": "39 Acres",
-      "url": "/incident/8400/",
-      "id": "8400",
-      "contained": "0"
-    },
-    {
-      "name": "Patrol Point",
-      "type": "Wildfire",
-      "summary": "The PATROL POINT Fire is at 16,130 acres and is seeing some fire...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 09:45:43",
-      "lat": "45.427",
-      "lng": "-114.938",
-      "size": "16,420 Acres",
-      "url": "/incident/8357/",
-      "id": "8357",
-      "contained": "0"
-    },
-    {
-      "name": "Dismal Fire",
-      "type": "Wildfire",
-      "summary": "The DISMAL Fire is at 8,197 acres and is seeing some growth to the...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 09:43:31",
-      "lat": "45.321",
-      "lng": "-114.959",
-      "size": "9,160 Acres",
-      "url": "/incident/8284/",
-      "id": "8284",
-      "contained": "0"
-    },
-    {
       "name": "Washakie Park",
       "type": "Wildfire",
       "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
@@ -609,19 +648,6 @@
       "size": "107 Acres",
       "url": "/incident/8420/",
       "id": "8420",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-12 22:42:14",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,096 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
       "contained": "0"
     },
     {
@@ -948,32 +974,6 @@
       "url": "/incident/8343/",
       "id": "8343",
       "contained": "0"
-    },
-    {
-      "name": "North Creek",
-      "type": "Wildfire",
-      "summary": "The North Creek Fire is north of Bear Pete Mountain and has been...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 11:05:58",
-      "lat": "45.27",
-      "lng": "-116.021",
-      "size": "5 Acres",
-      "url": "/incident/8412/",
-      "id": "8412",
-      "contained": "0"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "No Infrared imagery is available from last night.Containment of the...",
-      "state": "IDAHO",
-      "updated": "2022-09-11 10:47:46",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,930 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "40"
     },
     {
       "name": "Rainbow",
