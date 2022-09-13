@@ -1,6 +1,149 @@
 {
   "markers": [
     {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located one and a half miles north of...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 12:44:06",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "7,660 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "2"
+    },
+    {
+      "name": "NW Pasayten Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 12:42:56",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "16,573 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
+    },
+    {
+      "name": "Yosemite September Lightning",
+      "type": "Wildfire",
+      "summary": "Yosemite Lightning Update, September 13, 2022, 7:30am In the past...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 12:39:37",
+      "lat": "37.57",
+      "lng": "-119.679",
+      "size": "0 Acres",
+      "url": "/incident/8419/",
+      "id": "8419",
+      "contained": "0"
+    },
+    {
+      "name": "Barnes Fire",
+      "type": "Wildfire",
+      "summary": "Due to lightning in the vicinity of the fire we were unable to get an...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 12:39:28",
+      "lat": "41.89",
+      "lng": "-120.3",
+      "size": "5,840 Acres",
+      "url": "/incident/8403/",
+      "id": "8403",
+      "contained": "44"
+    },
+    {
+      "name": "Rodgers Fire",
+      "type": "Wildfire",
+      "summary": "Rodgers Fire update, September 13, 2022, 8am There is no recent fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 12:34:52",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "2,774 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Twist Creek ",
+      "type": "Wildfire",
+      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
+      "state": "MONTANA",
+      "updated": "2022-09-13 12:27:25",
+      "lat": "45.627",
+      "lng": "-114.951",
+      "size": "2,316 Acres",
+      "url": "/incident/8377/",
+      "id": "8377",
+      "contained": "0"
+    },
+    {
+      "name": "Van Meter Fire",
+      "type": "Wildfire",
+      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
+      "state": "OREGON",
+      "updated": "2022-09-13 12:27:10",
+      "lat": "42.132",
+      "lng": "-121.579",
+      "size": "2,642 Acres",
+      "url": "/incident/8405/",
+      "id": "8405",
+      "contained": "60"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-09-13 12:18:28",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "8,953 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Fire",
+      "type": "Wildfire",
+      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 12:16:52",
+      "lat": "36.319",
+      "lng": "-118.65",
+      "size": "473 Acres",
+      "url": "/incident/8408/",
+      "id": "8408",
+      "contained": "10"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-13 12:09:17",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "80"
+    },
+    {
+      "name": "Radford",
+      "type": "Wildfire",
+      "summary": " Links:  Daily Update (pdf)     |     Daily Map (pdf)    ...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 12:07:24",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "1,079 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "79"
+    },
+    {
       "name": "Red Fire",
       "type": "Wildfire",
       "summary": "Current summary as of September 13, 2022, 8amThe Red Fire is burning...",
@@ -118,19 +261,6 @@
       "contained": "0"
     },
     {
-      "name": "NW Pasayten Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-13 11:24:07",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "16,573 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
-      "contained": "0"
-    },
-    {
       "name": "Crockets Knob Fire",
       "type": "Wildfire",
       "summary": "The Crockets Knob Fire was reported on the morning of August 22,...",
@@ -194,19 +324,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "18"
-    },
-    {
-      "name": "Barnes Fire",
-      "type": "Wildfire",
-      "summary": "Due to lightning in the vicinity of the fire we were unable to get an...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 11:02:22",
-      "lat": "41.89",
-      "lng": "-120.3",
-      "size": "5,840 Acres",
-      "url": "/incident/8403/",
-      "id": "8403",
-      "contained": "44"
     },
     {
       "name": "Ross Fork",
@@ -313,19 +430,6 @@
       "contained": "0"
     },
     {
-      "name": "Radford",
-      "type": "Wildfire",
-      "summary": " Links:  Daily Update (pdf)     |     Daily Map (pdf)    ...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 10:19:44",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "1,079 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "79"
-    },
-    {
       "name": "Fairview",
       "type": "Wildfire",
       "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
@@ -349,32 +453,6 @@
       "size": "0 Acres",
       "url": "/incident/8416/",
       "id": "8416",
-      "contained": "0"
-    },
-    {
-      "name": "Yosemite September Lightning",
-      "type": "Wildfire",
-      "summary": "Yosemite Lightning Update, September 13, 2022, 7:30am In the past...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 10:04:04",
-      "lat": "37.57",
-      "lng": "-119.679",
-      "size": "0 Acres",
-      "url": "/incident/8419/",
-      "id": "8419",
-      "contained": "0"
-    },
-    {
-      "name": "Rodgers Fire",
-      "type": "Wildfire",
-      "summary": "Rodgers Fire update, September 13, 2022, 8am There is no recent fire...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 10:01:22",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "2,774 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
       "contained": "0"
     },
     {
@@ -482,19 +560,6 @@
       "contained": "60"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-13 08:40:52",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "80"
-    },
-    {
       "name": "Woodtick Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
@@ -545,19 +610,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "0"
-    },
-    {
-      "name": "Van Meter Fire",
-      "type": "Wildfire",
-      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
-      "state": "OREGON",
-      "updated": "2022-09-12 23:12:28",
-      "lat": "42.132",
-      "lng": "-121.579",
-      "size": "2,642 Acres",
-      "url": "/incident/8405/",
-      "id": "8405",
-      "contained": "60"
     },
     {
       "name": "Goat Rocks Fire",
@@ -664,19 +716,6 @@
       "contained": "100"
     },
     {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located one and a half miles north of...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-12 18:36:01",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "7,660 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "2"
-    },
-    {
       "name": "Margaret Fire",
       "type": "Wildfire",
       "summary": "The Margaret Fire was detected by Baptiste Lookout on August 22, 2022...",
@@ -781,19 +820,6 @@
       "contained": "0"
     },
     {
-      "name": "Summit Fire",
-      "type": "Wildfire",
-      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-12 15:48:12",
-      "lat": "36.319",
-      "lng": "-118.65",
-      "size": "473 Acres",
-      "url": "/incident/8408/",
-      "id": "8408",
-      "contained": "10"
-    },
-    {
       "name": "Deep Creek Fire",
       "type": "Wildfire",
       "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
@@ -818,32 +844,6 @@
       "url": "/incident/8262/",
       "id": "8262",
       "contained": "70"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 12:55:33",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "8,670 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Twist Creek ",
-      "type": "Wildfire",
-      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
-      "state": "MONTANA",
-      "updated": "2022-09-12 12:51:51",
-      "lat": "45.627",
-      "lng": "-114.951",
-      "size": "2,061 Acres",
-      "url": "/incident/8377/",
-      "id": "8377",
-      "contained": "0"
     },
     {
       "name": "Sunrise Fire",
