@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Red Fire",
+      "type": "Wildfire",
+      "summary": "Current summary as of September 13, 2022, 8amThe Red Fire is burning...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-13 10:41:58",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "8,383 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-13 10:41:25",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "92,548 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 10:39:29",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "15,773 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "0"
+    },
+    {
       "name": "Mill Lake Fire",
       "type": "Wildfire",
       "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
       "state": "MONTANA",
-      "updated": "2022-09-13 10:22:05",
+      "updated": "2022-09-13 10:37:45",
       "lat": "46.312",
       "lng": "-114.411",
       "size": "1,608 Acres",
@@ -14,11 +53,50 @@
       "contained": "0"
     },
     {
+      "name": "Tenmile",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 10:32:59",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "1,937 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-09-13 10:28:47",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "531 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-13 10:26:26",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "19,774 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
       "name": "Middle",
       "type": "Wildfire",
       "summary": "Great Basin Incident Management Team 4 assumed command of the Middle...",
       "state": "IDAHO",
-      "updated": "2022-09-13 10:21:54",
+      "updated": "2022-09-13 10:23:44",
       "lat": "45.258",
       "lng": "-116.517",
       "size": "54 Acres",
@@ -31,7 +109,7 @@
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
       "state": "IDAHO",
-      "updated": "2022-09-13 10:21:42",
+      "updated": "2022-09-13 10:22:30",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "37,612 Acres",
@@ -79,32 +157,6 @@
       "contained": "18"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-13 10:10:32",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "19,774 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-13 10:10:22",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "531 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
-    },
-    {
       "name": "Owl Fire and Horse Fire",
       "type": "Wildfire",
       "summary": "The Owl fire is located approximately 20 miles west of North Fork,...",
@@ -128,19 +180,6 @@
       "size": "0 Acres",
       "url": "/incident/8419/",
       "id": "8419",
-      "contained": "0"
-    },
-    {
-      "name": "Red Fire",
-      "type": "Wildfire",
-      "summary": "Current summary as of September 13, 2022, 8amThe Red Fire is burning...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-13 10:02:31",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "8,383 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
       "contained": "0"
     },
     {
@@ -274,19 +313,6 @@
       "contained": "18"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-13 09:21:29",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "90,288 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "Boulder Mountain Fire",
       "type": "Wildfire",
       "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
@@ -391,19 +417,6 @@
       "contained": "96"
     },
     {
-      "name": "Tenmile",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 07:27:24",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "1,937 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "0"
-    },
-    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -479,19 +492,6 @@
       "size": "3,096 Acres",
       "url": "/incident/8415/",
       "id": "8415",
-      "contained": "0"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-12 22:16:03",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "15,773 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
       "contained": "0"
     },
     {
