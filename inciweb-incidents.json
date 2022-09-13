@@ -1,11 +1,115 @@
 {
   "markers": [
     {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 15:22:05",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "112 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "0"
+    },
+    {
+      "name": "Van Meter Fire",
+      "type": "Wildfire",
+      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
+      "state": "OREGON",
+      "updated": "2022-09-13 15:21:45",
+      "lat": "42.132",
+      "lng": "-121.579",
+      "size": "2,642 Acres",
+      "url": "/incident/8405/",
+      "id": "8405",
+      "contained": "60"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 15:21:42",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "9,440 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "5"
+    },
+    {
+      "name": "Boulder Lake",
+      "type": "Wildfire",
+      "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
+      "state": "MONTANA",
+      "updated": "2022-09-13 15:20:26",
+      "lat": "47.071",
+      "lng": "-113.82",
+      "size": "1,800 Acres",
+      "url": "/incident/8395/",
+      "id": "8395",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 15:18:36",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,096 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Solomon Fire",
+      "type": "Wildfire",
+      "summary": "The Solomon Fire was reported on Aug 24, 2022, and is burning...",
+      "state": "MONTANA",
+      "updated": "2022-09-13 15:12:48",
+      "lat": "46.633",
+      "lng": "-113.691",
+      "size": "434 Acres",
+      "url": "/incident/8370/",
+      "id": "8370",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 15:07:03",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "9,513 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "16"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning-caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-13 15:05:52",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "6,186 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
       "state": "IDAHO",
-      "updated": "2022-09-13 14:45:19",
+      "updated": "2022-09-13 14:47:44",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "37,612 Acres",
@@ -27,19 +131,6 @@
       "contained": "18"
     },
     {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located one and a half miles north of...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-13 14:43:52",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "9,440 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "5"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -50,19 +141,6 @@
       "size": "92,548 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning-caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-13 14:42:12",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "6,186 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
       "contained": "0"
     },
     {
@@ -129,19 +207,6 @@
       "url": "/incident/8410/",
       "id": "8410",
       "contained": "100"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-13 13:26:10",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,096 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
     },
     {
       "name": "Porphyry Fire",
@@ -311,19 +376,6 @@
       "url": "/incident/8377/",
       "id": "8377",
       "contained": "0"
-    },
-    {
-      "name": "Van Meter Fire",
-      "type": "Wildfire",
-      "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
-      "state": "OREGON",
-      "updated": "2022-09-13 12:27:10",
-      "lat": "42.132",
-      "lng": "-121.579",
-      "size": "2,642 Acres",
-      "url": "/incident/8405/",
-      "id": "8405",
-      "contained": "60"
     },
     {
       "name": "Indian Ridge",
@@ -612,19 +664,6 @@
       "contained": "60"
     },
     {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 08:32:46",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "9,513 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "16"
-    },
-    {
       "name": "Norton Fire",
       "type": "Wildfire",
       "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
@@ -649,19 +688,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "96"
-    },
-    {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-12 23:16:24",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "107 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "0"
     },
     {
       "name": "McKinney Fire",
@@ -963,19 +989,6 @@
       "contained": "98"
     },
     {
-      "name": "Boulder Lake",
-      "type": "Wildfire",
-      "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
-      "state": "MONTANA",
-      "updated": "2022-09-11 11:40:03",
-      "lat": "47.071",
-      "lng": "-113.82",
-      "size": "1,700 Acres",
-      "url": "/incident/8395/",
-      "id": "8395",
-      "contained": "0"
-    },
-    {
       "name": "Thor Fire",
       "type": "Wildfire",
       "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
@@ -1000,19 +1013,6 @@
       "url": "/incident/8385/",
       "id": "8385",
       "contained": "100"
-    },
-    {
-      "name": "Solomon Fire",
-      "type": "Wildfire",
-      "summary": "The Solomon Fire was reported on Aug 24, 2022, and is burning...",
-      "state": "MONTANA",
-      "updated": "2022-09-10 11:22:02",
-      "lat": "46.633",
-      "lng": "-113.691",
-      "size": "400 Acres",
-      "url": "/incident/8370/",
-      "id": "8370",
-      "contained": "0"
     },
     {
       "name": "Windigo Fire",
