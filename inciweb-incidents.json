@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
+      "state": "OREGON",
+      "updated": "2022-09-13 10:55:45",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "155,297 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "15"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-13 10:53:40",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "92,548 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Red Fire",
       "type": "Wildfire",
       "summary": "Current summary as of September 13, 2022, 8amThe Red Fire is burning...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-13 10:41:58",
+      "updated": "2022-09-13 10:47:20",
       "lat": "37.661",
       "lng": "-119.471",
       "size": "8,383 Acres",
@@ -14,17 +40,30 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
+      "name": "Ross Fork",
       "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-13 10:41:25",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "92,548 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 10:45:25",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,612 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "13"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " COMMUNITY MEETING: Our next in-person/virtual community meeting is...",
+      "state": "IDAHO",
+      "updated": "2022-09-13 10:43:59",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "127,500 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "37"
     },
     {
       "name": "Williams Creek Fire",
@@ -103,19 +142,6 @@
       "url": "/incident/8411/",
       "id": "8411",
       "contained": "0"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 10:22:30",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,612 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "13"
     },
     {
       "name": "Radford",
@@ -220,19 +246,6 @@
       "url": "/incident/8378/",
       "id": "8378",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " COMMUNITY MEETING: Our next in-person/virtual community meeting is...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 09:51:28",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "127,500 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "37"
     },
     {
       "name": "Barnes Fire",
@@ -428,19 +441,6 @@
       "url": "/incident/8363/",
       "id": "8363",
       "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Double Creek Fire was detected 8/30/2022 and is active in...",
-      "state": "OREGON",
-      "updated": "2022-09-12 23:49:32",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "155,297 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "15"
     },
     {
       "name": "Kalama Fire",
