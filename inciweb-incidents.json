@@ -1,24 +1,37 @@
 {
   "markers": [
     {
-      "name": "Fairview",
+      "name": "Boulder Mountain Fire",
       "type": "Wildfire",
-      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-14 07:36:49",
-      "lat": "33.714",
-      "lng": "-116.891",
-      "size": "28,307 Acres",
-      "url": "/incident/8402/",
-      "id": "8402",
-      "contained": "65"
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-14 08:52:04",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,305 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "50"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 08:48:57",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,725 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
     },
     {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
       "state": "IDAHO",
-      "updated": "2022-09-14 07:03:58",
+      "updated": "2022-09-14 08:38:09",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "37,731 Acres",
@@ -31,12 +44,77 @@
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-09-14 01:13:43",
+      "updated": "2022-09-14 08:33:50",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "92,548 Acres",
       "url": "/incident/8307/",
       "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-14 08:32:18",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "81"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 08:20:00",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "9,054 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "21"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 08:19:43",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "9,513 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "16"
+    },
+    {
+      "name": "Fairview",
+      "type": "Wildfire",
+      "summary": "Most Recent Fire Map (pdf)     |     Most Recent Update...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-14 08:06:11",
+      "lat": "33.714",
+      "lng": "-116.891",
+      "size": "28,307 Acres",
+      "url": "/incident/8402/",
+      "id": "8402",
+      "contained": "65"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 07:46:33",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "2,048 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
       "contained": "0"
     },
     {
@@ -118,19 +196,6 @@
       "contained": "60"
     },
     {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-13 22:50:49",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "81"
-    },
-    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
@@ -142,19 +207,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "5"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-13 22:36:37",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "2,175 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "50"
     },
     {
       "name": "NW Pasayten Complex",
@@ -352,19 +404,6 @@
       "contained": "45"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 19:39:59",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,717 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
-    },
-    {
       "name": "Bull Gin Complex",
       "type": "Wildfire",
       "summary": "The Bull Gin Complex is comprised of three wildland fires including...",
@@ -480,19 +519,6 @@
       "url": "/incident/8370/",
       "id": "8370",
       "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 15:07:03",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "9,513 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "16"
     },
     {
       "name": "Rainbow",
@@ -727,32 +753,6 @@
       "url": "/incident/8418/",
       "id": "8418",
       "contained": "30"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 08:59:50",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "2,048 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-13 08:31:07",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "9,054 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "21"
     },
     {
       "name": "McKinney Fire",
