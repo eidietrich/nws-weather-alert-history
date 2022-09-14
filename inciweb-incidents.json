@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-14 15:15:18",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "157,088 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "22"
+    },
+    {
       "name": "Mill Lake Fire",
       "type": "Wildfire",
       "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
       "state": "MONTANA",
-      "updated": "2022-09-14 14:46:02",
+      "updated": "2022-09-14 15:15:09",
       "lat": "46.312",
       "lng": "-114.411",
       "size": "1,608 Acres",
       "url": "/incident/8392/",
       "id": "8392",
       "contained": "0"
+    },
+    {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning-caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-14 15:14:40",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "6,186 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
+      "name": "NW Pasayten Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-14 15:14:07",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "16,573 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Wednesday, September 14, 2022 (this section last updated 7:30 AM)The...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-14 15:09:46",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "58,544 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "20"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-14 15:09:23",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "9,440 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "5"
     },
     {
       "name": "Ross Fork",
@@ -118,32 +183,6 @@
       "contained": "81"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Wednesday, September 14, 2022 (this section last updated 7:30 AM)The...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-14 14:14:50",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "58,544 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "20"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-14 14:13:25",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "9,440 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "5"
-    },
-    {
       "name": "Van Meter Fire",
       "type": "Wildfire",
       "summary": "LAKEVIEW, Ore. — The Van Meter Fire is burning on Stukel Mountain,...",
@@ -196,19 +235,6 @@
       "contained": "87"
     },
     {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-14 12:45:25",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "157,088 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "22"
-    },
-    {
       "name": "Aspen Fire",
       "type": "Wildfire",
       "summary": "As of September 10, 2022 the Aspen Fire is 100% contained. Some...",
@@ -245,19 +271,6 @@
       "size": "3,212 Acres",
       "url": "/incident/8415/",
       "id": "8415",
-      "contained": "0"
-    },
-    {
-      "name": "NW Pasayten Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-14 12:19:57",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "16,573 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
       "contained": "0"
     },
     {
@@ -401,19 +414,6 @@
       "size": "54 Acres",
       "url": "/incident/8411/",
       "id": "8411",
-      "contained": "0"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning-caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-14 11:44:32",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "6,186 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
       "contained": "0"
     },
     {
