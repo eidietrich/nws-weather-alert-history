@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-14 14:17:37",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "Rum Creek Fire",
+      "type": "Wildfire",
+      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
+      "state": "OREGON",
+      "updated": "2022-09-14 14:15:55",
+      "lat": "42.641",
+      "lng": "-123.628",
+      "size": "21,347 Acres",
+      "url": "/incident/8348/",
+      "id": "8348",
+      "contained": "81"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Wednesday, September 14, 2022 (this section last updated 7:30 AM)The...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-14 14:14:50",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "58,544 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "20"
+    },
+    {
       "name": "Tenmile",
       "type": "Wildfire",
       "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
       "state": "IDAHO",
-      "updated": "2022-09-14 13:41:17",
+      "updated": "2022-09-14 14:13:32",
       "lat": "45.319",
       "lng": "-115.872",
       "size": "1,937 Acres",
       "url": "/incident/8401/",
       "id": "8401",
       "contained": "0"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-14 14:13:25",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "9,440 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "5"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 14:06:26",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,731 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "19"
     },
     {
       "name": "Cedar Creek Fire",
@@ -38,19 +103,6 @@
       "url": "/incident/8405/",
       "id": "8405",
       "contained": "89"
-    },
-    {
-      "name": "Rum Creek Fire",
-      "type": "Wildfire",
-      "summary": "Rum Creek Fire was ignited by lightning on Wednesday, August...",
-      "state": "OREGON",
-      "updated": "2022-09-14 12:59:14",
-      "lat": "42.641",
-      "lng": "-123.628",
-      "size": "21,347 Acres",
-      "url": "/incident/8348/",
-      "id": "8348",
-      "contained": "81"
     },
     {
       "name": "Kalama Fire",
@@ -142,19 +194,6 @@
       "url": "/incident/8363/",
       "id": "8363",
       "contained": "0"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-14 12:38:46",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "9,440 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "5"
     },
     {
       "name": "Goat Rocks Fire",
@@ -287,19 +326,6 @@
       "contained": "50"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-14 12:02:34",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,731 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "19"
-    },
-    {
       "name": "Dismal Fire",
       "type": "Wildfire",
       "summary": "The DISMAL Fire is at 9,501 acres and is seeing smoldering and...",
@@ -352,19 +378,6 @@
       "contained": "0"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-14 11:45:36",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
-    },
-    {
       "name": "Chilliwack Complex",
       "type": "Wildfire",
       "summary": "There are a number of lightning-caused fires burning in the very...",
@@ -376,19 +389,6 @@
       "url": "/incident/8394/",
       "id": "8394",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Wednesday, September 14, 2022 (this section last updated 7:30 AM)The...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-14 11:35:33",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "58,544 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "20"
     },
     {
       "name": "Williams Creek Fire",
