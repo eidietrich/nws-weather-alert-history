@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-14 14:46:02",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-14 14:43:09",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,731 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "19"
+    },
+    {
       "name": "Washakie Park",
       "type": "Wildfire",
       "summary": "The Washakie Park Fire is located west of Ft. Washakie, WY in the...",
       "state": "WYOMING",
-      "updated": "2022-09-14 14:29:57",
+      "updated": "2022-09-14 14:35:11",
       "lat": "42.989",
       "lng": "-109.138",
       "size": "2,515 Acres",
@@ -116,19 +142,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "5"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-14 14:06:26",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,731 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "19"
     },
     {
       "name": "Van Meter Fire",
@@ -245,19 +258,6 @@
       "size": "16,573 Acres",
       "url": "/incident/8397/",
       "id": "8397",
-      "contained": "0"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-14 12:17:31",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
       "contained": "0"
     },
     {
