@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-15 13:53:08",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "92,596 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-15 13:53:03",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,776 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "26"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Thursday, September 15, 2022 (this section last updated 7:30 AM)Fire...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-15 13:28:21",
+      "updated": "2022-09-15 13:47:20",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "64,159 Acres",
@@ -14,11 +40,63 @@
       "contained": "20"
     },
     {
+      "name": "NW Pasayten Complex",
+      "type": "Wildfire",
+      "summary": "Travel Alert – Washington State Route 20 Closed in Both...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-15 13:42:45",
+      "lat": "48.913",
+      "lng": "-120.818",
+      "size": "16,573 Acres",
+      "url": "/incident/8397/",
+      "id": "8397",
+      "contained": "0"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-15 13:40:36",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Twist Creek ",
+      "type": "Wildfire",
+      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
+      "state": "MONTANA",
+      "updated": "2022-09-15 13:34:32",
+      "lat": "45.627",
+      "lng": "-114.951",
+      "size": "2,316 Acres",
+      "url": "/incident/8377/",
+      "id": "8377",
+      "contained": "0"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-09-15 13:31:26",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "8,953 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
+      "contained": "0"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
       "state": "WASHINGTON",
-      "updated": "2022-09-15 13:27:47",
+      "updated": "2022-09-15 13:30:38",
       "lat": "46.636",
       "lng": "-121.517",
       "size": "3,212 Acres",
@@ -37,45 +115,6 @@
       "size": "112 Acres",
       "url": "/incident/8420/",
       "id": "8420",
-      "contained": "0"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-15 13:20:40",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,776 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "26"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-15 13:14:29",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "92,596 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-15 13:14:08",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
       "contained": "0"
     },
     {
@@ -181,19 +220,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "30"
-    },
-    {
-      "name": "NW Pasayten Complex",
-      "type": "Wildfire",
-      "summary": "Travel Alert – Washington State Route 20 Closed in Both...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-15 12:14:57",
-      "lat": "48.913",
-      "lng": "-120.818",
-      "size": "16,573 Acres",
-      "url": "/incident/8397/",
-      "id": "8397",
-      "contained": "0"
     },
     {
       "name": "Patrol Point",
@@ -752,32 +778,6 @@
       "size": "174 Acres",
       "url": "/incident/8422/",
       "id": "8422",
-      "contained": "0"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-09-13 23:28:53",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "8,953 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Twist Creek ",
-      "type": "Wildfire",
-      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
-      "state": "MONTANA",
-      "updated": "2022-09-13 23:24:12",
-      "lat": "45.627",
-      "lng": "-114.951",
-      "size": "2,316 Acres",
-      "url": "/incident/8377/",
-      "id": "8377",
       "contained": "0"
     },
     {
