@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Thursday, September 15, 2022 (this section last updated 7:30 AM)Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-15 13:28:21",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "64,159 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "20"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-15 13:27:47",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,212 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-15 13:27:00",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "112 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "0"
+    },
+    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
       "state": "IDAHO",
-      "updated": "2022-09-15 12:54:30",
+      "updated": "2022-09-15 13:20:40",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "37,776 Acres",
@@ -14,17 +53,56 @@
       "contained": "26"
     },
     {
-      "name": "Goat Rocks Fire",
+      "name": "Cedar Creek Fire",
       "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-15 12:50:37",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,212 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-15 13:14:29",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "92,596 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
       "contained": "0"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-15 13:14:08",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-15 13:03:35",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "9,440 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "5"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Yesterday’s weather lifted the fog and provided crews an...",
+      "state": "IDAHO",
+      "updated": "2022-09-15 12:59:54",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,079 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "47"
     },
     {
       "name": "Rock Rabbit",
@@ -66,19 +144,6 @@
       "contained": "40"
     },
     {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-15 12:39:26",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "112 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "0"
-    },
-    {
       "name": "Suiattle River Fire",
       "type": "Wildfire",
       "summary": "The Suiattle Creek Fire was reported on August 30, 2022 at 2:45 pm...",
@@ -90,19 +155,6 @@
       "url": "/incident/8396/",
       "id": "8396",
       "contained": "0"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-15 12:24:44",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "9,440 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "5"
     },
     {
       "name": "Yeti and Alex Fires",
@@ -222,19 +274,6 @@
       "contained": "55"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-15 11:43:26",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "92,596 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "McKinney Fire",
       "type": "Wildfire",
       "summary": " On Sunday August 28th at 0700, the Klamath National Forest Type 3...",
@@ -259,19 +298,6 @@
       "url": "/incident/8372/",
       "id": "8372",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Thursday, September 15, 2022 (this section last updated 7:30 AM)Fire...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-15 11:23:06",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "64,159 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "20"
     },
     {
       "name": "Bull Gin Complex",
@@ -417,19 +443,6 @@
       "contained": "96"
     },
     {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-15 09:49:23",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
-    },
-    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
@@ -454,19 +467,6 @@
       "url": "/incident/8364/",
       "id": "8364",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Yesterday’s weather lifted the fog and provided crews an...",
-      "state": "IDAHO",
-      "updated": "2022-09-15 09:29:32",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,079 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "47"
     },
     {
       "name": "Owl Fire and Horse Fire",
