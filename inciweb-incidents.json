@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-15 10:22:16",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,305 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "55"
+    },
+    {
+      "name": "Tenmile",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
+      "state": "IDAHO",
+      "updated": "2022-09-15 10:17:57",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "2,003 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-15 10:14:56",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,725 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-09-15 10:02:04",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "20,742 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Yosemite September Lightning",
+      "type": "Wildfire",
+      "summary": "Yosemite September Lightning Update, September 15, 2022, 8amSince...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-15 09:59:09",
+      "lat": "37.57",
+      "lng": "-119.679",
+      "size": "0 Acres",
+      "url": "/incident/8419/",
+      "id": "8419",
+      "contained": "0"
+    },
+    {
       "name": "Rodgers Fire",
       "type": "Wildfire",
       "summary": "Rodgers Fire update, September 14, 2022, 7:30am There is no recent...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-15 09:50:28",
+      "updated": "2022-09-15 09:54:09",
       "lat": "37.954",
       "lng": "-119.552",
       "size": "2,774 Acres",
@@ -40,19 +105,6 @@
       "contained": "0"
     },
     {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-09-15 09:45:39",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "20,742 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
-    },
-    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
@@ -64,19 +116,6 @@
       "url": "/incident/8380/",
       "id": "8380",
       "contained": "0"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-15 09:44:03",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,725 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
     },
     {
       "name": "Red Fire",
@@ -365,19 +404,6 @@
       "contained": "0"
     },
     {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-14 21:11:11",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "2,305 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "55"
-    },
-    {
       "name": "Eagle Creek",
       "type": "Wildfire",
       "summary": "Firefighters continue to make progress on the Eagle Creek Fire,...",
@@ -493,19 +519,6 @@
       "url": "/incident/8418/",
       "id": "8418",
       "contained": "40"
-    },
-    {
-      "name": "Tenmile",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
-      "state": "IDAHO",
-      "updated": "2022-09-14 14:29:28",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "1,937 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "0"
     },
     {
       "name": "Kalama Fire",
@@ -700,19 +713,6 @@
       "size": "1,003 Acres",
       "url": "/incident/8421/",
       "id": "8421",
-      "contained": "0"
-    },
-    {
-      "name": "Yosemite September Lightning",
-      "type": "Wildfire",
-      "summary": "Yosemite Lightning Update, September 14, 2022, 7:30am In the past...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-14 10:10:16",
-      "lat": "37.57",
-      "lng": "-119.679",
-      "size": "0 Acres",
-      "url": "/incident/8419/",
-      "id": "8419",
       "contained": "0"
     },
     {
