@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-15 12:54:30",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,776 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "26"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
       "state": "WASHINGTON",
-      "updated": "2022-09-15 12:42:17",
+      "updated": "2022-09-15 12:50:37",
       "lat": "46.636",
       "lng": "-121.517",
       "size": "3,212 Acres",
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "0"
+    },
+    {
+      "name": "Rock Rabbit",
+      "type": "Wildfire",
+      "summary": "The Rock Rabbit fire is burning the Frank Church River of No Return...",
+      "state": "IDAHO",
+      "updated": "2022-09-15 12:47:40",
+      "lat": "45.264",
+      "lng": "-115.237",
+      "size": "39 Acres",
+      "url": "/incident/8400/",
+      "id": "8400",
+      "contained": "0"
+    },
+    {
+      "name": "Rainbow",
+      "type": "Wildfire",
+      "summary": "The Rainbow Fire is located at the top of Brundage Mountain in the...",
+      "state": "IDAHO",
+      "updated": "2022-09-15 12:46:28",
+      "lat": "45.01",
+      "lng": "-116.134",
+      "size": "4 Acres",
+      "url": "/incident/8410/",
+      "id": "8410",
+      "contained": "100"
+    },
+    {
+      "name": "Porphyry Fire",
+      "type": "Wildfire",
+      "summary": "The Porphyry Fire is at 2,930 acres. Containment of the fire has...",
+      "state": "IDAHO",
+      "updated": "2022-09-15 12:45:44",
+      "lat": "45.266",
+      "lng": "-115.484",
+      "size": "2,930 Acres",
+      "url": "/incident/8334/",
+      "id": "8334",
+      "contained": "40"
     },
     {
       "name": "Kalama Fire",
@@ -25,32 +77,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "0"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-15 12:39:05",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,776 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "26"
-    },
-    {
-      "name": "Porphyry Fire",
-      "type": "Wildfire",
-      "summary": "The Porphyry Fire is at 2,930 acres. Containment of the fire has...",
-      "state": "IDAHO",
-      "updated": "2022-09-15 12:27:34",
-      "lat": "45.266",
-      "lng": "-115.484",
-      "size": "2,930 Acres",
-      "url": "/incident/8334/",
-      "id": "8334",
-      "contained": "40"
     },
     {
       "name": "Suiattle River Fire",
@@ -77,19 +103,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "5"
-    },
-    {
-      "name": "Rock Rabbit",
-      "type": "Wildfire",
-      "summary": "The Rock Rabbit fire is burning the Frank Church River of No Return...",
-      "state": "IDAHO",
-      "updated": "2022-09-15 12:22:09",
-      "lat": "45.264",
-      "lng": "-115.237",
-      "size": "39 Acres",
-      "url": "/incident/8400/",
-      "id": "8400",
-      "contained": "0"
     },
     {
       "name": "Yeti and Alex Fires",
@@ -688,19 +701,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "5"
-    },
-    {
-      "name": "Rainbow",
-      "type": "Wildfire",
-      "summary": "The Rainbow Fire is located at the top of Brundage Mountain in the...",
-      "state": "IDAHO",
-      "updated": "2022-09-14 11:52:25",
-      "lat": "45.01",
-      "lng": "-116.134",
-      "size": "4 Acres",
-      "url": "/incident/8410/",
-      "id": "8410",
-      "contained": "100"
     },
     {
       "name": "Murray Fire",
