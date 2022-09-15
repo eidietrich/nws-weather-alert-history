@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Thursday, September 15, 2022 (this section last updated 7:30 AM)Fire...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-15 14:30:37",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "64,159 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "20"
-    },
-    {
       "name": "Chilliwack Complex",
       "type": "Wildfire",
       "summary": "Travel Alert – Washington State Route 20 Closed in Both...",
       "state": "WASHINGTON",
-      "updated": "2022-09-15 14:29:52",
+      "updated": "2022-09-15 14:43:52",
       "lat": "48.925",
       "lng": "-121.38",
       "size": "6,186 Acres",
@@ -31,12 +18,38 @@
       "type": "Wildfire",
       "summary": "The No Grass Creek fire is located in Powell County on the west end...",
       "state": "MONTANA",
-      "updated": "2022-09-15 14:29:50",
+      "updated": "2022-09-15 14:42:06",
       "lat": "46.373",
       "lng": "-112.473",
       "size": "1,145 Acres",
       "url": "/incident/8421/",
       "id": "8421",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Thursday, September 15, 2022 (this section last updated 12:30 PM)Fire...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-15 14:40:30",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "64,159 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "20"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-15 14:39:51",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "92,596 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
       "contained": "0"
     },
     {
@@ -64,19 +77,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "5"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-15 14:24:22",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "92,596 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Kalama Fire",
