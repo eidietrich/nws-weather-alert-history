@@ -1,6 +1,149 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-16 13:56:51",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "93,427 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Friday, September 16, 2022 (this section last updated 11:30...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-16 13:55:42",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "69,908 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "20"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-16 13:55:29",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "157,185 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "27"
+    },
+    {
+      "name": "Tenmile",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
+      "state": "IDAHO",
+      "updated": "2022-09-16 13:52:58",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "2,003 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "0"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 13:52:40",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder Lake",
+      "type": "Wildfire",
+      "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 13:46:38",
+      "lat": "47.071",
+      "lng": "-113.82",
+      "size": "1,831 Acres",
+      "url": "/incident/8395/",
+      "id": "8395",
+      "contained": "0"
+    },
+    {
+      "name": "Quartz Fire",
+      "type": "Wildfire",
+      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 13:46:06",
+      "lat": "48.854",
+      "lng": "-114.025",
+      "size": "1,981 Acres",
+      "url": "/incident/8337/",
+      "id": "8337",
+      "contained": "0"
+    },
+    {
+      "name": "Six Rivers Lightning Complex",
+      "type": "Wildfire",
+      "summary": " The new team would like to continue updates so they will continue a...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-16 13:43:02",
+      "lat": "40.907",
+      "lng": "-123.598",
+      "size": "41,560 Acres",
+      "url": "/incident/8312/",
+      "id": "8312",
+      "contained": "97"
+    },
+    {
+      "name": "North Camas Fire",
+      "type": "Wildfire",
+      "summary": "The North Camas Fire was detected in the upper Camas Creek drainage...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 13:40:44",
+      "lat": "48.726",
+      "lng": "-113.858",
+      "size": "71 Acres",
+      "url": "/incident/8387/",
+      "id": "8387",
+      "contained": "0"
+    },
+    {
+      "name": "Sawtell Peak",
+      "type": "Wildfire",
+      "summary": " The area and road closure for the Sawtell Peak Fire area have been...",
+      "state": "IDAHO",
+      "updated": "2022-09-16 13:39:35",
+      "lat": "44.54",
+      "lng": "-111.404",
+      "size": "37 Acres",
+      "url": "/incident/8383/",
+      "id": "8383",
+      "contained": "100"
+    },
+    {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-16 13:35:56",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "208 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "0"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " Great Basin Incident Management Team 1 took command of the Owl Fire...",
@@ -14,45 +157,6 @@
       "contained": "50"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Friday, September 16, 2022 (this section last updated 9:45...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-16 13:24:41",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "69,908 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "20"
-    },
-    {
-      "name": "Tenmile",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
-      "state": "IDAHO",
-      "updated": "2022-09-16 13:23:17",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "2,003 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "0"
-    },
-    {
-      "name": "Six Rivers Lightning Complex",
-      "type": "Wildfire",
-      "summary": " The new team would like to continue updates so they will continue a...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-16 13:19:22",
-      "lat": "40.907",
-      "lng": "-123.598",
-      "size": "41,560 Acres",
-      "url": "/incident/8312/",
-      "id": "8312",
-      "contained": "97"
-    },
-    {
       "name": "No Grass Creek Fire",
       "type": "Wildfire",
       "summary": "The No Grass Creek fire is located in Powell County on the west end...",
@@ -63,19 +167,6 @@
       "size": "1,145 Acres",
       "url": "/incident/8421/",
       "id": "8421",
-      "contained": "0"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-16 12:45:27",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
       "contained": "0"
     },
     {
@@ -154,19 +245,6 @@
       "size": "3,212 Acres",
       "url": "/incident/8415/",
       "id": "8415",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-16 12:07:45",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "93,427 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
@@ -339,19 +417,6 @@
       "contained": "10"
     },
     {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-16 10:50:31",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "157,088 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "24"
-    },
-    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -440,19 +505,6 @@
       "size": "684 Acres",
       "url": "/incident/8399/",
       "id": "8399",
-      "contained": "0"
-    },
-    {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-16 10:37:00",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "208 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
       "contained": "0"
     },
     {
@@ -846,19 +898,6 @@
       "contained": "5"
     },
     {
-      "name": "Boulder Lake",
-      "type": "Wildfire",
-      "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
-      "state": "MONTANA",
-      "updated": "2022-09-13 15:31:55",
-      "lat": "47.071",
-      "lng": "-113.82",
-      "size": "1,800 Acres",
-      "url": "/incident/8395/",
-      "id": "8395",
-      "contained": "0"
-    },
-    {
       "name": "Solomon Fire",
       "type": "Wildfire",
       "summary": "The Solomon Fire was reported on Aug 24, 2022, and is burning...",
@@ -895,19 +934,6 @@
       "size": "1 Acres",
       "url": "/incident/8170/",
       "id": "8170",
-      "contained": "0"
-    },
-    {
-      "name": "North Camas Fire",
-      "type": "Wildfire",
-      "summary": "The North Camas Fire was detected in the upper Camas Creek drainage...",
-      "state": "MONTANA",
-      "updated": "2022-09-13 11:49:45",
-      "lat": "48.726",
-      "lng": "-113.858",
-      "size": "71 Acres",
-      "url": "/incident/8387/",
-      "id": "8387",
       "contained": "0"
     },
     {
@@ -1002,19 +1028,6 @@
       "contained": "95"
     },
     {
-      "name": "Quartz Fire",
-      "type": "Wildfire",
-      "summary": "The Cyclone Lookout detected the Quartz Fire in Glacier National Park...",
-      "state": "MONTANA",
-      "updated": "2022-09-11 18:20:52",
-      "lat": "48.854",
-      "lng": "-114.025",
-      "size": "1,981 Acres",
-      "url": "/incident/8337/",
-      "id": "8337",
-      "contained": "0"
-    },
-    {
       "name": "Thor Fire",
       "type": "Wildfire",
       "summary": "The Thor Fire is burning approximately 5 miles east of Sullivan Lake...",
@@ -1065,19 +1078,6 @@
       "url": "/incident/8351/",
       "id": "8351",
       "contained": "3"
-    },
-    {
-      "name": "Sawtell Peak",
-      "type": "Wildfire",
-      "summary": "This will be the final report for the Sawtell Peak Fire....",
-      "state": "IDAHO",
-      "updated": "2022-09-09 11:04:35",
-      "lat": "44.54",
-      "lng": "-111.404",
-      "size": "37 Acres",
-      "url": "/incident/8383/",
-      "id": "8383",
-      "contained": "100"
     },
     {
       "name": "Weasel Fire",
