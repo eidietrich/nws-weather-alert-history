@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Chilliwack Complex",
+      "type": "Wildfire",
+      "summary": "There are a number of lightning-caused fires burning in the very...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-16 16:10:54",
+      "lat": "48.925",
+      "lng": "-121.38",
+      "size": "6,274 Acres",
+      "url": "/incident/8394/",
+      "id": "8394",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-16 16:03:08",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,775 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "28"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Friday, September 16, 2022 (this section last updated 11:30...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-16 15:51:14",
+      "updated": "2022-09-16 16:02:36",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "69,908 Acres",
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "20"
+    },
+    {
+      "name": "Cannon Fire",
+      "type": "Wildfire",
+      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 15:54:55",
+      "lat": "47.716",
+      "lng": "-113.56",
+      "size": "1,932 Acres",
+      "url": "/incident/8326/",
+      "id": "8326",
+      "contained": "0"
+    },
+    {
+      "name": "Dean Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 15:53:41",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "521 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
+      "name": "Ursus Fire",
+      "type": "Wildfire",
+      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
+      "state": "MONTANA",
+      "updated": "2022-09-16 15:52:43",
+      "lat": "47.38",
+      "lng": "-113.025",
+      "size": "4,237 Acres",
+      "url": "/incident/8367/",
+      "id": "8367",
+      "contained": "0"
     },
     {
       "name": "Diamond Watch Fire",
@@ -90,19 +155,6 @@
       "url": "/incident/8364/",
       "id": "8364",
       "contained": "0"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-16 15:08:46",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,775 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "28"
     },
     {
       "name": "Six Rivers Lightning Complex",
@@ -495,19 +547,6 @@
       "contained": "59"
     },
     {
-      "name": "Cannon Fire",
-      "type": "Wildfire",
-      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
-      "state": "MONTANA",
-      "updated": "2022-09-16 10:45:17",
-      "lat": "47.716",
-      "lng": "-113.56",
-      "size": "1,932 Acres",
-      "url": "/incident/8326/",
-      "id": "8326",
-      "contained": "0"
-    },
-    {
       "name": "Indian Ridge",
       "type": "Wildfire",
       "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
@@ -518,19 +557,6 @@
       "size": "8,953 Acres",
       "url": "/incident/8319/",
       "id": "8319",
-      "contained": "0"
-    },
-    {
-      "name": "Dean Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-09-16 10:44:00",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "521 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
       "contained": "0"
     },
     {
@@ -610,19 +636,6 @@
       "url": "/incident/8403/",
       "id": "8403",
       "contained": "86"
-    },
-    {
-      "name": "Chilliwack Complex",
-      "type": "Wildfire",
-      "summary": "There are a number of lightning-caused fires burning in the very...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-16 10:00:19",
-      "lat": "48.925",
-      "lng": "-121.38",
-      "size": "6,274 Acres",
-      "url": "/incident/8394/",
-      "id": "8394",
-      "contained": "0"
     },
     {
       "name": "Yosemite September Lightning",
@@ -726,19 +739,6 @@
       "size": "1,077 Acres",
       "url": "/incident/8393/",
       "id": "8393",
-      "contained": "0"
-    },
-    {
-      "name": "Ursus Fire",
-      "type": "Wildfire",
-      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
-      "state": "MONTANA",
-      "updated": "2022-09-15 17:30:13",
-      "lat": "47.38",
-      "lng": "-113.025",
-      "size": "4,237 Acres",
-      "url": "/incident/8367/",
-      "id": "8367",
       "contained": "0"
     },
     {
