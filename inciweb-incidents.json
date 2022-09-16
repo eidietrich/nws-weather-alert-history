@@ -1,16 +1,81 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-16 08:24:17",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "93,109 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Owl Fire",
       "type": "Wildfire",
       "summary": "The Owl fire is located approximately 20 miles west of North Fork,...",
       "state": "IDAHO",
-      "updated": "2022-09-16 07:24:51",
+      "updated": "2022-09-16 08:20:35",
       "lat": "45.373",
       "lng": "-114.442",
-      "size": "0 Acres",
+      "size": "747 Acres",
       "url": "/incident/8416/",
       "id": "8416",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-16 08:19:41",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,775 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "28"
+    },
+    {
+      "name": "Twist Creek ",
+      "type": "Wildfire",
+      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 08:01:26",
+      "lat": "45.627",
+      "lng": "-114.951",
+      "size": "2,316 Acres",
+      "url": "/incident/8377/",
+      "id": "8377",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-16 07:59:57",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,727 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
+      "name": "Indian Ridge",
+      "type": "Wildfire",
+      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
+      "state": "MONTANA",
+      "updated": "2022-09-16 07:57:08",
+      "lat": "45.784",
+      "lng": "-114.711",
+      "size": "8,953 Acres",
+      "url": "/incident/8319/",
+      "id": "8319",
       "contained": "0"
     },
     {
@@ -18,26 +83,13 @@
       "type": "Wildfire",
       "summary": " Yesterday’s weather lifted the fog and provided crews an...",
       "state": "IDAHO",
-      "updated": "2022-09-16 07:23:23",
+      "updated": "2022-09-16 07:53:51",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "130,079 Acres",
       "url": "/incident/8249/",
       "id": "8249",
-      "contained": "47"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-16 00:37:14",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "93,109 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
+      "contained": "50"
     },
     {
       "name": "Kootenai River Complex ",
@@ -313,32 +365,6 @@
       "contained": "0"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-15 20:33:52",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,775 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "28"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-15 20:30:53",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,727 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
-    },
-    {
       "name": "Porphyry Fire",
       "type": "Wildfire",
       "summary": "The Porphyry Fire is at 2,930 acres. Containment of the fire has...",
@@ -531,32 +557,6 @@
       "size": "1,608 Acres",
       "url": "/incident/8392/",
       "id": "8392",
-      "contained": "0"
-    },
-    {
-      "name": "Twist Creek ",
-      "type": "Wildfire",
-      "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
-      "state": "MONTANA",
-      "updated": "2022-09-15 13:34:32",
-      "lat": "45.627",
-      "lng": "-114.951",
-      "size": "2,316 Acres",
-      "url": "/incident/8377/",
-      "id": "8377",
-      "contained": "0"
-    },
-    {
-      "name": "Indian Ridge",
-      "type": "Wildfire",
-      "summary": "The Indian Ridge Fire started by lightning on July 7th in the Indian...",
-      "state": "MONTANA",
-      "updated": "2022-09-15 13:31:26",
-      "lat": "45.784",
-      "lng": "-114.711",
-      "size": "8,953 Acres",
-      "url": "/incident/8319/",
-      "id": "8319",
       "contained": "0"
     },
     {
