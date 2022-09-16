@@ -1,37 +1,11 @@
 {
   "markers": [
     {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-16 15:39:26",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "535 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-16 15:39:07",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "93,427 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Friday, September 16, 2022 (this section last updated 11:30...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-16 15:37:19",
+      "updated": "2022-09-16 15:51:14",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "69,908 Acres",
@@ -40,30 +14,82 @@
       "contained": "20"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-16 15:35:38",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "20,036 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
       "name": "Diamond Watch Fire",
       "type": "Wildfire",
       "summary": "The Diamond Watch Fire, detected on the evening of July 14th, was...",
       "state": "IDAHO",
-      "updated": "2022-09-16 15:33:08",
+      "updated": "2022-09-16 15:49:23",
       "lat": "48.636",
       "lng": "-117.065",
       "size": "1,035 Acres",
       "url": "/incident/8264/",
       "id": "8264",
       "contained": "49"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-16 15:47:12",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,563 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-16 15:46:59",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "157,185 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "27"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-16 15:46:55",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "93,427 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-09-16 15:45:52",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "535 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-16 15:45:30",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "20,036 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
     },
     {
       "name": "Ross Fork",
@@ -155,19 +181,6 @@
       "url": "/incident/8395/",
       "id": "8395",
       "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-16 13:55:29",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "157,185 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "27"
     },
     {
       "name": "Quartz Fire",
@@ -467,19 +480,6 @@
       "url": "/incident/8408/",
       "id": "8408",
       "contained": "10"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-16 10:49:47",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,563 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
     },
     {
       "name": "Boulder Mountain Fire",
