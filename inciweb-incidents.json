@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-17 14:29:16",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "110,361 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Saturday, September 17, 2022 (this section last updated 7:30...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-17 14:25:00",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "71,292 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "21"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "At this time during the fire, personnel and heavy equipment are in...",
@@ -14,19 +40,6 @@
       "contained": "83"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Saturday, September 17, 2022 (this section last updated 7:30...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-17 13:39:53",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "71,292 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "21"
-    },
-    {
       "name": "Yosemite September Lightning",
       "type": "Wildfire",
       "summary": "Yosemite September Lightning (updated Friday, September 16, 2022)...",
@@ -37,19 +50,6 @@
       "size": "0 Acres",
       "url": "/incident/8419/",
       "id": "8419",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-17 13:18:24",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "110,361 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
       "contained": "0"
     },
     {
