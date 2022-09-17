@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-17 00:32:25",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "98,980 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
-      "summary": "Friday, September 16, 2022 (this section last updated 7:00...",
+      "summary": "Friday, September 16, 2022 (this section last updated 10:15...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-17 00:06:24",
+      "updated": "2022-09-17 00:28:22",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "71,292 Acres",
@@ -116,19 +129,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "27"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-16 22:24:08",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "93,427 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
     },
     {
       "name": "Trail Ridge Fire",
