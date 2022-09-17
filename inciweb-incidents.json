@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-17 16:15:37",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "COMMUNITY MEETING: Join us for an in-person meeting on Monday,...",
+      "state": "IDAHO",
+      "updated": "2022-09-17 15:59:28",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,086 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "50"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-09-17 15:45:16",
+      "updated": "2022-09-17 15:49:54",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "110,361 Acres",
@@ -76,19 +102,6 @@
       "size": "0 Acres",
       "url": "/incident/8419/",
       "id": "8419",
-      "contained": "0"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-17 13:01:57",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
       "contained": "0"
     },
     {
@@ -402,19 +415,6 @@
       "url": "/incident/8403/",
       "id": "8403",
       "contained": "96"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "COMMUNITY MEETING: Join us for an in-person meeting on Monday,...",
-      "state": "IDAHO",
-      "updated": "2022-09-17 09:22:10",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,086 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "50"
     },
     {
       "name": "McKinney Fire",
