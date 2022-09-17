@@ -3,22 +3,35 @@
     {
       "name": "Mosquito Fire",
       "type": "Wildfire",
-      "summary": "Friday, September 16, 2022 (this section last updated 11:30...",
+      "summary": "Friday, September 16, 2022 (this section last updated 7:00...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-16 18:42:28",
+      "updated": "2022-09-16 21:09:26",
       "lat": "39.006",
       "lng": "-120.745",
-      "size": "69,908 Acres",
+      "size": "71,292 Acres",
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "20"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-16 20:55:37",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "9,440 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "5"
     },
     {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
       "state": "IDAHO",
-      "updated": "2022-09-16 18:29:50",
+      "updated": "2022-09-16 20:49:01",
       "lat": "43.811",
       "lng": "-114.98",
       "size": "37,775 Acres",
@@ -27,17 +40,95 @@
       "contained": "28"
     },
     {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-16 20:41:11",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,212 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-16 20:26:48",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,727 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-16 20:23:03",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "93,427 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "0"
+    },
+    {
       "name": "Barnes Fire",
       "type": "Wildfire",
       "summary": "A StoryMap has been created for the Barnes Fire. Click the link...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-16 18:12:02",
+      "updated": "2022-09-16 19:53:53",
       "lat": "41.89",
       "lng": "-120.3",
       "size": "5,843 Acres",
       "url": "/incident/8403/",
       "id": "8403",
       "contained": "91"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-16 19:28:10",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,305 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "59"
+    },
+    {
+      "name": "Owl Fire",
+      "type": "Wildfire",
+      "summary": " Great Basin Incident Management Team 1 took command of the Owl Fire...",
+      "state": "IDAHO",
+      "updated": "2022-09-16 19:12:50",
+      "lat": "45.373",
+      "lng": "-114.442",
+      "size": "747 Acres",
+      "url": "/incident/8416/",
+      "id": "8416",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Great Basin Incident Management Team 1 took command of the Owl Fire...",
+      "state": "IDAHO",
+      "updated": "2022-09-16 19:06:12",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,079 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "50"
     },
     {
       "name": "Trail Ridge Fire",
@@ -170,19 +261,6 @@
       "contained": "27"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-16 15:46:55",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "93,427 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "0"
-    },
-    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
@@ -220,19 +298,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "97"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-16 14:37:32",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "9,440 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "5"
     },
     {
       "name": "Mill Lake Fire",
@@ -339,19 +404,6 @@
       "contained": "0"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Great Basin Incident Management Team 1 took command of the Owl Fire...",
-      "state": "IDAHO",
-      "updated": "2022-09-16 13:27:01",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,079 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "50"
-    },
-    {
       "name": "No Grass Creek Fire",
       "type": "Wildfire",
       "summary": "The No Grass Creek fire is located in Powell County on the west end...",
@@ -362,19 +414,6 @@
       "size": "1,145 Acres",
       "url": "/incident/8421/",
       "id": "8421",
-      "contained": "0"
-    },
-    {
-      "name": "Owl Fire",
-      "type": "Wildfire",
-      "summary": " Great Basin Incident Management Team 1 took command of the Owl Fire...",
-      "state": "IDAHO",
-      "updated": "2022-09-16 12:19:36",
-      "lat": "45.373",
-      "lng": "-114.442",
-      "size": "747 Acres",
-      "url": "/incident/8416/",
-      "id": "8416",
       "contained": "0"
     },
     {
@@ -428,19 +467,6 @@
       "url": "/incident/8334/",
       "id": "8334",
       "contained": "40"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-16 12:10:22",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,212 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
     },
     {
       "name": "Calf Canyon",
@@ -560,19 +586,6 @@
       "contained": "94"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-16 11:08:23",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,727 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
-    },
-    {
       "name": "Summit Fire",
       "type": "Wildfire",
       "summary": " The Summit Fire was ignited by lightning and discovered on the...",
@@ -584,19 +597,6 @@
       "url": "/incident/8408/",
       "id": "8408",
       "contained": "10"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-16 10:45:48",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "2,305 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "59"
     },
     {
       "name": "Indian Ridge",
