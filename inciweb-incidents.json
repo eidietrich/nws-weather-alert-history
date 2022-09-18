@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-18 12:00:29",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "1,608 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Tenmile ",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
+      "state": "IDAHO",
+      "updated": "2022-09-18 11:59:13",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "2,003 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-18 11:57:29",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "20,109 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-18 11:41:04",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,593 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Sunday, September 18, 2022 (this section last updated 7:30 AM)Fire...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-18 11:13:53",
+      "updated": "2022-09-18 11:39:17",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "74,748 Acres",
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "34"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-18 11:34:07",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,280 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
     },
     {
       "name": "Chilliwack Complex",
@@ -76,19 +141,6 @@
       "size": "112,287 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-18 10:58:37",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,280 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
       "contained": "0"
     },
     {
@@ -170,32 +222,6 @@
       "contained": "53"
     },
     {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-18 09:32:10",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,593 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-18 09:31:40",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "20,109 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -258,19 +284,6 @@
       "size": "17,998 Acres",
       "url": "/incident/8397/",
       "id": "8397",
-      "contained": "0"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-17 16:24:48",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "1,608 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
       "contained": "0"
     },
     {
@@ -363,19 +376,6 @@
       "url": "/incident/8379/",
       "id": "8379",
       "contained": "90"
-    },
-    {
-      "name": "Tenmile ",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 4 assumed command of the Tenmile...",
-      "state": "IDAHO",
-      "updated": "2022-09-17 10:31:59",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "2,003 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "0"
     },
     {
       "name": "Calf Canyon",
