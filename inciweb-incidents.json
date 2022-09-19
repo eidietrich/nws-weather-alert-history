@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-19 17:45:33",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,322 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "11"
+    },
+    {
       "name": "Boulder Lake",
       "type": "Wildfire",
       "summary": "The Boulder Lake Fire was reported on Sept. 3, 2022, and is burning...",
@@ -25,19 +38,6 @@
       "url": "/incident/8370/",
       "id": "8370",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-19 17:06:54",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,322 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "11"
     },
     {
       "name": "Mosquito Fire",
