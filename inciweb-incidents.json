@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Solomon Fire",
+      "type": "Wildfire",
+      "summary": "The Solomon Fire was reported on Aug 24, 2022, and is burning...",
+      "state": "MONTANA",
+      "updated": "2022-09-19 17:13:46",
+      "lat": "46.633",
+      "lng": "-113.691",
+      "size": "434 Acres",
+      "url": "/incident/8370/",
+      "id": "8370",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-19 17:06:54",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,322 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "11"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Monday, September 19, 2022 (this section last updated 1:15 PM)Flash...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-19 17:01:29",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,290 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "39"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
@@ -142,32 +181,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Monday, September 19, 2022 (this section last updated 1:15 PM)Flash...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-19 15:21:07",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,290 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "39"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-19 15:16:01",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,322 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "11"
     },
     {
       "name": "Rum Creek Fire",
@@ -987,19 +1000,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "5"
-    },
-    {
-      "name": "Solomon Fire",
-      "type": "Wildfire",
-      "summary": "The Solomon Fire was reported on Aug 24, 2022, and is burning...",
-      "state": "MONTANA",
-      "updated": "2022-09-13 15:12:48",
-      "lat": "46.633",
-      "lng": "-113.691",
-      "size": "434 Acres",
-      "url": "/incident/8370/",
-      "id": "8370",
-      "contained": "0"
     },
     {
       "name": "2022 Humboldt-Toiyabe Initial Attack",
