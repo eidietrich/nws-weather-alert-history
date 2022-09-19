@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Owl Fire",
+      "type": "Wildfire",
+      "summary": " Yesterday, firefighters hiked into the Owl Fire to assess the fire...",
+      "state": "IDAHO",
+      "updated": "2022-09-19 18:55:59",
+      "lat": "45.373",
+      "lng": "-114.442",
+      "size": "747 Acres",
+      "url": "/incident/8416/",
+      "id": "8416",
+      "contained": "53"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-19 18:53:49",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,727 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": " COMMUNITY MEETING: Join us for an in-person meeting TONIGHT at 6:00...",
       "state": "IDAHO",
-      "updated": "2022-09-19 18:21:51",
+      "updated": "2022-09-19 18:46:32",
       "lat": "45.375",
       "lng": "-114.091",
-      "size": "130,092 Acres",
+      "size": "130,093 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "51"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-19 18:40:14",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "908 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-19 18:40:00",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,795 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "44"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Monday, September 19, 2022 (this section last updated 1:15 PM)Flash...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-19 18:38:18",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,290 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "39"
     },
     {
       "name": "Bolt Creek Fire",
@@ -25,19 +90,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "79"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Monday, September 19, 2022 (this section last updated 1:15 PM)Flash...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-19 18:08:19",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,290 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "39"
     },
     {
       "name": "Cedar Creek Fire",
@@ -233,19 +285,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "83"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-19 14:59:25",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "908 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
     },
     {
       "name": "Indian Ridge",
@@ -469,19 +508,6 @@
       "contained": "49"
     },
     {
-      "name": "Owl Fire",
-      "type": "Wildfire",
-      "summary": " Yesterday, firefighters hiked into the Owl Fire to assess the fire...",
-      "state": "IDAHO",
-      "updated": "2022-09-19 11:08:28",
-      "lat": "45.373",
-      "lng": "-114.442",
-      "size": "747 Acres",
-      "url": "/incident/8416/",
-      "id": "8416",
-      "contained": "53"
-    },
-    {
       "name": "Summit Fire",
       "type": "Wildfire",
       "summary": " The Summit Fire was ignited by lightning and discovered on the...",
@@ -493,19 +519,6 @@
       "url": "/incident/8408/",
       "id": "8408",
       "contained": "50"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-19 10:40:25",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,795 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "44"
     },
     {
       "name": "Trail Ridge Fire",
@@ -636,19 +649,6 @@
       "url": "/incident/8075/",
       "id": "8075",
       "contained": "98"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-19 08:08:59",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,727 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
     },
     {
       "name": "Southwest District BLM Prescribed Fire ",
