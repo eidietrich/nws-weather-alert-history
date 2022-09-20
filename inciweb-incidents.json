@@ -1,6 +1,110 @@
 {
   "markers": [
     {
+      "name": "Margaret Fire",
+      "type": "Wildfire",
+      "summary": "The Margaret Fire was detected by Baptiste Lookout on August 22, 2022...",
+      "state": "MONTANA",
+      "updated": "2022-09-20 09:30:07",
+      "lat": "48.1",
+      "lng": "-113.808",
+      "size": "1,294 Acres",
+      "url": "/incident/8393/",
+      "id": "8393",
+      "contained": "0"
+    },
+    {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": "  On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency...",
+      "state": "MONTANA",
+      "updated": "2022-09-20 09:28:39",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "17,138 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
+      "contained": "48"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-20 09:27:43",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "10,095 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "90"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 09:27:32",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,290 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "39"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-20 09:10:56",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,597 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-20 09:10:44",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "20,129 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-20 09:10:14",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "157,267 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "38"
+    },
+    {
+      "name": "Southwest District BLM Prescribed Fire ",
+      "type": "Prescribed Fire",
+      "summary": "The Bureau of Land Management Southwest District plans to conduct...",
+      "state": "COLORADO",
+      "updated": "2022-09-20 09:10:03",
+      "lat": "37.903",
+      "lng": "-108.826",
+      "size": "0 Acres",
+      "url": "/incident/7852/",
+      "id": "7852",
+      "contained": "0"
+    },
+    {
       "name": "Horse Fire ",
       "type": "Wildfire",
       "summary": "The Horse fire located approximately 5½ miles northwest of Corn...",
@@ -12,19 +116,6 @@
       "url": "/incident/8423/",
       "id": "8423",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-20 08:53:38",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,290 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "39"
     },
     {
       "name": "Woodtick Fire",
@@ -157,19 +248,6 @@
       "contained": "0"
     },
     {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-19 23:00:43",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "157,267 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "38"
-    },
-    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
@@ -180,32 +258,6 @@
       "size": "536 Acres",
       "url": "/incident/8380/",
       "id": "8380",
-      "contained": "0"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-19 22:53:25",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "20,129 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-19 22:51:12",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,597 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
       "contained": "0"
     },
     {
@@ -233,32 +285,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "0"
-    },
-    {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": "  On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency...",
-      "state": "MONTANA",
-      "updated": "2022-09-19 21:06:12",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "17,138 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
-      "contained": "48"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-19 20:56:39",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "10,095 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "90"
     },
     {
       "name": "Kootenai River Complex ",
@@ -677,19 +703,6 @@
       "contained": "98"
     },
     {
-      "name": "Southwest District BLM Prescribed Fire ",
-      "type": "Prescribed Fire",
-      "summary": "The Bureau of Land Management Southwest District plans to conduct...",
-      "state": "COLORADO",
-      "updated": "2022-09-19 00:15:48",
-      "lat": "37.903",
-      "lng": "-108.826",
-      "size": "0 Acres",
-      "url": "/incident/7852/",
-      "id": "7852",
-      "contained": "0"
-    },
-    {
       "name": "Sunrise Fire",
       "type": "Wildfire",
       "summary": "CURRENT STATUS The Sunrise Fire reached 100% containment 18...",
@@ -765,19 +778,6 @@
       "size": "0 Acres",
       "url": "/incident/8419/",
       "id": "8419",
-      "contained": "0"
-    },
-    {
-      "name": "Margaret Fire",
-      "type": "Wildfire",
-      "summary": "The Margaret Fire was detected by Baptiste Lookout on August 22, 2022...",
-      "state": "MONTANA",
-      "updated": "2022-09-17 12:46:58",
-      "lat": "48.1",
-      "lng": "-113.808",
-      "size": "1,294 Acres",
-      "url": "/incident/8393/",
-      "id": "8393",
       "contained": "0"
     },
     {
