@@ -1,30 +1,56 @@
 {
   "markers": [
     {
-      "name": "Barnes Fire",
+      "name": "Cedar Creek Fire",
       "type": "Wildfire",
-      "summary": " Minimal. Minimal fire activity today. Clear skies and moderate to...",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-20 13:20:11",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,637 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "11"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-20 12:43:17",
-      "lat": "41.89",
-      "lng": "-120.3",
-      "size": "5,843 Acres",
-      "url": "/incident/8403/",
-      "id": "8403",
-      "contained": "98"
+      "updated": "2022-09-20 13:14:09",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,290 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "39"
     },
     {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": "  On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency...",
       "state": "MONTANA",
-      "updated": "2022-09-20 12:38:50",
+      "updated": "2022-09-20 13:07:52",
       "lat": "45.78",
       "lng": "-113.867",
       "size": "17,157 Acres",
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "48"
+    },
+    {
+      "name": "Barnes Fire",
+      "type": "Wildfire",
+      "summary": "Minimal fire activity today has been observed over the incident...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 12:52:55",
+      "lat": "41.89",
+      "lng": "-120.3",
+      "size": "5,843 Acres",
+      "url": "/incident/8403/",
+      "id": "8403",
+      "contained": "98"
     },
     {
       "name": "Radford Post-Fire BAER",
@@ -51,19 +77,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "83"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-20 12:27:40",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,290 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "39"
     },
     {
       "name": "Goat Rocks Fire",
@@ -168,19 +181,6 @@
       "url": "/incident/8401/",
       "id": "8401",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-20 10:53:15",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,637 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "11"
     },
     {
       "name": "Bolt Creek Fire",
