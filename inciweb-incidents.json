@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-20 09:53:43",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,637 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "11"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-20 09:44:21",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "10,095 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "90"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 09:36:02",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,290 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "39"
+    },
+    {
       "name": "Margaret Fire",
       "type": "Wildfire",
       "summary": "The Margaret Fire was detected by Baptiste Lookout on August 22, 2022...",
       "state": "MONTANA",
-      "updated": "2022-09-20 09:30:07",
+      "updated": "2022-09-20 09:35:41",
       "lat": "48.1",
       "lng": "-113.808",
       "size": "1,294 Acres",
@@ -25,32 +64,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "48"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek fire is located 1.5 miles north of Skykomish,...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-20 09:27:43",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "10,095 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "90"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Tuesday, September 20, 2022 (this section last updated 7:00 AM)Flash...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-20 09:27:32",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,290 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "39"
     },
     {
       "name": "Nebo Fire",
@@ -168,19 +181,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "96"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-20 08:31:02",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,637 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "11"
     },
     {
       "name": "Tenmile ",
