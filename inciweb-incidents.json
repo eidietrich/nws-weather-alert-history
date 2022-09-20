@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Fairview Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 00:28:06",
+      "lat": "33.681",
+      "lng": "-116.841",
+      "size": "0 Acres",
+      "url": "/incident/8426/",
+      "id": "8426",
+      "contained": "0"
+    },
+    {
+      "name": "Radford Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-20 00:20:06",
+      "lat": "34.194",
+      "lng": "-116.882",
+      "size": "0 Acres",
+      "url": "/incident/8425/",
+      "id": "8425",
+      "contained": "0"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "Monday, September 19, 2022 (this section last updated 7:30 PM)Flash...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-19 23:23:45",
+      "updated": "2022-09-19 23:58:05",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "76,290 Acres",
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "39"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-19 23:38:09",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,322 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "11"
     },
     {
       "name": "Double Creek Fire",
@@ -194,19 +233,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "44"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-19 17:45:33",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,322 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "11"
     },
     {
       "name": "Boulder Lake",
