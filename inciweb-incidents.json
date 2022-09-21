@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-21 09:52:24",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "915 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-09-21 09:52:20",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "20,908 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Wednesday, September 21, 2022 (this section last updated 7:30...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-21 09:48:12",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,290 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "49"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-21 09:42:56",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,310 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "77"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
-      "summary": " With continuing warmer weather, drying of light fuels, and...",
+      "summary": " Today an incoming weather system will produce rain, thunderstorms,...",
       "state": "IDAHO",
-      "updated": "2022-09-21 09:25:59",
+      "updated": "2022-09-21 09:42:55",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "130,093 Acres",
@@ -14,17 +66,17 @@
       "contained": "51"
     },
     {
-      "name": "Mosquito Fire",
+      "name": "Owl Fire",
       "type": "Wildfire",
-      "summary": "Wednesday, September 21, 2022 (this section last updated 6:00...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-21 09:18:12",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,290 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "49"
+      "summary": " Today an incoming weather system will produce rain, thunderstorms,...",
+      "state": "IDAHO",
+      "updated": "2022-09-21 09:42:12",
+      "lat": "45.373",
+      "lng": "-114.442",
+      "size": "747 Acres",
+      "url": "/incident/8416/",
+      "id": "8416",
+      "contained": "100"
     },
     {
       "name": "Eagle Creek",
@@ -131,19 +183,6 @@
       "contained": "0"
     },
     {
-      "name": "Owl Fire",
-      "type": "Wildfire",
-      "summary": " With continuing warmer weather, drying of light fuels, and...",
-      "state": "IDAHO",
-      "updated": "2022-09-21 08:04:49",
-      "lat": "45.373",
-      "lng": "-114.442",
-      "size": "747 Acres",
-      "url": "/incident/8416/",
-      "id": "8416",
-      "contained": "100"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -193,32 +232,6 @@
       "size": "536 Acres",
       "url": "/incident/8380/",
       "id": "8380",
-      "contained": "0"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-20 21:50:38",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "2,310 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "77"
-    },
-    {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-09-20 20:05:02",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "20,908 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
       "contained": "0"
     },
     {
@@ -389,19 +402,6 @@
       "url": "/incident/8403/",
       "id": "8403",
       "contained": "98"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-20 11:21:40",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "913 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
     },
     {
       "name": "Kalama Fire",
