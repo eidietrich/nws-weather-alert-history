@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Owl Fire",
+      "type": "Wildfire",
+      "summary": " Today an incoming weather system will produce rain, thunderstorms,...",
+      "state": "IDAHO",
+      "updated": "2022-09-21 18:48:03",
+      "lat": "45.373",
+      "lng": "-114.442",
+      "size": "747 Acres",
+      "url": "/incident/8416/",
+      "id": "8416",
+      "contained": "100"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": " Today an incoming weather system will produce rain, thunderstorms,...",
+      "state": "IDAHO",
+      "updated": "2022-09-21 18:42:30",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,109 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "51"
+    },
+    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
       "state": "IDAHO",
-      "updated": "2022-09-21 18:22:40",
+      "updated": "2022-09-21 18:29:19",
       "lat": "44.537",
       "lng": "-116.169",
       "size": "13,728 Acres",
@@ -90,19 +116,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "10"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": " Today an incoming weather system will produce rain, thunderstorms,...",
-      "state": "IDAHO",
-      "updated": "2022-09-21 16:06:55",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,093 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "51"
     },
     {
       "name": "Radford",
@@ -350,19 +363,6 @@
       "url": "/incident/8392/",
       "id": "8392",
       "contained": "0"
-    },
-    {
-      "name": "Owl Fire",
-      "type": "Wildfire",
-      "summary": " Today an incoming weather system will produce rain, thunderstorms,...",
-      "state": "IDAHO",
-      "updated": "2022-09-21 09:42:12",
-      "lat": "45.373",
-      "lng": "-114.442",
-      "size": "747 Acres",
-      "url": "/incident/8416/",
-      "id": "8416",
-      "contained": "100"
     },
     {
       "name": "Eagle Creek",
