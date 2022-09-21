@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-21 15:42:41",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,637 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "14"
+    },
+    {
+      "name": "Radford",
+      "type": "Wildfire",
+      "summary": "CURRENT CONDITIONS:  Smoke may be visible in/around the Big Bear...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-21 15:41:55",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "1,079 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "98"
+    },
+    {
       "name": "Tenmile ",
       "type": "Wildfire",
       "summary": "   Today, September 20, 2022, Great Basin Team 4, along with the...",
@@ -12,32 +38,6 @@
       "url": "/incident/8401/",
       "id": "8401",
       "contained": "23"
-    },
-    {
-      "name": "Radford",
-      "type": "Wildfire",
-      "summary": "CURRENT CONDITIONS:  This smoke may be visible in/around the Big...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-21 15:37:08",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "1,079 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "98"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-21 15:22:46",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,637 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "14"
     },
     {
       "name": "Cannon Fire",
