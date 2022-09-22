@@ -1,30 +1,82 @@
 {
   "markers": [
     {
+      "name": "Diamond Watch Fire",
+      "type": "Wildfire",
+      "summary": "The Diamond Watch Fire started by lightning on July 14th had a small...",
+      "state": "IDAHO",
+      "updated": "2022-09-22 13:25:30",
+      "lat": "48.636",
+      "lng": "-117.065",
+      "size": "1,177 Acres",
+      "url": "/incident/8264/",
+      "id": "8264",
+      "contained": "55"
+    },
+    {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-22 13:25:00",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "915 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "White River (&amp; Irving Peak)",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-22 13:24:53",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "7,439 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "10"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-22 13:19:59",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "113,637 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "14"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-22 13:19:26",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,605 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "Crews continue to focus on suppressions repair work along dozer and...",
       "state": "OREGON",
-      "updated": "2022-09-22 12:43:55",
+      "updated": "2022-09-22 12:45:25",
       "lat": "42.641",
       "lng": "-123.628",
       "size": "21,347 Acres",
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "87"
-    },
-    {
-      "name": "Diamond Watch Fire",
-      "type": "Wildfire",
-      "summary": "The Diamond Watch Fire, detected on the evening of July 14th, was...",
-      "state": "IDAHO",
-      "updated": "2022-09-22 12:40:33",
-      "lat": "48.636",
-      "lng": "-117.065",
-      "size": "1,035 Acres",
-      "url": "/incident/8264/",
-      "id": "8264",
-      "contained": "49"
     },
     {
       "name": "Kootenai River Complex ",
@@ -38,19 +90,6 @@
       "url": "/incident/8378/",
       "id": "8378",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-22 12:23:29",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "113,637 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "14"
     },
     {
       "name": "Boulder Mountain Fire",
@@ -300,19 +339,6 @@
       "contained": "44"
     },
     {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-22 08:47:58",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,605 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
-    },
-    {
       "name": "Four Corners Fire",
       "type": "Wildfire",
       "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
@@ -324,19 +350,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "96"
-    },
-    {
-      "name": "White River (&amp; Irving Peak)",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-21 16:29:52",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "7,439 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "10"
     },
     {
       "name": "Radford",
@@ -376,19 +389,6 @@
       "url": "/incident/8209/",
       "id": "8209",
       "contained": "100"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-21 10:26:29",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "915 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
     },
     {
       "name": "Eagle Creek",
