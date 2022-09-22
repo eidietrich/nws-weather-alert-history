@@ -1,11 +1,102 @@
 {
   "markers": [
     {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-22 11:30:49",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "304 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-22 11:30:01",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "157,320 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "58"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "",
+      "state": "WASHINGTON",
+      "updated": "2022-09-22 11:18:19",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "10,519 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "96"
+    },
+    {
+      "name": "Horse Fire ",
+      "type": "Wildfire",
+      "summary": "The Horse fire located approximately 5½ miles northwest of Corn...",
+      "state": "IDAHO",
+      "updated": "2022-09-22 11:13:46",
+      "lat": "45.425",
+      "lng": "-114.76",
+      "size": "397 Acres",
+      "url": "/incident/8423/",
+      "id": "8423",
+      "contained": "0"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-09-22 11:13:38",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "9,598 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "16"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-22 11:13:30",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "9,054 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "21"
+    },
+    {
+      "name": "Wolf Fang Fire",
+      "type": "Wildfire",
+      "summary": "The lightning fire is located approximately four (4) miles northeast...",
+      "state": "IDAHO",
+      "updated": "2022-09-22 11:13:21",
+      "lat": "45.138",
+      "lng": "-114.686",
+      "size": "2,082 Acres",
+      "url": "/incident/8273/",
+      "id": "8273",
+      "contained": "0"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
-      "summary": "Thursday, September 22, 2022 (this section last updated 6:30...",
+      "summary": "Thursday, September 22, 2022 (this section last updated 9:00...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-22 10:54:51",
+      "updated": "2022-09-22 11:01:16",
       "lat": "39.006",
       "lng": "-120.745",
       "size": "76,539 Acres",
@@ -51,19 +142,6 @@
       "url": "/incident/8382/",
       "id": "8382",
       "contained": "77"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "9 AM, September 21, 2022  Estimated size: 10,193 acres Completed:...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-22 10:40:33",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "10,519 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "96"
     },
     {
       "name": "Moose Fire",
@@ -116,19 +194,6 @@
       "url": "/incident/8401/",
       "id": "8401",
       "contained": "33"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-22 09:35:53",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "157,320 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "58"
     },
     {
       "name": "Sturgill Fire",
@@ -287,19 +352,6 @@
       "contained": "0"
     },
     {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-21 11:23:41",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "267 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "5"
-    },
-    {
       "name": "Washburn Fire",
       "type": "Wildfire",
       "summary": "The Washburn Fire is 100% contained. Some interior smokes may be...",
@@ -324,58 +376,6 @@
       "url": "/incident/8264/",
       "id": "8264",
       "contained": "49"
-    },
-    {
-      "name": "Horse Fire ",
-      "type": "Wildfire",
-      "summary": "The Horse fire located approximately 5½ miles northwest of Corn...",
-      "state": "IDAHO",
-      "updated": "2022-09-21 11:10:18",
-      "lat": "45.425",
-      "lng": "-114.76",
-      "size": "397 Acres",
-      "url": "/incident/8423/",
-      "id": "8423",
-      "contained": "0"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-09-21 11:10:08",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "9,598 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "16"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-21 11:10:04",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "9,054 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "21"
-    },
-    {
-      "name": "Wolf Fang Fire",
-      "type": "Wildfire",
-      "summary": "The lightning fire is located approximately four (4) miles northeast...",
-      "state": "IDAHO",
-      "updated": "2022-09-21 11:09:53",
-      "lat": "45.138",
-      "lng": "-114.686",
-      "size": "2,082 Acres",
-      "url": "/incident/8273/",
-      "id": "8273",
-      "contained": "0"
     },
     {
       "name": "Mill Lake Fire",
