@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Radford Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-22 17:10:47",
+      "lat": "34.194",
+      "lng": "-116.882",
+      "size": "0 Acres",
+      "url": "/incident/8425/",
+      "id": "8425",
+      "contained": "0"
+    },
+    {
+      "name": "Fairview Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-22 17:10:41",
+      "lat": "33.681",
+      "lng": "-116.841",
+      "size": "0 Acres",
+      "url": "/incident/8426/",
+      "id": "8426",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Thursday, September 22, 2022 (this section last updated 3:00...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-22 17:06:00",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,539 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "60"
+    },
+    {
+      "name": "Summit Fire",
+      "type": "Wildfire",
+      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-22 16:57:44",
+      "lat": "36.319",
+      "lng": "-118.65",
+      "size": "1,394 Acres",
+      "url": "/incident/8408/",
+      "id": "8408",
+      "contained": "75"
+    },
+    {
       "name": "Diamond Watch Fire",
       "type": "Wildfire",
       "summary": "The Diamond Watch Fire started by lightning on July 14th had a small...",
@@ -12,19 +64,6 @@
       "url": "/incident/8264/",
       "id": "8264",
       "contained": "55"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "Thursday, September 22, 2022 (this section last updated 9:00...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-22 16:43:03",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,539 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "60"
     },
     {
       "name": "Bolt Creek Fire",
@@ -417,32 +456,6 @@
       "contained": "100"
     },
     {
-      "name": "Fairview Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-20 17:40:34",
-      "lat": "33.681",
-      "lng": "-116.841",
-      "size": "0 Acres",
-      "url": "/incident/8426/",
-      "id": "8426",
-      "contained": "0"
-    },
-    {
-      "name": "Radford Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-20 17:39:55",
-      "lat": "34.194",
-      "lng": "-116.882",
-      "size": "0 Acres",
-      "url": "/incident/8425/",
-      "id": "8425",
-      "contained": "0"
-    },
-    {
       "name": "Aspen Fire",
       "type": "Wildfire",
       "summary": "As of September 10, 2022 the Aspen Fire is 100% contained. Some...",
@@ -506,19 +519,6 @@
       "url": "/incident/8372/",
       "id": "8372",
       "contained": "75"
-    },
-    {
-      "name": "Summit Fire",
-      "type": "Wildfire",
-      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-20 13:30:16",
-      "lat": "36.319",
-      "lng": "-118.65",
-      "size": "1,394 Acres",
-      "url": "/incident/8408/",
-      "id": "8408",
-      "contained": "60"
     },
     {
       "name": "Barnes Fire",
