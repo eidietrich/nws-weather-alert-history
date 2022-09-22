@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-09-22 13:44:19",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "915 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-22 13:35:04",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,605 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "White River (&amp; Irving Peak)",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-22 13:34:52",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "8,252 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "10"
+    },
+    {
       "name": "Diamond Watch Fire",
       "type": "Wildfire",
       "summary": "The Diamond Watch Fire started by lightning on July 14th had a small...",
@@ -14,32 +53,6 @@
       "contained": "55"
     },
     {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-09-22 13:25:00",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "915 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
-    },
-    {
-      "name": "White River (&amp; Irving Peak)",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-22 13:24:53",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "7,439 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "10"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -51,19 +64,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "14"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-22 13:19:26",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,605 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
     },
     {
       "name": "Rum Creek Fire",
