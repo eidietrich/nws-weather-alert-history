@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-09-23 18:22:46",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
+      "name": "Rodgers Fire",
+      "type": "Wildfire",
+      "summary": "All safety closures associated with the Rodgers fire have been...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-23 18:21:20",
+      "lat": "37.954",
+      "lng": "-119.552",
+      "size": "2,790 Acres",
+      "url": "/incident/8333/",
+      "id": "8333",
+      "contained": "0"
+    },
+    {
+      "name": "Red Fire",
+      "type": "Wildfire",
+      "summary": "All safety closures associated with the Red fire have been lifted.The...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-23 18:21:08",
+      "lat": "37.661",
+      "lng": "-119.471",
+      "size": "8,364 Acres",
+      "url": "/incident/8332/",
+      "id": "8332",
+      "contained": "0"
+    },
+    {
       "name": "Radford Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
       "state": "CALIFORNIA",
-      "updated": "2022-09-23 17:53:08",
+      "updated": "2022-09-23 18:09:51",
       "lat": "34.194",
       "lng": "-116.882",
       "size": "0 Acres",
       "url": "/incident/8425/",
       "id": "8425",
       "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-23 18:08:22",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,811 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "64"
     },
     {
       "name": "Fairview Post-Fire BAER",
@@ -391,19 +443,6 @@
       "contained": "0"
     },
     {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-23 08:22:41",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,811 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "44"
-    },
-    {
       "name": "Twist Creek ",
       "type": "Wildfire",
       "summary": "The Twist Creek Fire started by lightning on August 23rd is located...",
@@ -441,19 +480,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "96"
-    },
-    {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-22 20:22:21",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
     },
     {
       "name": "Summit Fire",
@@ -571,32 +597,6 @@
       "url": "/incident/8385/",
       "id": "8385",
       "contained": "100"
-    },
-    {
-      "name": "Rodgers Fire",
-      "type": "Wildfire",
-      "summary": "Rodgers Fire update, September 16, 2022, 7:30am &amp;#183;Further updated...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-20 15:27:16",
-      "lat": "37.954",
-      "lng": "-119.552",
-      "size": "2,790 Acres",
-      "url": "/incident/8333/",
-      "id": "8333",
-      "contained": "0"
-    },
-    {
-      "name": "Red Fire",
-      "type": "Wildfire",
-      "summary": "Red Fire Update September 16, 2022, 7:30am&amp;#183;Further updates will...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-20 15:24:48",
-      "lat": "37.661",
-      "lng": "-119.471",
-      "size": "8,364 Acres",
-      "url": "/incident/8332/",
-      "id": "8332",
-      "contained": "0"
     },
     {
       "name": "NW Pasayten Complex",
