@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": "  On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency...",
+      "state": "MONTANA",
+      "updated": "2022-09-23 17:23:36",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "17,157 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
+      "contained": "65"
+    },
+    {
       "name": "Margaret Fire",
       "type": "Wildfire",
       "summary": "The Margaret Fire was detected by Baptiste Lookout on August 22, 2022...",
       "state": "MONTANA",
-      "updated": "2022-09-23 16:46:42",
+      "updated": "2022-09-23 17:06:18",
       "lat": "48.1",
       "lng": "-113.808",
       "size": "1,554 Acres",
       "url": "/incident/8393/",
       "id": "8393",
       "contained": "0"
+    },
+    {
+      "name": "Lemonade Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
+      "state": "MONTANA",
+      "updated": "2022-09-23 17:05:10",
+      "lat": "48.238",
+      "lng": "-114.796",
+      "size": "668 Acres",
+      "url": "/incident/8379/",
+      "id": "8379",
+      "contained": "90"
     },
     {
       "name": "Bolt Creek Fire",
@@ -261,19 +287,6 @@
       "contained": "78"
     },
     {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": "  On August 25th, 2022 at 1:11 PM MST, the Dillon Interagency...",
-      "state": "MONTANA",
-      "updated": "2022-09-23 11:03:37",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "17,157 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
-      "contained": "60"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "On Thursday evening, September 22nd, command of the Moose Fire...",
@@ -493,19 +506,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "10"
-    },
-    {
-      "name": "Lemonade Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday, September 1, 2022, ground and air resources responded to...",
-      "state": "MONTANA",
-      "updated": "2022-09-22 09:29:26",
-      "lat": "48.238",
-      "lng": "-114.796",
-      "size": "668 Acres",
-      "url": "/incident/8379/",
-      "id": "8379",
-      "contained": "90"
     },
     {
       "name": "Radford",
