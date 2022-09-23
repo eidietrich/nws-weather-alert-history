@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Columbus Fire",
+      "type": "Wildfire",
+      "summary": "The Columbus Fire was detected on August 22nd, 2022. It is located...",
+      "state": "IDAHO",
+      "updated": "2022-09-23 12:53:44",
+      "lat": "47.689",
+      "lng": "-115.756",
+      "size": "2,298 Acres",
+      "url": "/incident/8368/",
+      "id": "8368",
+      "contained": "0"
+    },
+    {
+      "name": "Williams Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
+      "state": "IDAHO",
+      "updated": "2022-09-23 12:52:45",
+      "lat": "45.693",
+      "lng": "-115.652",
+      "size": "16,084 Acres",
+      "url": "/incident/8372/",
+      "id": "8372",
+      "contained": "75"
+    },
+    {
       "name": "Rum Creek Fire",
       "type": "Wildfire",
       "summary": "Crews continue to focus on suppressions repair work along dozer and...",
@@ -25,19 +51,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "60"
-    },
-    {
-      "name": "Columbus Fire",
-      "type": "Wildfire",
-      "summary": "The Columbus Fire was detected on August 22nd, 2022. It is located...",
-      "state": "IDAHO",
-      "updated": "2022-09-23 12:18:12",
-      "lat": "47.689",
-      "lng": "-115.756",
-      "size": "2,298 Acres",
-      "url": "/incident/8368/",
-      "id": "8368",
-      "contained": "0"
     },
     {
       "name": "Bull Gin Complex",
@@ -558,19 +571,6 @@
       "url": "/incident/8397/",
       "id": "8397",
       "contained": "0"
-    },
-    {
-      "name": "Williams Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Williams Creek Fire was detected August 29 and is located on the...",
-      "state": "IDAHO",
-      "updated": "2022-09-20 14:53:08",
-      "lat": "45.693",
-      "lng": "-115.652",
-      "size": "16,084 Acres",
-      "url": "/incident/8372/",
-      "id": "8372",
-      "contained": "75"
     },
     {
       "name": "Barnes Fire",
