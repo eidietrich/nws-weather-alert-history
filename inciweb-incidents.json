@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Deep Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
+      "state": "MONTANA",
+      "updated": "2022-09-23 16:35:13",
+      "lat": "47.089",
+      "lng": "-111.226",
+      "size": "37 Acres",
+      "url": "/incident/8371/",
+      "id": "8371",
+      "contained": "100"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": " 9 AM, September 23, 2022   Estimated size: 10,519 acres Start...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-23 16:32:47",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "10,519 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "96"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-09-23 16:11:32",
+      "updated": "2022-09-23 16:32:11",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "113,809 Acres",
@@ -233,19 +259,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "51"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": " 9 AM, September 23, 2022   Estimated size: 10,519 acres Start...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-23 10:47:56",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "10,519 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "96"
     },
     {
       "name": "Owl Fire",
@@ -961,19 +974,6 @@
       "url": "/incident/8418/",
       "id": "8418",
       "contained": "70"
-    },
-    {
-      "name": "Deep Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Deep Creek Fire in the northwest corner of the Little Belt...",
-      "state": "MONTANA",
-      "updated": "2022-09-15 14:53:14",
-      "lat": "47.089",
-      "lng": "-111.226",
-      "size": "37 Acres",
-      "url": "/incident/8371/",
-      "id": "8371",
-      "contained": "80"
     },
     {
       "name": "Yeti and Alex Fires",
