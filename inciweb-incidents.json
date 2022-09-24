@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-24 09:33:10",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,310 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "86"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": " 9 AM, September 23, 2022   Estimated size: 10,519 acres Start...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-24 09:31:27",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "10,599 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "7"
+    },
+    {
       "name": "Bull Gin Complex",
       "type": "Wildfire",
       "summary": "Today: Yesterday’s rain significantly reduced fire activity...",
@@ -77,32 +103,6 @@
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "0"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-24 08:37:22",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "2,310 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "86"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": " 9 AM, September 23, 2022   Estimated size: 10,519 acres Start...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-23 22:59:51",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "10,599 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "7"
     },
     {
       "name": "Goat Mountain 2 Fire",
