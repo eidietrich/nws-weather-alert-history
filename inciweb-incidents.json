@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-24 11:25:31",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,729 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-24 11:16:13",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,821 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "64"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-24 11:01:19",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "114,025 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "18"
+    },
+    {
+      "name": "White River (&amp; Irving Peak)",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-24 10:57:32",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "8,620 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "10"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-09-24 10:55:06",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "536 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
       "state": "OREGON",
-      "updated": "2022-09-24 10:52:24",
+      "updated": "2022-09-24 10:53:34",
       "lat": "45.133",
       "lng": "-117.11",
       "size": "12,600 Acres",
@@ -53,32 +118,6 @@
       "contained": "7"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-24 10:48:40",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,729 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-24 10:47:52",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "114,025 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "18"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "On Thursday evening, September 22nd, command of the Moose Fire...",
@@ -90,32 +129,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "51"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-24 10:43:49",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "536 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
-    },
-    {
-      "name": "White River (&amp; Irving Peak)",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-24 10:36:55",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "8,620 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "10"
     },
     {
       "name": "Bull Gin Complex",
@@ -272,19 +285,6 @@
       "url": "/incident/8425/",
       "id": "8425",
       "contained": "0"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-23 18:08:22",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,811 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "64"
     },
     {
       "name": "Fairview Post-Fire BAER",
