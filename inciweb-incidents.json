@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-24 14:22:54",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "114,025 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "18"
+    },
+    {
       "name": "White River (&amp; Irving Peak)",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -64,19 +77,6 @@
       "url": "/incident/8331/",
       "id": "8331",
       "contained": "96"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-24 12:03:33",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "114,025 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "18"
     },
     {
       "name": "Bolt Creek Fire",
