@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-24 12:21:32",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,781 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "60"
+    },
+    {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-24 12:11:03",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "350 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-24 12:09:00",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,729 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-24 12:03:33",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "114,025 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "18"
+    },
+    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": " 9 AM, September 24, 2022Estimated size: 10,599 acre      ...",
@@ -14,32 +66,6 @@
       "contained": "7"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-24 11:49:02",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,781 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "60"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-24 11:25:31",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,729 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
-    },
-    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
@@ -51,19 +77,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "64"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-24 11:01:19",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "114,025 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "18"
     },
     {
       "name": "White River (&amp; Irving Peak)",
@@ -389,19 +402,6 @@
       "url": "/incident/8372/",
       "id": "8372",
       "contained": "75"
-    },
-    {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-23 11:30:17",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "350 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "5"
     },
     {
       "name": "Owl Fire",
