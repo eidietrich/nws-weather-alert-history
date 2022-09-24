@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-24 10:20:48",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,781 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "60"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-24 10:16:55",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "114,025 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "18"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "On Thursday evening, September 22nd, command of the Moose Fire...",
+      "state": "IDAHO",
+      "updated": "2022-09-24 10:12:04",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,109 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "51"
+    },
+    {
+      "name": "White River (&amp; Irving Peak)",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-24 10:08:05",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "8,620 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "10"
+    },
+    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": " 9 AM, September 23, 2022   Estimated size: 10,519 acres Start...",
@@ -51,32 +103,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "36"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-24 09:14:10",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "114,025 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "18"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "On Thursday evening, September 22nd, command of the Moose Fire...",
-      "state": "IDAHO",
-      "updated": "2022-09-24 09:02:05",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,109 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "51"
     },
     {
       "name": "Mill Lake Fire",
@@ -168,19 +194,6 @@
       "url": "/incident/8348/",
       "id": "8348",
       "contained": "90"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-23 22:04:00",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,781 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "60"
     },
     {
       "name": "Kootenai River Complex ",
@@ -519,19 +532,6 @@
       "url": "/incident/8419/",
       "id": "8419",
       "contained": "0"
-    },
-    {
-      "name": "White River (&amp; Irving Peak)",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-22 13:34:52",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "8,252 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "10"
     },
     {
       "name": "Radford",
