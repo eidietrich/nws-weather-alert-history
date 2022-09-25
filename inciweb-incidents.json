@@ -1,16 +1,94 @@
 {
   "markers": [
     {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": " 9 AM, September 24, 2022Estimated size: 10,599 acre      ...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-25 10:20:10",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "10,725 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "7"
+    },
+    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
       "state": "IDAHO",
-      "updated": "2022-09-25 09:38:31",
+      "updated": "2022-09-25 10:14:51",
       "lat": "48.783",
       "lng": "-116.467",
       "size": "21,574 Acres",
       "url": "/incident/8378/",
       "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-25 10:10:21",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,310 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "96"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-25 09:59:35",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "20,192 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-25 09:59:17",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "157,705 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "81"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-25 09:58:41",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,600 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-25 09:55:19",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,654 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
       "contained": "0"
     },
     {
@@ -131,19 +209,6 @@
       "contained": "0"
     },
     {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-25 08:40:05",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "2,310 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "96"
-    },
-    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -155,45 +220,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "20"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-24 23:04:48",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,600 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-24 22:57:28",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "157,705 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "81"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-24 22:48:08",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "20,192 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "0"
     },
     {
       "name": "Mosquito Fire",
@@ -209,19 +235,6 @@
       "contained": "60"
     },
     {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": " 9 AM, September 24, 2022Estimated size: 10,599 acre      ...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-24 21:37:27",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "10,725 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "7"
-    },
-    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
@@ -233,19 +246,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "64"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-24 19:27:43",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,654 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
     },
     {
       "name": "Hermits Peak Fire",
@@ -1701,19 +1701,6 @@
       "size": "413 Acres",
       "url": "/incident/8162/",
       "id": "8162",
-      "contained": "100"
-    },
-    {
-      "name": "Crooks Fire",
-      "type": "Wildfire",
-      "summary": "The Crooks Fire began on April 18, 2022 about 10 miles south of the...",
-      "state": "ARIZONA",
-      "updated": "2022-06-27 09:56:07",
-      "lat": "34.403",
-      "lng": "-112.426",
-      "size": "9,402 Acres",
-      "url": "/incident/8067/",
-      "id": "8067",
       "contained": "100"
     }
   ]
