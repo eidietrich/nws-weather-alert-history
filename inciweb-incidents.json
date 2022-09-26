@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-26 09:24:42",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "114,422 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "20"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-09-26 09:15:43",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,729 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
+      "name": "Boulder Mountain Fire",
+      "type": "Wildfire",
+      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-26 09:03:07",
+      "lat": "48.468",
+      "lng": "-117.493",
+      "size": "2,310 Acres",
+      "url": "/incident/8382/",
+      "id": "8382",
+      "contained": "99"
+    },
+    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": " Bolt Creek Fire Update                            ...",
@@ -12,32 +51,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "7"
-    },
-    {
-      "name": "Boulder Mountain Fire",
-      "type": "Wildfire",
-      "summary": "The Boulder Mountain Fire was detected on Wednesday August 31, 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-26 08:52:30",
-      "lat": "48.468",
-      "lng": "-117.493",
-      "size": "2,310 Acres",
-      "url": "/incident/8382/",
-      "id": "8382",
-      "contained": "96"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "The Four Corners Fire was reported the evening of August 13, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-09-26 08:49:00",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,729 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
     },
     {
       "name": "Moose Fire",
@@ -64,19 +77,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "36"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-26 07:58:20",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "114,422 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "20"
     },
     {
       "name": "Nebo Fire",
