@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-26 23:20:33",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "114,422 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "20"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "Bolt Creek Fire Update...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-26 22:39:23",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "11,355 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "7"
+    },
+    {
+      "name": "Tenmile ",
+      "type": "Wildfire",
+      "summary": "The fire has transitioned to a Type 4 local incident management...",
+      "state": "IDAHO",
+      "updated": "2022-09-26 22:32:14",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "2,028 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "55"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-26 22:12:32",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,732 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Ross Fork",
+      "type": "Wildfire",
+      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
+      "state": "IDAHO",
+      "updated": "2022-09-26 22:03:57",
+      "lat": "43.811",
+      "lng": "-114.98",
+      "size": "37,836 Acres",
+      "url": "/incident/8375/",
+      "id": "8375",
+      "contained": "64"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "California Interagency Incident Management Team 2 assumed command of...",
@@ -12,19 +77,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "85"
-    },
-    {
-      "name": "Tenmile ",
-      "type": "Wildfire",
-      "summary": "The fire has transitioned to a Type 4 local incident management...",
-      "state": "IDAHO",
-      "updated": "2022-09-26 20:37:31",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "2,028 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "55"
     },
     {
       "name": "Kalama Fire",
@@ -51,19 +103,6 @@
       "url": "/incident/8378/",
       "id": "8378",
       "contained": "0"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "Bolt Creek Fire Update...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-26 20:13:04",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "11,277 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "7"
     },
     {
       "name": "Southwest District BLM Prescribed Fire ",
@@ -248,19 +287,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-26 13:30:41",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "114,423 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "20"
-    },
-    {
       "name": "Summit Fire",
       "type": "Wildfire",
       "summary": " The Summit Fire was ignited by lightning and discovered on the...",
@@ -272,19 +298,6 @@
       "url": "/incident/8408/",
       "id": "8408",
       "contained": "90"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-26 13:01:50",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,675 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
     },
     {
       "name": "Boulder Lake",
@@ -415,19 +428,6 @@
       "url": "/incident/8332/",
       "id": "8332",
       "contained": "0"
-    },
-    {
-      "name": "Ross Fork",
-      "type": "Wildfire",
-      "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
-      "state": "IDAHO",
-      "updated": "2022-09-25 19:04:06",
-      "lat": "43.811",
-      "lng": "-114.98",
-      "size": "37,836 Acres",
-      "url": "/incident/8375/",
-      "id": "8375",
-      "contained": "64"
     },
     {
       "name": "Rock Rabbit",
