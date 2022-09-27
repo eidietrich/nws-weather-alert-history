@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-27 15:38:12",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "114,999 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "20"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
@@ -116,19 +129,6 @@
       "url": "/incident/8372/",
       "id": "8372",
       "contained": "75"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-27 11:49:42",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "114,999 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "20"
     },
     {
       "name": "Bolt Creek Fire",
