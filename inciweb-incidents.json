@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-27 21:18:58",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "3,906 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-27 20:59:58",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,775 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "85"
+    },
+    {
+      "name": "White River (&amp; Irving Peak)",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-27 20:23:16",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "9,579 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "10"
+    },
+    {
       "name": "Ross Fork",
       "type": "Wildfire",
       "summary": "The Ross Fork Fire started by lightning on August 12, 2022 and first...",
@@ -103,32 +142,6 @@
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "20"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-27 14:05:52",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "3,732 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-27 13:59:23",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,775 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "85"
     },
     {
       "name": "Goat Mountain 2 Fire",
@@ -337,19 +350,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "97"
-    },
-    {
-      "name": "White River (&amp; Irving Peak)",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-26 16:58:27",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "9,236 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "10"
     },
     {
       "name": "Barnes Fire",
