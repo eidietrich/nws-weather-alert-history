@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-29 10:34:55",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,775 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "85"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "Bolt Creek Fire UpdateSeptember 28, 2022 Western Washington Incident...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-29 10:28:41",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "12,070 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "13"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-29 10:27:55",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "161,510 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "89"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -25,19 +64,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "97"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "Bolt Creek Fire UpdateSeptember 28, 2022 Western Washington Incident...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-29 10:22:19",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "12,070 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "13"
     },
     {
       "name": "Sturgill Fire",
@@ -103,19 +129,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "53"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-29 08:51:25",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,775 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "85"
     },
     {
       "name": "Owl Fire",
@@ -376,19 +389,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "36"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-28 11:44:51",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "159,813 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "89"
     },
     {
       "name": "Four Corners Fire",
