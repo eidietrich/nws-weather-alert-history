@@ -1,17 +1,95 @@
 {
   "markers": [
     {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-09-30 13:58:16",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "21,103 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "72"
+    },
+    {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-30 13:50:18",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "432 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-30 13:50:16",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,607 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "90"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-09-30 13:48:57",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "584 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-09-30 13:47:21",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "161,591 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "89"
+    },
+    {
       "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
       "state": "WASHINGTON",
-      "updated": "2022-09-30 13:28:22",
+      "updated": "2022-09-30 13:35:21",
       "lat": "47.728",
       "lng": "-121.346",
       "size": "0 Acres",
       "url": "/incident/8429/",
       "id": "8429",
       "contained": "0"
+    },
+    {
+      "name": "Diamond Watch Fire",
+      "type": "Wildfire",
+      "summary": "The Diamond Watch Fire started by lightning on July 14th had a small...",
+      "state": "IDAHO",
+      "updated": "2022-09-30 13:34:50",
+      "lat": "48.636",
+      "lng": "-117.065",
+      "size": "1,220 Acres",
+      "url": "/incident/8264/",
+      "id": "8264",
+      "contained": "60"
     },
     {
       "name": "Goat Rocks Fire",
@@ -90,19 +168,6 @@
       "url": "/incident/8390/",
       "id": "8390",
       "contained": "98"
-    },
-    {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-30 11:27:32",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "432 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "5"
     },
     {
       "name": "Bull Gin Complex",
@@ -222,45 +287,6 @@
       "contained": "97"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-30 10:28:03",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "21,103 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "72"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-30 10:26:58",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,607 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "90"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-30 10:25:42",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "161,591 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "89"
-    },
-    {
       "name": "Lazy Fire",
       "type": "Wildfire",
       "summary": "Texas A&amp;M Forest Service received a request for assistance on a...",
@@ -285,19 +311,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "75"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-29 23:18:14",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "584 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
     },
     {
       "name": "Kootenai River Complex ",
@@ -571,19 +584,6 @@
       "url": "/incident/8395/",
       "id": "8395",
       "contained": "0"
-    },
-    {
-      "name": "Diamond Watch Fire",
-      "type": "Wildfire",
-      "summary": "The Diamond Watch Fire started by lightning on July 14th had a small...",
-      "state": "IDAHO",
-      "updated": "2022-09-26 12:19:00",
-      "lat": "48.636",
-      "lng": "-117.065",
-      "size": "1,177 Acres",
-      "url": "/incident/8264/",
-      "id": "8264",
-      "contained": "55"
     },
     {
       "name": "Rodgers Fire",
