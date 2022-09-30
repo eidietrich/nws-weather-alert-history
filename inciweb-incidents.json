@@ -1,6 +1,97 @@
 {
   "markers": [
     {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-30 12:20:00",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "4,029 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-09-30 12:18:36",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "120,546 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "27"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "Daily written updates for the Four Corners Fire are no longer being...",
+      "state": "IDAHO",
+      "updated": "2022-09-30 12:11:50",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,729 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
+      "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-30 12:09:35",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "0 Acres",
+      "url": "/incident/8429/",
+      "id": "8429",
+      "contained": "0"
+    },
+    {
+      "name": "Tenmile ",
+      "type": "Wildfire",
+      "summary": "The fire has transitioned to a Type 4 local incident management...",
+      "state": "IDAHO",
+      "updated": "2022-09-30 12:07:27",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "2,157 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "55"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "Bolt Creek Fire Update September 30, 2022 Incident Commander: Kent...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-30 12:01:21",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "12,070 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "28"
+    },
+    {
+      "name": "Radford",
+      "type": "Wildfire",
+      "summary": "CURRENT CONDITIONS:  Smoke may be visible in/around the Big Bear...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-30 11:47:27",
+      "lat": "34.177",
+      "lng": "-116.882",
+      "size": "1,079 Acres",
+      "url": "/incident/8390/",
+      "id": "8390",
+      "contained": "98"
+    },
+    {
       "name": "Kalama Fire",
       "type": "Wildfire",
       "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
@@ -12,32 +103,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "5"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-30 11:24:03",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "4,029 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": " Bolt Creek Fire Update September 29, 2022   Incident Commander:...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-30 11:23:45",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "12,070 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "28"
     },
     {
       "name": "Bull Gin Complex",
@@ -103,19 +168,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "10"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-30 11:05:30",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "120,546 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "27"
     },
     {
       "name": "Woodtick Fire",
@@ -235,19 +287,6 @@
       "contained": "75"
     },
     {
-      "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-30 09:01:01",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "0 Acres",
-      "url": "/incident/8429/",
-      "id": "8429",
-      "contained": "0"
-    },
-    {
       "name": "Goat Mountain 2 Fire",
       "type": "Wildfire",
       "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
@@ -326,19 +365,6 @@
       "contained": "40"
     },
     {
-      "name": "Tenmile ",
-      "type": "Wildfire",
-      "summary": "The fire has transitioned to a Type 4 local incident management...",
-      "state": "IDAHO",
-      "updated": "2022-09-29 14:09:41",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "2,157 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "55"
-    },
-    {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": " CURRENT STATUS  The Trail Ridge Fire is burning on the Wisdom...",
@@ -363,19 +389,6 @@
       "url": "/incident/8372/",
       "id": "8372",
       "contained": "75"
-    },
-    {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "On Tuesday, September 27, 2022, Nevada Team 2 transitioned command of...",
-      "state": "IDAHO",
-      "updated": "2022-09-29 12:11:21",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,729 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
     },
     {
       "name": "Ross Fork",
@@ -740,19 +753,6 @@
       "url": "/incident/8377/",
       "id": "8377",
       "contained": "0"
-    },
-    {
-      "name": "Radford",
-      "type": "Wildfire",
-      "summary": "CURRENT CONDITIONS:  Smoke may be visible in/around the Big Bear...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-21 16:05:37",
-      "lat": "34.177",
-      "lng": "-116.882",
-      "size": "1,079 Acres",
-      "url": "/incident/8390/",
-      "id": "8390",
-      "contained": "98"
     },
     {
       "name": "Cannon Fire",
