@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Lazy Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service received a request for assistance on a...",
+      "state": "TEXAS",
+      "updated": "2022-09-30 09:32:58",
+      "lat": "32.796",
+      "lng": "-98.48",
+      "size": "1,500 Acres",
+      "url": "/incident/8431/",
+      "id": "8431",
+      "contained": "20"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire started on the Salmon River bank near Little Moose...",
+      "state": "IDAHO",
+      "updated": "2022-09-30 09:02:53",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,112 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "75"
+    },
+    {
       "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
       "state": "WASHINGTON",
-      "updated": "2022-09-30 08:50:02",
+      "updated": "2022-09-30 09:01:01",
       "lat": "47.728",
       "lng": "-121.346",
       "size": "0 Acres",
@@ -27,19 +53,6 @@
       "contained": "28"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire started on the Salmon River bank near Little Moose...",
-      "state": "IDAHO",
-      "updated": "2022-09-30 08:48:47",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,112 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "75"
-    },
-    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "California Interagency Incident Management Team 2 assumed command of...",
@@ -51,19 +64,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "85"
-    },
-    {
-      "name": "Lazy Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service received a request for assistance on a...",
-      "state": "TEXAS",
-      "updated": "2022-09-30 08:36:52",
-      "lat": "32.796",
-      "lng": "-98.48",
-      "size": "1,500 Acres",
-      "url": "/incident/8431/",
-      "id": "8431",
-      "contained": "20"
     },
     {
       "name": "Cedar Creek Fire",
