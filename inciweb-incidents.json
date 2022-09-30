@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-30 15:40:23",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "90"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire started on the Salmon River bank near Little Moose...",
+      "state": "IDAHO",
+      "updated": "2022-09-30 15:34:53",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,112 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "75"
+    },
+    {
+      "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-09-30 15:31:31",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "0 Acres",
+      "url": "/incident/8429/",
+      "id": "8429",
+      "contained": "0"
+    },
+    {
       "name": "2022 Umatilla NF Prescribed Fire",
       "type": "Prescribed Fire",
       "summary": "The Umatilla National Forest prescribed fire page contains...",
@@ -12,19 +51,6 @@
       "url": "/incident/5808/",
       "id": "5808",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-30 15:10:27",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "90"
     },
     {
       "name": "Mosquito Post-Fire BAER",
@@ -116,19 +142,6 @@
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "89"
-    },
-    {
-      "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-30 13:35:21",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "0 Acres",
-      "url": "/incident/8429/",
-      "id": "8429",
-      "contained": "0"
     },
     {
       "name": "Diamond Watch Fire",
@@ -324,19 +337,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "97"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire started on the Salmon River bank near Little Moose...",
-      "state": "IDAHO",
-      "updated": "2022-09-30 09:02:53",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,112 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "75"
     },
     {
       "name": "Kootenai River Complex ",
