@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-01 08:57:23",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "90"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-10-01 08:53:14",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "21,569 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "72"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire started on the Salmon River bank near Little Moose...",
+      "state": "IDAHO",
+      "updated": "2022-10-01 08:51:22",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,112 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "75"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-10-01 08:48:59",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "161,591 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "89"
+    },
+    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
       "state": "IDAHO",
-      "updated": "2022-10-01 00:55:35",
+      "updated": "2022-10-01 08:42:11",
       "lat": "48.783",
       "lng": "-116.467",
-      "size": "22,482 Acres",
+      "size": "22,559 Acres",
       "url": "/incident/8378/",
       "id": "8378",
       "contained": "0"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "Bolt Creek Fire Update September 30, 2022 Incident Commander: Kent...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-01 08:39:41",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "12,070 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "28"
     },
     {
       "name": "Goat Rocks Fire",
@@ -77,32 +142,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "5"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-30 20:57:46",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "90"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire started on the Salmon River bank near Little Moose...",
-      "state": "IDAHO",
-      "updated": "2022-09-30 19:07:15",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,112 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "75"
     },
     {
       "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
@@ -196,19 +235,6 @@
       "contained": "0"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-09-30 13:58:16",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "21,103 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "72"
-    },
-    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -233,19 +259,6 @@
       "url": "/incident/8380/",
       "id": "8380",
       "contained": "0"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-30 13:47:21",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "161,591 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "89"
     },
     {
       "name": "Diamond Watch Fire",
@@ -285,19 +298,6 @@
       "url": "/incident/8401/",
       "id": "8401",
       "contained": "55"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "Bolt Creek Fire Update September 30, 2022 Incident Commander: Kent...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-30 12:01:21",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "12,070 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "28"
     },
     {
       "name": "Radford",
