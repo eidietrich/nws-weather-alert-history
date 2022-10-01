@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-01 09:51:04",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "120,591 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "27"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "There will be a community meeting on Tuesday, October 4th at 6:00 pm...",
       "state": "IDAHO",
-      "updated": "2022-10-01 09:24:54",
+      "updated": "2022-10-01 09:49:41",
       "lat": "45.375",
       "lng": "-114.091",
       "size": "130,112 Acres",
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "75"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-10-01 09:49:12",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "584 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-10-01 09:47:51",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "21,569 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "72"
+    },
+    {
+      "name": "Lazy Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service received a request for assistance on a...",
+      "state": "TEXAS",
+      "updated": "2022-10-01 09:40:56",
+      "lat": "32.796",
+      "lng": "-98.48",
+      "size": "1,800 Acres",
+      "url": "/incident/8431/",
+      "id": "8431",
+      "contained": "55"
     },
     {
       "name": "Mosquito Fire",
@@ -25,19 +77,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "90"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-10-01 08:53:14",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "21,569 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "72"
     },
     {
       "name": "Double Creek Fire",
@@ -90,32 +129,6 @@
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "0"
-    },
-    {
-      "name": "Lazy Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service received a request for assistance on a...",
-      "state": "TEXAS",
-      "updated": "2022-09-30 23:17:45",
-      "lat": "32.796",
-      "lng": "-98.48",
-      "size": "1,800 Acres",
-      "url": "/incident/8431/",
-      "id": "8431",
-      "contained": "55"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-09-30 23:09:43",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "120,591 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "27"
     },
     {
       "name": "Bull Gin Complex",
@@ -246,19 +259,6 @@
       "url": "/incident/8363/",
       "id": "8363",
       "contained": "90"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-09-30 13:48:57",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "584 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
     },
     {
       "name": "Diamond Watch Fire",
