@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-09-30 20:57:46",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "90"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire started on the Salmon River bank near Little Moose...",
+      "state": "IDAHO",
+      "updated": "2022-09-30 19:07:15",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,112 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "75"
+    },
+    {
       "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
@@ -77,32 +103,6 @@
       "url": "/incident/8431/",
       "id": "8431",
       "contained": "45"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-30 15:40:23",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "90"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "The Moose Fire started on the Salmon River bank near Little Moose...",
-      "state": "IDAHO",
-      "updated": "2022-09-30 15:34:53",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,112 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "75"
     },
     {
       "name": "2022 Umatilla NF Prescribed Fire",
@@ -1663,32 +1663,6 @@
       "url": "/incident/8180/",
       "id": "8180",
       "contained": "90"
-    },
-    {
-      "name": "Left Fork Fire",
-      "type": "Wildfire",
-      "summary": "Beginning in early April 2022, a planned ignition of slash piles was...",
-      "state": "UTAH",
-      "updated": "2022-07-02 20:12:44",
-      "lat": "37.483",
-      "lng": "-112.358",
-      "size": "4,239 Acres",
-      "url": "/incident/8169/",
-      "id": "8169",
-      "contained": "100"
-    },
-    {
-      "name": "Black Fire",
-      "type": "Wildfire",
-      "summary": "Highlights: The first objective of any fire operation is public and...",
-      "state": "NEW MEXICO",
-      "updated": "2022-07-02 19:23:24",
-      "lat": "33.204",
-      "lng": "-108.059",
-      "size": "325,136 Acres",
-      "url": "/incident/8103/",
-      "id": "8103",
-      "contained": "70"
     }
   ]
 }
