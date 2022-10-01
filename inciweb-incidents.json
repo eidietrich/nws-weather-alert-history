@@ -1,17 +1,108 @@
 {
   "markers": [
     {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-10-01 10:23:12",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,607 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "90"
+    },
+    {
+      "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-01 10:20:39",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "0 Acres",
+      "url": "/incident/8429/",
+      "id": "8429",
+      "contained": "0"
+    },
+    {
+      "name": "Lazy Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service received a request for assistance on a...",
+      "state": "TEXAS",
+      "updated": "2022-10-01 10:19:48",
+      "lat": "32.796",
+      "lng": "-98.48",
+      "size": "1,800 Acres",
+      "url": "/incident/8431/",
+      "id": "8431",
+      "contained": "65"
+    },
+    {
+      "name": "White River (&amp; Irving Peak)",
+      "type": "Wildfire",
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-01 10:19:22",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "9,998 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "10"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-10-01 10:14:31",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "22,559 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-10-01 10:14:20",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "161,591 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "89"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-10-01 09:51:04",
+      "updated": "2022-10-01 09:56:38",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "120,591 Acres",
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "27"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-10-01 09:55:36",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "584 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
     },
     {
       "name": "Moose Fire",
@@ -27,19 +118,6 @@
       "contained": "75"
     },
     {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-10-01 09:49:12",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "584 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
-    },
-    {
       "name": "Sturgill Fire",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
@@ -53,19 +131,6 @@
       "contained": "72"
     },
     {
-      "name": "Lazy Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service received a request for assistance on a...",
-      "state": "TEXAS",
-      "updated": "2022-10-01 09:40:56",
-      "lat": "32.796",
-      "lng": "-98.48",
-      "size": "1,800 Acres",
-      "url": "/incident/8431/",
-      "id": "8431",
-      "contained": "55"
-    },
-    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "California Interagency Incident Management Team 2 assumed command of...",
@@ -77,32 +142,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "90"
-    },
-    {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-10-01 08:48:59",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "161,591 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "89"
-    },
-    {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-10-01 08:42:11",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "22,559 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
     },
     {
       "name": "Bolt Creek Fire",
@@ -155,19 +194,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "5"
-    },
-    {
-      "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-30 18:10:07",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "0 Acres",
-      "url": "/incident/8429/",
-      "id": "8429",
-      "contained": "0"
     },
     {
       "name": "Calf Canyon",
@@ -246,19 +272,6 @@
       "url": "/incident/8430/",
       "id": "8430",
       "contained": "0"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-09-30 13:50:16",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,607 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "90"
     },
     {
       "name": "Diamond Watch Fire",
@@ -350,19 +363,6 @@
       "url": "/incident/8308/",
       "id": "8308",
       "contained": "21"
-    },
-    {
-      "name": "White River (&amp; Irving Peak)",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-09-30 11:07:01",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "9,740 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "10"
     },
     {
       "name": "Woodtick Fire",
