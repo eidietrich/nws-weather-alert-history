@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Lazy Fire",
+      "type": "Wildfire",
+      "summary": "Texas A&amp;M Forest Service received a request for assistance on a...",
+      "state": "TEXAS",
+      "updated": "2022-10-01 10:43:42",
+      "lat": "32.796",
+      "lng": "-98.48",
+      "size": "1,800 Acres",
+      "url": "/incident/8431/",
+      "id": "8431",
+      "contained": "65"
+    },
+    {
+      "name": "Payette Prescribed Fire - Fall 2022",
+      "type": "Prescribed Fire",
+      "summary": "The Payette National Forest will be conducting multiple prescribed...",
+      "state": "IDAHO",
+      "updated": "2022-10-01 10:38:32",
+      "lat": "44.976",
+      "lng": "-116.153",
+      "size": "0 Acres",
+      "url": "/incident/8424/",
+      "id": "8424",
+      "contained": "0"
+    },
+    {
+      "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-01 10:37:41",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "0 Acres",
+      "url": "/incident/8429/",
+      "id": "8429",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-10-01 10:35:42",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "21,569 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "72"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-10-01 10:32:19",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "584 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-01 10:29:46",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "90"
+    },
+    {
       "name": "Nebo Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
@@ -12,32 +90,6 @@
       "url": "/incident/8363/",
       "id": "8363",
       "contained": "90"
-    },
-    {
-      "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-01 10:20:39",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "0 Acres",
-      "url": "/incident/8429/",
-      "id": "8429",
-      "contained": "0"
-    },
-    {
-      "name": "Lazy Fire",
-      "type": "Wildfire",
-      "summary": "Texas A&amp;M Forest Service received a request for assistance on a...",
-      "state": "TEXAS",
-      "updated": "2022-10-01 10:19:48",
-      "lat": "32.796",
-      "lng": "-98.48",
-      "size": "1,800 Acres",
-      "url": "/incident/8431/",
-      "id": "8431",
-      "contained": "65"
     },
     {
       "name": "White River (&amp; Irving Peak)",
@@ -92,19 +144,6 @@
       "contained": "27"
     },
     {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-10-01 09:55:36",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "584 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
-    },
-    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "There will be a community meeting on Tuesday, October 4th at 6:00 pm...",
@@ -116,32 +155,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "75"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-10-01 09:47:51",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "21,569 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "72"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-01 08:57:23",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "90"
     },
     {
       "name": "Bolt Creek Fire",
@@ -804,19 +817,6 @@
       "size": "434 Acres",
       "url": "/incident/8370/",
       "id": "8370",
-      "contained": "0"
-    },
-    {
-      "name": "Payette Prescribed Fire - Fall 2022",
-      "type": "Prescribed Fire",
-      "summary": "The Payette National Forest will be conducting multiple prescribed...",
-      "state": "IDAHO",
-      "updated": "2022-09-19 15:46:50",
-      "lat": "44.976",
-      "lng": "-116.153",
-      "size": "0 Acres",
-      "url": "/incident/8424/",
-      "id": "8424",
       "contained": "0"
     },
     {
