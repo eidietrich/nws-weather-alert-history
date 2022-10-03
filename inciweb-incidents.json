@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-03 18:39:41",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "90"
+    },
+    {
       "name": "Siouxon Fire",
       "type": "Wildfire",
       "summary": "A fire was reported on the Gifford Pinchot National Forest in the...",
       "state": "WASHINGTON",
-      "updated": "2022-10-03 18:20:57",
+      "updated": "2022-10-03 18:37:38",
       "lat": "45.944",
       "lng": "-122.089",
       "size": "306 Acres",
       "url": "/incident/8436/",
       "id": "8436",
       "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "There will be a community meeting on Tuesday, October 4th at 6:00 pm...",
+      "state": "IDAHO",
+      "updated": "2022-10-03 18:29:55",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,114 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "75"
     },
     {
       "name": "Goat Rocks Fire",
@@ -248,19 +274,6 @@
       "contained": "5"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "There will be a community meeting on Tuesday, October 4th at 6:00 pm...",
-      "state": "IDAHO",
-      "updated": "2022-10-03 12:12:27",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,114 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "75"
-    },
-    {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": "CURRENT STATUS The Trail Ridge Fire is burning on the Wisdom...",
@@ -376,19 +389,6 @@
       "url": "/incident/8378/",
       "id": "8378",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-03 08:30:13",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "90"
     },
     {
       "name": "White River (&amp; Irving Peak)",
