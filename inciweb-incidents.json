@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-02 21:29:47",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "12,486 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "36"
+    },
+    {
       "name": "Sturgill Fire",
       "type": "Wildfire",
       "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
       "state": "OREGON",
-      "updated": "2022-10-02 20:56:41",
+      "updated": "2022-10-02 21:23:12",
       "lat": "45.284",
       "lng": "-117.534",
       "size": "21,625 Acres",
       "url": "/incident/8364/",
       "id": "8364",
       "contained": "80"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-10-02 21:15:45",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,608 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "94"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-10-02 21:10:59",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "584 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
     },
     {
       "name": "Double Creek Fire",
@@ -92,32 +131,6 @@
       "contained": "0"
     },
     {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-10-02 17:15:14",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "584 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-10-02 17:14:26",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,608 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "94"
-    },
-    {
       "name": "White River (&amp; Irving Peak)",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -142,19 +155,6 @@
       "url": "/incident/8402/",
       "id": "8402",
       "contained": "98"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-02 13:39:26",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "12,142 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "28"
     },
     {
       "name": "Kalama Fire",
