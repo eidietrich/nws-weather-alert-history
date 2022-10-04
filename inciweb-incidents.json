@@ -1,17 +1,56 @@
 {
   "markers": [
     {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-04 09:33:37",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "12,625 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "36"
+    },
+    {
       "name": "Double Creek Fire",
       "type": "Wildfire",
       "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
       "state": "OREGON",
-      "updated": "2022-10-04 08:55:11",
+      "updated": "2022-10-04 09:15:48",
       "lat": "45.428",
       "lng": "-116.739",
       "size": "171,505 Acres",
       "url": "/incident/8366/",
       "id": "8366",
       "contained": "89"
+    },
+    {
+      "name": "Bovee",
+      "type": "Wildfire",
+      "summary": "The Bovee Fire was reported at 1:38 p.m. on October 2, and quickly...",
+      "state": "NEBRASKA",
+      "updated": "2022-10-04 09:15:09",
+      "lat": "41.869",
+      "lng": "-100.31",
+      "size": "15,000 Acres",
+      "url": "/incident/8437/",
+      "id": "8437",
+      "contained": "30"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "There will be a community meeting on Tuesday, October 4th at 6:00 pm...",
+      "state": "IDAHO",
+      "updated": "2022-10-04 09:06:53",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,114 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "75"
     },
     {
       "name": "Sturgill Fire",
@@ -38,19 +77,6 @@
       "url": "/incident/8398/",
       "id": "8398",
       "contained": "90"
-    },
-    {
-      "name": "Bovee",
-      "type": "Wildfire",
-      "summary": "The Bovee Fire was reported at 1:38 p.m. on October 2, and quickly...",
-      "state": "NEBRASKA",
-      "updated": "2022-10-04 08:20:39",
-      "lat": "41.869",
-      "lng": "-100.31",
-      "size": "15,000 Acres",
-      "url": "/incident/8437/",
-      "id": "8437",
-      "contained": "30"
     },
     {
       "name": "Goat Rocks Fire",
@@ -116,32 +142,6 @@
       "url": "/incident/8436/",
       "id": "8436",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "There will be a community meeting on Tuesday, October 4th at 6:00 pm...",
-      "state": "IDAHO",
-      "updated": "2022-10-03 18:29:55",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,114 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "75"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-03 17:30:50",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "12,486 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "36"
     },
     {
       "name": "No Grass Creek Fire",
