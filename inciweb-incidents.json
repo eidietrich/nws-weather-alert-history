@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "George Lake Fire",
+      "type": "Wildfire",
+      "summary": "The George Lake Fire was detected on September 6th, 2022. It is...",
+      "state": "MONTANA",
+      "updated": "2022-10-04 13:28:01",
+      "lat": "47.378",
+      "lng": "-113.48",
+      "size": "684 Acres",
+      "url": "/incident/8399/",
+      "id": "8399",
+      "contained": "0"
+    },
+    {
+      "name": "Dean Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
+      "state": "MONTANA",
+      "updated": "2022-10-04 13:22:31",
+      "lat": "47.94",
+      "lng": "-113.216",
+      "size": "521 Acres",
+      "url": "/incident/8330/",
+      "id": "8330",
+      "contained": "0"
+    },
+    {
+      "name": "Cannon Fire",
+      "type": "Wildfire",
+      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
+      "state": "MONTANA",
+      "updated": "2022-10-04 13:15:12",
+      "lat": "47.716",
+      "lng": "-113.56",
+      "size": "2,025 Acres",
+      "url": "/incident/8326/",
+      "id": "8326",
+      "contained": "0"
+    },
+    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
       "state": "WASHINGTON",
-      "updated": "2022-10-04 12:09:39",
+      "updated": "2022-10-04 13:13:41",
       "lat": "47.728",
       "lng": "-121.346",
       "size": "12,625 Acres",
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "36"
+    },
+    {
+      "name": "Ursus Fire",
+      "type": "Wildfire",
+      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
+      "state": "MONTANA",
+      "updated": "2022-10-04 13:06:24",
+      "lat": "47.38",
+      "lng": "-113.025",
+      "size": "4,237 Acres",
+      "url": "/incident/8367/",
+      "id": "8367",
+      "contained": "0"
     },
     {
       "name": "Goat Rocks Fire",
@@ -872,19 +924,6 @@
       "contained": "90"
     },
     {
-      "name": "Cannon Fire",
-      "type": "Wildfire",
-      "summary": "The Cannon Fire was detected on August 7th, 2022. It is primarily...",
-      "state": "MONTANA",
-      "updated": "2022-09-21 15:02:52",
-      "lat": "47.716",
-      "lng": "-113.56",
-      "size": "2,025 Acres",
-      "url": "/incident/8326/",
-      "id": "8326",
-      "contained": "0"
-    },
-    {
       "name": "Washburn Fire",
       "type": "Wildfire",
       "summary": "The Washburn Fire is 100% contained. Some interior smokes may be...",
@@ -974,45 +1013,6 @@
       "url": "/incident/8287/",
       "id": "8287",
       "contained": "99"
-    },
-    {
-      "name": "George Lake Fire",
-      "type": "Wildfire",
-      "summary": "The George Lake Fire was detected on September 6th, 2022. It is...",
-      "state": "MONTANA",
-      "updated": "2022-09-16 16:19:55",
-      "lat": "47.378",
-      "lng": "-113.48",
-      "size": "684 Acres",
-      "url": "/incident/8399/",
-      "id": "8399",
-      "contained": "0"
-    },
-    {
-      "name": "Ursus Fire",
-      "type": "Wildfire",
-      "summary": "The Ursus Fire was reported on 8/25/2022 and confirmed on 8/31/2022....",
-      "state": "MONTANA",
-      "updated": "2022-09-16 16:19:47",
-      "lat": "47.38",
-      "lng": "-113.025",
-      "size": "4,237 Acres",
-      "url": "/incident/8367/",
-      "id": "8367",
-      "contained": "0"
-    },
-    {
-      "name": "Dean Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Dean Creek Fire was detected on August 14th. It is burning in the...",
-      "state": "MONTANA",
-      "updated": "2022-09-16 16:19:42",
-      "lat": "47.94",
-      "lng": "-113.216",
-      "size": "521 Acres",
-      "url": "/incident/8330/",
-      "id": "8330",
-      "contained": "0"
     },
     {
       "name": "Sawtell Peak",
