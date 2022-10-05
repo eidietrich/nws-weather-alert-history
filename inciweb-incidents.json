@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Double Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) Team has arrived in Joseph,...",
+      "state": "OREGON",
+      "updated": "2022-10-05 14:35:28",
+      "lat": "45.46",
+      "lng": "-116.739",
+      "size": "171,505 Acres",
+      "url": "/incident/8435/",
+      "id": "8435",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) Team has arrived in Westfir,...",
+      "state": "OREGON",
+      "updated": "2022-10-05 14:21:36",
+      "lat": "43.724",
+      "lng": "-122.295",
+      "size": "0 Acres",
+      "url": "/incident/8434/",
+      "id": "8434",
+      "contained": "0"
+    },
+    {
+      "name": "Kalama Fire",
+      "type": "Wildfire",
+      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-05 14:14:38",
+      "lat": "46.137",
+      "lng": "-122.318",
+      "size": "443 Acres",
+      "url": "/incident/8420/",
+      "id": "8420",
+      "contained": "5"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
@@ -313,19 +352,6 @@
       "contained": "0"
     },
     {
-      "name": "Kalama Fire",
-      "type": "Wildfire",
-      "summary": "Overview: The Kalama Fire, located southeast of Kalama Horse Camp on...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-04 11:20:19",
-      "lat": "46.137",
-      "lng": "-122.318",
-      "size": "443 Acres",
-      "url": "/incident/8420/",
-      "id": "8420",
-      "contained": "5"
-    },
-    {
       "name": "Weasel Fire",
       "type": "Wildfire",
       "summary": "Even with the fall weather &amp; minimal fire activity on the Weasel...",
@@ -402,32 +428,6 @@
       "url": "/incident/8402/",
       "id": "8402",
       "contained": "98"
-    },
-    {
-      "name": "Double Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) Team has arrived in Joseph,...",
-      "state": "OREGON",
-      "updated": "2022-10-03 15:07:44",
-      "lat": "45.46",
-      "lng": "-116.739",
-      "size": "171,505 Acres",
-      "url": "/incident/8435/",
-      "id": "8435",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) Team has arrived in Westfir,...",
-      "state": "OREGON",
-      "updated": "2022-10-03 14:56:53",
-      "lat": "43.724",
-      "lng": "-122.295",
-      "size": "0 Acres",
-      "url": "/incident/8434/",
-      "id": "8434",
-      "contained": "0"
     },
     {
       "name": "Quartz Fire",
