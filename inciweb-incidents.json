@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-05 10:37:35",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "12,723 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "36"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-05 10:36:45",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "120,926 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "36"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "On Wednesday evening, October 5th, command of the Moose Fire will...",
+      "state": "IDAHO",
+      "updated": "2022-10-05 10:22:46",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,119 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "80"
+    },
+    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
@@ -64,32 +103,6 @@
       "url": "/incident/8380/",
       "id": "8380",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-05 09:52:09",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "120,926 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "36"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "On Wednesday evening, October 5th, command of the Moose Fire will...",
-      "state": "IDAHO",
-      "updated": "2022-10-05 09:19:40",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,114 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "80"
     },
     {
       "name": "Bovee",
@@ -168,19 +181,6 @@
       "url": "/incident/8273/",
       "id": "8273",
       "contained": "0"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-05 08:23:32",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "12,723 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "36"
     },
     {
       "name": "Goat Rocks Fire",
