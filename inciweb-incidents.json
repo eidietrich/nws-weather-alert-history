@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-10-05 10:17:50",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "22,787 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-10-05 10:09:04",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "21,678 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "80"
+    },
+    {
+      "name": "Double Creek Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-10-05 10:06:50",
+      "lat": "45.428",
+      "lng": "-116.739",
+      "size": "171,511 Acres",
+      "url": "/incident/8366/",
+      "id": "8366",
+      "contained": "89"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-10-05 10:03:02",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,608 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "94"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-10-05 10:01:51",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "584 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-05 09:52:09",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "120,926 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "36"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "On Wednesday evening, October 5th, command of the Moose Fire will...",
@@ -25,45 +103,6 @@
       "url": "/incident/8437/",
       "id": "8437",
       "contained": "56"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-10-05 08:47:46",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "584 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-10-05 08:46:08",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,608 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "94"
-    },
-    {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-10-05 08:45:04",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "21,625 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "80"
     },
     {
       "name": "Owl Fire",
@@ -131,19 +170,6 @@
       "contained": "0"
     },
     {
-      "name": "Double Creek Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-10-05 08:40:48",
-      "lat": "45.428",
-      "lng": "-116.739",
-      "size": "171,511 Acres",
-      "url": "/incident/8366/",
-      "id": "8366",
-      "contained": "89"
-    },
-    {
       "name": "Bolt Creek Fire",
       "type": "Wildfire",
       "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
@@ -168,19 +194,6 @@
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-04 22:22:12",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "120,855 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "36"
     },
     {
       "name": "Mosquito Post-Fire BAER",
@@ -220,19 +233,6 @@
       "url": "/incident/8431/",
       "id": "8431",
       "contained": "90"
-    },
-    {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-10-04 15:04:43",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "22,787 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
     },
     {
       "name": "Six Rivers Lightning Complex",
