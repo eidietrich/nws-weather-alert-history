@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) Team has arrived in Westfir,...",
+      "state": "OREGON",
+      "updated": "2022-10-06 18:54:31",
+      "lat": "43.724",
+      "lng": "-122.295",
+      "size": "0 Acres",
+      "url": "/incident/8434/",
+      "id": "8434",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-06 18:38:38",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "120,983 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "39"
+    },
+    {
+      "name": "Bovee",
+      "type": "Wildfire",
+      "summary": "The Bovee Fire was reported at 1:38 p.m. on October 2, and quickly...",
+      "state": "NEBRASKA",
+      "updated": "2022-10-06 18:34:53",
+      "lat": "41.869",
+      "lng": "-100.31",
+      "size": "18,930 Acres",
+      "url": "/incident/8437/",
+      "id": "8437",
+      "contained": "97"
+    },
+    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
@@ -38,19 +77,6 @@
       "url": "/incident/8430/",
       "id": "8430",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-06 17:28:22",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "120,983 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "39"
     },
     {
       "name": "Tenmile ",
@@ -378,19 +404,6 @@
       "contained": "100"
     },
     {
-      "name": "Bovee",
-      "type": "Wildfire",
-      "summary": "The Bovee Fire was reported at 1:38 p.m. on October 2, and quickly...",
-      "state": "NEBRASKA",
-      "updated": "2022-10-06 08:28:11",
-      "lat": "41.869",
-      "lng": "-100.31",
-      "size": "18,861 Acres",
-      "url": "/incident/8437/",
-      "id": "8437",
-      "contained": "94"
-    },
-    {
       "name": "Payette Prescribed Fire - Fall 2022",
       "type": "Prescribed Fire",
       "summary": "The Payette National Forest will be conducting multiple prescribed...",
@@ -415,19 +428,6 @@
       "url": "/incident/8312/",
       "id": "8312",
       "contained": "97"
-    },
-    {
-      "name": "Cedar Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) Team has arrived in Westfir,...",
-      "state": "OREGON",
-      "updated": "2022-10-05 20:19:36",
-      "lat": "43.724",
-      "lng": "-122.295",
-      "size": "0 Acres",
-      "url": "/incident/8434/",
-      "id": "8434",
-      "contained": "0"
     },
     {
       "name": "Lazy Fire",
