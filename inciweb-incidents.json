@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "Columbus Fire",
+      "type": "Wildfire",
+      "summary": "The Columbus Fire was detected on August 22nd, 2022. It is located...",
+      "state": "IDAHO",
+      "updated": "2022-10-06 13:23:59",
+      "lat": "47.689",
+      "lng": "-115.756",
+      "size": "2,298 Acres",
+      "url": "/incident/8368/",
+      "id": "8368",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Mountain 2 Fire",
+      "type": "Wildfire",
+      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
+      "state": "OREGON",
+      "updated": "2022-10-06 13:09:35",
+      "lat": "45.359",
+      "lng": "-117.479",
+      "size": "584 Acres",
+      "url": "/incident/8380/",
+      "id": "8380",
+      "contained": "0"
+    },
+    {
+      "name": "Nebo Fire",
+      "type": "Wildfire",
+      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
+      "state": "OREGON",
+      "updated": "2022-10-06 13:09:09",
+      "lat": "45.133",
+      "lng": "-117.11",
+      "size": "12,608 Acres",
+      "url": "/incident/8363/",
+      "id": "8363",
+      "contained": "94"
+    },
+    {
+      "name": "Sturgill Fire",
+      "type": "Wildfire",
+      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
+      "state": "OREGON",
+      "updated": "2022-10-06 13:08:31",
+      "lat": "45.284",
+      "lng": "-117.534",
+      "size": "21,678 Acres",
+      "url": "/incident/8364/",
+      "id": "8364",
+      "contained": "80"
+    },
+    {
       "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
       "state": "WASHINGTON",
-      "updated": "2022-10-06 12:46:28",
+      "updated": "2022-10-06 12:48:57",
       "lat": "47.728",
       "lng": "-121.346",
       "size": "0 Acres",
@@ -18,7 +70,7 @@
       "type": "Wildfire",
       "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
       "state": "NEW MEXICO",
-      "updated": "2022-10-06 12:43:11",
+      "updated": "2022-10-06 12:48:00",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "341,735 Acres",
@@ -209,19 +261,6 @@
       "contained": "100"
     },
     {
-      "name": "Sturgill Fire",
-      "type": "Wildfire",
-      "summary": "The Sturgill fire is located in the North Minam Drainage burning in...",
-      "state": "OREGON",
-      "updated": "2022-10-06 08:45:01",
-      "lat": "45.284",
-      "lng": "-117.534",
-      "size": "21,678 Acres",
-      "url": "/incident/8364/",
-      "id": "8364",
-      "contained": "80"
-    },
-    {
       "name": "Bovee",
       "type": "Wildfire",
       "summary": "The Bovee Fire was reported at 1:38 p.m. on October 2, and quickly...",
@@ -324,32 +363,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "5"
-    },
-    {
-      "name": "Nebo Fire",
-      "type": "Wildfire",
-      "summary": "Lightning storms came through the area on August 22 and 23. The Nebo...",
-      "state": "OREGON",
-      "updated": "2022-10-05 10:03:02",
-      "lat": "45.133",
-      "lng": "-117.11",
-      "size": "12,608 Acres",
-      "url": "/incident/8363/",
-      "id": "8363",
-      "contained": "94"
-    },
-    {
-      "name": "Goat Mountain 2 Fire",
-      "type": "Wildfire",
-      "summary": "The Goat Mountain 2 Fire is located southeast of Goat Mountain in the...",
-      "state": "OREGON",
-      "updated": "2022-10-05 10:01:51",
-      "lat": "45.359",
-      "lng": "-117.479",
-      "size": "584 Acres",
-      "url": "/incident/8380/",
-      "id": "8380",
-      "contained": "0"
     },
     {
       "name": "Mosquito Post-Fire BAER",
@@ -701,19 +714,6 @@
       "url": "/incident/8375/",
       "id": "8375",
       "contained": "64"
-    },
-    {
-      "name": "Columbus Fire",
-      "type": "Wildfire",
-      "summary": "The Columbus Fire was detected on August 22nd, 2022. It is located...",
-      "state": "IDAHO",
-      "updated": "2022-09-28 19:07:25",
-      "lat": "47.689",
-      "lng": "-115.756",
-      "size": "2,298 Acres",
-      "url": "/incident/8368/",
-      "id": "8368",
-      "contained": "0"
     },
     {
       "name": "Bear Gulch Fire",
