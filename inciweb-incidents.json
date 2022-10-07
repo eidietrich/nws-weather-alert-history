@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-06 21:12:52",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "120,983 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "38"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-10-06 20:39:01",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "22,910 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2022-10-06 20:37:13",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,120 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "80"
+    },
+    {
       "name": "Cedar Creek BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) Team has arrived in Westfir,...",
       "state": "OREGON",
-      "updated": "2022-10-06 18:54:31",
+      "updated": "2022-10-06 19:58:52",
       "lat": "43.724",
       "lng": "-122.295",
       "size": "0 Acres",
@@ -14,17 +53,17 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
+      "name": "Mosquito Fire",
       "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-06 18:38:38",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "120,983 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "39"
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-06 19:49:20",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
     },
     {
       "name": "Bovee",
@@ -38,19 +77,6 @@
       "url": "/incident/8437/",
       "id": "8437",
       "contained": "97"
-    },
-    {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-10-06 17:48:09",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "22,910 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
     },
     {
       "name": "Kalama Fire",
@@ -274,19 +300,6 @@
       "contained": "100"
     },
     {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2022-10-06 12:20:33",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,120 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "80"
-    },
-    {
       "name": "White River (&amp; Irving Peak)",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -298,19 +311,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "10"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-06 11:01:56",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
     },
     {
       "name": "Double Creek Fire",
