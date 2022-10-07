@@ -1,16 +1,42 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-07 10:53:57",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "121,249 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "38"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
       "state": "WASHINGTON",
-      "updated": "2022-10-07 10:07:06",
+      "updated": "2022-10-07 10:53:38",
       "lat": "46.636",
       "lng": "-121.517",
       "size": "4,552 Acres",
       "url": "/incident/8415/",
       "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "2022 Umatilla NF Prescribed Fire",
+      "type": "Prescribed Fire",
+      "summary": "The Umatilla National Forest prescribed fire page contains...",
+      "state": "OREGON",
+      "updated": "2022-10-07 10:39:12",
+      "lat": "45.67",
+      "lng": "-118.87",
+      "size": "0 Acres",
+      "url": "/incident/5808/",
+      "id": "5808",
       "contained": "0"
     },
     {
@@ -168,19 +194,6 @@
       "url": "/incident/7115/",
       "id": "7115",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-06 21:12:52",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "120,983 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "38"
     },
     {
       "name": "Cedar Creek BAER",
@@ -688,19 +701,6 @@
       "url": "/incident/8351/",
       "id": "8351",
       "contained": "99"
-    },
-    {
-      "name": "2022 Umatilla NF Prescribed Fire",
-      "type": "Prescribed Fire",
-      "summary": "The Umatilla National Forest prescribed fire page contains...",
-      "state": "OREGON",
-      "updated": "2022-09-30 15:17:51",
-      "lat": "45.67",
-      "lng": "-118.87",
-      "size": "0 Acres",
-      "url": "/incident/5808/",
-      "id": "5808",
-      "contained": "0"
     },
     {
       "name": "Diamond Watch Fire",
