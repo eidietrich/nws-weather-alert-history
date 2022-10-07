@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Mill Lake Fire",
+      "type": "Wildfire",
+      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
+      "state": "MONTANA",
+      "updated": "2022-10-07 09:55:17",
+      "lat": "46.312",
+      "lng": "-114.411",
+      "size": "915 Acres",
+      "url": "/incident/8392/",
+      "id": "8392",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-07 09:51:53",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "4,552 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Payette Prescribed Fire - Fall 2022",
+      "type": "Prescribed Fire",
+      "summary": "The Payette National Forest will be conducting multiple prescribed...",
+      "state": "IDAHO",
+      "updated": "2022-10-07 09:50:37",
+      "lat": "44.976",
+      "lng": "-116.153",
+      "size": "0 Acres",
+      "url": "/incident/8424/",
+      "id": "8424",
+      "contained": "0"
+    },
+    {
       "name": "Bovee",
       "type": "Wildfire",
       "summary": "The Bovee Fire was reported at 1:38 p.m. on October 2, and quickly...",
@@ -102,32 +141,6 @@
       "size": "2,082 Acres",
       "url": "/incident/8273/",
       "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-06 23:57:35",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "4,552 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
-    },
-    {
-      "name": "Payette Prescribed Fire - Fall 2022",
-      "type": "Prescribed Fire",
-      "summary": "The Payette National Forest will be conducting multiple prescribed...",
-      "state": "IDAHO",
-      "updated": "2022-10-06 22:39:39",
-      "lat": "44.976",
-      "lng": "-116.153",
-      "size": "0 Acres",
-      "url": "/incident/8424/",
-      "id": "8424",
       "contained": "0"
     },
     {
@@ -649,19 +662,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "65"
-    },
-    {
-      "name": "Mill Lake Fire",
-      "type": "Wildfire",
-      "summary": "The Mill Lake Fire started by lightning on August 29th, located...",
-      "state": "MONTANA",
-      "updated": "2022-10-03 11:08:59",
-      "lat": "46.312",
-      "lng": "-114.411",
-      "size": "915 Acres",
-      "url": "/incident/8392/",
-      "id": "8392",
-      "contained": "0"
     },
     {
       "name": "Bull Gin Complex",
