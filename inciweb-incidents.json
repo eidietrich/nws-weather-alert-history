@@ -1,30 +1,43 @@
 {
   "markers": [
     {
-      "name": "Cedar Creek BAER",
-      "type": "Burned Area Emergency Response",
-      "summary": "A Burned Area Emergency Response (BAER) Team has arrived in Westfir,...",
-      "state": "OREGON",
-      "updated": "2022-10-08 12:43:21",
-      "lat": "43.724",
-      "lng": "-122.295",
-      "size": "0 Acres",
-      "url": "/incident/8434/",
-      "id": "8434",
-      "contained": "0"
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-08 13:25:35",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "13,060 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "36"
     },
     {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-10-08 12:33:46",
+      "updated": "2022-10-08 13:04:10",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "121,529 Acres",
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "38"
+    },
+    {
+      "name": "Cedar Creek BAER",
+      "type": "Burned Area Emergency Response",
+      "summary": "A Burned Area Emergency Response (BAER) Team has arrived in Westfir,...",
+      "state": "OREGON",
+      "updated": "2022-10-08 13:02:06",
+      "lat": "43.724",
+      "lng": "-122.295",
+      "size": "0 Acres",
+      "url": "/incident/8434/",
+      "id": "8434",
+      "contained": "0"
     },
     {
       "name": "Kootenai River Complex ",
@@ -194,19 +207,6 @@
       "url": "/incident/8292/",
       "id": "8292",
       "contained": "100"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-07 21:26:56",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "13,060 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "36"
     },
     {
       "name": "Mosquito Post-Fire BAER",
