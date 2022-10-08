@@ -1,11 +1,89 @@
 {
   "markers": [
     {
+      "name": "Windigo Fire",
+      "type": "Wildfire",
+      "summary": "The lighting-caused Windigo Fire started on July 30, 2022. This fire...",
+      "state": "OREGON",
+      "updated": "2022-10-07 22:30:51",
+      "lat": "43.363",
+      "lng": "-122.052",
+      "size": "1,007 Acres",
+      "url": "/incident/8292/",
+      "id": "8292",
+      "contained": "100"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-07 22:30:41",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "121,249 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "38"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-07 22:29:22",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "4,654 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 2 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-07 22:23:43",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2022-10-07 22:07:56",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,120 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "80"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-07 21:26:56",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "13,060 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "36"
+    },
+    {
       "name": "Mosquito Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "THREE PHASES OF WILDFIRE RECOVERY   There are three phases of...",
       "state": "CALIFORNIA",
-      "updated": "2022-10-07 20:35:34",
+      "updated": "2022-10-07 21:09:28",
       "lat": "39.006",
       "lng": "-120.678",
       "size": "0 Acres",
@@ -105,32 +183,6 @@
       "contained": "97"
     },
     {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-07 12:29:44",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "4,552 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2022-10-07 12:04:30",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,120 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "80"
-    },
-    {
       "name": "Animas City Mountain Prescribed Burn",
       "type": "Prescribed Fire",
       "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
@@ -144,19 +196,6 @@
       "contained": "0"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 2 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-07 11:46:17",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
-    },
-    {
       "name": "Radford",
       "type": "Wildfire",
       "summary": "Friday, September 30, 2022, the Radford fire was declared 100%...",
@@ -168,32 +207,6 @@
       "url": "/incident/8390/",
       "id": "8390",
       "contained": "100"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek Fire was detected on September 10, 2022 and is burning...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-07 11:12:16",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "12,927 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "36"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-07 10:53:57",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "121,249 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "38"
     },
     {
       "name": "2022 Umatilla NF Prescribed Fire",
@@ -1208,19 +1221,6 @@
       "url": "/incident/8343/",
       "id": "8343",
       "contained": "0"
-    },
-    {
-      "name": "Windigo Fire",
-      "type": "Wildfire",
-      "summary": "The lighting caused Windigo Fire started on July 30, 2022.  The fire...",
-      "state": "OREGON",
-      "updated": "2022-09-10 09:53:22",
-      "lat": "43.363",
-      "lng": "-122.052",
-      "size": "1,007 Acres",
-      "url": "/incident/8292/",
-      "id": "8292",
-      "contained": "100"
     },
     {
       "name": "Potter Fire",
