@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 12 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-10 10:31:45",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "96"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-10 10:31:10",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "121,762 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "38"
+    },
+    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
@@ -103,32 +129,6 @@
       "url": "/incident/8273/",
       "id": "8273",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 12 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-09 22:05:58",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "96"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-09 21:55:38",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "121,762 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "38"
     },
     {
       "name": "Goat Rocks Fire",
