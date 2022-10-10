@@ -1,17 +1,43 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 12 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-09 22:05:58",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "96"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-10-09 21:16:56",
+      "updated": "2022-10-09 21:55:38",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "121,762 Acres",
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "38"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2022-10-09 21:53:05",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,123 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "80"
     },
     {
       "name": "Goat Rocks Fire",
@@ -51,32 +77,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "36"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2022-10-09 19:10:15",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,123 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "80"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 12 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-09 18:24:31",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
     },
     {
       "name": "Trail Ridge Fire",
