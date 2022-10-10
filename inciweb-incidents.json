@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-10 18:42:13",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "122,210 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "38"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
@@ -38,19 +51,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "36"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-10 13:10:28",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "122,210 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "38"
     },
     {
       "name": "Mosquito Post-Fire BAER",
