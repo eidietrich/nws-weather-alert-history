@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-09 21:16:56",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "121,762 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "38"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-09 21:12:44",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "4,930 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "1"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-10-09 20:40:51",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "23,131 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "#BoltCreekFire According to WA DOT, Highway 2 is open. The road is...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-09 20:35:06",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "13,278 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "36"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2022-10-09 19:10:15",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,123 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "80"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "California Interagency Incident Management Team 12 assumed command of...",
@@ -14,19 +79,6 @@
       "contained": "95"
     },
     {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Bolt Creek Fire continues to burn in steep, rugged terrain, but...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-09 17:16:59",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "13,278 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "36"
-    },
-    {
       "name": "Trail Ridge Fire",
       "type": "Wildfire",
       "summary": "CURRENT STATUS The Trail Ridge Fire is burning on the Wisdom...",
@@ -38,19 +90,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "65"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-09 13:15:38",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "121,762 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "38"
     },
     {
       "name": "Kalama Fire",
@@ -128,45 +167,6 @@
       "size": "2,082 Acres",
       "url": "/incident/8273/",
       "id": "8273",
-      "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2022-10-09 11:07:43",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,123 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "80"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "On August 9, the Goat Rocks Fire was started by a lightning strike in...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-09 09:44:34",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "4,801 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "1"
-    },
-    {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-10-08 19:20:48",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "23,131 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
       "contained": "0"
     },
     {
