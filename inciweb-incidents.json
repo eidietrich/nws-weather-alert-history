@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Blue Ridge Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": "The Blue Ridge Salvage and Fuels Reduction Project is part of the...",
+      "state": "COLORADO",
+      "updated": "2022-10-11 08:51:19",
+      "lat": "40.034",
+      "lng": "-106.053",
+      "size": "0 Acres",
+      "url": "/incident/8439/",
+      "id": "8439",
+      "contained": "0"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2022-10-11 08:47:25",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,130 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "80"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "California Interagency Incident Management Team 12 assumed command of...",
@@ -77,19 +103,6 @@
       "url": "/incident/8430/",
       "id": "8430",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2022-10-10 09:18:30",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,130 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "80"
     },
     {
       "name": "Solomon Fire",
