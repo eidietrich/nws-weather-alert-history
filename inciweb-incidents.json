@@ -1,11 +1,37 @@
 {
   "markers": [
     {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "Today: Crews are implementing hazardous fuels reduction along Forest...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-11 20:53:40",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "5,040 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "1"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
+      "state": "IDAHO",
+      "updated": "2022-10-11 20:37:15",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,130 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "80"
+    },
+    {
       "name": "Nakia Creek Fire",
       "type": "Wildfire",
       "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
       "state": "WASHINGTON",
-      "updated": "2022-10-11 18:56:11",
+      "updated": "2022-10-11 19:16:09",
       "lat": "45.696",
       "lng": "-122.281",
       "size": "250 Acres",
@@ -18,7 +44,7 @@
       "type": "Wildfire",
       "summary": " Sequoia and Kings Canyon National Park have discovered three...",
       "state": "CALIFORNIA",
-      "updated": "2022-10-11 18:47:37",
+      "updated": "2022-10-11 18:59:46",
       "lat": "36.675",
       "lng": "-118.785",
       "size": "1 Acres",
@@ -51,19 +77,6 @@
       "url": "/incident/7688/",
       "id": "7688",
       "contained": "0"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "Today: Crews are implementing hazardous fuels reduction along Forest...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-11 18:18:41",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "5,040 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "1"
     },
     {
       "name": "White River (&amp; Irving Peak)",
@@ -350,19 +363,6 @@
       "url": "/incident/8439/",
       "id": "8439",
       "contained": "0"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2022-10-11 08:47:25",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,130 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "80"
     },
     {
       "name": "Mosquito Fire",
