@@ -1,11 +1,50 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-12 12:40:39",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "122,463 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "38"
+    },
+    {
+      "name": "Siouxon Fire",
+      "type": "Wildfire",
+      "summary": "A fire was reported on the Gifford Pinchot National Forest in the...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-12 12:34:27",
+      "lat": "45.944",
+      "lng": "-122.089",
+      "size": "437 Acres",
+      "url": "/incident/8436/",
+      "id": "8436",
+      "contained": "0"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "Today: Firefighters continue prioritizing structure protection....",
+      "state": "WASHINGTON",
+      "updated": "2022-10-12 12:05:46",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "5,040 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "1"
+    },
+    {
       "name": "Nakia Creek Fire",
       "type": "Wildfire",
       "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
       "state": "WASHINGTON",
-      "updated": "2022-10-12 11:47:39",
+      "updated": "2022-10-12 12:04:11",
       "lat": "45.696",
       "lng": "-122.281",
       "size": "156 Acres",
@@ -14,17 +53,17 @@
       "contained": "10"
     },
     {
-      "name": "Cedar Creek Fire",
+      "name": "White River (&amp; Irving Peak)",
       "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-12 11:45:48",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "122,463 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "38"
+      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-12 11:54:19",
+      "lat": "47.885",
+      "lng": "-120.917",
+      "size": "14,101 Acres",
+      "url": "/incident/8329/",
+      "id": "8329",
+      "contained": "10"
     },
     {
       "name": "Moose Fire",
@@ -105,19 +144,6 @@
       "contained": "0"
     },
     {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "Today: Crews are implementing hazardous fuels reduction along Forest...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-12 11:42:52",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "5,040 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "1"
-    },
-    {
       "name": "October Lightning Fires",
       "type": "Wildfire",
       "summary": " Sequoia and Kings Canyon National Park have discovered three...",
@@ -194,19 +220,6 @@
       "url": "/incident/7688/",
       "id": "7688",
       "contained": "0"
-    },
-    {
-      "name": "White River (&amp; Irving Peak)",
-      "type": "Wildfire",
-      "summary": "The White River and Irving Peak Fires began after a lightning storm...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-11 18:03:41",
-      "lat": "47.885",
-      "lng": "-120.917",
-      "size": "14,101 Acres",
-      "url": "/incident/8329/",
-      "id": "8329",
-      "contained": "10"
     },
     {
       "name": "Suiattle River Fire",
@@ -350,19 +363,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "36"
-    },
-    {
-      "name": "Siouxon Fire",
-      "type": "Wildfire",
-      "summary": "A fire was reported on the Gifford Pinchot National Forest in the...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-11 10:55:58",
-      "lat": "45.944",
-      "lng": "-122.089",
-      "size": "338 Acres",
-      "url": "/incident/8436/",
-      "id": "8436",
-      "contained": "0"
     },
     {
       "name": "Fall 2022 Prescribed Burning",
@@ -1221,19 +1221,6 @@
       "url": "/incident/8291/",
       "id": "8291",
       "contained": "99"
-    },
-    {
-      "name": "Bear Trap Fire",
-      "type": "Wildfire",
-      "summary": "The Bear Trap Fire was reported as 100 acres on May 1, 2022 at 1200...",
-      "state": "NEW MEXICO",
-      "updated": "2022-09-06 15:40:17",
-      "lat": "33.85",
-      "lng": "-107.533",
-      "size": "38,225 Acres",
-      "url": "/incident/8093/",
-      "id": "8093",
-      "contained": "100"
     },
     {
       "name": "Big Swamp",
