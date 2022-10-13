@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "October Lightning Fires",
+      "type": "Wildfire",
+      "summary": " Sequoia and Kings Canyon National Park have discovered three...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-13 13:46:28",
+      "lat": "36.675",
+      "lng": "-118.785",
+      "size": "1 Acres",
+      "url": "/incident/8442/",
+      "id": "8442",
+      "contained": "0"
+    },
+    {
+      "name": "Summit Fire",
+      "type": "Wildfire",
+      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-13 13:33:03",
+      "lat": "36.319",
+      "lng": "-118.65",
+      "size": "1,394 Acres",
+      "url": "/incident/8408/",
+      "id": "8408",
+      "contained": "95"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -300,19 +326,6 @@
       "contained": "50"
     },
     {
-      "name": "October Lightning Fires",
-      "type": "Wildfire",
-      "summary": " Sequoia and Kings Canyon National Park have discovered three...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-12 10:50:15",
-      "lat": "36.675",
-      "lng": "-118.785",
-      "size": "1 Acres",
-      "url": "/incident/8442/",
-      "id": "8442",
-      "contained": "0"
-    },
-    {
       "name": "Animas City Mountain Prescribed Burn",
       "type": "Prescribed Fire",
       "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
@@ -428,19 +441,6 @@
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "100"
-    },
-    {
-      "name": "Fall 2022 Prescribed Burning",
-      "type": "Prescribed Fire",
-      "summary": "  Prescribed Burning Planned at Rocky Mountain Arsenal National...",
-      "state": "COLORADO",
-      "updated": "2022-10-11 09:47:10",
-      "lat": "39.84",
-      "lng": "-104.836",
-      "size": "0 Acres",
-      "url": "/incident/8438/",
-      "id": "8438",
-      "contained": "0"
     },
     {
       "name": "Blue Ridge Prescribed Burn",
@@ -766,19 +766,6 @@
       "url": "/incident/8381/",
       "id": "8381",
       "contained": "44"
-    },
-    {
-      "name": "Summit Fire",
-      "type": "Wildfire",
-      "summary": " The Summit Fire was ignited by lightning and discovered on the...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-29 16:05:39",
-      "lat": "36.319",
-      "lng": "-118.65",
-      "size": "1,394 Acres",
-      "url": "/incident/8408/",
-      "id": "8408",
-      "contained": "90"
     },
     {
       "name": "Williams Creek Fire",
