@@ -1,11 +1,76 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-14 10:56:12",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "122,794 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "40"
+    },
+    {
+      "name": "Woodtick Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
+      "state": "IDAHO",
+      "updated": "2022-10-14 10:49:17",
+      "lat": "44.854",
+      "lng": "-114.632",
+      "size": "9,598 Acres",
+      "url": "/incident/8253/",
+      "id": "8253",
+      "contained": "50"
+    },
+    {
+      "name": "Norton Fire",
+      "type": "Wildfire",
+      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
+      "state": "IDAHO",
+      "updated": "2022-10-14 10:46:22",
+      "lat": "44.857",
+      "lng": "-114.927",
+      "size": "9,069 Acres",
+      "url": "/incident/8308/",
+      "id": "8308",
+      "contained": "60"
+    },
+    {
+      "name": "Moose Fire",
+      "type": "Wildfire",
+      "summary": "The Moose Fire has been turned back to the Salmon-Challis National...",
+      "state": "IDAHO",
+      "updated": "2022-10-14 10:43:28",
+      "lat": "45.375",
+      "lng": "-114.091",
+      "size": "130,144 Acres",
+      "url": "/incident/8249/",
+      "id": "8249",
+      "contained": "80"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 12 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-14 10:40:21",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
       "name": "Southwest District BLM Prescribed Fire ",
       "type": "Prescribed Fire",
       "summary": "The Bureau of Land Management Southwest District plans to conduct...",
       "state": "COLORADO",
-      "updated": "2022-10-14 10:26:19",
+      "updated": "2022-10-14 10:39:34",
       "lat": "37.903",
       "lng": "-108.826",
       "size": "0 Acres",
@@ -27,19 +92,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-14 10:19:04",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "122,794 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "40"
-    },
-    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "Today: Fire activity remains light. The fire is backing and flanking...",
@@ -51,32 +103,6 @@
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "2"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 12 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-13 22:06:01",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
-    },
-    {
-      "name": "Moose Fire",
-      "type": "Wildfire",
-      "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
-      "state": "IDAHO",
-      "updated": "2022-10-13 18:43:36",
-      "lat": "45.375",
-      "lng": "-114.091",
-      "size": "130,144 Acres",
-      "url": "/incident/8249/",
-      "id": "8249",
-      "contained": "80"
     },
     {
       "name": "Animas City Mountain Prescribed Burn",
@@ -181,19 +207,6 @@
       "url": "/incident/8443/",
       "id": "8443",
       "contained": "10"
-    },
-    {
-      "name": "Woodtick Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Woodtick Fire started as two separate fires on...",
-      "state": "IDAHO",
-      "updated": "2022-10-13 09:11:29",
-      "lat": "44.854",
-      "lng": "-114.632",
-      "size": "9,598 Acres",
-      "url": "/incident/8253/",
-      "id": "8253",
-      "contained": "50"
     },
     {
       "name": "Patrol Point",
@@ -324,19 +337,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "10"
-    },
-    {
-      "name": "Norton Fire",
-      "type": "Wildfire",
-      "summary": "The lightning caused Norton Fire started on August 1, 2022,...",
-      "state": "IDAHO",
-      "updated": "2022-10-12 11:45:23",
-      "lat": "44.857",
-      "lng": "-114.927",
-      "size": "9,069 Acres",
-      "url": "/incident/8308/",
-      "id": "8308",
-      "contained": "50"
     },
     {
       "name": "Suiattle River Fire",
