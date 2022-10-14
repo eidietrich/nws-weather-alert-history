@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-13 22:46:33",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "122,794 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "40"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "Today: Fire activity remains light. The fire is backing and flanking...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-13 22:13:40",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "5,131 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "2"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 12 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-13 22:06:01",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
       "name": "Moose Fire",
       "type": "Wildfire",
       "summary": "Great Basin Incident Management Team 7, led by Incident Commander...",
@@ -14,19 +53,6 @@
       "contained": "80"
     },
     {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "Today: Firefighters continue prioritizing structure protection....",
-      "state": "WASHINGTON",
-      "updated": "2022-10-13 18:07:47",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "5,098 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "2"
-    },
-    {
       "name": "Animas City Mountain Prescribed Burn",
       "type": "Prescribed Fire",
       "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
@@ -38,19 +64,6 @@
       "url": "/incident/7688/",
       "id": "7688",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-13 15:01:17",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "122,794 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "40"
     },
     {
       "name": "Bolt Creek Fire",
@@ -155,19 +168,6 @@
       "url": "/incident/7852/",
       "id": "7852",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 12 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-13 10:26:36",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
     },
     {
       "name": "Woodtick Fire",
