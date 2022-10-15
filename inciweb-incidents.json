@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-15 11:58:36",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "123,861 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "40"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "Today: Fire activity remains light. The fire is backing and flanking...",
       "state": "WASHINGTON",
-      "updated": "2022-10-15 11:31:07",
+      "updated": "2022-10-15 11:52:04",
       "lat": "46.636",
       "lng": "-121.517",
       "size": "5,199 Acres",
@@ -116,19 +129,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "36"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-14 22:25:08",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "123,498 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "40"
     },
     {
       "name": "Kalama Fire",
