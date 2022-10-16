@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "Evacuation Guidance:  The Red Flag Warning has prompted a Level 1...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-15 22:39:12",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "14,068 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "50"
+    },
+    {
+      "name": "Murphy Lake",
+      "type": "Wildfire",
+      "summary": "Estimated Acres: 170 Containment: 0% Cause:  Lightning Total...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-15 22:12:30",
+      "lat": "47.682",
+      "lng": "-121.133",
+      "size": "170 Acres",
+      "url": "/incident/8445/",
+      "id": "8445",
+      "contained": "0"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "Today: The Weather Service has issued a Red Flag Warning that goes...",
@@ -64,32 +90,6 @@
       "url": "/incident/8443/",
       "id": "8443",
       "contained": "10"
-    },
-    {
-      "name": "Murphy Lake",
-      "type": "Wildfire",
-      "summary": " Estimated Acres: 88 Containment: 0% Cause:  Lightning Total...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-15 14:31:21",
-      "lat": "47.682",
-      "lng": "-121.133",
-      "size": "88 Acres",
-      "url": "/incident/8445/",
-      "id": "8445",
-      "contained": "0"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "Evacuation Guidance:  The Red Flag Warning has prompted a Level 1...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-15 14:18:28",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "13,958 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "41"
     },
     {
       "name": "Woodtick Fire",
