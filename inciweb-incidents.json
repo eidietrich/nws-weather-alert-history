@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "Today: The Weather Service has issued a Red Flag Warning that goes...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-15 21:23:38",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "5,295 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "2"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-10-15 16:32:34",
+      "updated": "2022-10-15 21:19:55",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "123,861 Acres",
       "url": "/incident/8307/",
       "id": "8307",
-      "contained": "40"
+      "contained": "45"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 12 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-15 21:19:43",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
+      "name": "Southwest District BLM Prescribed Fire ",
+      "type": "Prescribed Fire",
+      "summary": "The Bureau of Land Management Southwest District plans to conduct...",
+      "state": "COLORADO",
+      "updated": "2022-10-15 21:17:01",
+      "lat": "37.903",
+      "lng": "-108.826",
+      "size": "0 Acres",
+      "url": "/incident/7852/",
+      "id": "7852",
+      "contained": "0"
+    },
+    {
+      "name": "Nakia Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-15 19:50:08",
+      "lat": "45.696",
+      "lng": "-122.281",
+      "size": "156 Acres",
+      "url": "/incident/8443/",
+      "id": "8443",
+      "contained": "10"
     },
     {
       "name": "Murphy Lake",
@@ -38,32 +90,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "41"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "Today: The Weather Service has issued a Red Flag Warning that goes...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-15 13:58:18",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "5,295 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "2"
-    },
-    {
-      "name": "Southwest District BLM Prescribed Fire ",
-      "type": "Prescribed Fire",
-      "summary": "The Bureau of Land Management Southwest District plans to conduct...",
-      "state": "COLORADO",
-      "updated": "2022-10-15 10:42:26",
-      "lat": "37.903",
-      "lng": "-108.826",
-      "size": "0 Acres",
-      "url": "/incident/7852/",
-      "id": "7852",
-      "contained": "0"
     },
     {
       "name": "Woodtick Fire",
@@ -103,19 +129,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "80"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 12 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-15 10:05:27",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
     },
     {
       "name": "Kootenai River Complex ",
@@ -167,19 +180,6 @@
       "size": "14,412 Acres",
       "url": "/incident/8329/",
       "id": "8329",
-      "contained": "10"
-    },
-    {
-      "name": "Nakia Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-14 16:16:53",
-      "lat": "45.696",
-      "lng": "-122.281",
-      "size": "156 Acres",
-      "url": "/incident/8443/",
-      "id": "8443",
       "contained": "10"
     },
     {
