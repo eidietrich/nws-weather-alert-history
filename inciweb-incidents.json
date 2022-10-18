@@ -1,17 +1,82 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-18 13:54:15",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "125,638 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "50"
+    },
+    {
+      "name": "Loch Katrine Fire",
+      "type": "Wildfire",
+      "summary": " A type 2 incident management team has taken over command of the...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-18 13:30:09",
+      "lat": "47.644",
+      "lng": "-121.661",
+      "size": "1,225 Acres",
+      "url": "/incident/8447/",
+      "id": "8447",
+      "contained": "0"
+    },
+    {
+      "name": "Animas City Mountain Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
+      "state": "COLORADO",
+      "updated": "2022-10-18 13:27:48",
+      "lat": "37.323",
+      "lng": "-107.872",
+      "size": "0 Acres",
+      "url": "/incident/7688/",
+      "id": "7688",
+      "contained": "0"
+    },
+    {
+      "name": "Calf Canyon",
+      "type": "Wildfire",
+      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
+      "state": "NEW MEXICO",
+      "updated": "2022-10-18 13:22:52",
+      "lat": "35.759",
+      "lng": "-105.503",
+      "size": "341,735 Acres",
+      "url": "/incident/8069/",
+      "id": "8069",
+      "contained": "100"
+    },
+    {
       "name": "Hermits Peak Fire",
       "type": "Wildfire",
       "summary": "  Summary:  The Hermits Peak Fire began April 6 as a result of the...",
       "state": "NEW MEXICO",
-      "updated": "2022-10-18 12:55:35",
+      "updated": "2022-10-18 13:16:32",
       "lat": "35.718",
       "lng": "-105.399",
       "size": "341,735 Acres",
       "url": "/incident/8049/",
       "id": "8049",
       "contained": "100"
+    },
+    {
+      "name": "Siouxon Fire",
+      "type": "Wildfire",
+      "summary": "A fire was reported on the Gifford Pinchot National Forest in the...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-18 13:11:26",
+      "lat": "45.944",
+      "lng": "-122.089",
+      "size": "2,001 Acres",
+      "url": "/incident/8436/",
+      "id": "8436",
+      "contained": "0"
     },
     {
       "name": "Nakia Creek Fire",
@@ -27,19 +92,6 @@
       "contained": "5"
     },
     {
-      "name": "Calf Canyon",
-      "type": "Wildfire",
-      "summary": "   Summary:  The Hermits Peak Fire began April 6 as a result of...",
-      "state": "NEW MEXICO",
-      "updated": "2022-10-18 12:46:55",
-      "lat": "35.759",
-      "lng": "-105.503",
-      "size": "341,735 Acres",
-      "url": "/incident/8069/",
-      "id": "8069",
-      "contained": "100"
-    },
-    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "EVACUATION LEVEL 2 – BE SET! All areas north of Butter Creek are at...",
@@ -51,19 +103,6 @@
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "2"
-    },
-    {
-      "name": "Siouxon Fire",
-      "type": "Wildfire",
-      "summary": "A fire was reported on the Gifford Pinchot National Forest in the...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-18 12:27:45",
-      "lat": "45.944",
-      "lng": "-122.089",
-      "size": "2,001 Acres",
-      "url": "/incident/8436/",
-      "id": "8436",
-      "contained": "0"
     },
     {
       "name": "Kalama Fire",
@@ -90,19 +129,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "78"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-18 12:02:41",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "125,638 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "50"
     },
     {
       "name": "Murphy Lake",
@@ -207,19 +233,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "50"
-    },
-    {
-      "name": "Loch Katrine Fire",
-      "type": "Wildfire",
-      "summary": " A type 2 incident management team has taken over command of the...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-17 23:43:10",
-      "lat": "47.644",
-      "lng": "-121.661",
-      "size": "1,225 Acres",
-      "url": "/incident/8447/",
-      "id": "8447",
-      "contained": "0"
     },
     {
       "name": "Suiattle River Fire",
@@ -337,19 +350,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "10"
-    },
-    {
-      "name": "Animas City Mountain Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": " In order to reduce the risk of high-intensity wildfire, improve...",
-      "state": "COLORADO",
-      "updated": "2022-10-13 18:05:49",
-      "lat": "37.323",
-      "lng": "-107.872",
-      "size": "0 Acres",
-      "url": "/incident/7688/",
-      "id": "7688",
-      "contained": "0"
     },
     {
       "name": "Diamond Watch Fire",
