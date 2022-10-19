@@ -1,11 +1,63 @@
 {
   "markers": [
     {
+      "name": "8 Road Fire",
+      "type": "Wildfire",
+      "summary": "The 8 Road Fire was reported on October 15, 2022 at about 4 p.m. and...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-18 23:29:22",
+      "lat": "46.806",
+      "lng": "-122.145",
+      "size": "151 Acres",
+      "url": "/incident/8448/",
+      "id": "8448",
+      "contained": "0"
+    },
+    {
+      "name": "Nakia Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-18 23:00:36",
+      "lat": "45.696",
+      "lng": "-122.281",
+      "size": "1,796 Acres",
+      "url": "/incident/8443/",
+      "id": "8443",
+      "contained": "12"
+    },
+    {
+      "name": "Murphy Lake",
+      "type": "Wildfire",
+      "summary": "Estimated Acres: 371 Cause:  LightningTotal Personnel:  1...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-18 22:33:06",
+      "lat": "47.682",
+      "lng": "-121.133",
+      "size": "371 Acres",
+      "url": "/incident/8445/",
+      "id": "8445",
+      "contained": "0"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "Firefighters have completed containment line on the northwest flank,...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-18 22:13:25",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "14,618 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "41"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-10-18 20:58:09",
+      "updated": "2022-10-18 21:24:37",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "125,856 Acres",
@@ -25,32 +77,6 @@
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "2"
-    },
-    {
-      "name": "Nakia Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-18 17:23:11",
-      "lat": "45.696",
-      "lng": "-122.281",
-      "size": "1,796 Acres",
-      "url": "/incident/8443/",
-      "id": "8443",
-      "contained": "5"
-    },
-    {
-      "name": "8 Road Fire",
-      "type": "Wildfire",
-      "summary": " The 8 Road Fire was reported on October 15, 2022 at about 4 p.m....",
-      "state": "WASHINGTON",
-      "updated": "2022-10-18 15:17:40",
-      "lat": "46.806",
-      "lng": "-122.145",
-      "size": "150 Acres",
-      "url": "/incident/8448/",
-      "id": "8448",
-      "contained": "0"
     },
     {
       "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
@@ -168,32 +194,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "78"
-    },
-    {
-      "name": "Murphy Lake",
-      "type": "Wildfire",
-      "summary": "Estimated Acres: 371 (IR) Cause:  LightningTotal Personnel:  0...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-18 11:29:03",
-      "lat": "47.682",
-      "lng": "-121.133",
-      "size": "371 Acres",
-      "url": "/incident/8445/",
-      "id": "8445",
-      "contained": "0"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "Firefighters have completed containment line on the northwest flank,...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-18 11:15:54",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "14,618 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "41"
     },
     {
       "name": "Kootenai River Complex ",
