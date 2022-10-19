@@ -1,6 +1,71 @@
 {
   "markers": [
     {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": "                                             ...",
+      "state": "MONTANA",
+      "updated": "2022-10-19 13:38:23",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "18,138 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
+      "contained": "78"
+    },
+    {
+      "name": "Siouxon Fire",
+      "type": "Wildfire",
+      "summary": "A fire was reported on the Gifford Pinchot National Forest in the...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-19 13:23:22",
+      "lat": "45.944",
+      "lng": "-122.089",
+      "size": "2,000 Acres",
+      "url": "/incident/8436/",
+      "id": "8436",
+      "contained": "0"
+    },
+    {
+      "name": "Loch Katrine Fire",
+      "type": "Wildfire",
+      "summary": " A type 2 incident management team has taken over command of the...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-19 13:08:32",
+      "lat": "47.644",
+      "lng": "-121.661",
+      "size": "1,225 Acres",
+      "url": "/incident/8447/",
+      "id": "8447",
+      "contained": "0"
+    },
+    {
+      "name": "Murphy Lake",
+      "type": "Wildfire",
+      "summary": "Estimated Acres: 371 Cause:  LightningTotal Personnel:  1...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-19 12:54:25",
+      "lat": "47.682",
+      "lng": "-121.133",
+      "size": "415 Acres",
+      "url": "/incident/8445/",
+      "id": "8445",
+      "contained": "0"
+    },
+    {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-19 12:53:30",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "125,856 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "50"
+    },
+    {
       "name": "Mosquito Fire",
       "type": "Wildfire",
       "summary": "California Interagency Incident Management Team 10 assumed command of...",
@@ -38,32 +103,6 @@
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "2"
-    },
-    {
-      "name": "Murphy Lake",
-      "type": "Wildfire",
-      "summary": "Estimated Acres: 371 Cause:  LightningTotal Personnel:  1...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-19 11:58:49",
-      "lat": "47.682",
-      "lng": "-121.133",
-      "size": "415 Acres",
-      "url": "/incident/8445/",
-      "id": "8445",
-      "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-19 11:55:24",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "125,856 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "50"
     },
     {
       "name": "Four Corners Fire",
@@ -170,19 +209,6 @@
       "contained": "43"
     },
     {
-      "name": "Loch Katrine Fire",
-      "type": "Wildfire",
-      "summary": " A type 2 incident management team has taken over command of the...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-19 00:12:04",
-      "lat": "47.644",
-      "lng": "-121.661",
-      "size": "1,225 Acres",
-      "url": "/incident/8447/",
-      "id": "8447",
-      "contained": "0"
-    },
-    {
       "name": "8 Road Fire",
       "type": "Wildfire",
       "summary": "The 8 Road Fire was reported on October 15, 2022 at about 4 p.m. and...",
@@ -248,19 +274,6 @@
       "contained": "100"
     },
     {
-      "name": "Siouxon Fire",
-      "type": "Wildfire",
-      "summary": "A fire was reported on the Gifford Pinchot National Forest in the...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-18 13:11:26",
-      "lat": "45.944",
-      "lng": "-122.089",
-      "size": "2,001 Acres",
-      "url": "/incident/8436/",
-      "id": "8436",
-      "contained": "0"
-    },
-    {
       "name": "Kalama Fire",
       "type": "Wildfire",
       "summary": "Overview: The Kalama Fire is located southeast of Kalama Horse Camp...",
@@ -272,19 +285,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "37"
-    },
-    {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": "                                             ...",
-      "state": "MONTANA",
-      "updated": "2022-10-18 12:08:57",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "18,021 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
-      "contained": "78"
     },
     {
       "name": "Suiattle River Fire",
