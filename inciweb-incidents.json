@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 10 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-19 09:32:54",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "EVACUATION LEVEL 2 – BE SET! All areas north of Butter Creek are at...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-19 09:21:32",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "6,013 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "2"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
@@ -118,19 +144,6 @@
       "contained": "12"
     },
     {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "EVACUATION LEVEL 2 – BE SET! All areas north of Butter Creek are at...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-18 19:49:10",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "5,892 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "2"
-    },
-    {
       "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
@@ -233,19 +246,6 @@
       "url": "/incident/8378/",
       "id": "8378",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 12 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-18 08:56:29",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
     },
     {
       "name": "Suiattle River Fire",
@@ -833,19 +833,6 @@
       "contained": "64"
     },
     {
-      "name": "Yosemite September Lightning",
-      "type": "Wildfire",
-      "summary": "Yosemite September Lightning Since September 5, Yosemite Fire and...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-28 15:13:15",
-      "lat": "37.57",
-      "lng": "-119.679",
-      "size": "0 Acres",
-      "url": "/incident/8419/",
-      "id": "8419",
-      "contained": "0"
-    },
-    {
       "name": "Red Fire",
       "type": "Wildfire",
       "summary": "All safety closures associated with the Red fire have been lifted.The...",
@@ -960,19 +947,6 @@
       "size": "7,225 Acres",
       "url": "/incident/8413/",
       "id": "8413",
-      "contained": "100"
-    },
-    {
-      "name": "Aspen Fire",
-      "type": "Wildfire",
-      "summary": "As of September 10, 2022 the Aspen Fire is 100% contained. Some...",
-      "state": "CALIFORNIA",
-      "updated": "2022-09-20 15:29:31",
-      "lat": "37.833",
-      "lng": "-119.767",
-      "size": "26 Acres",
-      "url": "/incident/8385/",
-      "id": "8385",
       "contained": "100"
     },
     {
