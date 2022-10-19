@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-18 20:58:09",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "125,856 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "50"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "EVACUATION LEVEL 2 – BE SET! All areas north of Butter Creek are at...",
       "state": "WASHINGTON",
-      "updated": "2022-10-18 18:16:06",
+      "updated": "2022-10-18 19:49:10",
       "lat": "46.636",
       "lng": "-121.517",
       "size": "5,892 Acres",
@@ -64,19 +77,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "80"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-18 13:58:20",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "125,638 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "50"
     },
     {
       "name": "Loch Katrine Fire",
