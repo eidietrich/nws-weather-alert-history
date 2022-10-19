@@ -1,6 +1,84 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-19 11:43:57",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "125,856 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "50"
+    },
+    {
+      "name": "Murphy Lake",
+      "type": "Wildfire",
+      "summary": "Estimated Acres: 371 Cause:  LightningTotal Personnel:  1...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-19 11:42:53",
+      "lat": "47.682",
+      "lng": "-121.133",
+      "size": "415 Acres",
+      "url": "/incident/8445/",
+      "id": "8445",
+      "contained": "0"
+    },
+    {
+      "name": "Four Corners Fire",
+      "type": "Wildfire",
+      "summary": "Daily written updates for the Four Corners Fire are no longer being...",
+      "state": "IDAHO",
+      "updated": "2022-10-19 11:33:02",
+      "lat": "44.537",
+      "lng": "-116.169",
+      "size": "13,729 Acres",
+      "url": "/incident/8331/",
+      "id": "8331",
+      "contained": "96"
+    },
+    {
+      "name": "Tenmile ",
+      "type": "Wildfire",
+      "summary": "The fire is being managed by a local Type 4 incident management...",
+      "state": "IDAHO",
+      "updated": "2022-10-19 11:31:30",
+      "lat": "45.319",
+      "lng": "-115.872",
+      "size": "2,157 Acres",
+      "url": "/incident/8401/",
+      "id": "8401",
+      "contained": "65"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 10 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-19 11:27:31",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
+      "name": "Kootenai River Complex ",
+      "type": "Wildfire",
+      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
+      "state": "IDAHO",
+      "updated": "2022-10-19 11:18:12",
+      "lat": "48.783",
+      "lng": "-116.467",
+      "size": "24,311 Acres",
+      "url": "/incident/8378/",
+      "id": "8378",
+      "contained": "0"
+    },
+    {
       "name": "Nakia Creek Fire",
       "type": "Wildfire",
       "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
@@ -38,45 +116,6 @@
       "url": "/incident/8415/",
       "id": "8415",
       "contained": "2"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 10 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-19 09:34:43",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-19 08:56:36",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "125,856 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "50"
-    },
-    {
-      "name": "Murphy Lake",
-      "type": "Wildfire",
-      "summary": "Estimated Acres: 371 Cause:  LightningTotal Personnel:  1...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-19 08:33:47",
-      "lat": "47.682",
-      "lng": "-121.133",
-      "size": "371 Acres",
-      "url": "/incident/8445/",
-      "id": "8445",
-      "contained": "0"
     },
     {
       "name": "Moose Fire",
@@ -248,19 +287,6 @@
       "contained": "78"
     },
     {
-      "name": "Kootenai River Complex ",
-      "type": "Wildfire",
-      "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
-      "state": "IDAHO",
-      "updated": "2022-10-18 10:40:11",
-      "lat": "48.783",
-      "lng": "-116.467",
-      "size": "24,311 Acres",
-      "url": "/incident/8378/",
-      "id": "8378",
-      "contained": "0"
-    },
-    {
       "name": "Suiattle River Fire",
       "type": "Wildfire",
       "summary": "Updates for the Suiattle Fire will be located on the Loch Katrine...",
@@ -404,19 +430,6 @@
       "contained": "0"
     },
     {
-      "name": "Four Corners Fire",
-      "type": "Wildfire",
-      "summary": "Daily written updates for the Four Corners Fire are no longer being...",
-      "state": "IDAHO",
-      "updated": "2022-10-12 17:05:00",
-      "lat": "44.537",
-      "lng": "-116.169",
-      "size": "13,729 Acres",
-      "url": "/incident/8331/",
-      "id": "8331",
-      "contained": "96"
-    },
-    {
       "name": "Porphyry Fire",
       "type": "Wildfire",
       "summary": "The Porphyry Fire is at 2,930 acres. Containment of the fire is at...",
@@ -454,19 +467,6 @@
       "url": "/incident/8284/",
       "id": "8284",
       "contained": "0"
-    },
-    {
-      "name": "Tenmile ",
-      "type": "Wildfire",
-      "summary": "The fire has transitioned to a Type 4 local incident management...",
-      "state": "IDAHO",
-      "updated": "2022-10-12 17:02:37",
-      "lat": "45.319",
-      "lng": "-115.872",
-      "size": "2,157 Acres",
-      "url": "/incident/8401/",
-      "id": "8401",
-      "contained": "65"
     },
     {
       "name": "Payette Prescribed Fire - Fall 2022",
