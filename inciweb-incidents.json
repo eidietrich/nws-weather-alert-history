@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-20 12:12:28",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "126,222 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "50"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "HIGHLIGHTS:  Hwy 2 is open but may be subject to intermittent...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-20 11:53:46",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "14,766 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "43"
+    },
+    {
+      "name": "Nakia Creek Fire",
+      "type": "Wildfire",
+      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-20 11:47:02",
+      "lat": "45.696",
+      "lng": "-122.281",
+      "size": "1,918 Acres",
+      "url": "/incident/8443/",
+      "id": "8443",
+      "contained": "23"
+    },
+    {
       "name": "Murphy Lake",
       "type": "Wildfire",
       "summary": "Estimated Acres: 444 Based on Overnight IR flightCause: ...",
@@ -12,19 +51,6 @@
       "url": "/incident/8445/",
       "id": "8445",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-20 11:18:40",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "126,222 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "50"
     },
     {
       "name": "Kootenai River Complex ",
@@ -64,19 +90,6 @@
       "url": "/incident/8365/",
       "id": "8365",
       "contained": "78"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "HIGHLIGHTS:  Hwy 2 is open but may be subject to intermittent...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-20 09:40:04",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "14,766 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "43"
     },
     {
       "name": "Goat Rocks Fire",
@@ -129,19 +142,6 @@
       "url": "/incident/8253/",
       "id": "8253",
       "contained": "50"
-    },
-    {
-      "name": "Nakia Creek Fire",
-      "type": "Wildfire",
-      "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-19 23:55:46",
-      "lat": "45.696",
-      "lng": "-122.281",
-      "size": "1,869 Acres",
-      "url": "/incident/8443/",
-      "id": "8443",
-      "contained": "23"
     },
     {
       "name": "8 Road Fire",
