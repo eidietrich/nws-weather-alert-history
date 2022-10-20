@@ -1,17 +1,69 @@
 {
   "markers": [
     {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "HIGHLIGHTS:  Hwy 2 is open but may be subject to intermittent...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-19 22:46:24",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "14,713 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "43"
+    },
+    {
+      "name": "Murphy Lake",
+      "type": "Wildfire",
+      "summary": "Estimated Acres: 415 Cause:  LightningTotal Personnel:  1...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-19 22:34:28",
+      "lat": "47.682",
+      "lng": "-121.133",
+      "size": "415 Acres",
+      "url": "/incident/8445/",
+      "id": "8445",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 10 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-19 22:21:20",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-10-19 21:04:15",
+      "updated": "2022-10-19 22:15:51",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "126,222 Acres",
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "50"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "Yesterday: The Goat Rocks Fire area was enveloped in a smoke...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-19 22:13:37",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "6,013 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "2"
     },
     {
       "name": "Kootenai River Complex ",
@@ -27,19 +79,6 @@
       "contained": "0"
     },
     {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "Yesterday: The Goat Rocks Fire area was enveloped in a smoke...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-19 20:19:14",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "6,013 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "2"
-    },
-    {
       "name": "White River (&amp; Irving Peak)",
       "type": "Wildfire",
       "summary": "The White River and Irving Peak Fires began after a lightning storm...",
@@ -51,32 +90,6 @@
       "url": "/incident/8329/",
       "id": "8329",
       "contained": "10"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "HIGHLIGHTS:  Hwy 2 is open but may be subject to intermittent...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-19 18:05:19",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "14,713 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "43"
-    },
-    {
-      "name": "Murphy Lake",
-      "type": "Wildfire",
-      "summary": "Estimated Acres: 371 Cause:  LightningTotal Personnel:  1...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-19 17:20:54",
-      "lat": "47.682",
-      "lng": "-121.133",
-      "size": "415 Acres",
-      "url": "/incident/8445/",
-      "id": "8445",
-      "contained": "0"
     },
     {
       "name": "Ursus Fire",
@@ -181,19 +194,6 @@
       "url": "/incident/8447/",
       "id": "8447",
       "contained": "0"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 10 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-19 12:44:12",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
     },
     {
       "name": "Moose Fire",
