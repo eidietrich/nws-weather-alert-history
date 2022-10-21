@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-20 20:53:18",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "126,690 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "55"
+    },
+    {
+      "name": "Loch Katrine Fire",
+      "type": "Wildfire",
+      "summary": " A type 2 incident management team has taken over command of the...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-20 20:52:10",
+      "lat": "47.644",
+      "lng": "-121.661",
+      "size": "1,918 Acres",
+      "url": "/incident/8447/",
+      "id": "8447",
+      "contained": "2"
+    },
+    {
+      "name": "Goat Rocks Fire",
+      "type": "Wildfire",
+      "summary": "Yesterday: The Goat Rocks Fire area continued to be impacted by smoke...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-20 20:27:08",
+      "lat": "46.636",
+      "lng": "-121.517",
+      "size": "6,196 Acres",
+      "url": "/incident/8415/",
+      "id": "8415",
+      "contained": "8"
+    },
+    {
       "name": "Nakia Creek Fire",
       "type": "Wildfire",
       "summary": " The Nakia Creek Fire, located 9 miles northeast of Camas WA in...",
@@ -12,19 +51,6 @@
       "url": "/incident/8443/",
       "id": "8443",
       "contained": "23"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-20 18:07:55",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "126,690 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "50"
     },
     {
       "name": "Siouxon Fire",
@@ -64,32 +90,6 @@
       "url": "/incident/8448/",
       "id": "8448",
       "contained": "50"
-    },
-    {
-      "name": "Goat Rocks Fire",
-      "type": "Wildfire",
-      "summary": "Yesterday: The Goat Rocks Fire area continued to be impacted by smoke...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-20 13:47:50",
-      "lat": "46.636",
-      "lng": "-121.517",
-      "size": "6,196 Acres",
-      "url": "/incident/8415/",
-      "id": "8415",
-      "contained": "4"
-    },
-    {
-      "name": "Loch Katrine Fire",
-      "type": "Wildfire",
-      "summary": " A type 2 incident management team has taken over command of the...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-20 13:44:35",
-      "lat": "47.644",
-      "lng": "-121.661",
-      "size": "1,918 Acres",
-      "url": "/incident/8447/",
-      "id": "8447",
-      "contained": "2"
     },
     {
       "name": "Bolt Creek Fire",
