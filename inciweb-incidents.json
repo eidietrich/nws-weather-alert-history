@@ -1,6 +1,58 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-21 08:44:53",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "126,690 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "55"
+    },
+    {
+      "name": "Bolt Creek Fire",
+      "type": "Wildfire",
+      "summary": "HIGHLIGHTS:  Hwy 2 is open but may be subject to intermittent...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-21 08:35:36",
+      "lat": "47.728",
+      "lng": "-121.346",
+      "size": "14,820 Acres",
+      "url": "/incident/8417/",
+      "id": "8417",
+      "contained": "45"
+    },
+    {
+      "name": "Murphy Lake",
+      "type": "Wildfire",
+      "summary": "Estimated Acres: 444Cause:  LightningTotal Personnel:  1 Resources:...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-21 08:21:23",
+      "lat": "47.682",
+      "lng": "-121.133",
+      "size": "444 Acres",
+      "url": "/incident/8445/",
+      "id": "8445",
+      "contained": "0"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 10 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-21 08:19:18",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "95"
+    },
+    {
       "name": "Loch Katrine Fire",
       "type": "Wildfire",
       "summary": "The Loch Katrine Fire is estimated at 1,918 acres, burning...",
@@ -14,19 +66,6 @@
       "contained": "2"
     },
     {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 10 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-20 21:44:27",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
-    },
-    {
       "name": "Kootenai River Complex ",
       "type": "Wildfire",
       "summary": "As of 5 pm PDT, on September 2, 2022, the Eneas Peak, Katka, Russell...",
@@ -38,19 +77,6 @@
       "url": "/incident/8378/",
       "id": "8378",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-20 21:06:52",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "126,690 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "55"
     },
     {
       "name": "Goat Rocks Fire",
@@ -116,32 +142,6 @@
       "url": "/incident/8448/",
       "id": "8448",
       "contained": "50"
-    },
-    {
-      "name": "Bolt Creek Fire",
-      "type": "Wildfire",
-      "summary": "HIGHLIGHTS:  Hwy 2 is open but may be subject to intermittent...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-20 11:53:46",
-      "lat": "47.728",
-      "lng": "-121.346",
-      "size": "14,766 Acres",
-      "url": "/incident/8417/",
-      "id": "8417",
-      "contained": "43"
-    },
-    {
-      "name": "Murphy Lake",
-      "type": "Wildfire",
-      "summary": "Estimated Acres: 444 Based on Overnight IR flightCause: ...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-20 11:35:09",
-      "lat": "47.682",
-      "lng": "-121.133",
-      "size": "444 Acres",
-      "url": "/incident/8445/",
-      "id": "8445",
-      "contained": "0"
     },
     {
       "name": "Moose Fire",
