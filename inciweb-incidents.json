@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-21 11:37:26",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "126,690 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "55"
+    },
+    {
       "name": "Loch Katrine Fire",
       "type": "Wildfire",
       "summary": "The Loch Katrine Fire is estimated at 1,918 acres, burning...",
@@ -12,19 +25,6 @@
       "url": "/incident/8447/",
       "id": "8447",
       "contained": "2"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-21 10:53:22",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "126,690 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "55"
     },
     {
       "name": "Murphy Lake",
