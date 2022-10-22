@@ -1,11 +1,24 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-22 13:46:17",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "127,283 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "55"
+    },
+    {
       "name": "Loch Katrine Fire",
       "type": "Wildfire",
       "summary": "Fire activity on the Loch Katrine, Suiattle River, and Boulder Lake...",
       "state": "WASHINGTON",
-      "updated": "2022-10-22 13:26:49",
+      "updated": "2022-10-22 13:31:48",
       "lat": "47.644",
       "lng": "-121.661",
       "size": "1,918 Acres",
@@ -25,19 +38,6 @@
       "url": "/incident/8436/",
       "id": "8436",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-22 12:37:28",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "127,283 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "55"
     },
     {
       "name": "Goat Rocks Fire",
