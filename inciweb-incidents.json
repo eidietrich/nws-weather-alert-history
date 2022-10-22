@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-21 21:44:44",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "127,283 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "55"
+    },
+    {
+      "name": "Murphy Lake",
+      "type": "Wildfire",
+      "summary": "Estimated Acres: 444Cause:  LightningTotal Personnel:  1 Resources:...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-21 21:23:58",
+      "lat": "47.682",
+      "lng": "-121.133",
+      "size": "444 Acres",
+      "url": "/incident/8445/",
+      "id": "8445",
+      "contained": "0"
+    },
+    {
       "name": "Loch Katrine Fire",
       "type": "Wildfire",
       "summary": "The Loch Katrine Fire is estimated at 1,918 acres, burning...",
@@ -12,19 +38,6 @@
       "url": "/incident/8447/",
       "id": "8447",
       "contained": "2"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-21 20:59:45",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "127,283 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "55"
     },
     {
       "name": "Goat Rocks Fire",
@@ -51,19 +64,6 @@
       "url": "/incident/8417/",
       "id": "8417",
       "contained": "51"
-    },
-    {
-      "name": "Murphy Lake",
-      "type": "Wildfire",
-      "summary": "Estimated Acres: 444Cause:  LightningTotal Personnel:  1 Resources:...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-21 20:18:48",
-      "lat": "47.682",
-      "lng": "-121.133",
-      "size": "444 Acres",
-      "url": "/incident/8445/",
-      "id": "8445",
-      "contained": "0"
     },
     {
       "name": "Mosquito Fire",
