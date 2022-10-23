@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-22 21:10:53",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "127,283 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "55"
+    },
+    {
+      "name": "Loch Katrine Fire",
+      "type": "Wildfire",
+      "summary": "Fire activity on the Loch Katrine, Suiattle River, and Boulder Lake...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-22 20:49:33",
+      "lat": "47.644",
+      "lng": "-121.661",
+      "size": "1,918 Acres",
+      "url": "/incident/8447/",
+      "id": "8447",
+      "contained": "2"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "California Interagency Incident Management Team 10 assumed command of...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-22 19:53:12",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "100"
+    },
+    {
       "name": "Suiattle River Fire",
       "type": "Wildfire",
       "summary": "Updates for the Suiattle Fire will be located on the Loch Katrine...",
@@ -27,19 +66,6 @@
       "contained": "0"
     },
     {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-22 15:42:34",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "127,283 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "55"
-    },
-    {
       "name": "Kalama Fire",
       "type": "Wildfire",
       "summary": "Overview: The Kalama Fire is located southeast of Kalama Horse Camp...",
@@ -51,19 +77,6 @@
       "url": "/incident/8420/",
       "id": "8420",
       "contained": "43"
-    },
-    {
-      "name": "Loch Katrine Fire",
-      "type": "Wildfire",
-      "summary": "Fire activity on the Loch Katrine, Suiattle River, and Boulder Lake...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-22 13:31:48",
-      "lat": "47.644",
-      "lng": "-121.661",
-      "size": "1,918 Acres",
-      "url": "/incident/8447/",
-      "id": "8447",
-      "contained": "2"
     },
     {
       "name": "Goat Rocks Fire",
@@ -129,19 +142,6 @@
       "url": "/incident/8249/",
       "id": "8249",
       "contained": "80"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 10 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-22 08:41:26",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "95"
     },
     {
       "name": "Murphy Lake",
