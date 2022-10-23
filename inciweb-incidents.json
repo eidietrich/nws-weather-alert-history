@@ -1,6 +1,19 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-23 12:39:38",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "127,283 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "55"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "Sunday morning, Rocky Mountain Incident Management Team Three assumed...",
@@ -51,19 +64,6 @@
       "url": "/incident/8436/",
       "id": "8436",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-23 11:34:36",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "127,283 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "55"
     },
     {
       "name": "Mosquito Fire",
