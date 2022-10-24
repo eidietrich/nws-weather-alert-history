@@ -1,24 +1,11 @@
 {
   "markers": [
     {
-      "name": "Siouxon and Sunset Fires",
-      "type": "Wildfire",
-      "summary": "Siouxon and Sunset Fires Update - Sunday October 23, 2022 – 10:00...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-24 12:16:58",
-      "lat": "45.944",
-      "lng": "-122.089",
-      "size": "0 Acres",
-      "url": "/incident/8436/",
-      "id": "8436",
-      "contained": "0"
-    },
-    {
       "name": "Loch Katrine Fire",
       "type": "Wildfire",
       "summary": "Fire activity on the Loch Katrine, Suiattle River, and Boulder Lake...",
       "state": "WASHINGTON",
-      "updated": "2022-10-24 12:16:17",
+      "updated": "2022-10-24 12:50:01",
       "lat": "47.644",
       "lng": "-121.661",
       "size": "1,918 Acres",
@@ -27,17 +14,56 @@
       "contained": "2"
     },
     {
+      "name": "Siouxon and Sunset Fires",
+      "type": "Wildfire",
+      "summary": "Siouxon and Sunset Fires Update - Monday October 24, 2022 – 10:00...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-24 12:46:20",
+      "lat": "45.944",
+      "lng": "-122.089",
+      "size": "0 Acres",
+      "url": "/incident/8436/",
+      "id": "8436",
+      "contained": "0"
+    },
+    {
       "name": "Cedar Creek Fire",
       "type": "Wildfire",
       "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
       "state": "OREGON",
-      "updated": "2022-10-24 12:06:05",
+      "updated": "2022-10-24 12:33:57",
       "lat": "43.726",
       "lng": "-122.167",
       "size": "127,283 Acres",
       "url": "/incident/8307/",
       "id": "8307",
       "contained": "55"
+    },
+    {
+      "name": "Trail Ridge Fire",
+      "type": "Wildfire",
+      "summary": "   INCIDENT COMMANDER: Cache Gibbons October 24, 2022 Trail Ridge...",
+      "state": "MONTANA",
+      "updated": "2022-10-24 12:33:17",
+      "lat": "45.78",
+      "lng": "-113.867",
+      "size": "18,138 Acres",
+      "url": "/incident/8365/",
+      "id": "8365",
+      "contained": "80"
+    },
+    {
+      "name": "Blue Ridge Prescribed Burn",
+      "type": "Prescribed Fire",
+      "summary": "The Blue Ridge Salvage and Fuels Reduction Project is part of the...",
+      "state": "COLORADO",
+      "updated": "2022-10-24 12:32:45",
+      "lat": "40.034",
+      "lng": "-106.053",
+      "size": "0 Acres",
+      "url": "/incident/8439/",
+      "id": "8439",
+      "contained": "0"
     },
     {
       "name": "Nakia Creek Fire",
@@ -51,19 +77,6 @@
       "url": "/incident/8443/",
       "id": "8443",
       "contained": "63"
-    },
-    {
-      "name": "Trail Ridge Fire",
-      "type": "Wildfire",
-      "summary": "   INCIDENT COMMANDER: Cache Gibbons October 24, 2022 Trail Ridge...",
-      "state": "MONTANA",
-      "updated": "2022-10-24 12:05:33",
-      "lat": "45.78",
-      "lng": "-113.867",
-      "size": "18,138 Acres",
-      "url": "/incident/8365/",
-      "id": "8365",
-      "contained": "80"
     },
     {
       "name": "Goat Rocks Fire",
@@ -584,19 +597,6 @@
       "url": "/incident/8363/",
       "id": "8363",
       "contained": "94"
-    },
-    {
-      "name": "Blue Ridge Prescribed Burn",
-      "type": "Prescribed Fire",
-      "summary": "The Blue Ridge Salvage and Fuels Reduction Project is part of the...",
-      "state": "COLORADO",
-      "updated": "2022-10-11 08:51:19",
-      "lat": "40.034",
-      "lng": "-106.053",
-      "size": "0 Acres",
-      "url": "/incident/8439/",
-      "id": "8439",
-      "contained": "0"
     },
     {
       "name": "Mosquito Post-Fire BAER",
@@ -1559,19 +1559,6 @@
       "url": "/incident/8276/",
       "id": "8276",
       "contained": "72"
-    },
-    {
-      "name": "Big Sandy Fire ",
-      "type": "Wildfire",
-      "summary": "The fire received a half an inch of rain over the last 24 hours and...",
-      "state": "ARIZONA",
-      "updated": "2022-07-26 12:25:42",
-      "lat": "34.705",
-      "lng": "-113.612",
-      "size": "150 Acres",
-      "url": "/incident/8244/",
-      "id": "8244",
-      "contained": "80"
     }
   ]
 }
