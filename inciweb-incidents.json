@@ -1,6 +1,45 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-23 20:55:01",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "127,283 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "55"
+    },
+    {
+      "name": "Loch Katrine Fire",
+      "type": "Wildfire",
+      "summary": "Fire activity on the Loch Katrine, Suiattle River, and Boulder Lake...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-23 20:51:42",
+      "lat": "47.644",
+      "lng": "-121.661",
+      "size": "1,918 Acres",
+      "url": "/incident/8447/",
+      "id": "8447",
+      "contained": "2"
+    },
+    {
+      "name": "Mosquito Fire",
+      "type": "Wildfire",
+      "summary": "Update, October 23, 2022, 5:45 p.m.The Mosquito Fire is 100%...",
+      "state": "CALIFORNIA",
+      "updated": "2022-10-23 19:49:30",
+      "lat": "39.006",
+      "lng": "-120.745",
+      "size": "76,788 Acres",
+      "url": "/incident/8398/",
+      "id": "8398",
+      "contained": "100"
+    },
+    {
       "name": "Goat Rocks Fire",
       "type": "Wildfire",
       "summary": "Sunday morning, Rocky Mountain Incident Management Team Three assumed...",
@@ -27,32 +66,6 @@
       "contained": "0"
     },
     {
-      "name": "Loch Katrine Fire",
-      "type": "Wildfire",
-      "summary": "Fire activity on the Loch Katrine, Suiattle River, and Boulder Lake...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-23 13:03:01",
-      "lat": "47.644",
-      "lng": "-121.661",
-      "size": "1,918 Acres",
-      "url": "/incident/8447/",
-      "id": "8447",
-      "contained": "2"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-23 12:39:38",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "127,283 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "55"
-    },
-    {
       "name": "8 Road Fire",
       "type": "Wildfire",
       "summary": "The 8 Road Fire was reported on October 15, 2022 at about 4 p.m. and...",
@@ -77,19 +90,6 @@
       "url": "/incident/8443/",
       "id": "8443",
       "contained": "54"
-    },
-    {
-      "name": "Mosquito Fire",
-      "type": "Wildfire",
-      "summary": "California Interagency Incident Management Team 10 assumed command of...",
-      "state": "CALIFORNIA",
-      "updated": "2022-10-23 08:44:34",
-      "lat": "39.006",
-      "lng": "-120.745",
-      "size": "76,788 Acres",
-      "url": "/incident/8398/",
-      "id": "8398",
-      "contained": "100"
     },
     {
       "name": "Suiattle River Fire",
