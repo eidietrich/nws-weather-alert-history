@@ -1,6 +1,32 @@
 {
   "markers": [
     {
+      "name": "Cedar Creek Fire",
+      "type": "Wildfire",
+      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
+      "state": "OREGON",
+      "updated": "2022-10-24 20:58:01",
+      "lat": "43.726",
+      "lng": "-122.167",
+      "size": "127,283 Acres",
+      "url": "/incident/8307/",
+      "id": "8307",
+      "contained": "55"
+    },
+    {
+      "name": "Loch Katrine Fire",
+      "type": "Wildfire",
+      "summary": "Fire activity on the Loch Katrine, Suiattle River, and Boulder Lake...",
+      "state": "WASHINGTON",
+      "updated": "2022-10-24 20:15:44",
+      "lat": "47.644",
+      "lng": "-121.661",
+      "size": "1,918 Acres",
+      "url": "/incident/8447/",
+      "id": "8447",
+      "contained": "2"
+    },
+    {
       "name": "Mt. Baker-Snoqualmie Post-Fire BAER",
       "type": "Burned Area Emergency Response",
       "summary": "A Burned Area Emergency Response (BAER) team is working on the 2022...",
@@ -66,19 +92,6 @@
       "contained": "67"
     },
     {
-      "name": "Loch Katrine Fire",
-      "type": "Wildfire",
-      "summary": "Fire activity on the Loch Katrine, Suiattle River, and Boulder Lake...",
-      "state": "WASHINGTON",
-      "updated": "2022-10-24 12:56:42",
-      "lat": "47.644",
-      "lng": "-121.661",
-      "size": "1,918 Acres",
-      "url": "/incident/8447/",
-      "id": "8447",
-      "contained": "2"
-    },
-    {
       "name": "Siouxon and Sunset Fires",
       "type": "Wildfire",
       "summary": "Siouxon and Sunset Fires Update - Monday October 24, 2022 – 10:00...",
@@ -90,19 +103,6 @@
       "url": "/incident/8436/",
       "id": "8436",
       "contained": "0"
-    },
-    {
-      "name": "Cedar Creek Fire",
-      "type": "Wildfire",
-      "summary": "The Cedar Creek Fire began August 1, 2022 when a lightning storm...",
-      "state": "OREGON",
-      "updated": "2022-10-24 12:33:57",
-      "lat": "43.726",
-      "lng": "-122.167",
-      "size": "127,283 Acres",
-      "url": "/incident/8307/",
-      "id": "8307",
-      "contained": "55"
     },
     {
       "name": "Trail Ridge Fire",
