@@ -1,4 +1,4 @@
-name: Scrape Inciweb incident data
+name: Scrape NWS weather hazard data
 
 on:
   push:
@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Fetch latest data
         run: |-
-          curl https://inciweb.nwcg.gov/feeds/json/esri/ | jq '.'  > inciweb-incidents.json
+          curl https://www.wrh.noaa.gov/map/json/WR_All_Hazards.json | jq '.'  > nws-weather-alerts.json
       - name: Commit and push if changed
         run: |-
           git config user.name "Automated"
