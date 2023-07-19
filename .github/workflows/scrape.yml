@@ -15,6 +15,12 @@ jobs:
       - name: Fetch latest data
         run: |-
           curl https://www.wrh.noaa.gov/map/json/WR_All_Hazards.json | jq '.'  > nws-weather-alerts.json
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14.x"
+      - run: npm ci
+      - run: npm run process
       - name: Commit and push if changed
         run: |-
           git config user.name "Automated"
