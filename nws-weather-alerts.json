@@ -12939,6 +12939,81 @@
     {
       "type": "Feature",
       "properties": {
+        "WFO": "KABQ",
+        "PHENOM": "FA",
+        "SIG": "Y",
+        "EVENT": "0159",
+        "CAP_ID": "urn:oid:2.49.0.1.840.0.78094a4ba0e341bcd12bd721278004adf50aff83.001.1",
+        "MSG_TYPE": "FLS",
+        "PROD_TYPE": "Flood Advisory",
+        "VTEC": "/O.NEW.KABQ.FA.Y.0159.230828T1923Z-230828T2230Z/",
+        "ISSUANCE": 1693228980,
+        "EXPIRATION": 1693261800,
+        "ONSET": "2023-08-28",
+        "ENDS": "2023-08-28",
+        "URL": "https://alerts-v2.weather.gov/#/?id=urn:oid:2.49.0.1.840.0.78094a4ba0e341bcd12bd721278004adf50aff83.001.1",
+        "COLOR": "#00FF7F",
+        "PRIORITY": 73
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.18,
+              36.64
+            ],
+            [
+              -105.12,
+              36.65
+            ],
+            [
+              -104.96,
+              36.56
+            ],
+            [
+              -104.96,
+              36.51
+            ],
+            [
+              -105.04,
+              36.5
+            ],
+            [
+              -105.11,
+              36.5
+            ],
+            [
+              -105.17,
+              36.49
+            ],
+            [
+              -105.24,
+              36.5
+            ],
+            [
+              -105.24,
+              36.53
+            ],
+            [
+              -105.23,
+              36.58
+            ],
+            [
+              -105.2,
+              36.61
+            ],
+            [
+              -105.18,
+              36.64
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "WFO": "KABR",
         "PHENOM": "FL",
         "SIG": "W",
